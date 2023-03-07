@@ -1,4 +1,4 @@
 # KaBible
-Pathen Lekha Bu Theng,Pathen khat seh Jesu Christa lhagao lamma kisuh hal le athu te kihil thei nading KaBible hi kipodoh ahi.
+Pathen Lekha Bu Theng, Pathen khat seh Jesu Christa, lhagao lamma kisuh hal le athu te kijil bailam thei nading KaBible repo hi kipodoh ahi.
 
-Hiche project hi muntinna um pathen thu kigih le kitat doh ho a eima personal dia khan tou be thei na ding a kasem le man thei ahi.
+Hiche repo pathen thu kigih le kitat doh hoa hi, eima phatchom nale khantou be theina ding a man thei ahi.
