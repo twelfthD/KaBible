@@ -1,0 +1,78 @@
+{
+  "id": 63,
+  "name": "2 John",
+  "shortName": "",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Salam thu"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "title": "Christa thuhil’a pandet"
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "title": "Salam chaina"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Upa keiman numei kilhengnu le achate ho thutah a chu ka-ngailut ahi, keima chang jeng goh hilouva, thutah chu heho chengsen jong,"
+      },
+      {
+        "verse": 2,
+        "text": "eiho sunga um jinga chule tonsot geiya um jing dinga thutah jal’a chu,"
+      },
+      {
+        "verse": 3,
+        "text": "Pa Pathen le Pa Chapa Jesu Christa a konin lungsetna le hepina chule lungmon nan, thutah le ngailutna a chu eiumpi jing dingu ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Nachate ho lah a koi koi hiuvam kimkhat Pa a kona eihon imuu thupeh bangtah a thutah a achonu kamun kakipah ta ngei jenge."
+      },
+      {
+        "verse": 5,
+        "text": "Chule tua hi numeipha nahenga kahung tao ahi, keiman nahenga thupeh thah kahinsut ahipoi, atil abul’a ineisau thupeh dungjuiya chu, khat le khat ki-ngailut to chehna dingu ahibouve."
+      },
+      {
+        "verse": 6,
+        "text": "Chule eiho athupeh dungjui tah a ichonu le hichu kingailut ahi; nanghon atil abul’a najahsau bang chun chonleu chun hichu hiche thupeh chu ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Ajeh chu vannoiya hin duha milhem lha a tamtah ahung sohdoh tai; amaho chun Jesu Christa chu tahsa a hunga ahi ti ajanom pouve. Hi hi milhem lha a le Christa dou ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Iboldohsa chengseu chu mansah louhel’a naumu’va tohphat man nasan bukimna dingun kivephauvin."
+      },
+      {
+        "verse": 9,
+        "text": "Koi hile Christa thuhil’a um louva akalvala chona chu Pathen neilou ahi; thuhil’a uma vang chun Pa le Chapa chu ania aneikop ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Koi hile chuche thuhil chu polouva nahenguva hung chu na-in’uvah lhunsah dauvin, kamphan jong lem hih hel’un;"
+      },
+      {
+        "verse": 11,
+        "text": "ajeh chu koi hile ama kampha lema chu achon gitlou ho jouse chankhompi ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Nahenguva hinsut ding thu tamtah kaneiye, ahivangin lekhapheng le lekha twiya sut kanompoi; nakipanau achamkim theina dingin nahenguva hung ing ting kimaiton kihoulim nau hite, ti kakineme."
+      },
+      {
+        "verse": 13,
+        "text": "Na lhen tumtah nasopinu chaten salam napeuve."
+      }
+    ]
+  ]
+}

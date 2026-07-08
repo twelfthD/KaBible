@@ -1,0 +1,890 @@
+{
+  "id": 28,
+  "name": "Hosea",
+  "shortName": "",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Hosea jinu kitahna bei le achate"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Kitahnabei amite Pakaiyin angailutna"
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "title": "Hosea le Numei kijoh Notinu"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Pakaiyin Israel akinelpina"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "title": "Israel’in Pathen ahet loujeh a Talen amu ding"
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "title": "Israel lungkhel thenlouje"
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "title": "Israel themmo le doumah abolna"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "title": "Israel milim hou Pathenin apho"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "title": "Nga louhel’a Israel kitahlou Talen kipe"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "title": "Amite vah chavaiho Pathenin alungset"
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "title": "Mi abolgenthei jeh le jou asei jeh-a Ephraim kipho."
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "title": "Ephraim manthah hel ding kisei masah."
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "title": "Pakai henga hung kile kit dia Israel aki-ngeh"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Judah gamsunga Uzzi’ah le Jotham, Ahaz chule Hezeki’ah lengvaipoh lai, Israel gama Jo’ash chapa Jerobo’am kitipa lengvaipoh laiya Bee’ri chapa Hosea henga Pakaiyin thu asei chu hiche ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Amasa Pakaiyin Hosea kama asei masah chun Pakaiyin Hosea jah a hitin aseiye, “Chen lang numei noti khat jin kipuiyin, hiche nu chutoh cha le nao hing lhonin, ajeh chu agamsung mite hin Pakai adalhauvin noti asoh gamtauve,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun Hosea jong achen Dibla’im chanu Gomer kiti nu chu akipuiyin, Gomer hin nao avop paiyin chapa khat ahingtai. "
+      },
+      {
+        "verse": 4,
+        "text": "Chujouvin Pakaiyin Hosea jah a, “Amin Jezreel hisah-in; ijeh-inem itileh keiman phat chom khat jou tengleh Jezreel thisan kiso jeh a Jehu insung mite talen kamatsah ding, Israel insung lenggam hi kasuh bei ding ahitai."
+      },
+      {
+        "verse": 5,
+        "text": "Hitia kabol nikho chuleh Jezreel phaiya Israel thalpi kaheboh peh ding ahi,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Gomer hin nao avop kit’in chanu khat jong ahing kittai. Hichea jong hin Pakaiyin Hosea jah a aseiyin, “Nachanu hi amin ‘Dipdamnabei’ hisah-in; ajeh chu keiman Israel insung mite chunga dipdamna kanei louhel ding, abonchauva ka-ngaidam louhel ding ahitauve."
+      },
+      {
+        "verse": 7,
+        "text": "Judah insung mite chunga vang dipdamna kaneiya, Pakai a-Pathenu thahat vanga amaho kahuhdoh ding ahiuve; thalpi le chemjam, sakolte vang leh sakol touthemte vanga huhdoh ding kati ahipoi,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Dipdamnabeiyin noichep a ban phat’in Gomer hin nao avop kit’in chule chapa khatma ahing kittai."
+      },
+      {
+        "verse": 9,
+        "text": "Pakaiyin “Nachapa min hi ‘Kamite hilou’ hisah tan, ajeh chu nang ho hi kamite nahi tapouvin, keijong nang ho Pathen kahi tapoi,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Ahivanga Israel chate chu Twikhanglena neldi jat hitei tei ding, tejou jai leh simjoujai hilou ding ahin, ajah-uva “Kamite nahitapouve,” akitina laitah a chu “Hing jing Pathen chapate,” kiti ding ahiuve."
+      },
+      {
+        "verse": 11,
+        "text": "Chujongleh Judah chate leh Israel chate kikhom kimsoh keiyuva, alamkai diu jong mihem khatseh akilhen diu, gamsunga kona kitoutol ding ahiuve, ajeh chu Jezreel nikho hi loupi tah hi ding ahiye."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Nasopiteu pasal ho jah a chun, “Kamite” tiuvin lang, nasopiu numeiho jah a chun, “Achunga dipdamna akimutai,” tin seiyuvin."
+      },
+      {
+        "verse": 2,
+        "text": "“Nanu’u chu don dauvin, Don dauvin hitobang numei hi kaji ahipoi. Keijong ama din ajipa kahipoi. Ajon maiput hi kheldoh hen lang. Anoi te ni kah a Ajonna thangnam jong sutheng hen;"
+      },
+      {
+        "verse": 3,
+        "text": "Achutilouva ahileh keiman avon jouse kahodoh peh a Apenlhah nikhoa akeoseh a aum banga kaumsah ding, Gammang polou banga kalupsah a, Gamkang mei kahgotsa banga dangchah a kathisah ding ahiye."
+      },
+      {
+        "verse": 4,
+        "text": "Achate chunga jong dipdamna kanei lou ding ahi. Ajeh chu amaho hi noti cha ahibovui."
+      },
+      {
+        "verse": 5,
+        "text": "Ajeh chu anu’u chu notia anapang ahin, Amaho a-oisunga vopnu chu jum le ja helouva chon ahi. Ahingnu’uvin aseiyin, ‘Eideichate nung jui yinge. Anneh eipea twi don ding eipeho, Samulpon le tingpheh, thaotwi le Kadon ding eipea eito jing ho chu,’ ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hijeh a chu hiche nu lampia hi Keiman lingtho kaget dimset ding, Hiche nu hitoh kidouna dia pal kakaiya, Hitia chu alampi jouse akiholmo ding ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hiche nu hin akideipi ho juile len tin, Ahivanga anungu aphah jou lou ding; Amaho chu ahol le le jenga, Mu la amudoh jou lou hel ding ahi. Chutengle amanun jong asei ding, Keima cheng ting kaji masapa henga kile kit tange. Ajeh chu tulai kaum chan sang hin Chulaiya kaum chan chu anomjoi,’ ati ding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hiche numei hin aneh ding an, lengpitwi, thaotwi chu kei peh ahi ahepon, Ba’al doiya akisemu dangka le sana geiya Aboncha kei peh ahilam ahepoi."
+      },
+      {
+        "verse": 9,
+        "text": "Hijeh a chu kachang jong a-atphat leh kakinung lah a, Kalengpitwi jong alhoh phat leh kakilah kit ding, Kasamulpon le katingpheh jong alupna dingle Asagoh keova alhat ding deimona akisil dia kapeh vangin kalahpeh kit ding ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Tua hi akideipi ho mitmu changtah a Ajamo kahodoh peh ding ahin, Kakhut’a kona koimachan amanu hi Ahung chulhah jou louhel ding ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Hiche nu kinopsahna kasuh beisoh a, Agolnop kut ho hihen lang lhalhah kut hijongleh Cholngah nikho anitji ho hileh, Aphat tepsa um kut abol ding jouse geiya kasuh bei ding ahiye."
+      },
+      {
+        "verse": 12,
+        "text": "Alengpigui jouse kavoh heuva, Atheichang phung kavoh heusoh kei ding, Kakideipi hon kagim man’a eipeh-u ahi’ Tia aseiho jouse hi kasuh mang ding; Aboncha chu gammang lah tobang kahisah ding, Gamlah a gamsa jousen aneh chaihel peh ding ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chule hiche nu hi Ba’at doiho ahouva, Nopsahna abol nikho ho jeh leh Hiche Ba’al ho houna gimnamtui ahalnam jeh, Asana jempah sumkol chengsea akivon teng, Adongma ho akideipi ho nung ajui tengleh Keima eisuhmil jeh a talen kamatsah ding ahi, tin Pakaiyin aseiye."
+      },
+      {
+        "verse": 14,
+        "text": "“Hijeh chun vetan, ken hiche nu hi jol lhang ting Gammang noiya kapui mang ding, Ahenga thu kaseiya O-nem heova kakihoupi ding ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Hikoma chu alengpilei kanungpeh a, Achor phaicham jong kinepna kotpi phung kasosah ding, Hikoma chu amanun jong anu-ngah lai banga adonbut’a, Egypt gama ahung potdoh til banga adonbut ding ahi."
+      },
+      {
+        "verse": 16,
+        "text": "“Pakaiyin aseiyin, hiche nikho chuleh nangman, “Kajipa’ neiti ding, ‘Ka ba’al doi’ neiti kit louhel ding ahitai."
+      },
+      {
+        "verse": 17,
+        "text": "Ajeh chu akamsunga kona keiman Ba’al doi kitipou pou minjouse kapotdoh sah lou ding, kasuh bei ding, hijeh a chu Ba’al kitiho jouse amin’u kipha poh kit louhel diu ahitai."
+      },
+      {
+        "verse": 18,
+        "text": "Hiche nikho chuleh ken amaho dinga gamlah a gamsa te leh chunga leng vachate toh, tol’a kithol ganhing ho to kitepna khat kasempeh a, thalpi kasuh beiya, chemjam kalensah lou ding, gamsunga gal kasuh bei ding ahi; chutengleh keiman lungmonga kalupsah diu nahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chutah leh nang hi keiman kaji dia kahol ding, tonsot geiya dia kahol’a, nang hi adih leh thutan dih tah a jia kahol ding, lungset long louhel’a kahol’a hepina lhingset’a kahol ding nahi."
+      },
+      {
+        "verse": 20,
+        "text": "Hitia hi ken kitahna neitah a jia kahol ding nahin, nangin jong Pakai chu nahetdoh ding ahiye."
+      },
+      {
+        "verse": 21,
+        "text": "“Pakaiyin aseiyin, hiche nikho hileh Keiman vanmun jouse kahouva thu kasei ding, Vanmun jousen jong Leiset jah a thu asei diu ahi;"
+      },
+      {
+        "verse": 22,
+        "text": "Leiset’in jong adonbut’a Chang le lengpitwi, thaotwi jah a thu asei ding, Chang le lengpitwi chule thaovin Jezreel jah a thu asei diu ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Ama chu ken keima dia gamsunga muchi tua katua, Dipdamnabei chunga dipdamna kanei ding, Kamite hilou chunga jong chu ‘Kamite nahiuve,’ kati ding ahi; Chutengleh aman jong, ‘Nang bou ka-Pathen nahi,’ eiti ding ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Pakaiyin kajah a asei kit leuvin. “Chen lang noti toh kidei numei kijoh notinu khat gahel’in kideipin. Pakaiyin jong pathen lim chom chom sema kilhaina lengpithei changlhah a kisem jeng thei Israel chate jeng jong Pakaiyin angailut tei tei bang khun,” eiti."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun kenjong hitobang numei chu dangka shekel som le nga toh, sakol chang homer dim khat le lethech dim khat’in kachoi."
+      },
+      {
+        "verse": 3,
+        "text": "Hichun keiman ajah a kaseipeh-in, “Nang keiya nahia nikho sot tah kei koma nachen tei tei ding, notia napan kit louhel ding, pasal dang jong nadeichat lou ding ahi; keijong hitobanga chu nahenga kaum ding ahi,” katipeh-e."
+      },
+      {
+        "verse": 4,
+        "text": "Ajehchu Israel chaten jong phat sotpi sunga leng jong anei lou diu, milen milal jong anei lou diu, kilhaina gantha jong abol dauva, doikhom jong aphuda diu, thempu manchah ephod le teraphim jong anei lou diu ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Khonung teng vangleh Israel chate chu hung kile kit’uvin tin, Pakai a-Pathenu ahinhol’uva, alengpau David alha ngai diu ahi; chujongle hunguva Pakai chu gin le ja tah a aneiyuva, ni nu nung lamleh Pakai phatna agin diu ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Vo Israel chate, Pakai thusei ngaiyun. Ajeh chu Pakaiyin gamsunga chengte toh kinelna khat aneiye. Gamsunga hin kitahna jong aumpon, Khotona jong aumpon, Pathen hetphahna jong aumpoi."
+      },
+      {
+        "verse": 2,
+        "text": "Kihahselna jeng alengin, jou akiseiyin. Mi akithat that jengin, guhchat akibol bol’in. Mi le mi akijonbol bol jenguvin. Kigahna chengse asukeh soh keiyun, tol akithat to to jenguve."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun gamsung hi mihem lunghem bangin alunghem tan, Gamsunga cheng miho jong alung gimsoh tauve; Gamlah a gamsa jouse geiyin alunghem’uvin, Chunga leng vachate geiyin alunghem’e; Twikhanglena cheng nga jouse jong Min akimatdoh soh keitai."
+      },
+      {
+        "verse": 4,
+        "text": "Hijongleh koima kinah da hen lang Akihehtoa jong umda hel jeng hen; Ajeh chu vo thempupa, Keima nang toh kinel’a kina jing kahi."
+      },
+      {
+        "verse": 5,
+        "text": "Sun laiya jong nakipal lhuh ding, Jan tengleh themgaopa jong nakipal lhuh tha ding ahi; Chujongleh keiman Nanu chu kasuh mang ding ahiye."
+      },
+      {
+        "verse": 6,
+        "text": "Kamite chu hetna alhahsam jeh-uvin suhmangin aumdoh-uvin. Nangman hetna nahsah louva naum phat’in, Nathemput’a konin nangma kapaitai; Hitobanga nangin Na-Pathen danthu nasuhmil jeh-a hi Kenjong danthu nasuhmil a kadonda ding ahitai. "
+      },
+      {
+        "verse": 7,
+        "text": "Amaho hi amijat apunbe cheh a ahileh Kei dounan achonset becheh kit’uvin. Hijeh a chu keiman aloupi nau hi Jum le jamona kaheidoh peh ding ahiuve."
+      },
+      {
+        "verse": 8,
+        "text": "Amaho hi kamite chonset ga kivah ahiuvin, Athemmona din amaho alop tauve. "
+      },
+      {
+        "verse": 9,
+        "text": "Mipi chunga tobanga thempu chunga jong hi ding, Achon nau dungjuiya talen kapeh cheh ding ahi; Anatoh athilbol dungjuiyuva Kalethuh soh kei ding ahiye."
+      },
+      {
+        "verse": 10,
+        "text": "An aneh neh vanguva oivana anei lou diu, Notia pang cheh diu ahivanga pung chomdeh lou diu ahi; Ijeh-inem itileh notia panna din Pakai adalhauvin don louvin akoilo tauve."
+      },
+      {
+        "verse": 11,
+        "text": "Ju jeng ju thah jeng adon’uvin, Ahetnau abeisoh hel ahitai."
+      },
+      {
+        "verse": 12,
+        "text": "Kamiten thingpou jong phunin asan’uvin, Atenggol’uvin jong thu aphonpeh dan’uvin agel’ui. Ajeh chu noti chona chonna lungthimin apui manguvin, Notia pang din a-Pathenu adalha tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Amahon molsang vum dung tin’a kilhaina gan athat’uvin, Thinglhang dung jousea jong thilto abol’uve; Alim anop thei jeh-in gangpi thing phung le Bego thing phung noi chule lhaithing Phung noi dung tin’a Kithoina thilto jeng atoh uvin ahi. Hijeh a chu nachanu’u numei jousen noti chon athouva, Mouthah napui jouseuvin mitoh jon abol jeng ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Nachanu’u numeiho chu notia apan tengu jongleh Keiman talen kapeh louhel ding, Mouthah napuisau jong chun mitoh jon abol teng Keiman talen kamatsah lou ding ahi; Ajeh chu pasal ho jeng jong Notiho chutoh kijot mang manguva, Doiphunga kijoh a pang ho chutoh jongji ahiuve. Hitobang tah a hetna bei mite hi mangthah tei tei diu ahitai."
+      },
+      {
+        "verse": 15,
+        "text": "Vo Israel, notin pang jeng jong le chun, Judah vang themmo chansah loujenin. Gilgal khopia jong hung lut dan, Beth-a’ven khoa jong lut datan; Chujongleh, “Pakai hing jing minin” tin jong Kihahselna bolda jengin."
+      },
+      {
+        "verse": 16,
+        "text": "Bongla gol louchal bangin Israel vang alouchal behseh jengin, Pakaiyin hamhing gam lentah a kelngoi kivah banga Israelte hi avah vah ding hinam?"
+      },
+      {
+        "verse": 17,
+        "text": "Ephraim hi doi semthu kihouho toh akijopmat tan, Achangin lha jeng hen acham cham hihen."
+      },
+      {
+        "verse": 18,
+        "text": "Ju khamloi hon khat chu notiho toh alum tauve. Aloupi diu sangin ajachat diu adeijouve."
+      },
+      {
+        "verse": 19,
+        "text": "Khopi huiyin alhaving te nin achun chah kheh-in; Maicham hijat asemthu jouseu jeh a kijumso diu ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche hi ngaiyuvin thempu ho, Israel insung min ngai cheh-uvin! Leng insung miten jong ngai chehuvin! Ajeh chu nachunguva thutanna kingamsoh ahitai. Ijeh-inem itileh nang hon Mizpah kho nakipalsah-uvin, Tabor kho din jong kipalna ding thang nakam’ui."
+      },
+      {
+        "verse": 2,
+        "text": "Jou le nal abol nauva amaho akipal jiuvin, Kenjong amaho hi talen kamatsah soh kei diu ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ephraim jong kahetsa ahin, Keidin Israel jong akiseldeh poi; Vo Ephraim, tun vang nangma notin napangin, Israel hi athang hoiya kisuboh soh ahitai."
+      },
+      {
+        "verse": 4,
+        "text": "Achon nau athilbol’u hin A-Pathenu henga ahung kilesah thei tapouvin ahi. Ajeh chu alah-uva notia panna ding jeng Lungthim aleng leng jengin, Pakai chu itobang ham Amahon hetphah-in anei tapouve."
+      },
+      {
+        "verse": 5,
+        "text": "Israel chu akiletsah nan amaiya aheh heh jengin, Ephraim la athemmona kipal lhu ding ahitai; Judah jong hi Israel le Ephraim toh Kipal lhu’uva kisep lhu diu ahi. "
+      },
+      {
+        "verse": 6,
+        "text": "Akelngoi jouseu leh bong jouse hinkaiyu hen Pakai hol din hungu jongleh, Pakai chu amudoh joudeh lou diu ahi, Ajeh chu Pakaiyin amaho adalhah ahitai."
+      },
+      {
+        "verse": 7,
+        "text": "Amahon Pakai chu kitahna beiyin anabol’uvin, Hitobang tah hin jatdang toh cha ahinguve. Tua hi misumanga pang chun Amaho jong aloumun jouseu jong asuh mang ding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Gib’e-ah khoa saki mut ginguvin lang, Ramah khoa sumkon mut ginguvin. Beth-a’ven khoa kiginna dahpi chum gingun, Vo Benjamin, kitihot hot’in um’uvin. "
+      },
+      {
+        "verse": 9,
+        "text": "Talen akipeh nikho leh Ephraim chu akeova kijam ding, Israel phung lah a athon louhel ding kaphondoh ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Judah gama milen milalte jong Michavai gamgi song botdoh ho bangin aum’uvin. Hijeh a chu kalungsatna hi Achunguva twi kisung lha banga kasun lhah ding ahi. "
+      },
+      {
+        "verse": 11,
+        "text": "Ephraim hi mi bolgentheiyin apangin, Thu adih a kitan jeng jong asunoh tai; Ajeh chu Ephraim hi pannabeiya Kipedoh a vah thaile ahitai."
+      },
+      {
+        "verse": 12,
+        "text": "Hijeh a chu keijong Ephraim dia nget to bang kahi ding, Judah insung dia agotsah a pang ding kahi."
+      },
+      {
+        "verse": 13,
+        "text": "Ephraim chu adammona akimudoh phat’in, Judah jong chun amaha akimudoh phat chun, Ephraim jong Assyria gama achen, Leng lenpa henga mi asol’e. Ahinla aman naboldam thei lhon lou ding, Namaha jong adamsah thei lou ding ahibouve. "
+      },
+      {
+        "verse": 14,
+        "text": "Ijeh-inem itileh Ephraim dia Sakei bahkai tobang kahi ding, Judah insung dia jong Sakei bahkai golpai tobang kahi ding ahi. Kei mong mongin kabotel jenga kache mang del ding, Kalhoh mangjeng ding koiman eichu lhah lou ding ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Amahon athemmo nau ahetdoh-uva Keima angsung ahinhol kahseuva Keijong kachenna muna kache ding, Agenthei behseh tengu eihol’uvin tin."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "“Hunguvin Pakai henga kile kit tau hite, Ajeh chu aman eiboldam theina diuva eibotel’u ahi; Aman eijep chahsau ahitan, Eiboldam kit tei diu ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Ni ni jou teng aman eicho hing kit’uva eisuh hal diu, Nithum lhin ni leh eithodoh-uva ama angsunga ihin jing diu ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Kihet themu hitin, Pakai chu het tei tei din gou hite; Ama vaikondoh ding hi khovah ding banga kichen ahin, Gobah lha banga ichunguva hung lha ding, Leiset chapkot’a pang ji khalgo banga Hung lenglha jeng ding ahi,” tia asei diu ahiye."
+      },
+      {
+        "verse": 4,
+        "text": "Vo Ephraim, iba kalo ding nahiya, Vo Judah, ikalo ding nahi hitam! Nangin nei ngailutna hi jingkah meibol bep ahin, Nisan ahulgot loi jeng daitwi bep ahitai."
+      },
+      {
+        "verse": 5,
+        "text": "Hijeh a chu kenjong amaho hi Themgaoho kamanchah a kaphuh lhuh lhuh jenga, Kakamsung thuseiya kathagam gam jeng ahiuve; Kathutan jouse jong khovah bangin akikhodoh jenge."
+      },
+      {
+        "verse": 6,
+        "text": "Ajeh chu keiman kilhaina sangin Ngailutna kadeijon, Pumgo thilto sangin jong Pathen het ding kadeijoi."
+      },
+      {
+        "verse": 7,
+        "text": "Adam bangin amahon kitepna asukehuvin, Kitahna beihel’in einabol tauve. "
+      },
+      {
+        "verse": 8,
+        "text": "Gilead khopi la thilse bol khopi ahin, Thisan sohatte kengto ngapna ahiye."
+      },
+      {
+        "verse": 9,
+        "text": "Gucha michomhon mihem achan lhih banguvin, Thempuho jong ahon honin akikhom’uve; Shechem khopi jotna lampia mi athat uvin, Hitobang tah hin pannabei thil jeng abol’uve."
+      },
+      {
+        "verse": 10,
+        "text": "Keiman Israel insunga thil kidah umtah khat kamun, Ephraim notia apanna jong hikom khu ahi, Israel akisuboh ahitai."
+      },
+      {
+        "verse": 11,
+        "text": "Vo Judah nang dinjong Chang atphat tepsan akikoitai. Keiman kamite hamphatna Athah beh a kasemphat tengleh,"
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Keiman Israel kadamsah teng, Ephraim setna kiphongdoh ding ahin, Samar’ia khopi gitlouna geiya kiphongdoh a, Amahon jou le nal jenga na atohuva, Gucha insunga alut jenguva, Ajeh beiya michom hon mi achomu kiphongdoh ding ahi. "
+      },
+      {
+        "verse": 2,
+        "text": "Ahivangin amaho hin thilse abol jouseu Keiman kasumilpoi, ti ageldoh hih hel’uve. Anatoh athilbol jouseu chun aumchah tan, Abol jouseu kamaiya akilangsoh tai. "
+      },
+      {
+        "verse": 3,
+        "text": "Gitlouna thil abol’uvin lengpa geiyin akipasah-uvin, Alep lep’a na atoh-u chun milen milalte jong athanop sah theiyui."
+      },
+      {
+        "verse": 4,
+        "text": "Abonchauva hi mitoh jongsa jeng ahiuvin, Meilhum sung kihulsa tobang ahitauve; Asat behseh jeh a meilhuma changlhah kangpan mei tilouva akoi tobang, Chol kiso chang bong akichansoh kah a kho ngai tobang ahitai."
+      },
+      {
+        "verse": 5,
+        "text": "Amahon lengpa le milen milalte geiyin Juning souchel chul’in avah kham kham jengui; Lengpan jong hiche tot chavaiho hitoh Kikhut jopna aneiyin na a tong khome. "
+      },
+      {
+        "verse": 6,
+        "text": "Thilse bol ding thanomin Alungthim sungu jong meisa meilhum sung abangin, Jan khovah vah-in lung dammon aum uvin, Jingkah tengleh meisi pah lah lah bangin adeuje ju’uve."
+      },
+      {
+        "verse": 7,
+        "text": "Abonchauva hi meilhum sung sat banga sauva, Avaihom’uva pang jouse ahalchaisoh hel’u ahitai. Alengte jouseu jong akijam chap soh tauvin, Khat’a khat jeng chan jong eikou pouve."
+      },
+      {
+        "verse": 8,
+        "text": "Ephraim mitin vaipi toh akihalsoh tan, Changlhah kikang minlou tobang ahitai. "
+      },
+      {
+        "verse": 9,
+        "text": "Jatchom miten Ephraim abahgam u ahitan. Ephraimin vang akihetpoi; Achunga asam jeng jong akangsoh ding ahitan, Amanla akihet phah hih hel’e."
+      },
+      {
+        "verse": 10,
+        "text": "Israel kiletsahna chu ama heh-in apangin, Ahivangin Pakai a-Pathenu henga ahung kiledeh pouve. Thilsoh hijatpi jeh hin Pakai Pathen chu holdin jong agodeh pouvin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Ephraim hi vakhu tobang, Nuijat umtah le lungthimbei ahibouve; Egypt gamsung mite pou akouvin, Assyria gamsung lam pouva akitol tai."
+      },
+      {
+        "verse": 12,
+        "text": "Chujongleh achunguva len kakhu khum ding, Chunga leng vachate banga kamat lhah soh ding ahiuve: Thilse abol chengseu jeh a Kabolgim ding ahiuve."
+      },
+      {
+        "verse": 13,
+        "text": "Ohe ada ahiuve, ajeh chu kakoma konin akihei manguvin, Keima eidou jeh-uvin manthahnan alhun den tauve. Keiman lhatdoh tei ding kagot vangin Kei dou nan jouthu jeng aseiyui."
+      },
+      {
+        "verse": 14,
+        "text": "Alungthim’uva kahenga hung tao louvun, Ajalkhun chung dunguva akipehle leuve; Ajeh chu acham cham’uvin chang le ju akichu’uvin, Kei dounan thil abol bol jengui."
+      },
+      {
+        "verse": 15,
+        "text": "Keiman abanjangu kahil hil’a kahatsah nah vangin, Kei dou nan thilse agong gonguve."
+      },
+      {
+        "verse": 16,
+        "text": "Ba’al doi kisemthuho henga akiheisoh keiyun, Thalpi kikap alhep alhoiya leng tobang ahiuve; Milen milalte jong chemjama lousoh diu, Akiletsah jeh-uva anop pao pao jehuva thigam diu ahi. Egypt gamsunga min anuisat nau Hiche hi hiding ahiye. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Mut din nakam le sumkon suton lang, Pakai houina in-ngah a pang bangin gotsan umin; Ajeh chu mihon kakitepna asukeh uvin, Kadanthu asukhelsoh tauve. "
+      },
+      {
+        "verse": 2,
+        "text": "Kahenga ahung taovun, Ka-Pathen keiho Israel’in nangma kaheuve."
+      },
+      {
+        "verse": 3,
+        "text": "Israel’in thilpha adeilou ahitan, Melman anung adel jing ding ahitai."
+      },
+      {
+        "verse": 4,
+        "text": "Kei phatsah louhel’in lenga leng atungdoh jeng jungui, Kei hetphah louhel’in milen milal jong atungdoh doh jenguve, Aneiyu dangka le sanan milim doi akisem sem’uvin, Amanthahna diuvin akibol bol’uve."
+      },
+      {
+        "verse": 5,
+        "text": "Vo Samar’ia, nabongnou kapeh mangpeh tan, Miho dou nan kalunghan meikong bangin akonge; Hitobang hi itih chan geiya hi ding ham?"
+      },
+      {
+        "verse": 6,
+        "text": "Amaho Israel sunga athensel kahseuva chu? Mihem khut them min asem ahibouvin, Pathen sem ahipoi. Samar’ia khopia bongnou lim kisem Ahalsi sia kivogoisel ding ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Amahon huipi chu muchi tua atu’u ahin, Chimpei kipeipi chu chang-at banga a-at diu ahi. Changphungin jong changpal apupon, Neh ding an soh doh louhel ding ahi; Changpal aga um na mong jongleh Gamdang miten abahgam bep ding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Israel hi min aval lhumsoh ahitan, Hijeh a chu pannabei bel tobanga namtin vaipi lah a kithe thangsoh ahitauve."
+      },
+      {
+        "verse": 9,
+        "text": "Ajeh chu Assyria gam geiyin achetouvun, Achangseh a gamlah sangan vahle bangin aum’ui; Ephraim chun kideipi miho Akithalah lah jengin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Namtin vaipi lah a midang thalah lah jongleu, Abonchauva kachop khomloi ding ahiuve. Phat chomkah louva amahon hin Leng jong thao nu ding anei lou diu, milen milal jong anei lou diu ahitai."
+      },
+      {
+        "verse": 11,
+        "text": "Ajeh chu Ephraim in chosetna din maicham asembe ben, Ama din maicham jouse chu chonsetna din aumdoh tauve."
+      },
+      {
+        "verse": 12,
+        "text": "Ephraim dia keima danthu sang khat kajih peh ding hijongleh, Hicheng jeng jong chu hetphah lou bola abol ding ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Kilhaina gantha ding bou adeiyun, Hijeh chun kilhaina gancha athat that’uvin asa ane neuve; Ahinla hitobang kilhaina ho chunga Pakaiyin kipa thanopna aneipoi. Tua Pakaiyin athemmo nau ageldoh a, Achonset chengseu jeh a talen apeh ding, amaho jong Egypt gama kile diu ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Ajeh chu Israel’in Asempa asumil tan, Leng inpi tamtah akisah doh-in ahi; Judah jong hin kulpi kikaikhum Khopi tamtah asahbe be jengin; Ahinla keiman akhopi chung dunga meikong kalelhah ding, Akulpi jouse meikong chun akahvam peh ding ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Vo Israel kipah thanom loujen in! Mitin vaipi umchan bangin kichoi sang hih-in; Ajeh chu na-Pathen nadalhan Notin napangtai. Changphol dunga notin nakichoh ding chubou Nangman nadeiyin na-ngaicha jing jenge."
+      },
+      {
+        "verse": 2,
+        "text": "Abonchauva changphol’a changin avahva lou ding, Lengpithei konga lengpi theiyin jong ato lou diu ahi; Lengpitwi thah kichil lhan jong Abonchauva ato lou ding changlou diu ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh a chu Pakai gamsunga cheng den lou diu, Ephraim vang chu Egypt gama kile kit ding ahi; Chujongleh Assyria gama jong chu Amahon an thenglou aganeh diu;"
+      },
+      {
+        "verse": 4,
+        "text": "Pakai houna dia ju-ning jong alhit lou diu, Kilhaina gantha ija bol’u jongleh alung lhai lou dingu ahitai. Aneh diu changlhah jong chu Kap le lunghem a aneh diu ahi; Hitobang an nekha jouse chu kisuboh soh keiya, Thi lho mai maiya aneh diu ahin, Neh le chah kiti mong mong chu Pakai houina atothei louhel diu ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Phat neiya kibol kut chu iti nabol diu hita a, Pakai dia golvah nikho leh ipi nabol diu hitam?"
+      },
+      {
+        "verse": 6,
+        "text": "Vetan, amaho Assyria gama akitol tauvin, Egypt gamsunga kikhomsoh keiyuva, Memphis khopia kivuisoh hel diu ahi; Thil manlu tah a aneiyu akholnau munjong Lhakhai hung keh dimset ding, Aponbuh sung dunguva jong lingdon dimset ding ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Talen matna ding nikho ahung tai, Kilethuhna ding nikho ahung lhunge; Hiche nikho chu Israel’in akihet diu ahimaiye. Themgaola mi-ngol ahitan, Lhagao vop mihem jong achavaitai, Nathemmona anatsat behseh jeh le hot’a naumna anatsat behseh jeh ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Themgao kiti hi ka-Pathen mite Ephraim ngah a pang ahi, Ahinla alampi dung jousea thangkampan thang akampeh-in, A-Pathen houin sunga jong hotna adimset tai."
+      },
+      {
+        "verse": 9,
+        "text": "Gib’e-ah nikho laiya bangin Aset nau agil behseh jeng tai; Pathenin athemmo nau ageldoh jing ding, Achonset jeh-uva talen apeh ding ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Gammang lah a lengpithei keh bangin Keiman Israel kagamudoh tai, Napu napateu jong chu kum kihei masah pena Theichang ga masapen tobangin akimui. Ahinla Ba’al-pe’or lhang ahung gei phat’uvin, Ba’al houdin acham cham in akipedoh gam’uvin ahi; Hitobang thilse adeichat ho tobanguvin Amaho geiyin anamseuvin auisoh tauve."
+      },
+      {
+        "verse": 11,
+        "text": "Ephraim loupina chu vacha banga leng mang ding, Chahing jong umlou ding, agai jong bei ding, naovop jong bei ding ahi!"
+      },
+      {
+        "verse": 12,
+        "text": "Nao nei mong mongu jong leh Kasuh beihel’a pul douva kaumsah ding ahiuve. Ohe ada ahiuve, Keiman amaho kadalhah teng leh!"
+      },
+      {
+        "verse": 13,
+        "text": "Ephraim chapate chu mi bahgam dia um ahiu kamutai; Achapate thagam dia Ephraimin apuidoh ding ahi."
+      },
+      {
+        "verse": 14,
+        "text": "O Pakai, nangin amaho napeh ding chu pejeng in. Numeiho kisuhlou sah sah jengin anoitwiyu kansah tan."
+      },
+      {
+        "verse": 15,
+        "text": "Thilse abol jouseu hi Gilgal khoa hung kipan ahin, Gilgal khoa pat’a kahotpan ahitauve. Gitlouna thilse abol chengseu jeh a Kahouin a kona kadel mang ding ahiuve. Amilen amilalteu jong doumah mah a chon jeng ahiuvin, Lungset kit taponge."
+      },
+      {
+        "verse": 16,
+        "text": "Ephraim hi thingphung banga kijep longsoh ahitan, Ajung jouse jong gosoh ahitai; Hijeh a chu aga hung peng louhel ding, Ga neina mau jong leh a-it tah tah-u acha anaovu katha gam ding ahi,"
+      },
+      {
+        "verse": 17,
+        "text": "Athusei angai loujeh-uva Ka-Pathenin amaho hi apaimang ding ahiuvin, Namtin vaipi lah a Vah thaile khopema mah thah diu ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Israel hi lengpigui hinpha tah tobang, Aga jong aphat’a phathei tobang ahi. Aga aphat cheh cheh a ahileh Maicham jeng jong asembe be jenge; Agamsung ahao cheh cheh a ahileh Doikhom jong asembe be jengin ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Alungthimu jong jou le nal jeng adimset’in, Hijeh a chu tua hi athemmo nau akipoh tei diu ahi. Amaicham jouseu Pakaiyin asuhset’a Adoikhom jouseu jong asuhmang ding ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ajeh chu tua hi amahon aseiyuva, “Keihon lengbon kinei talou Pakai jeng jong kaging tapouve, Leng chun keiho dia ipi abol thei ding ham?” ati diu ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Thu homkeo asei seiyuvin, Jouvin kihahsel abol boljengun kitepna asem sem’ui; Hijeh chun lou laiya tucha nunga dummom keh dondoh bangin, Thina thei thu kitan chu ahung sohdoh jenge."
+      },
+      {
+        "verse": 5,
+        "text": "Samaria khopia chengte chu Beth-a’ven khoa bongnou lim kisemho jeh-in Abonchauvin akihot lhul gamtauve, Hiche milim kisem chunga hi amite lung kham diu, Milim houna thempua pang ho jong hung kap diu ahi; Aloupina kitolmang jeh a lung hem diu ahiye."
+      },
+      {
+        "verse": 6,
+        "text": "Ahinai athilmong mong jong Assyria gama kipo manga kitol mang ding, Leng lenpa henga kaiya apeh diu, Ephraim jong ajumin van ahol ding, Milimdoi ahoujeh a Israel jong Kijumsoa jachatna akimu ding ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Twichunga thinghal kilap banga Samaria lengpa jong mangthah ding,"
+      },
+      {
+        "verse": 8,
+        "text": "Aven khoa khomol doiphung jouse leh Israel chonset kisubei hel ding ahi. Amaicham phung dunguva jong Ling le khao hung kehdoh a, Molsang jouse jah a jong neikhu’uvin atiuva, Lhangsang jouse jah a jong neileuvin ati diu ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Vo Israel, Gib’e-ah nikho laiya pat Nangma chonse jing jeng nahin; Hitobang hin amahon aboljom jingun, Hichea hi Gib’e-ah khopia gal’in alap den lou diu ham? "
+      },
+      {
+        "verse": 10,
+        "text": "Hillel pholel mite doudia keima kahunga, Amaho dou dia namtin vaipi kikhom ding; Themmona avel vel’a aneijeh-uva Engbolna akineiya akisuh dih teng hitia hi um ding ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Ephraim phatea kihil themsa Chang chil ding thanom jing bongnou gol tobang ahin, Angongchang jolsil sel chu kadep dep ahime. Ahinla Ephraim namkol kabupeh a Judah jengin jong lou akai tei tei ding, Jacob’in jong louva thingtum akitah ding ahi. "
+      },
+      {
+        "verse": 12,
+        "text": "Nang ding, nang ding cheh-in adih Muchi tun kitusoh keiyuvin lang, Lungset longlou chu aga kilosoh keiyun, Naleiset cheh chu tuchan kaikeh temin, Ajeh chu Pakai ahunga huhhingna Nachunguva gojuh banga ajuhsah nadinga, Tuphat hi Pakai hol phat tah ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Nang hon themmona lougut’a nagut’u ahitan, Adihlouva thutan kiti hi chang-at’a na-at’u ahitai. Jouthu naseigau naneh khah-u ahi, Ajeh chu nakangtalai nakison piuve. Nasepai gal-hat jouseu pou Nakisonpi jeh-u ahipene."
+      },
+      {
+        "verse": 14,
+        "text": "Hijeh a chu namite lah a Noh lei leiya gal hung kisat ding, Nakulpi jouse jong kisubeiya, Gal kisat nikhoa Shalman in Bethar’bel asuhmang banga kibol ding, Numei chasen neiho geiya Kichilgoi goi jeng diu ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Vo Israel insung, hitobang tah a hi nakibol diu ahin, Nagitlou behseh jeh-uva nakibol diu ahiye. Hui le go kitho lah a chu Israel lengpa kisubei hel ding ahitai. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Israel chu naosen ahipet in kalung-sen, Egypt gama konin kachapa kakoudoh-e. "
+      },
+      {
+        "verse": 2,
+        "text": "Kahakou cheh a ahileh Gamla cheh-in eidalhau vin, Ba’al doiho ahouvun kilhaina gan athat’uvin, Milimdoi kisemthuho chu ahouvun gimnamtui alhut khum’ui. "
+      },
+      {
+        "verse": 3,
+        "text": "Ahivangin Ephraim lamjotje hilpa chu kei kahin, Abonchauva kabanjang tenia kakaile ahiuve; Hichan gei hin adamsah-uva Keima kahilam jong ahepha pouve. "
+      },
+      {
+        "verse": 4,
+        "text": "Lungsetna khaogui le voujang natna khaovin Keiman amaho hi kalamkai len, Amaho din min alengkouva chapang atotdoh bangin kabol’in, Kakun nah nah-in amaho an kapei."
+      },
+      {
+        "verse": 5,
+        "text": "Egypt gama kite kit louhel diu, Assyria chu amaho lenga pang ding ahi; Ajeh chu kahenga hung kile kit ding Amaho anompouve."
+      },
+      {
+        "verse": 6,
+        "text": "Akhopi jouseu douna chemjam hung leng jeng jung ding, Kelkot dunga kotgol jouse atanboh soh keiya, Kulpi phung dunga chu Chemjam in asatgam sih seh diu ahiye."
+      },
+      {
+        "verse": 7,
+        "text": "Kamite chu kahenga kona jamdoh ding akunsoh tauvin, Hijeh chun mi namkol pogun din aumtauve, koima asut lhah peh aumtapoi."
+      },
+      {
+        "verse": 8,
+        "text": "O Ephraim, iti kapaidoh jou ding nahim! Vo Israel, iti mi kapehdoh thei ding nahim! Itia Admah bol’a kabol’a Iti Zeboi’im bol’a kabol ding nahim! Kalungthim sung kisih-in anung kinlut pai ding ahitan, Kalai anan kadip adam behseh jenge! "
+      },
+      {
+        "verse": 9,
+        "text": "Kalungsat tijat umtah chu boldang ting, Ephraim sumang kit taponge; Ajeh chu keima Pathen kahin mihem kahipoi, Nalah a cheng Athengpa chu kahin mi sumang din hungda tange."
+      },
+      {
+        "verse": 10,
+        "text": "Amahon Pakai nung ajui diu, Pakai chu sakei bahkai banga kisen ding ahi; Pakai chu kisen ding ahin, Achapate chu nilhum lama kona kihot hot’a hung diu ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "Egypt gama kona hung leng vachate banga Kithing thinga tija tah a hunguva, Assyria gama kona hung leng vakhute banga Kithing thinga hung diu ahi; Keiman abonchauva ainlam’uva Kanungsol soh kei ding ahi, tin Pakaiyin aseiye."
+      },
+      {
+        "verse": 12,
+        "text": "Ephraim chun keima joule nal eidimsoh tai, Israel insung min jong lhep lhahna jeng aseiyui; Judah vang chu Pathen het’in aum jingin, Athengpa koma akitah jing nai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ephraimin khohui chu amelchih jingin, Nilhum kei keiyin niso lam hui adel le lei; Jou aseibe beuvin pumhat jengin na atongui; Assyria mite toh akan ding akichu uvin, Thaotwi jouse jong chu Egypt gamsunga akipolut soh tai."
+      },
+      {
+        "verse": 2,
+        "text": "Pakaiyin Judah toh kidouna khat aneiyin, Achonna dungjuiya Jacob jong talen apeh a Anatoh athilbol chengse dungjuiya Alethuhsoh hel ding ahiye."
+      },
+      {
+        "verse": 3,
+        "text": "Naobu sung jenga jong asopipa akhotaljum in atuh-in, Akhan lhit nung pasal lhing ahiphat’in Pathento akibon kit’e."
+      },
+      {
+        "verse": 4,
+        "text": "Vantil chutoh akibon lhonin ajou jenge, Chuin akap kap jengin alung lhaina ding aholtai. Bethel muna chun Pathen akimupin, Hikoma chun Pathenin akihoupi. "
+      },
+      {
+        "verse": 5,
+        "text": "Pakai thaneipen Pathen, Pakai kiti hi amin ahijenge."
+      },
+      {
+        "verse": 6,
+        "text": "“Hijeh chun na-Pathen panpi jal’in kite kit tan. Lungsetna nei jingin adih a thu tan din gel’in. Na-Pathen chu Tang louhel’in ngah ngah jengin,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Akhut tah a alep lep’a thil tejia kiveipan Mi bolgenthei dingbou adeiye."
+      },
+      {
+        "verse": 8,
+        "text": "Ephraim chun aseiyin, “Eh, keivang kahaotai, Keiman kachangseh din haona kaneidoh tai,” atin; Ahivanginla themmona chujat aboljeh a hi ahaona hi atuhdet lou ding ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Egypt gamsunga pat kei hi Pakai naPathen kahijing in, Keiman ponbuh jenga kachensah kit ding nahi; Phat tepsa kikoi Golvah kut kibol nikho dunga banga chu, "
+      },
+      {
+        "verse": 10,
+        "text": "Keiman themgaoho kamin thu kaseiyin, Themgao thilmu punsah sah jeng chu kei kahi; Themgaoho kamsunga kona Thulem kiseiho chu kaseidoh ji ahiye."
+      },
+      {
+        "verse": 11,
+        "text": "Gilead khoa themmona aumpou pouva ahileh, Panna beiya hung umdoh tei tei diu ahi; Gilgal khoa jong kilhaina bongchal ho athauva ahileh Maicham phung jouse jong Loulai dunga kisesang Songtum kigol ho banga mohseh a moh lum diu ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Jacob chu Aram gamsunga ajamlut’in, Aram gama chun Israel’in aji ding numei akiloi; Aji ding numei khat kilo nan Jacob chu kelngoi chingin apange."
+      },
+      {
+        "verse": 13,
+        "text": "Themgao khat amangin Egypt gama konin Pakaiyin Israel apuidoh tai; Themgao khat jeh a Israel hi Ima tilouva hoidoh thei ahiye."
+      },
+      {
+        "verse": 14,
+        "text": "Ephraim in lungnatna gitlou tah aboldoh tan, Hijeh a chu a-Pakaiyin thisan themmona achunga adalhah peh ding, Mi aphosalna chengse jong chu Ephraim chunga ale lhunsah kit ding ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ephraim in thu asei teng mihem akthot lhul soh jin, Israel lah a ama chu choisanga umsa anahi; Ahivangin Ephraim hin Ba’al doiho ahouvin Themmo achangtan thina apolut tai."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun tunjong achonse se jenguve, Acham chamin milim kilhajol pou akisem’uvin ahi; Aneiyu dangka konin khut them tah tah-in Milimdoi tamtah tah akisem’uve; Hitobang milimdoi ho hi Mihem khut themho semdoh jeng ahibouve. Hichenga hi kilhaina gantha tha jenga, Mihem in bongnou limho hi achop diu ahi atiuve!"
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh a hi amaho jingkah daitwi lhabep hi diu, Nisahu ajah jah leh beihel daitwi bep hi diu ahi; Changphol’a kipeidoh the thua Changsi tobang hiuva, Bangkot’a kona hung khudoh Meikhu tobang bep hi diu ahiye."
+      },
+      {
+        "verse": 4,
+        "text": "Egypt gamsunga pat’a kei hi Pakai na-Pathen kahi. Kei tailou nangin pathen dang nahet khah lou ahin. Kei tailou huhhing dang jong Nangman nanei khah lou ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Gamthip noiya nangma hejing chu kei kahin, Neh hahna gamsung gamgo lah a nahe jing chu kahi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin amahon a-oiva van aneuvin, An avasoh phat’uvin alungthimu akichoi-an tan. Hijeh chun keima jeng jong Eisumil hel jeng tauve."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh a chu keijong amaho dia sakei bahkai kabah ding. Lutnu banga lampama kakisel’a kachan lhih ding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Savom in achate akichomdoh banga Achunguva kachuh jenga kachom gam ding, A-opkongu kaphet keh jenga Sakei bahkaiyin aneh banga kaneh jeng ding ahi; Gamsa hangin abotel jeng banga khu Kaban botel jeng ding ahiuve."
+      },
+      {
+        "verse": 9,
+        "text": "Vo Israel, nangma kasuhmang ding nahi. Koiham napanpi jou ding chu? "
+      },
+      {
+        "verse": 10,
+        "text": " Nahuhhing ding nalengpa chu hoiya umtam? Nahuh ding namilen namilalte hoiya um hitau vam? Nangman, “Leng khat le milen milalte neipen,” Tia naseiji ho chu hoiba hitauvam?"
+      },
+      {
+        "verse": 11,
+        "text": "Keiman lung hang pum pumin leng ho kapen, Kalungsat phat’in abonchan kaladoh soh tai."
+      },
+      {
+        "verse": 12,
+        "text": "Ephraim themmona chu akichundoh tan, Achonset jong akikholsoh tai. "
+      },
+      {
+        "verse": 13,
+        "text": "Ephraim hi naoso nat bangin anatan, Amavang hi chapa ngol ahibouve; Ajeh chu tun jong naobu kama Amale ama ahung kitholdoh hih laiye. "
+      },
+      {
+        "verse": 14,
+        "text": "Ken amaho hi noimigam thaneina kalhatdoh ding hiya, Thina kona amaho hi kalhatdam ding ham? Vo thina, namidenna hoiba hita, Vo noimigam, mi nasuhmang na hoiba hitam? Kamitmun keiman Lainatna kanei tapoi, akisel tai."
+      },
+      {
+        "verse": 15,
+        "text": "Pumpeng phung bangin nalhasil sel jong leh, Pakaiya kon khohui, niso lam huipi hung nungin tin, Gamthip noiya kona hung nunga Atwikul twinah jeng jong asemgot ding, Atwiputna jouse jong agosa kijam ding, Thil manlu akhol jouse aphet manghel ding ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Samar’ia khopin athemmona akipoh a, A-Pathen douna doumah thil abol akipoh ding ahi; Abonchauva chemjama lousoh diu, Achasen jouseu jong kichilgoi soh ding ahi; Anumeiyu agai jouse jong Agaiyu kikhedoh soh hel ding ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Vo Israel, Pakai na-Pathen henga hung kile kit’in. Ajeh chu nathepmo jeh a kipal lhu nahitai."
+      },
+      {
+        "verse": 2,
+        "text": "Nasei ding thu hin kingaiton lang Pakai henga hung kile kit tan; Pakai jah a chun, “Themmona abonchan lamangin lang, Keihon kakamsung soh-u thilpha kasei diu chu Neisanpeh tei teiyun."
+      },
+      {
+        "verse": 3,
+        "text": "Assyria miten jong eihuhhing pouvin, Keiho jong sakolte chunga tou pouvinge; Tukal a lhah keihon kakhutsoh thil’u jah a ‘Ka-pathen’ kati kit louhel diu ahitai. Nachunga hin nulou palouten Hepina akimujin ahiye,” tiuvin."
+      },
+      {
+        "verse": 4,
+        "text": "Kitahna beiya aum nau kadamsah ding, Manbei hel’a kalungset ding ahi; Ajeh chu kalunghan jong Kalung adamsoh tai."
+      },
+      {
+        "verse": 5,
+        "text": "Israel dinga daitwi tobang kahi ding, Israel jong lily pah banga pah ding ahi; Gotkai thing banga Ajung jong akho ding ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Abah jouse jong hung kijaldoh intin, Ahoidan jong olive thing tobang hiding, Agimnam jeng jong chu Lebanon thing namtui tobang hi ding ahi. "
+      },
+      {
+        "verse": 7,
+        "text": "Hung kile kit’uva keima lim noiya cheng diu, Honlei hoitah banga pahchan the thu diu ahi; Lengpigui pah banga pah-uva, Agimnam tuiyu jong Lebanon lengpitwi nam tobang hiding ahiye."
+      },
+      {
+        "verse": 8,
+        "text": "Vo Ephraim, milimdoi kisemho chu i-kalona ding ham? Nataona ngai lhi jinga nakhohsah chu kei kahi. Kei hi chahthing nou jing jeng tobang kahin, Keiya kona naphat theina jong hung pengdoh ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Koi hijongleh michingin Thil hijat kisei hi hetkhen nan neihen, Hetkhen themna neiya chun Aboncha hin hethem hen; Ajeh chu Pakai lamlhah jouse hi Abonchan adih soh keiyin, Milungdih chu hiche lampi dunga hi chele ahin, Suh khel neiho vang alampi dunga hi kipal lhu jeng ahiuve."
+      }
+    ]
+  ]
+}

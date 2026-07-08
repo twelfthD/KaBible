@@ -1,0 +1,377 @@
+{
+  "id": 8,
+  "name": "Ruth",
+  "shortName": "RUTH",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Ruth le Naomi"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Ruth chun Boaz loulaiya changkhai achom"
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "title": "Changphol a Ruth le Boaz "
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Boaz chun Ruth akichenpi"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Thutan vaihom ho vaihom laiyin gamsunga kel ahung lhan, hijeh chun Judah gamsung Bethlehem khoa pasal khat Moab gama khopem din achen ama jong ajinu jong chule achapa teni jong akilhon tauve."
+      },
+      {
+        "verse": 2,
+        "text": "Pasalpa min chu Elim’elech akitin, ajinu min Na’omi ahin, achapa teni min Mahlon le Chilion ahilhone; amau hi Judah gamsung Bethlehem khoa cheng Ephrath phunga mi ahiuve. Abonchan Moab gama acheuvin agakhopem tauve."
+      },
+      {
+        "verse": 3,
+        "text": "Chujouvin Na’omi jipa Elim’elech chu athin, ajinu chu achangseh-in achapa teni toh adalhatai."
+      },
+      {
+        "verse": 4,
+        "text": "Achapate ni chun Moab numei jin akipui gellhonin, khatnu min chu Orpah akitin, khatjonu min Ruth akiti. Moab gama chun kum som tobang agacheng uve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Mahlon le Chilion athi kit lhonin ahileh, Na’omi chu ajipa le achapa teni geiyin adalha soh tauve."
+      },
+      {
+        "verse": 6,
+        "text": "Hichun Na’omi jong Moab gama kona chu amou teni hin kipuiya hung ki le kit din agotai; ijeh-inem itileh Moab gamsunga aumna chun Pakaiyin amite Israel a vil kit’in neh leh chah jong apetai, ti ajan ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun achenna muna kon chun ahung kondoh-in amou teni toh kilhonin Judah gama hung ki le kit din lam ahinjot pantauve."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun Na’omi’n jong amou teni jah a aseiyin, “Che lhonin khat jong khat jong na inlam, nanu heng kijot cheh lhontan. Nangnin kei le mithi ho nakhoto lhon bangin Pakaiyin nangni nakhoto lhon ta hen."
+      },
+      {
+        "verse": 9,
+        "text": "Pakaiyin khat hihen khat joh hilhon jong le chun na inchensah lhon hen lang, najipa insunga nachensah lhon hen!” a tin; amani chu achop’in hapenin apengin O sang tah-in akaptai."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun amoute nin jong atehpi jah a asei lhonin “Ahipoi keini jong nangma miho henga nangtoh kanung lhon lhon ding ahibouve,” ati lhontai."
+      },
+      {
+        "verse": 11,
+        "text": "Ahivangin Naomin aseitei teiyin, “Nung che lhontan kachanu teni, ibola nangni kei toh iki lhon nahlai diu ham?” Keiman nangni ji ding kanao bua hi chapa kavop nah laiya nabol lhon ham?"
+      },
+      {
+        "verse": 12,
+        "text": "Kinung le lhontan, ajeh chu ji thah nei kit din jong keima kateh behseh tai. Keiman kinepna kaneiyin tujan tah a hi ji neiya chapa kahin ding ahitai, tin seitah bah jongleng,"
+      },
+      {
+        "verse": 13,
+        "text": "kachapa te ho chu ahung kikhan lhit’u nanga mong lhon ding hiya, ji neilouva naum mong mong lhon ding hinam? hithei ponte, kachate ni, nangni khankho ding kagelnan keidin ahahsa behseh jengin ahi, chuJongleh Pakaiyin kei douna khut alap mai thei ahitai,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Hitah chun amaho apeng cheh-uvin akaptauve; Orpah chun atehpi achop’in adalhan, Ruth vang chun a kolchah jotai."
+      },
+      {
+        "verse": 15,
+        "text": "Hichun Naomin jong ‘Ven na-unu amite henga achen, adoihou ho heng ajontai; nang jong na-unu nung juiyin kinungle tan,” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Ahinla Ruth chun aseiyin “Nangma dalha din neisol kit dan lang, nanung kahin juina jong hin kinung le din neijol hih beh-in; ijeh-inem itileh nangma chena chana kache ding najan ge ge-na kajan ge ding; namite chu kei mite hi ding na-Pathen chu kei-Pathen jong hi ding ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Nathi thina a kathia, nakivui vui na a eikivui ding ahi. Thina’n eikan lhon ding hijeng jong leh Pakaiyin kasei bang hin eibolpch hen lang aval cheh-in jong eibol peh jo hen,” atitai. "
+      },
+      {
+        "verse": 18,
+        "text": "Ruth chu ama toh kilhon tei tei dia pangdet ahitai, ti Naomin amudoh phat’in ima aseibe tapoi."
+      },
+      {
+        "verse": 19,
+        "text": "Hiti hin ani lhon chun ahung lhonin, Bethlehem khopi ahinpha kahsen ahungpeh lhontai; Bethlehem khopi ahung gei lhon phat’in amani jeh chun khopi akilhongsoh hel jengin ahi; chujongleh khosung numei hon aseiyun, “Hiche nu pi hi Naomi chu haimo?” atiuve."
+      },
+      {
+        "verse": 20,
+        "text": "Naomin jong ajah-uva, “Naomi neiti hih uvin, Mara neiti jo tau, ajeh chu Pathen hatchungnung in genthei thoh lei chungnunga eibolta chu."
+      },
+      {
+        "verse": 21,
+        "text": "Ning lhinga kivai kondoh a, Pakaiyin ahomkeova eihin nung lhut ta hi. Ibola Naomi neiti ti nah lai diu ham? Pakaiyin hitobanga eibol gentheiya, hatchungnung Pathenin hamsetna hijatpi eilhut khum ta hi.” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Hiti hin Naomi chu ahung kile kit tan, amounu Ruth Moab numeinu ahinpui lut’in, Moab gama konin ahung kile lhontai. Amani hi sakol chang-at laiya Bethlehem khopi hung lhung ahilhone."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Naomi jipa Elimelech insung toh ki nai, aphunggol mihao tah khat ana umin, ama min chu Boaz akiti."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun Moab numei, Ruth chun Naomi jah a aseiyin, “Louva neikon sah-in lang, koi koi hijongleh amitmua eilungset pen pen henga cheng ting changkhai gachom tange,” ati. Chuphat’in Naomi chun Ruth jah a, “Chetan kanao,” atipeh tai."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun Ruth jong akipatdoh-in achen loulaiya chang at ho nunga changkhai agachomtai; hiche a hin Ruth chu Elimelech inkopa Boaz kitipa loulaiya ahung vahlut khatan ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun vetan Bethlehem khopia kon chun Boaz ahunge; Boaz chun chang-at ho jah a aseiyin, “Pakaiyin naumpi hen,” atileh; amahon jong ajah a, “Pakaiyin phatthei naboh hen,” atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Boaz jong chun chang-at ho vetup’a pang asohpa jah a, “Hiche nungah nu hi koi mi hai mo?” tia adoh leh;"
+      },
+      {
+        "verse": 6,
+        "text": "chang-at ho vetup pa asoh pan jong adonbut’in “Ama hi Moab gama kona Naomi toh hung kinungle kit Moab numei nu chu ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Ama hin ‘Lungset tah-in chang-at nunga chang khai ho hi nei kichomsah-in,’ tin aseiyin; hitia hi hunga, jingpia pat tu geiya hi akichom ahin phat chom khat jeng cha jong kicholdoh louhel ahi,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuphat’in Boaz chun Ruth jah a aseiyin, “Ngaitemin chanu, hiche lou hi da lhan lang lou danga changkhai gachomda tan, nachedoh sangin ka-nungah goiho hi toh kikhen kangdan;"
+      },
+      {
+        "verse": 9,
+        "text": "amahon chang a-at atnau loulai chu ve lhi jingjengin lang anunguva chen kichom jingin. Gollhang hon jong nadai chatvai louna diu kagih masahsa hilouva nabol ham? Hiti chun nadang achah teng jongle twipai ho khu jon jengin lang pasal ho twithalsa khu don jengin;” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuphat’in Ruth chun tola amai asu lut jengin, tola chun abohkhup denin Boaz jah a aseitai, “Keima jat dang mi kihiya iti dan monga nangin neimelchih theiya, namitua hibanga neilung lhaipi hi tam?” atileh;"
+      },
+      {
+        "verse": 11,
+        "text": "Boaz chun amanu adonbut’in, “Najipa thi nunga nangman natehpi nabolna alhingkeiyin achet achaiyin min eiseipeh tai; ito bang hahsa a nanu le napa, napena gam nahin dalhah jenga masanga nahet khah lou hel mite henga hung nahi hitam, tijong eikiseipeh sohtai."
+      },
+      {
+        "verse": 12,
+        "text": "Nathil bol natohna aboncha lhingset’in Pakaiyin nalethuh peh hen lang, alhaving teni noiya kisela kicholdo dia nahinjot Pakai Israel Pathen chun kipaman lhingset’n nape tei tei hen” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Chutah chun Ruth-in jong, “Kapu, nangin neilungset behseh jenge; ajeh chu nangin phate chan nei lhamonin, nasoh numei ho lah a khatbeh jong kahi louvangin, nasohnu keikoma khoto tah-in thu neiseipeh tai,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "An neh phat’in, Boaz chun Ruth akouvin, “Hungin lang chang lhah them khat hung kilah-in lengpitwi hung kisunin lang hung nen,” ati. Hijeh chun Ruth jong chang-at miho koma chun atouvin ahileh, Boaz chun chang lhah kansa apei; Ruth chun avaset kahsen ane ne jengin phabep jong anemoh nalaiye."
+      },
+      {
+        "verse": 15,
+        "text": "Ruth chu changkhai kichom dia akipatdoh phat’in Boaz-in jong agollhangho chu ahilchah soh keiyin, aseiye “Hichenu khu changphal lah jenga jong kichomsah un lang anapho da tauvin."
+      },
+      {
+        "verse": 16,
+        "text": "Chujongleh changphal lompha lah a jong phabep bep do doh peh-un lang, akichomkhom din koipeh-uvin, phoh hih-uvin,” ati."
+      },
+      {
+        "verse": 17,
+        "text": "Ruth chun nilhah geiyin loulaiya changkhai akichomtai; chuin achomdoh chengse chu adengin avoh lhah a ahileh sakol chang Ephah khat adime."
+      },
+      {
+        "verse": 18,
+        "text": "Ruth-in asakol chang chu alua akiput’in khopi sunga ahung luttan ahi; achangkhai chomdoh chu atehpi avetsah-in, asun an neh moh jong chu aladoh-in atehpi chu apetai."
+      },
+      {
+        "verse": 19,
+        "text": "Hichun atehpin Ruth adongin, “Tunia hoilama chang naga chom hiya hoilaiya na nagatoh ham? nang nahe thempa chu nun nom hen,” ati. Hichea hin Ruth jong chun atehpi jah a anatohpipa thu aseiyin, “Tunia kanatoh khompipa chu amin Boaz akiti,” ati."
+      },
+      {
+        "verse": 20,
+        "text": "Chuphat’in Naomin jong amounu jah a aseiyin “Pakai ami khotonan ahing jong athi jong sumil loulaipa chu nunnom hen,” ati. Naomin Ruth jah a chun aseipeh-in, “Hichepa chu eiho inko ahin, iphung ki naipi eiho bantah jong ahiye,” atipeh-e."
+      },
+      {
+        "verse": 21,
+        "text": "Hichun Moab numei Ruth jong chun aseiben, “Mipa, chun hicheng kalval jong hin kajah a aseiben, ‘Kasohten kachang a-at jou kah seuvin akomuva hung pang jingin, mun danga che da tan,’ tin aseiye,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Hitah chun Naomin jong amounu Ruth jah a chun “Hichepa soh numeiho nakivoppi ding chu aphalheh jenge, kanao; achuti louva ahileh, loumun adanga chele chun min nadaichat vai thei ahiye,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Hijeh chun Ruth jong Boaz soh numeinu ho chutoh kikhen kang louhelin apang khom jingin, sakol changle suhlou chang at kichai kahsen changkhai akichom tai; hiti hin atehpi toh anacheng cheng lhone."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ruth tehpi Naomin Ruth jah a aseiyin, “Nangdia thilpha aso theina dia naji neiya na-inchenna thei kagelpeh lou ding ham?"
+      },
+      {
+        "verse": 2,
+        "text": "Asoh numeiho toh na nagatoh khompi Boaz kitipa jong hi eiho inko hilou ham? vetan, Boaz hin tujan teng sakol chang chu changphola ajapchil ding ahin. "
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun nakisil jolsela thao nakinu ding naponsil pha ahoilai lai nakisila achangphola khu naga chesuh ding ahi; amavang Boaz chun an neh twidon achaisoh masangin kihetsah hih helin."
+      },
+      {
+        "verse": 4,
+        "text": "Boaz chu alup tengleh alupna namel chih a nache ding, akeng phang teni nahodoh a nalup ding ahi; chutengleh Boaz chun ipi nabola pha ham, ti nahil nante,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun Ruth jong chun, “Nahil jouse chu gabol nange,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hijeh chun Ruth jong changphola achesuh-in atehpin ahil bang bangin agabol tai."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin Boaz chun anneh le twidon abolsoh phat’in alungthim akipah-in achen achangpang gei koma chun agalum tan ahi. Chuin Ruth jong kangchan ahungvah lut’in, Boaz kengphang teni ahohdoh-in, alumtai."
+      },
+      {
+        "verse": 8,
+        "text": "Jan khangkim in Boaz ahung kin khangin, ahung kiheiya ahileh, vetan akengphang bul a chun numei khat analumin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun Boaz jong chun, “Koi nahim?” tia adoh leh numeinu chun adonbut’in, “Keima Ruth kitinu nasohnu kahi; nasohnu hi naponsil neihinsil peh-in; ajeh chu nanghi phung kinaipi pen nahi,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun Boaz-in jong aseiyin, “Pakaiyin phatthei naboh hen, kachanu, nangman natoh masat thilpha sanga jong hiche apha cheh nabol kit ahitai, hao hen vai jong le gollhangho joh hoi louva umah nahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuti ahile, tun kicha hih-in kachanu, nangman nathum chan ipi hijongle keiman kabolpeh ding nahi; ajeh chu kakho miten nang hi numei phachomtah nahi jong ahetcheh-u ahitai."
+      },
+      {
+        "verse": 12,
+        "text": "Chujongle tun keima hi na phung kinaipiu kahinai, ahin keisanga nakinaipi cheh khat aum nalaiye."
+      },
+      {
+        "verse": 13,
+        "text": "Tujan geh khovah denio lang, jingkah teng ama chun phung kinaipi toh ding dol akin nabolpeh a ahile apha ahitan, bol jeng tahen; amavang ijem tin ama chun phung kinaipi bol ding lom na-bolpeh nom louva ahileh, Pakai hingjing ahi, keiman phung kinaipi bol ding lom bep chu kabolpeh tei tei ding nahi. Jingkah khovah geiyin lumtan, ati."
+      },
+      {
+        "verse": 14,
+        "text": "Ruth jong Bo’az kengphangbula alum khovah denin, chuin jingpi phalvah kungbul le mi kimah donin a thou tai; Bo’az jong chun aseiyin, “Changphol phunga numei khat ahung lut’e, ti hi koima cha hetdoh sah hih helin,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Chujongle Bo’az chun, “Nakisil ponsil chu hin choiyin hin kido temin,” a tin; Ruth chun akido phat’in sakol chang chu atena gup jen atedoh peh-in, akiputsah tai. Chuin Ruth jong khopi sunga ahung lut tan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Atehpi heng ahung lhun phat’in Naomin ana dongin, “Ito nagabah hinam kanao?” atileh, Ruth-in jong ama dia Bo’az thilbol jouse chu abonchan aseipeh soh keitai."
+      },
+      {
+        "verse": 17,
+        "text": "Ruth chun aseiyin, “Hiche sakol chang atena dim gup hi eipen hitin aseiye, ‘Natehpi henga nakeova nakile kit louhel ding ahi,’ tin aseiye,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun Naomin jong aseipaiyin, “Kanao itobanga thil hung sohdoh mong mong am, nahetdoh kahsen kho ngaiyin; ajeh chu amapa hi kicholdo louhe6la uma, tunia athu abol chai kahsea kipei ding ahitai,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Bo’az chu kelkot phunga achetouvin hikoma chun agatouve; hichun vetan, Bo’az seipa agamngah dingpa chu ahung kholai lenge. Hijeh chun Bo’az jong chun “Golpa hung kiheiyin lang hikoma hung tou tadin,” atileh amajong ahung kiheiyin ahung toupai tai."
+      },
+      {
+        "verse": 2,
+        "text": "Bo’az chun kho upa pasal som khat agakou khomloiyin, “Hikoma hungtou tadiuvin,” atileh amaho jong atoutauve."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin Elim’elech gamngah dingpa jah a chun aseiyin “Moab gama kona hung kinungle kit Na’omi kitinu khun isopipa Elim’elech gam bih khat ajoh-in ahi. "
+      },
+      {
+        "verse": 4,
+        "text": "Hijeh chun kenjong nangma seipeh a hiche gambih khu hikoma toucheng kamite upate cheng mitmua hi nachoh ding hinam, tia doh ding kati nahi6. Naki lhat ding ahileh, kilhat jengin; nalhat lou dia ahivangle neijah sah-in, kahet nome; ajeh chu hiche lhat ding hi nang tailou koima dang a um poi; nang ban a keima kahi jenge,” atitai. Hichun amapan jong Bo’az jah a “Agam chu lhat nange,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat’in Bo’az jong chun aseiyin, “Nangman Na’omi khut’a kona loumun chu nachoh doh ni ni leh, mithipa meithainu, Moab mi Ruth jong nachohdoh tha a, mithipa neile agoulo tundoh kitna nabol ding ahi,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hiche phat chun agam-ngah dingpan aseitai; “Chuti ahidingleh keiman kilhat thei ponge; ajeh chu keima gou joh kasuh manglo ding ahitai. Hijeh chun kalhat theina hi nangma changin lang, kilhat tan, ken vang lhat jou ponge,” atitan ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Masang laiya Israelte lah a thil kilhat dan le kilhet dan chonna ngaidol chu hiti ahi; thil kilhat chu suh det theina dia mi khat chun akengkoh asut lhah a khatpa chu apeh a, hitobanga hi Israel lah a thil kilhat chu kisudet ji ahiye."
+      },
+      {
+        "verse": 8,
+        "text": "Hijeh chun agam-ngah dingpan Bo’az jah a, “Nangman kichoh tan,” atipet chun akengkoh anasut lhai."
+      },
+      {
+        "verse": 9,
+        "text": "Chutah chun Bo’az jong chun upaho le mipi ho jah a aseiyin, “Tunia nangho hi ahetoh a pang nahiuve, keiman Naomi khut’a kona Elim’elech le chule Chilion le Mahlon nei jouse aboncha kachoh ahitai."
+      },
+      {
+        "verse": 10,
+        "text": "Chujongle Moab numei Ruth kitinu, Mahlon jinu meithainu jong hi kaji dinga kachoh tha ahitan; hitia hi bola mithipa min tundoh ding, agoulo gam jong phudet peh a, asopite lah a mithipa jong suhmanga aumlouna dingle agam mite kelkot phunga jong suhmanga aumlouna ding kati ahi; hijeh chun nangho hi tunia ahetoh a pang cheh nahiuve,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Chuphat’in kelkot phunga touho mipi le upa hon jong aseiyun “Ahinai, keiho ahetoh a pang kahiuve. Pakaiyin jong na-insunga hunglut numei chu Israel insung tungdoh a pang teni Rachel le Leah tobangin semdoh tei tei hen. Nang jong Ephrath phungsunga phatheiyin lang, Bethlehem khopia minthangin;"
+      },
+      {
+        "verse": 12,
+        "text": "Chule nangma in sung jong Pakaiyin hiche numei thah nua kona hi cha le nao nahinsah tengleh Tamar kitinun Judah ahinpeh Perez insung bangin phathei hen,” atiuve."
+      },
+      {
+        "verse": 13,
+        "text": "Hiti chun Bo’az in Ruth akipuiyin Ruth jong Bo’az jinun a pang tai; Bo’az chu Ruth henga alut’in ahileh Pakai lungset’in Ruth jong agaiyin chapa khat ahingtai. "
+      },
+      {
+        "verse": 14,
+        "text": "Hichun kho nupi hon jong Na’omi jah-a aseiyun “Tuni geiya gam ngah ding beiya nakoi lou Pakai chu nunom hen lang, Israel te lah a hiche naosen hi hung minthang hen!"
+      },
+      {
+        "verse": 15,
+        "text": "Ama hi nateh nungin nahinsah jouleh navah-in hung pang tei tei hen; ajeh chu nalungset a pang jing namounu, chapa sagi sanga jong phachomjo nun, amahi nahin peh ahi,” atiuve. "
+      },
+      {
+        "verse": 16,
+        "text": "Hichun Na’omin jong naosen chu alan aop’a akisip’in adonin apang pai pai tai."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin aheng akom nupi hon naosen chu amin abolpeh-uvin hitin asah-uvin ahi, “Na’omin chapa khat ahingtai,” atiuvin Obed asah-uve. Obed hi Jesse pa ahung hin, chule Jesse chu David pa ahung hikhan ahiye."
+      },
+      {
+        "verse": 18,
+        "text": "Perez son achilhah ho chu hicheng hi ahiuve: Perez hi Hezron pa ahung hin,"
+      },
+      {
+        "verse": 19,
+        "text": "Hezron hi Ram pa ahi, Ram hi Ammin’adab pa ahin,"
+      },
+      {
+        "verse": 20,
+        "text": "Ammin’adab chu Nahshon pa ahi; Nahshon hi Salmon pa ahin,"
+      },
+      {
+        "verse": 21,
+        "text": "Salmon hi Bo’az pa ahi; Bo’az hi Obed pa ahin,"
+      },
+      {
+        "verse": 22,
+        "text": "Obed hi Jesse pa ahi; chule Jesse hi David pa ahiye."
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1849 @@
+{
+  "id": 66,
+  "name": "Thuphon",
+  "shortName": "",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Jesu Christa thuphondoh"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "title": "Houbung sagiho lemna"
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "title": "John in Mihem Chapa amu"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Ephesus Houbunga thu thot"
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "title": "Samyrna Houbunga thu thot"
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "title": "Pergamum Houbunga thu thot"
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "title": "Thyatira Houbunga thu thot"
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "title": "Sardis Houbunga thu thot"
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "title": "Philadelphia Houbunga thu thot"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "title": "Laodicea Houbunga thu thot"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Van a Pathen houdol"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "title": "Lekhajol le Kelngoinou"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "title": "Sinkhana ho"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "title": "Israel mi 144,000"
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "title": "Namtin vaipia kon japi kikhom"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "title": "Sinkhana sagina le sana khon"
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "title": "Sumkon ho"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "title": "Vantil chule lekhajol neocha"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "title": "Hettohsah mi ni"
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "title": "Sumkon sagi lhinna"
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "title": "Numeinu le dragon"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "title": "Sahem ni"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "title": "Lhatdamte 144,000"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "title": "Vantil thumho thupoh"
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "title": "Vannoi leiset chang-at’a aki-at"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "title": "Vantil chule gamna nukhah"
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "title": "Pathen lunghanna khon ho"
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "title": "Noti minthangnu thu kitan"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "title": "Babylon khopi chim"
+    },
+    {
+      "chapter": 19,
+      "verse": 6,
+      "title": "Kelngoinou mou kipui golvah"
+    },
+    {
+      "chapter": 19,
+      "verse": 11,
+      "title": "Sakol kang chunga toupa"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "title": "Kum asang sang"
+    },
+    {
+      "chapter": 20,
+      "verse": 11,
+      "title": "Laltouna kang chunga thupi kitan"
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "title": "Vanthah le leithah"
+    },
+    {
+      "chapter": 21,
+      "verse": 9,
+      "title": "Jerusalem thah"
+    },
+    {
+      "chapter": 22,
+      "verse": 6,
+      "title": "Jesu hungvah ding ahi"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Jesu Christa thuphondoh, Pathenin asohte hetsah dinga apeh, thil hung sohvah ding ho chu; aman Avantil asol’a asoh John ahetsah ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Ama chu Pathen thudol le Jesu Christa hettohsah thudol’a athil muho jouse thu umchan chu ahettohsah ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hiche Lhagao thuseidoh ho sim a, chule ja a, chule asunga kisun thuho chengse nit’a chu anun noma ahi; phat anai jeh hin."
+      },
+      {
+        "verse": 4,
+        "text": "John in Asia gama um Houbung sagiho heng’ah: “Auma Aumsa, chule Ahungum dinga konin, chule alai touna ang a kon Lhagao sagia konin; chule athiho lah a kona peng masapen, leiset leng ho jouse vaipo,"
+      },
+      {
+        "verse": 5,
+        "text": "athu hettohsah ginchat umtah Jesu Christa a kon chun lungset le lungmonin umpiuvin. Eiho eingailua athisana ichonset chengseuva kona eisut lhama,"
+      },
+      {
+        "verse": 6,
+        "text": "chule avaipohna gam mi le a-Pathen le a-Pa thempua eisem’uva chu, loupina le vaipoh thuneina atonsot atonsot geiyin ama a hi jing hen. Amen."
+      },
+      {
+        "verse": 7,
+        "text": "Veuvin, ama meihotoh kilhonin ahunge; chule mit jousen asunho tah jong chun amu dingu ahi; chule leiset namtin le phungtinin a-op achup chup dingu ahi. Chuti ahi. Amen."
+      },
+      {
+        "verse": 8,
+        "text": "Auma Aumsa, chule Ahung um dinga, Hatchungnung Pakai Pathen chun, “Keima Alpha le Omega kahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Jesua um thoh hat le gam chule hesoh genthei nathoh khompiu nasopiu John keima Pathen thu le Jesu thu hettohsah jeh a Patmos atiu twikol’a chu um kana hi."
+      },
+      {
+        "verse": 10,
+        "text": "Pakai nikho nia chu keima Lhagaova kaum ahi; chule sumkon gin tobang ogin nasatah khat kanung lama kajan,"
+      },
+      {
+        "verse": 11,
+        "text": "“Nathil mu chengse lekhabu’ah sunin, hichu Houbung sagia: Ephesus ah, Samyrna’ah, Pergamum’ah, Thyatira’ah, Sardis,’ah, Philadelphia’ah, chule Laodicea’ah gah thot’in, ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin kajah a thu seiya aw chu ve dingin keima kakiheiyin ahi. Chuin kakiheitan ahile, sana meivah khom sagi kamui;"
+      },
+      {
+        "verse": 13,
+        "text": "Chule meivah khomho lah a chun khat meihem chapa tobang aponsil akhophanga lenglha, sana konggah a-opkonga kigah,"
+      },
+      {
+        "verse": 14,
+        "text": "aluchang le asam kelngoi mul ban a banga, buhbang tobang ahin; amit meikong tobang ahi; "
+      },
+      {
+        "verse": 15,
+        "text": "akengho chu lhum sunga kigoujol sumeng kinotval tobang jeng, chule a-ogin chu twi tamtah gin tobang jeng ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule akhutjet lama ahsi sagi achoiyin, akam sunga konin hemto chemjam ahema hem ni ahungdoh-in ahi; chule ama melso chu nisa hasattah a asat pettoh abangin ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin ama kamu phat chun keima athitoh kabang jengin akhophang bul’ah kalhu jengin ahi. Hichun aman akhut jet lamin eithamin, “Kicha hih-in; keima hi amasa le anukhah,"
+      },
+      {
+        "verse": 18,
+        "text": "chule ahing jinga chu kahi; keima athisa kahi; ahinla ven, aimatih chan a dingin kahinge; chule thina le thikhol khul kot-heh kaneiye."
+      },
+      {
+        "verse": 19,
+        "text": "Hijeh chun nathilmu chengse le aum chengse chule ahung um ding chengse abonchan sunin; "
+      },
+      {
+        "verse": 20,
+        "text": "kakhut jet’a ahsi sagi namuho chule sana meivah khom thuguh hi sunin. Ahsi sagi chu Houbung sagi solchah ahin, meivah khom sagi chu Houbung sagi ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ephesus um Houbung solchah heng’ah hiti hin sunin: ‘Akhut jet lama ahsi sagi choiya sana meivah khomho lah a vahlea chun hitin aseiye;"
+      },
+      {
+        "verse": 2,
+        "text": "“Keiman nanatoh ho jouse chule nathoh gim le nathoh hat chu kahei; chule Solchah kahi, tia solchahla hilou, amaho jong chu napatep’in nakhol’in ajou namandoh jengin ahi;"
+      },
+      {
+        "verse": 3,
+        "text": "chule thoh hat tah-a kamin jal’a thoh thoh a lhadah lou nahi."
+      },
+      {
+        "verse": 4,
+        "text": "Ahivangin nachunga demna kaneiye; nangman na-ngailut masa chu nalhatai."
+      },
+      {
+        "verse": 5,
+        "text": "Hichejeh chun nangma hoiya kona nalhuh ham, hichu geldoh-in chule nalung heiyin nanatoh masah ho chu tongin; achuti louva nalung nahei lou le, nahenga kahunga nameivah khom chu aumna a kona kachon mang ding ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahinla Nicolaitan ho chon keiman kahot chu, hiche ho chu nangman jong nahon ahi, hiche phatna chu naneiye."
+      },
+      {
+        "verse": 7,
+        "text": "Nakhang nei chanin Houbung ho jah jah a Lhagao thusei hi ngai hen. Ajouva chu keiman Pathen ol lim daiya um hinthing ga kanehsah ding ahi,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chule Samyrna a um Houbung solchah heng’ah hitin sunin: ‘Amasa le anukhah, thitasa hing kit chun hitin aseiye."
+      },
+      {
+        "verse": 9,
+        "text": "“Keiman nagenthei nahesoh chule navaichat kahenai, ahin nangma nahaonai. Juda mi kahi, tia Juda mi hilou, Satan vaipi kikhop najoh ahiuva, hou thu ataitomu jong chu kahenai."
+      },
+      {
+        "verse": 10,
+        "text": "Thil nahin thoh ding ho hi kicha hih hel’in; ven, napatepna a nalah uva mi abang bang chu diabol’in songkul’a akhum ding koncha ahi; chule hesoh genthei ni som nathoh dingu ahi. Nangma nathi geiyin tahsanin; chule keiman nangma hinna lal lukhuh kapeh ding ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao thusei hi ngai hen. Ajouva chu thi nina chun asuhnat lou ding ahi,” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chule Pergamum a um Houbung solchah henga hi tin sun in: “Hemto chemjam ahema hem ni neiya khun thu hicheng hi aseiye:"
+      },
+      {
+        "verse": 13,
+        "text": "Nangma hoi laiya cheng nahi kahenai; Satan laltouna muntah chu ahi; chule nangman kamin natuh det jinga, chule Satan chenna nangho lah a ginchat umtah, kathu hettohsah Antipas atha laiyu sana jong keima tahsan seilep lou nahi. "
+      },
+      {
+        "verse": 14,
+        "text": "Ahivangin nachunga demna thil them khat kaneiye, ajeh chu Israel chate masanga kipal lhuhna koiya milim houna sa nehsah ding le jonsahna dinga Balak lungthim pea hil’a Balaam thuhil choiya hikoma chun naneiyui."
+      },
+      {
+        "verse": 15,
+        "text": "Chutobangma chun nanghon Nicolaitan ho thuhil choiya jong naneiyui."
+      },
+      {
+        "verse": 16,
+        "text": "Hijeh chun nalung heiyin; achuti loule nahenga gangtah a hung ding kahi; chule kakam sung chemjama amaho chu gal’a kasat ding ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao thusei hi ngai hen. Ajouva chu guhthim manna kapeh ding ahi; chule songkang khat jong kapeh ding; hiche songa chu min thah khat kisuna ahi; asangpa tailou koimacha dangin hiche min chu ahepoi,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Thyatira a um Houbung solchah heng’ah hitin sunin: ‘Amit meikong tobanga, akhophang sum-eng kinotval bang a Pathen Chapa chun hi tin aseiye:"
+      },
+      {
+        "verse": 19,
+        "text": "“Nathilbol jouse le na-ngailut chule natahsanje chule nalhacha natoh ho le nathoh hatje, chule nathilbol masah sanga nathilbol nunung anasatjoh chu kahenai. "
+      },
+      {
+        "verse": 20,
+        "text": "Ahivangin nachung’ah demna kaneiye, nangman Jezebel kithemgao sahnu chu navethim in naumsah-in ahi, ama chun jon thanhoi ding le milim houna sa neh ding thu ahil’in, kasohte alhem lhan asulam vaiyin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Keiman hinu chu alung heina ding phat kapeh ahi; ahinla aman ajon thanhoiya konin alung ahei nompoi."
+      },
+      {
+        "verse": 22,
+        "text": "Veuvin, keiman amanu chu ajalkhuna kajamhel ding ahi; chule ajonpiho chengsen jong amanu chonna a kona atat’uva alung ahei louvu le hesoh gentheina chungnung tah a kalelut ding ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Chule thi gamna a achate ho katha gam ding ahi; chuteng chule Houbung jousen keima lungthim agil le lungsung kholtoh soh kahi, ti ahet dingu ahi; chule keiman nangho nathilbol dung juiyuva kapeh cheh ding nahiuve."
+      },
+      {
+        "verse": 24,
+        "text": "Ahivangin Thyatira amoh nalah uva um, hiche thuhil chu ajop lou aumin, mi abang hon thugil atiu, Satan thugil chu helou ho chengse chu najah uva kasei ahi, nangho chunga pohgih imacha dang belap ponge."
+      },
+      {
+        "verse": 25,
+        "text": "Ahin nanei sunu chu kahung kahsen tuh det jingun."
+      },
+      {
+        "verse": 26,
+        "text": "Achule ajouva akhon ni geiya kathilbol chengse nit chu, keiman Pa a kona kamu banga, ama chu namtin vaipi ho chunga thuneina kapeh ding ahi;"
+      },
+      {
+        "verse": 27,
+        "text": "chutengle ama chun thih tenggol’a vai ahoma beldeng ho bel akea ahal hala aum banga abol ding ahi;"
+      },
+      {
+        "verse": 28,
+        "text": "chule keiman ama chu Jing Valpa kapeh ding ahi."
+      },
+      {
+        "verse": 29,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao Thusei hi ngai hen,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chule Sardis a um Houbung solchah henga hitin sunin: ‘Pathen Lhagao sagi le ahsi sagi neiya chun hitin thu aseiye: “Keiman nathilbol kahenai, amin a ahinga ahin, athisa nahibouve."
+      },
+      {
+        "verse": 2,
+        "text": "Khang in lang hah jingin umin; chule adang athikon ho chengse chu suhal’in dindet sah-in; ajeh chu ka-Pathen mitmua nathilbol achamkimsa imacha kamupoi. "
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun nangman atil’a iti nasana, iti najah ham, hichu geldoh-in, hichu nit phan, chule nalung heiyin. Hah jinga naum louva ahile gucha banga nahenga kahung ding ahi, chule itih phat le naheng kahinsuh nahet louhel ding ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Ahinla apon kisuhnen lou mi phabep khat Sardis a aumui; amaho chu ponbang vamvel sil’a keimatoh kavale dingu ahi; ajeh chu amaho hiche dinga chu kilomtah ahiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Ajouva chu ama jong chutia chu ponbanga kijem ding ahi; chule keiman ahing lekhabua kona ama min chu kathai mang louhel ding ahi; ahin ka-Pathen angsung le Avantil chengse angsunga ama min chu kaseidoh ding ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao thusei hi ngai hen,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chule Philadelphia a um Houbung solchah henga hitin sunin: ‘Athenga le adihtah, David kanglongheh neiya aman ahon le koiman khah thei lou, chule aman akha le koiman hong thei lou, ama chun hitin thu aseiye:"
+      },
+      {
+        "verse": 8,
+        "text": "“Keiman nathilbol chu kahenai; ven, koiman akha thei lou kot honsan na-ang a kakoiye; natha vang alhome, chule kathu nanit jingin kamin naseilep poi."
+      },
+      {
+        "verse": 9,
+        "text": "Ven, Satan loi kihou khomna a miho chu Juda mi kahi, tia Juda mi hilou, thujou sei ahiuve; ven, chutobang miho chu abang bang nakhophang bul’a kalhuhsah a chibai kabohsah dingu ahi; chutile keiman nangma ka-ngailut chu amahon ahetdoh thei dingu ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Nangman keima thoh hat thu chu natuh det jeh ahi, vannoi leiset chung cheng miho patep kholchilna a vannoi leiset chunga hung lhung dingkon, hiche phat’a kona chu keiman jong nangma kahuhdoh ding ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Hung vahjet ding kahi; nalal lukhuh chu koiman nalahpeh louna dingin nanei sun chu tuh det jingin."
+      },
+      {
+        "verse": 12,
+        "text": "Ajouva chu kaPathen houin khoma kasem ding, chule chua kona chu potdohta louhel ding ahi; chule achunga ka-Pathen min, chule ka-Pathen khopi Jerusalem khopi thah, van a kona ka-Pathen koma kona hung kumlha ding, hiche min chutoh keima min thah kasut ding ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao thusei hi ngai hen,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Chule Laodicea a um Houbung solchah henga hitin sunin: ‘Amen le tahsan umtah chule hettohsah dihtah, Pathem thilsem ho bul chun hitin thu aseiye: "
+      },
+      {
+        "verse": 15,
+        "text": "“Keiman nathilbol kahenai, nangma votla navotpon, sa la nasa poi; navot le vot ngal’in, nasat le sa-ngal le chun pha kasah ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Hiti chun sa la nasapon, vot la navotpon, alumheu bep nahi, hiche jeh a chu kakama kona nakhondoh dingkon nahi."
+      },
+      {
+        "verse": 17,
+        "text": "Nangman ‘Kahaove, sum kakhol’e, imachan kalhasampoi,’ natin ahi; ahinla nangma tah ada pen, khoto umtah, vaichatah, mitcho chule sagohkeo nahi chu nakihetpoi."
+      },
+      {
+        "verse": 18,
+        "text": "Hijeh chun nahaona dingin meiya kisong jol’a kilha theng sana, chule sagohkeo nahi najachat kiphon louna dingin, ponbang sil ding nanei theina dingin; chule nakhomu theina dingin mit nu ding mitlou hicheng chu keiya konin kichoh-in, tia kathumop nahi."
+      },
+      {
+        "verse": 19,
+        "text": "Keiman ka-ngailut chan chu kaphosal’a kasuhgim ji ahi; hijeh chun nangma tompanin lung heiyin."
+      },
+      {
+        "verse": 20,
+        "text": "Ven, keima kotkhah bul’ah kadingin kot kakiu jinge; mi khattouvin ka-ogin ajah a kot ahona ahile, keima kasung lhah a ama chu an kaneh khompi ding ahi; chule aman jong keima an eineh khompi ding ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Keiman kajoa ka-Pa koma laltouna a katou banga hi ajouva chu kakoma kalaltouna a katousah ding ahi,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Nakhang nei chanin Houbung ho jah a Lhagao thusei hi ngai hen."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche jou chun keiman kaven ahile, veuvin van a kot khat akihon kamun ahi. Chule keima eikihoupia sumkon gin tobang o amasa kajah, o khat chun, “Hiche lama hin hung kaltouvin, tu nunga thil hung soh tei ding ho chengse chu kavetsah ding ahi,” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Hichetah chun Lhagaovin kaumtan ahi; chuin veuvin, van’ah laltouna khat akidon ahi, chule hiche laltouna a chun mi khat atouvin;"
+      },
+      {
+        "verse": 3,
+        "text": "hiche atoupa chu jasper song le sardion song bangin alange; chule laltouna kimvela chun lhagui aumin, emerald songtoh abangin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chule laltouna kimvela chun laltouna som ni le li aumin; hiche laltouna ho chunga chun ponbang kisil’a alua sana lukhuh kikhuh upa som ni le li atouvui. "
+      },
+      {
+        "verse": 5,
+        "text": "Chule chuche laltouna a kon chun kolphe, o, chule van gin ahung sohdoh jin ahi; chule laltouna maiya chun meiya kong jingjeng meivah sagi aumin, hichu Pathen Lhagao sagi chu ahi;"
+      },
+      {
+        "verse": 6,
+        "text": "chule laltouna maiya chun crystal songval’a val phatvet twikhanglen tobang khat kamui; hiche laltouna laiya chun, chule laltouna kimvela chun ganhing li aume; amaho chu amalam anunglam amit jeng amit jeng dimset ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Ganhing amasapen chu keipi toh abangin, anina chu bongnou toh abangin, athumna chun mihem mai apui, ali na chu aleng le mulaopi tobang ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hiche ganhing li ho chun lhaving gup cheh aneiyui; akimvel le asunglam amit jeng dimset ahi; chule amaho chun, “Athenge. Athenge. Athenge. Pakai Pathen Hatchungnung; Aumsa, auma chule Ahung um dinga chu.” tin asun ajanin cholnga lou hel’in, ati atiuvin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chule hiche ganhing ho chun a-imatih chan a hing jing, laltouna a toupa chu, avah choiyun ajabol’uva athangvah tengu le,"
+      },
+      {
+        "verse": 10,
+        "text": "upa som ni le li ho chun laltouna a toupa ang’a chu lhujiuva a-imatih chan a hing jingpa ang’a chu alal lukhuh aselhah jiuva chibai aboh jiuva,"
+      },
+      {
+        "verse": 11,
+        "text": "“Vo ka-Pakaiyu le ka-Pathenu. Nangma bou vahchoi le choiat. Chule thilbol thei thahat changa lom nahi. Ajeh chu ima jouse nangma sem ahi. Chule nangma phatsah-a Hicheng chu uma chule kisema ahi.” atiji dingu ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujouvin laltouna a toupa khut jet lama chun asunglam apolam a-langtoa kisuna sinkhana sagia kisinkha lekhabu khat kamun ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Vantil hattah khat kamun ama chun. “Hiche lekhabu hi phonga asinkhana lhamlha dinga lom koiham?” tin hasap tah-in asamlen ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ahin van’ah leiyah, lei noiyah lekhabu aphong thei le ave theiya koimacha aumtapon ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin lekhabu chu aphong ding le ave dinga khatcha jong akiholmo jeh chun hakan kakaptan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun upa ho lah a khat chun, “Nangma kap hih-in; ven Juda phung Keipi chule David Jung chu hiche lekhabu phong dingle asinkhana sagi chu honglha dinga ajousohsa ahitai.” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hichun laltouna le ganhing li ho lailung’ah chule upaho lailunga chun Kelngoinou kithatsa lheh lheh khat adin kamui; ama chu aki sagi le amit sagi ahi; hichu vannoi leiset pumpia kisol Pathen Lhagao Sagi ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Ama chu ahungin laltouna a toupa khut jet lama lekhabu chu alan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hichu alah phat chun ganhing li ho chule upa som ni le li ho chu Kelngoinou ang’a chun aboh khuptauvin ahi; amaho chun akhuta selangdah khat cheh le sana sumlheng mitheng ho taona gim-namtui dimset akichoi cheh-un ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Amaho chun la thah khat asauvin: “Lekhabu chu ala ding le Asinkhana lhamlha dinga lom nangma bou nahi; Ajeh chu nangma kithat tasa nahi. Phungtin le chitin namtina mi, Paotin paotanga mi, gam vaipi nam jousea mi Pathena dinga nangman nathisana nachohdoh ahitai."
+      },
+      {
+        "verse": 10,
+        "text": "Pathen dinga amaho chu Gamsung mi le thempua napansah ahitai; Chutia chu amaho chun Vannoi leiset chunga vai apoh ding ahi,” atiuvin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chujouvin kagahvet leh, chuche laltouna le ganhing ho chule upa ho kimvel’a chun Vantil asang aja o kajan ahi; amaho chu sang som tamtah jat sang som, sang tamtah jat sang tamtah ahiuve."
+      },
+      {
+        "verse": 12,
+        "text": "Amaho chun o sangtah-in: “Akithatsa Kelngoinou chu ijakai bol theina thahat, Hao, chih, thahat, choiat, loupi Pachat changa lom ahi,” atiuve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin van a leiya, lei noiya chule twikhanglena thilsem jousen chule chuche ho lah a um chengsen ahiti seiyu o hi kajai: “Laltouna a toupa le Kelngoinou chu Pachat le choiat chule loupina le thuneina Vaipoh atonsot atonsot geiyin Chang jing hen,” atiuve."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin ganhing li ho chun, Amen.” atiuvin ahi. Chule upaho chengse chun aboh khup’un chibai abohtauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Kelngoinou chun asinkhana sagi lah a khat chu ahon kamui, chule ganhing li ho lah a khat chun van ginga bangin, “Hungin,” ati kajan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh a chu kahin vet le, veuvin, sakol kang khat kamun, achunga toupa chun gophel achoiye; ama chu lukhuh khat apeuvin ahi; chule ama chu ajoupeh le ajoupeh dinga hung kondoh ahi. "
+      },
+      {
+        "verse": 3,
+        "text": "Chuin sinkhana anina ahon le, ganhing nina chun, “Hungin,” hitia ati chu kajan ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun sakol chom khat ahungdoh in, hichu asan ahi; chuin miho chu amaho le amaho akitha to nadinga, achunga a toupa chu leiset’a kona chamna lah mangna kipea ahi; chule a ma chu chemjam lentah khat jong kipea ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin aman sinkhana athumna ahon phat chun ganhing athumna chun, “Hungin,” ati kajan ahi Chuin veuvin sakol vom khat kamun ahi; chule achunga toupa chun khaikot achoiyin ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin ganhing li ho lah a kon chun, suhlou chang khai khat man makhai, chule sakolchang khai thuma makhai ahi; chule nangman thao le lengpitwi vang chu sumang hih-in, ti o kajan ahi. "
+      },
+      {
+        "verse": 7,
+        "text": "Chuin aman sinkhana ali na ahon phat chun, “Hungin,” ti ganhing ali na o kajan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun kavetle, veuvin, sakol eng dang khat kamun; chule achunga toupa chu amin, “Thina ahi,” akiti. Chule mithigam in anung nung ajuiyin ahi. Chule chemhema gilkela, thinaa, chule gamsa a atha dinguva amaho chu vannoi leiset hop lia hop khat chunga thuneina kipea ahiuve."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin sinkhana a-nga na chu ahon phat chun, Pathen thu jal le hettohsahna aneiyu jal’a kithat te ho lhagao hing chu maicham phung noiyah kamun ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Amaho chun o sangtah-in asamun, “Vo Pakai theng le kitah, thu tan a chule leiset chung cheng ho chunga keiho thisan asou phulah ding chu itih chan nakho ngai ding ham?” atiuvin ahi. "
+      },
+      {
+        "verse": 11,
+        "text": "Hichun amaho chu ponbang ape cheh tauvin ahi; chule amaho chu asohchanpi ho chengseu le asopite chengseu amaho bang a atha dingu chu akim masangsea, chomkhat a-nga tahdi dingu ahi, tin ajah uva aseiyun ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin sinkhana gupna chu ahon phat chun ling nasatah ahung kiho kamun; chule nisa chu samul khaodip pon bangm adumtan, chule lhathah pumpi thisan a bang jengtan ahi;"
+      },
+      {
+        "verse": 13,
+        "text": "chule vana ahsi ho chu hui hattah-in theichang amut linga ahut apul lhah bangin, leiyah apullha gamtan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chule van chu lekha kijel bangin akijel’in amang hel tan ahi; chule mol le lhang jouse le twikol gam jong ama ama muna konin akichonmang gamtan ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chule leiset leng ho, milen ho, sepai lamkai pipuiho, chule mihaoho, chule ahatte ho, chule sohho chengse le soh hilou ongthol chengse kokhuh sunga le mol’a songpiho’ah chun akisel’un;"
+      },
+      {
+        "verse": 16,
+        "text": "chule mol le songpiho jah a chun, “Kachunguvah hung lhun lang laltouna toupa maikoh a kon le Kelngoinou lunghan na konin neisel’un;"
+      },
+      {
+        "verse": 17,
+        "text": "ajeh chu alung hanu nikho chungnung chu ahung lhungtai koiham adingthei ding?” atiuvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujou chun vannoi leiset ning lia Vantil li dinga, vannoi leiset chung le twikhanglen chunga chule thing chunga hui anun louna dinga, vannoi leiset hui li tuh tanga kamun ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Pathen hing melchihna choiya, nisona lama kona hung kaltou Vantil chom dang khat kamun; ama chun hatah-in asamin, leiset le twikhanglen suhsetna ding thu kipea Vantil li ho jah a chun,"
+      },
+      {
+        "verse": 3,
+        "text": "I-Pathen sohte ho chai a melchihna kanam masang seuvin, nanghon leiset le twikhanglen chule thing ho suse hih ta diuvin,” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin melchihna kinama chu amijat kajan; Israel phung chengsea melchihna kmama sang ja khat le sang som li le sang li ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Judah phunga melchihna kinam sang som le sang ni; Reuben phunga sang som le sang ni, Gad phunga sang som le sang ni,"
+      },
+      {
+        "verse": 6,
+        "text": "Asher phunga sang som le sang ni, Naphtali phunga sang som le sang ni, Manasseh phunga sang som le sang ni,"
+      },
+      {
+        "verse": 7,
+        "text": "Simeon phunga sang som le sang ni, Levi phunga sang som le sang ni; Issachar phunga sang som le sangni,"
+      },
+      {
+        "verse": 8,
+        "text": "Zebulun phunga sang som le sang ni, Joseph phunga sang som le sang ni, Benjamin phunga melchihna kinam sang som le sang ni ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hicheng jou chun kavet le chiti’n namtina kon, phungtina kon, chule mite tin chenga kon le paotin paotanga kon, koima simsen lou mipi atama tam abang jenga kivon, lusuna kichoiya laltouna ang le Kelngoinou ang’a ding kamun,"
+      },
+      {
+        "verse": 10,
+        "text": "chule amaho chun: “Huhhingna chu Laltouna a tou, I-Pathenu le Kelngoinouva ahi,” tin o sangtah-in asamui."
+      },
+      {
+        "verse": 11,
+        "text": "Chule Vantil jouse chu laltouna le upaho chule ganhing li ho kimvel’a chu dingjinga ahiuve; amaho chu laltouna ang’a aboh khup’un Pathen alhaiyun:"
+      },
+      {
+        "verse": 12,
+        "text": "“Amen, pachatna, loupina, hetna, chihna, thangvahna, choiat le thuneina chule thahat Atonsot atonsot geiyin I-Pathenuva hijinghen, Amen,” atiuvin ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin upaho lah a khat chun eihin houvin kajah a, “Hiche ponbang jenga kivon ho hi koi hiuva chule hoiya hung kon hiuvam?” tin eidongin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Keiman ama jah a, “Ka-Pakai, nangman bou nahei, kati. Hichun aman kajah a, “Hite ho hi bolgim hesoh genthei chungnunga kona chu hung ahiuve; amahon Kelngoinou thisana chu avonu akisop bangu ahitai."
+      },
+      {
+        "verse": 15,
+        "text": "Hijeh a chu amaho Pathen laltouna ang’a uma, asun ajan a ahouin a chu amao lhachalea panga ahiuve; chule laltouna a toupa khun amaho chu pon in asonkhum ding ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Amaho hi itihchan hijongle gilkel dangchah kit talou ding ahiuve; nisan jong sangta lou ding, sat jong thohta louhel ding ahiuve;"
+      },
+      {
+        "verse": 17,
+        "text": "ajeh chu laltouna lailunga um Kelngoinou khu achingu hiding, chule hin twinah dunga chu apuihoile ding ahi; chule Pathenin amit lhi jouseu atheh hul ding ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin aman sinkhana sagina ahon phat chun van’ah nidan keh khat kahset athip chet jengtan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Pathen ang’a dingjing Vantil sagi kamun; chule amaho chu sumkon sagi chu apeuvin ahi. "
+      },
+      {
+        "verse": 3,
+        "text": "Chujouvin gimnamtui halna sanabom choiya Vantil khat ahungin maichama chun ahung dingin, laltouna maiya sana maicham chunga chu mitheng ho jouse taona abelappeh dingin gimnamtui tamtah apeuvin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun mitheng ho taona toh thakhat’in Vantil khut chunga kon chun gimnamtui khu chu Pathen angsung geiyin akikhodoh tan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun Vantil chun gimnamtui halnabom chu alan, maichama mei chu akhum in leiset chunga agahsep lhatan ahi. Chutah chun van agingin, o agingin, kol aphen, chule ling akihot tan ahi. "
+      },
+      {
+        "verse": 6,
+        "text": "Chujouvin sumkon sagi choiya Vantil sagi chu sumkon mut dingin kigosadem in aum tauvin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin amasapen pan amut le, thisantoh kihal gel le mei ahung umpaijen jengin ahi; chuin hichengse chu leiset chungah agahsep lhauvin ahile, chutah chun leiset chung hop thuma hop khat akavamtan ahi, thing ho jong hop thuma hop khat akavamin, chule hamhing jouse jong akavamtan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chujou chun Vantil nina chun amut le, meiya ka mol lentah tobang khat twikhanglen’ah asep lut tauvin ahile, chutah chun twikhanglen chu hop thuma hop khat thisan asoh tan ahi;"
+      },
+      {
+        "verse": 9,
+        "text": "chule twikhanglena cheng thilsem lah a ganhing hop thuma hop khat agamtan ahi, chule kong ho jong hop thuma hop khat suhmangin aumtan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin Vantil thumna chun amut le, meisel banga al-leng lung ahsi lenpi khat vana konin ahung lhan, luiho hop thuma hop khat chung le twinah ho chung’ah achun ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "chule ahsi a min chu Gamsai akiti; chule twi hop thuma hop khat chu gamsai asohtan ahi; akibol khat jeh chun twiya kon chun mi tamtah athi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin Vantil li na chun amut le nisa hop thuma hop khat, lha thah hop thuma hop khat, ahsi ho hop thuma hop khat athimna dingin akivosen, athima khovah beihelna dingin sun hop thuma hop khat akivosen ahi; jan jong chutima chu ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chujouvin kavet jingle mulaopi vanlaijol’a lengle lea hiche thu hi hasaptah a sama o kajan ahi. “Khuche Vantil thum sumkon mut dinga kigoho khun asumkon amut banu amut tengu le leiset chung cheng ho chu adanauve, adanauve, adanauve,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujouvin Vantil nga na chun amut le ahsi khat van a kona lha a leiya chua kamun ahi; chule ama chu lei-ong kokhuh hehna chu kipea ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin aman lei-ong kokhuh chu aheh hongin ahile, kokhuh sunga kon chun pummei nasatah a bangin meikhu ahung khudoh tan ahi; chule kokhuh sunga kona hung khudoh meikhu chun nisa le van athimtan ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chule meikhua kon chun khaokhote lei chung’ah ahung sohdoh tauvin ahi; amaho chu leiset chunga aipi thanei tobang thaneina kipea ahiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Chule leiset chunga hampa louhing anche dong chule thing khatcha suse louhel’a achal’a Pathen mi melchihna kinamlou mihobou chu nasuhset ding ahi, tia kiseipeh ahiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chule amahon hite ho chu tha chu atha lou dingu, lha nga geiya agenthei agentheiya agimbol dinguva kipea ahiuve; chule ami bolgim u chu aipin mi ape tenga bolgimna tobang bolgimna ahi. "
+      },
+      {
+        "verse": 6,
+        "text": "Hiche lai teng chule mihon thina ahol dingu, chule iti hol jong leu amu lou dingu ahi; chule thi alung ngai dingu chule thina chu amahoa kona jammang ding ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hiche khaokho ho limso chu galsat dinga gotsadem sakol abangin ahi, chule alu chunguva chu sana tobang lukhuh aumin, chule maiyu chu mihem maitoh abangin ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chule asamu chu numei samtoh abangin; chule ahau chu keipi hatoh abange."
+      },
+      {
+        "verse": 9,
+        "text": "Chule a-omphou chu thih ompho tobang ahin, alhaiyu gin galsat dinga lhaiya sakol kangtalai tamtah lhai gintoh abangin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Aipi mei bangin ameiyu aumin, amidena ajangjong aumin ahi; chule ameiyuva chu lha nga geiya mihemte agenthei theiya gimbolna athau uma ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Lei-ong solchah chu alengpau ahi; amin chu Hebrew paovin Abbadon ahin, Greek paovin Apollyon ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Dana masa kichaiya ahitai; veuvin, tu nunga hi dana ni hung lhung ding ahina laiye."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin Vantil gupna chun amut le Pathen ang’a um sana maicham kihoa kon chun o kajan ahi; "
+      },
+      {
+        "verse": 14,
+        "text": "khat chun sumkon choiya Vantil gup napa jah a chun, “Euphrates luipia Vantil li kihen ho chu lhan,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Hichun mihem hop thuma hop khat that dinga anidan, anikho, alha, akum phasadema kigotpeh Vantil li ho chu akilhadoh tauvin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule sakol chung chong galmi ho chu ami jat sang som jat ni sang som jat ahiuve; ami jat chu kajan ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chule kathil mua chun sakol chengse le achunga chong ho chu hiti hin kamui; a-omphou chu kamsan sung abangin, a-engdumin, chule kath jeng kath jeng ahi: chule sakol ho chu alu keipi lutoh abangin ahi; amaho kamsunga kon chun mei, meikhu, chule kath ahung sohdoh jin ahi. "
+      },
+      {
+        "verse": 18,
+        "text": "Chute ho kamsunga sohdoh mei, meikhu, chule kath chucheng suhgam chun mihem hop thuma hop khat akithat gamtan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Sakol ho chu akamsungu le ameiyuva chu athanei nau uma ahi; ameiyu chu gul lheh lheh abangin, alu aumin; hichea chu mi agimbol’u ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Suhgamna chuchenga kithat moh ho chengse chu akhut tham athibol’uva konin alungu aheipouvin ahi; hichu amahon thi lha ho le khomu theilou, sana, dangka, sum-eng, song chule thinga asemu milimho hou atang pouvin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chule amahon toltha mitphel doi choi, jon thanhoi, guchat, hichenga kon chun alungu aheipouvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Vantil chomdang hattah khat meiya kitom vana kona ahung kumlhah kamun, alu chunga chun lhagui akiveiyin, amai chu nisa toh abangin, chule akeng chu meikong khomtoh abange;"
+      },
+      {
+        "verse": 2,
+        "text": "chule akhut’a chun lekhabu neocha kiphonga khat achoiyin ahi. Ama chun akeng jet lamin twikhanglen achonin, vei lamin lei achonin ahi;"
+      },
+      {
+        "verse": 3,
+        "text": "chule keipi kitum bang hel’in hatah-in kho asamin ahi; akhosap chu van gin sagin ahin dongin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chule van gin sagi chun thu asei phat chun lekha a sun ding kakigotan ahi; chuin van o ahung gingin hitia hi asei kajan ahi. “Van gin sagi thusei chu imchah-in sun hih-in,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun twikhanglen le lei chunga dinga Vantil kamu chun van lama akhut jetlam adom sangin, "
+      },
+      {
+        "verse": 6,
+        "text": "van le vanlaijol’a thil um chengse le leiset chule asunga um chengse chule twikhanglen le asunga um chengse aboncha sema a-imatih chana hing jing ama min chu apanin ahahsel’in, “Sotta lou ding ahi;"
+      },
+      {
+        "verse": 7,
+        "text": "ahin Vantil sagi na chu sumkon mut akigot tengle hichu agin phat phat le Pathen thuguh, asoh themgao ho apeh Thupha dungjuiya chu guilhung ding ahitai,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun van o kajah chu kaja kit leuvin eihouvin kajah a, “Khuche twikhanglen khu le lei chunga dinga Vantil khut’a um lekhabu kiphonga khu chen lang galan,” eitin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin keiman Vantil henga chun kachen ajah a, “Lekhabu neocha chu neipen,” kati, Chuin aman kajah a, “Lan lang nejou jengin; hichun na-oisung akhatsah ding ahi; ahin nakama vang khoiju banga lhum ding ahi,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun keiman Vantil khut chunga kon chun lekhabu neocha chu kalan, chuin kanetan ahi; hichun kakamah khoiju lhumin alhumin ahi; ahin kanehjou phat chun ka-oisung akhatan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin amaho chun kajah a, “Miho chule chitin namtin le paotin paotang, chule leng ho tamtah chung chang thu naseidoh kit tei ding ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hichun tenggol lheh lheh pengmol khat keima eipeuvin chule kajah a hitin aseiye, “Kipat’in lang nangman Pathen houin le amaicham chule asunga um ahouho chengse khu gaten."
+      },
+      {
+        "verse": 2,
+        "text": "Houin polam aleitol chu khendoh-in te hih-in; ajeh chu chidang namdangte kipedoh ahitai; chule amahon lha som le le lha ni geiya khopi theng chu achotpha dingu ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chule keiman kathu hettohsah ni thuneina kapeh ding, chule amani chun khaopon akisillhona ni sang khat le ni ja ni toh ni som gup sunga thu aseidoh lhon ding ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Amani chu vannoi leiset Pakai ang’a dinga Olive thingphung ni chule meivah khom ni chu ahilhone."
+      },
+      {
+        "verse": 5,
+        "text": "Hite ni chu mi khattouvin bolgim dinga agot jousea, akamsung lhona kona meipot’a amelma chengseu chu akah vam jengji ahi; chule hitia chu koi hile amani chu bolset goa chu kithat jeng ding ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Amani chu athu seidoh lai lhona chu go ajuh louna dinga, van khahchah thei ahilhone; chule amanin suh gamna tintanga leiset asuhgam lhona, twi thisan asosah nomchan lhona, asosah lhon dinga twi chunga thuneina anei lhon ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Amani chun athu hettohsah achai lhon tengle lei-onga kona hung pot sahem chun amani chu akisatpia amani chu ajoa atha ding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuteng Sodom le Egypt, hiche lhagao lam min umna khopi, a-Pakaiyu thingpel’a akhetbeh nau khopi sung lamlen a chu along lhon kijam ding ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Mite hon chitin namtin le phungtin a min, paotin paotanga min, chule namtin vaipin ni thumle akeh geiya along lhon chu avet a vet jeng dingu ahi, chule along lhon chu vui ding thu apeh lou dingu ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chule vannoi leiset mite, amani chung changa chu kipah thanom ding ahiuve, khat le khat kipaman kithot to ding ahiuve; ajeh chu hiche themgao teni chun leiset chung cheng ho agimbol lhon ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin ni thum le akeh jou chun asung lhona Pathena kona hinna lhagao alutjeh chun, amani akengin ading gel lhontan ahi; chuphat chun ave veho chu akichata lheh jeng tauvin,"
+      },
+      {
+        "verse": 12,
+        "text": "Chuin, “Hilama hung kaltou lhonin,” tia van ogin nasatah aja lhonin ahi. Chutah chun amani chu mei kangtalaiyin vanah akaltou lhontan ahi; chule amelmateu chun amu jingu ahilhone."
+      },
+      {
+        "verse": 13,
+        "text": "Hiche pettah chun ling nasatah ahung kihottan ahi, hichun khopi chu hop soma hop khat achimtan ahi; hiche ling kiho chun mi sagi a thin chule athimoh chengse chu atijat lot chengun van Pathen chu avahchoitauvin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Dana nina chu kichaiya ahitai; dana thumna chu hung lhung vahjet ding ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin Vantil sagina chun amuttan ahi, chule van’ah o nasatah atama tamin ahinjomin; “Vannoi gamvaipoh hi I-Pakaiyu le a-Christa a ahitai; Chule aman atonsot atonsot geiya Vai apoh ding ahi,” atiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin upa som nile li ho Pathen ang’a alaltouna cheh a touho chu akhupbon alhu’vin Pathen chibai aboh-un,"
+      },
+      {
+        "verse": 17,
+        "text": "“Vo Pakai Pathen Hatchungnung, Auma Aumsa, Nangma kathangvahui; Ajeh chu nangman nathuneina Chungnung chu nakilah a vai napoh ahitai."
+      },
+      {
+        "verse": 18,
+        "text": "Namtin vaipi lung hanga ahiuvin, Chuin nangma lunghan le athiho thutan phat, Chule nasoh themgao ho le Mitheng ho, Nangma min ging ho alen aneo, Tohphat man peh phat, Chule leiset sumang ho phat chu hung lhunga ahitai,” atiuve."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin van a um Pathen houin muntheng chu akihongin chule ahouin Mun Theng sunga chun kitepna thu thingkong chu akimun ahi; chule kol aphen o agingin, van agingin, ling akihot tan ahi, chule gel len nasatah alhan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin vanah melchihna chungnung khat akimun ahi; numei khat nisa a kijema, akengto noiya lhathah uma, chule alu chunga ahsi som le nia kijem lallukhuh kikhuh ahi;"
+      },
+      {
+        "verse": 2,
+        "text": "chule amanu chu naovop ahi; chule naoso nat thohgima ham hama ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin van’ah melchihna kidangtah achom khat akimu kittan ahi; veuvin, dragon san lentah, alu sagi, chule aki som, chule alu-hoa chu lal lukhuh sagi kikhuh, khat ahung umin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chule amei chun van a ahsi ho hop thuma hop khat aloilhan leiyah asep lhan ahi; chule dragon chu asoh dingkon numeinu ang’a chun ading jing jengin ahi, asolhah tih tih acha chu aval lhum jeng theina dingin."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin amanu anavah le chapa khat asohtan ahi; ama chun namtin vaipi jouse chunga thih tenggol’a vai apoh ding ahi; chuin acha chu Pathen heng le alaltouna’ah lahtouvin aum tan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin numeinu chu gamthip lama ajam mangtan ahi; hikoma chu ni sang khat le ni ja ni le ni som gup geiya akivahna dinga, amanu chu Pathenin mun agotpehsa ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin van’ah gal akisat tan ahi; Michael le Avantil ho chengsen dragon chu asat tauvin ahi; hichun dragon le asolchah ho jong chun asat thuh tauve;"
+      },
+      {
+        "verse": 8,
+        "text": "ahivangin ajoutapouve; chujongle van’ah amaho mun akimu kit tapon ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin dragon len chu gul lui, diabol le satan kiti vannoi pumpi lhemlha a chu, ama chu leiyah lelhah-in aumtan ahi; chule asolchah ho jong chu amatoh lelhah than aumtauve."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun keiman van’ah o nasatah khat kajan ahi; hichun; ‘Tun huhhing, thahat lenggam i-Pathen uva Chule thuneina chu a-Christa a ahitai; Ajeh chu isopiteu hehsea chu Akileh lha a ahitai. Ama chun i-Pathen henguva amaho chu Asun ajana ahehset jingji ahi. "
+      },
+      {
+        "verse": 11,
+        "text": "Chule amahon Kelngoinou thisan vang le Ahettohsah thu u vanga Ama chu ajokhup dingu ahitai; Chule amahon thi geiya ahinkho itcha louhel ahiuve."
+      },
+      {
+        "verse": 12,
+        "text": "Hijeh chun Vo van ho, Chule asunga cheng chengse kipah thanom un; Leiset te twikhanglen chu adanaveuve; Ajeh chu diabol nahengu hung geisuh ahitai; Phat chomcha bou anei chu ahen, Lunghan chungnunga lunghanga ahi,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin dragon chun leiya akilelhah chu amun, hichun acha soh a chapa khat hinga numeinu chu abolsetan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin numeinu chu ama mun gamthip lama chu gul chun amu phah louna a alemang theina dingin, mulaopi lhaving ni akipen ahi; hikoma chu phat khat, phat ni chule phat keh khat geiya kivahdoh ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Hichun gul chun twi lhohsah theina dingin akamsunga konin numeinu nung sanga chun luipi dung tobang leuvin twi aphidoh tan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Ahinla vannoi leiset’in numeinu chu anahun, anakahomin, gul’in akamsunga kona aphidoh twi tuipi dung chu ana val jouhel tan ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chutah chun gul chu numeinu chunga chun alung hangin, amanu chilhah ho Pathen thupeh nit le Jesu thu hettohsah jop amoh chengse chutoh kisat dingin akondoh tan ahi. Chule achen twikhanglen nel chunga aga dingtan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin keiman twikhanglen a kona sahem khat ahung kipatdoh kamui; ama chu aki som ahin, alu sagi ahi; akihoa chun lal lukhuh som aume, chule aluhoa chun Pathen taitomna min ho aume."
+      },
+      {
+        "verse": 2,
+        "text": "Hiche sahem kamu chu lutnu toh abangin, akengto chu vompi kengtoh abangin, chule akam chu keipi kamtoh abange; chule dragon chun athahat le alaltouna chule athuneina chungnung ama chu apetan ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chujou chun keiman kamui, chuche aluho lah a khat chu thihel’a kisat lheh lheh ahi, ahin thihel’a akisatna chu kiledoh ahitai; chule vannoi pumpin kidangin amu’vin ajuitauve."
+      },
+      {
+        "verse": 4,
+        "text": "Chule sahem chu athuneina apeh jeh chun mihon dragon chu ahouvun, “Hiche sahem tobang koiham? Koi ham amatoh kisat thei dinga?” atiuvin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chule hamhoithona le Pathen taitomna a thuseina kam apeuvin; chule lha som li le lha ni geiya thilbol dingin thahat thuneina apetauvin ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chutah chun Pathen taitomna-in akamkatan ahi, amin le achenna, chule van a cheng ho jouse ataitomtan ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chule mitheng ho toh kisat dingle amaho chu jou dinga ama chu thahat kipea ahi; chule ama chu phungtin le mite tincheng chule paotin paotang le chitin namtin chunga thuneina kipea ahitai."
+      },
+      {
+        "verse": 8,
+        "text": "Chule leiset chunga cheng mi jousen ama chu ahou dingu ahi, leiset bul kiphudoh til’a pat’a akithatsa Kelngoinou hinna lekhabu sunga amin kisun louho chengse chun."
+      },
+      {
+        "verse": 9,
+        "text": "Nakhang neiya aumle ngai hen."
+      },
+      {
+        "verse": 10,
+        "text": "Gal-hinga kaidol kikai ding; chemhema mithat aumle chemhemma lou ding ahi. Hichea hi mitheng ho thoh hat le tahsan kilanga ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin sahem chom khatma leiset’a kona ahungdoh kamun ahi; ama chu kelngoi nouva tobang aki ni ahin, chule dragon bang bangin thu aseiye."
+      },
+      {
+        "verse": 12,
+        "text": "Chule ama chun vannoi leiset le asunga cheng chu ama angsunga amangchan ahi. Chule ama chun vannoi leiset le asunga cheng ho jouse thihel’a akisat kiledoh kit sahem masa chu ahousah tan ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chule ama chun melchihna thil nasatah tah abol’in miho mitmun van a kona leiya mei lhahsah geiyin abol’in ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chutia chu sahem mitmua chu melchihna tintang bolna ding thahat ama chu kipea ahi, hichea chu aman vannoi leiset chung cheng ho asuh lamvai ahi; ama chun leiset chung cheng ho jah a, “Chemjama kisat lem kiledoh kit sahem chu alim khat semun,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Chule sahem lim chun thu asei theina dinga, chule chuche sahem lim chu ahou lou jouse akitha theina dinga, ama chun sahem lim sunga chu hinna hu akhum ding, hichan geiya chu thaneina kipea ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule ama chun aneo alen, ahao avai, chamlen le soh, hicheng jouse chu akhut jet lamu ahim, achal’uva ahim a melchihna chu aban neisah ahi;"
+      },
+      {
+        "verse": 17,
+        "text": "chule chuche sahem melchihna, amin chu ahiloule amin mohor neilou chun, cho theita lou, joh theita lou ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Hichea hin hetna chihna akilange; lungthim them’an hiche sahem mohor chu sim hen; ajeh chu hichu mihem number ahi; chule hiche number chu ja gup le som gup le gup ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujou chun veuvin, Kelngoinou chu Zion mol chunga chu adin kamun, mi sang ja khat le sang som li le sang li toh ahi; amaho chu achal’uva ama min le a-Pa min kisuna ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin van a konin twi tamtah gin lheh lheh le van gin lheh lheh o khat kajan; ka o jah chu selangdah tum hon aselangdah cheh atumu gingtoh abangin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chule amaho chun laltouna ang ganhing li ho chule upaho anga jong chun la thah akitoh-in khat asauvin ahi; chule vannoi leiset’a kona achohdoh mi sang ja khat le sang som li le sang li ho tailou chu, adang koimacha hiche la chu kichuh them thei lou ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Amaho chu numei chunga kisuboh louhel ahiuve; amaho chu suh khah loulai hel nu-ngah thengsel ahiuve. Amaho chu kelngoinou chena chana anung nung jui le ho chu ahiuve, Pathena ding le Kelngoinou dinga aga masa tia amaho chu mihemte lah a kona kichodoh ahitauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chule amaho chu akam sunguva thujou pot kihekha louhel ahiuvin; nolnabei hel ahiuve."
+      },
+      {
+        "verse": 6,
+        "text": "Chujouvin vanlaijol’a Vantil khat leng le le kamui; ama chun leiset chunga cheng chitin namtin le phung tin, chule paotin paotang le mite ho henga seiphong le dinga tonsot Kipana Thupha anei ahin,"
+      },
+      {
+        "verse": 7,
+        "text": "ama chun o nasatah-in asamin, “Pathen gingun, aloupije chu vahchoiyun; ajeh chu athutan avaihom phat ahung lhungtan ahi; chule van le lei, twikhanglen, twinah jouse, hichengse sema chu houvun, chibaiyun,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Vantil anina achom khat ama nung nunga chun achelen, “Ajon thanhoi jeh a lunghanna lengpi ju chitin namtin le phungtin donsah a Babylon khopi chungnungtah chu achimtai, achimtai,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuche jou chun Vantil thumna chun amani nung nung chu ajuiyin hatah-in asamin, “Koi hile sahem chule alim chu houva chibai boh chu chule achal’a ahim, akhut ahim a, amelchihna kinamdoh chu kilah a aumle,"
+      },
+      {
+        "verse": 10,
+        "text": "ama jong chun Pathen lunghanna khon a chu alunghanna lengpi ju imatoh hal louhel gotsa kikoi chu adon tei ding ahi; chule Vantil theng ho mitmu le Kelngoinou mitmua chu mei le kath kah nat athoh gim dingu ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "amaho nat thoh gim meikhu chu aimatih chan a kitungdoh jing jenga ahi; chule chuche sahem chule alim chu houva chibai boh a chule koi hile amin melchihna kilah chan chu, asun ajan a oltih nei louhel ahiuve."
+      },
+      {
+        "verse": 12,
+        "text": "Hichea hin Pathen thupeh ho le Jesu tahsan thu nit mitheng ho thohhat je thu kilanga ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin van a o ahung gingin, “Sunin, tukala Pakai a thiho chengse chu anun noma ahiuve; ahi, amaho chu atohgima kona cholnga ding ahiuvin, anatoh chengun anungu ajui ahijeh chun, tin Lhagaovin aseiye,” ati kajan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin kavet le veuvin, meibang khat chule achunga chu mihem chapa lheh lheh alua sana lukhuh kikhuh a akhut’a koite hemtah khat kichoiya tou kamun ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin houin sunga kon chun Vantil chom dang khat ahung potdoh-in meibang chunga toupa jah a chun o sangtah-in asamin, “Nakoite panin lang chang at tan; a-at phat ahitai; vannoi leiset chung aminin akoitai,” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin meibang chunga toupa chun vannoi leiset chung’ah akoite apantan ahile, hichun vannoi leiset chang aki-at tan ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin van a houin sunga kon chun Vantil chom khat ahung potdoh kit leuvin ama jong chun koite hemtah khat aneiyin ahi. "
+      },
+      {
+        "verse": 18,
+        "text": "Chuin Vantil chomdang khat mei chunga thuneiya chu maichama konin ahung potdoh-in, koite hemtah choipa jah a chun o sangtah-in asamin, “Nakoite hemtah chu panin lang vannoi leiset lengpiga abohho at khomtan; aminjel’a ahitah jeh khun,” ati. "
+      },
+      {
+        "verse": 19,
+        "text": "Chuphat chun Vantil chun akoite apanin vannoi leiset lengpiga aboh ho chu a-at khomin, Pathen lunghanna lengpiga hehna len chungnung khuh sunga chun asep lut tan ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Chule khopi polama lengpiga hehna khuh sunga chun achilun ahile, lengpiga hehna khuh sunga kon chun thisan ahung sohdoh-in ching sang khat le ching ja gup geiyin sakol kamdal chan gei aphan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujou chun keiman van’ah melchihna thil kidang chungnungtah achom khat suh gentheina nukhah sagi neiya Vantil sagi kamun; hicheng chu suh gentheina kichaina ahi; ajeh chu Pathen lunghan hichenga chu kichaisoh ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin meitoh kihal phatvet twikhanglen tobang khat kamun; sahem chule alim chule amin number chu neh jouva chuchenga kona kihuhdoh ho cheng se chu Pathen selangdah akichoiyuva phatvet tobang twikhanglen panga chu adin jingu kamun ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Amaho chun Pathen soh Mose la chule Kelngoinou la chu asauvin; “Vo ijakai bol thei Pakai Pathen, Nangma thilbol hi aloupin akidange; Vo tonsot lengpa, Nangma lampi adih-in akitah-e;"
+      },
+      {
+        "verse": 4,
+        "text": "Pakai koiham nakicha lou dinga? Chule nangma min vahchoi lou ding koiham? Ajeh chu nangma jeng bou atheng nahi; Ajeh chu nangma chonphat thilbol kiphon jeh a hi Chitin namtin nangma ang’a hung kun cheh ding ahi,” atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Hiche jou chun van a hettohsahna houin dan sung nung Mun Theng chu akihon kamun;"
+      },
+      {
+        "verse": 6,
+        "text": "chule houin a kon chun suh gentheina sagi chunga thuneiya Vantil sagi chu ahung potdoh-un, songval manlutah athena thengin akivonun, sana konggah a-om’uvah akikouvin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin ganhing li ho lah a khat chun Vantil sagi ho chu a-imatih chan a hing jing Pathen lunghanna dimset sana sumlheng sagi apetan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun Pathen loupina le thuneina kon meikhu chu houin sung chu adimset jengtan ahi; chule Vantil sagi chun suh gentheina sagi chu abulhit masangseu chun koimacha houin sunga chun alut theipon ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujouvin houin sunga kon chun Vantil sagi ho lah a, “Nang ho cheuvin lang Pathen lunghanna sumlheng sagi chu vannoi leiset chung’ah gabung lhauvin,” tia hasap tah a kisam o kajan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun Vantil amasapen chu achen vannoi leiset chunga asumlheng chu abung lhatan ahi; hichun sahem melchihna nei le alim houva chibai boh miho ti chunga chun nat hoisetah tina achutan ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin Vantil anina chun twikhanglena asumlheng abung lhan ahile, hichu mithi thisan bangin thisan asohtan ahi; chule ganhing jouse twikhanglena cheng jouse abonchan athigamtan ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Vantil athumna chun luidung le twinah ho jousea asumlheng abung lhan ahile, hichun hichu thisan asohtan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat chun twi Vantil chun hitia asei kajai, “Nang Auma Aumsa, chule Thengtah, Dihtah nahi; hicheng jeh a chu nangman hitia hi thu natan ahitai;"
+      },
+      {
+        "verse": 6,
+        "text": "ajeh chu amahon mitheng hole themgao ho thisan anasou ahi; hijeh a chu nangman jong amahon adon dinguva thisan napeh ahitai; hichu amaho chandoltah ahi,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chujou chun maichamin hitia asei kajan ahi, “Ahi, Pakai Pathen Hatchungnung, nangma thutan vaihom chengse hi akitah-in chule adih soh keiye,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Vantil ali na chun nisa chunga asumlheng abung lhan ahile, hichun miho chu meiya asahgop dingin thuneina apetauvin ahi. "
+      },
+      {
+        "verse": 9,
+        "text": "Chuin miho chu asajap jappi chun asanggoptan ahile, hiche suhgentheina sagi chunga thunei Pathen min chu ataitomun, aloupina chu vahchoi dingin alung aheipouvin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin Vantil anga na chun sahem laltouna chunga asumlheng abung lhan ahile, hichun agamsung mu athimsoh tan, chule amaho chun anat thoh lel jeh-un a lei a pet tauvin ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "chule a nat thohgimu le atina thoh lel jeh-u chun van a Pathen ataitomun, achonnau athilbol’uva konin alung aheipouvin ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin Vantil agupna chun Euphrates luipia asumlheng abunglhan ahile, hichun nisona lama kona hung ding leng ho dinga lampi gotsa aum theina dingin, chuche luipi dung twi chu akangtan ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuphat chun dragon kamsunga kon le sahem kamsunga kon chun uphoh tobang lhagao boh thum ahungdoh kamun ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Hite ho chu thi lha ho lhagao ahiuvin, melchihna kidang dang vetsah ahiuve; amaho chun imajouse bolthei Hatchungnung Pathen nikho loupi chungnung nia galsat dinga vannoi leiset pumpia leng ho kikhopsah dinga amaho henga chu chea ahiuve."
+      },
+      {
+        "verse": 15,
+        "text": "“Veuvin, keima gucha bangin kahunge, Koi hile kihong jinga sagoh a auma ajachat kiphon louna dinga aponsil kivetphat jinga chu anun nom ahi,” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin amaho chun Hebrew paova ‘Armageddon’ atiu mun laiya chun amaho chu akikhopsah tauvin ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Vantil sagina chun vanlaijol’a asumlheng abung lhan ahile, hichun houin a kon le laltouna a konin “Akichaitai,” tin o sangtah ahung soh-in ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun kol aphen, o agingin, van agingin, ahitai; chule vannoi leiset chunga mihem umtil’a pat chutobang lingpi kihot kha louhel, hitobangtah chun ling akihot tan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Hichun khopi chungnung chu hop thum akisotai; chule chidang namdangte khopi chengse chu achim lhagamtan ahi; chule Pathen lunghan chungnungna lengpiga ju khon chu peh dingin, Babylon khopi chungnung chu Pathen ang’a geldoh jingin aumtan ahi. "
+      },
+      {
+        "verse": 20,
+        "text": "Chule twikol gam jouse ajam mang gamtan, mol le lhang ho jong akiholmo tan ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chule mi chunga van a konin agih talent khattoh kikot gel len nasatah alhan; hiche gelpi chun asuhgam jeh-u chun min Pathen ataitomtan ahi; ijeh-inem itile hichu nasa behseh jenga ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujouvin sumlheng sagi choiya Vantil sagi ho khat chu kahenga ahungin eikihoupin kajah a, “Hungin vannoi leiset leng hon ajonpiu notinu,"
+      },
+      {
+        "verse": 2,
+        "text": "chule ajon thanhoina lengpiga jua vannoi leiset chung cheng ho kham ngolsah gam, twi tamtah chunga tou noti chungnungnu talen mat vetsah ing kate,” eitin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hiche chun ama chun, Lhagaovin gamthip lama eipuitan ahi; hichun Pathen taitomna min dimset, chule alu sagi, aki som nei, sahem santhip chunga tou numei khat kamun ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hiche numeinu chun pon sandup le pon santhip asil’in, sana, khisong mantam jeng le twikohchangin akijemin; chule akhut’a chun thil thet umtah le ajonthanhoina beh nen dimset sana khon khat akichoiyin ahi;"
+      },
+      {
+        "verse": 5,
+        "text": "chule achal’a chun hiche min hi akisune, “Thugil Babylon khopi chungnung, vannoi leiset noti ho le thil thet umtah ho nu,” tin."
+      },
+      {
+        "verse": 6,
+        "text": "Chule numeinu chu mitheng ho thisan le Jesu thu hettohsah ho thisana kham ngol’in kamun ahi. Amanu chu kamun kidang kasa behseh jengin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hichun Vantil chun kajah a, “Ibol’a kidang nasah ham? Khuche numeinu le apuilea alu sagi, aki som nei sahem thuguh khu seipeh inge."
+      },
+      {
+        "verse": 8,
+        "text": "Sahem namu khu aumsa ahin, umtalou ahi, ama leionga kona hung kaltouva manthahna a che dinga ahi. Chule vannoi leiset chung cheng hon aumsa, tua umtalou, khonunga hung um ding sahem chu amu tengu le, ama chu adatmo lheh dingu ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hichea hin chihna lungthim them thu aume, Alu sagi chu mol sagi ahi; hicheng chunga chu hiche numeinu chu touva ahi;"
+      },
+      {
+        "verse": 10,
+        "text": "chule hicheng chu leng sagi jong ahiuve; amaho lah a nga chu alhusa ahitan, khat aumpet ahi, chule khat vang chu um loulai ahi; ama chu um jong le chomcha khat bou um ding ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chule chuche sahem aumsa, umtalou chu, amatah chu agetna ahi, chule sagi ho loiya mi ma ma khat ahi; ama chu manthahna lama che dinga ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chule nangman aki som namu chu leng som ahi; amaho chu tua gam nei loulai ahiuve; ahinla nidan kah khat sunga dinga sahem chutoh tha khat tah a gam vaipohna thu anei khom dingu ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Amaho chu thu khat akisauvin atha hat nau le athunei nau hiche sahem chu apeuve."
+      },
+      {
+        "verse": 14,
+        "text": "Amaho chu Kelngoinou chutoh kisat ding ahiuve; hintin Kelngoinou chun amaho chu ajo ding; ajeh chu ama pakaiho Pakai le lengho Leng ahi, chule aumpi ho chengse jong akikou le lhenchom chule tahsan tah cheh ahiuve,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin ama ma ma chun kajah a, “Nangman namu twi tamtah notinu touna twiho chu mite ho le mipi chule namtin vaipi, chule paotin paotang ho ahiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Chule namu ki som chule sahem chun notinu chu ahot dingu, chule imacha nei louhel le sagoh keova alha dingu, asa jong aneh dingu, chule meiya agovam dingu ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Ajeh chu Pathen thu guilhun kahsea alung got suh bukimna dinga amaho chu lung khat ahiuva, agam cheh-u sahem chu apehna dinguva Pathenin alungu achothou ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Chule nangman namu numeinu chu, vannoi leiset leng jouse chunga vaipo, khopi chungnung chu ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche jou chun Vantil thuneitah achom khat van a kona ahung kumlhah kamun; aloupi chun vannoi leiset asalvah soh jengin ahi. "
+      },
+      {
+        "verse": 2,
+        "text": "Ama chun o-sang chungnung tah-in “Babylon khopi chungnung chu achimtai, achimtai; thi lha ho chenna le lhagao boh ho jouse kihen khomna, chule vacha boh thet umtah ho kihenna bom asoh tai."
+      },
+      {
+        "verse": 3,
+        "text": "Ajeh iham itile amanu ajon thanhoi jua kona lunghanna lengpiga jua chu chitin namtin kisep lhu gama ahi; vannoi leiset leng ho amanu chutoh ajongun chule amanu nomsah val’a kona vannoi leiset sumkolvei ho haodoh gama ahiuve,” tin asamin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chujouvin van a kona hitia kisei hi o achom khat kajan ahi: “Vo kamite, nangho amanu chonsetna chu Nachan khah louna dingu le, Amanutoh nakisuh gamtha louna dingun, Amanua kon chun hungdoh-un."
+      },
+      {
+        "verse": 5,
+        "text": "Ajeh chu amanu chonset Vanah akidonghel tan ahi; Athemmona chengse Pathenin ageldoh ahitai."
+      },
+      {
+        "verse": 6,
+        "text": "Amanun napeh bang bangu chun Nanghon jong amanu chu pethuhun; Chule ama thilbol dungjuiyin Ajat nia ajat nin phulah-un; Achopolna khona chun Ajat nin chopolpeh-un."
+      },
+      {
+        "verse": 7,
+        "text": "Akiloupisah le akinomsah val bang bangin, Sugentheiyun sulung hemun; Ajeh iham itile amanun alungthim in, ‘Keima lengnua tou kahin, Meithai kahipoi; Itih chan hijong leh lunghem ni mulou ding kahi,’ ati."
+      },
+      {
+        "verse": 8,
+        "text": "Hijeh a chu thina, lunghem chule gilkel Hicheng chu asuh gentheina a amanu chunga Ni khat lhuna lhung ding ahi; Chule amanu chu meiya kigouvam ding ahi; Ajeh ihem itile amanu chunga thutan a Pakai Pathen chu chungnungtah ahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chule vannoi leiset leng ho, amanu jonpiho chengse le nomsahpi ho chengse chun amanu kigona meikhu chu amu tengu le amanu chu kachamun tin a-op achup chup jeng dingu ahi;"
+      },
+      {
+        "verse": 10,
+        "text": "chule a manu nat thoh gim chu kicha a gam latah a dinga, “Ohe! Ohe! Babylon khopi chungnung khopi dettah, nadanave! Nidan kah khat sungin nachunga thu kitanna alhung mai jeng tai,” ati dingu ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chule vannoi leiset sumkolvei ho jongin amanu akauvin, alhaset pi lheh jengun ahi; ajeh chu amaho kiveina thil;"
+      },
+      {
+        "verse": 12,
+        "text": "sana dangka, khisong mantam, twikohchang, tonjih pon, pon sandup, lungpon, pon santhip, thingnamtui mantam jouse, saiha kisem le bel jouse chule thing manlua, sum-enga, thih le songval a kisem kong le bel jouse;"
+      },
+      {
+        "verse": 13,
+        "text": "thingthal, aisaga, thingnai gim namtui, kinu ding thao namtui, bego, lengpiga ju, olive thao, changbong, suhlou chang, bongle kelngoi, sakol, kangtalai, soh, chule mihem hinkho hi chengse chu koiman achohpeh tah lou jeh chun."
+      },
+      {
+        "verse": 14,
+        "text": "Chule na-ngaichat nalha-ngai ga ho chengse chu nanga kona chemang gama chule ahoile thilval chengse kisuh mangpeh nahitai; mi koiman hiti ho chu itih chan hijongle amulou ding ahitai."
+      },
+      {
+        "verse": 15,
+        "text": "Thil chuchenga amanu haova kona haodoh sumkol veiho chengsen amanu nat thohgim chu akichan gamlatah a adingin amanu chu akacham un alhaset piuvin;"
+      },
+      {
+        "verse": 16,
+        "text": "“Ohe, Ohe, tonjih ponnem le pon sandup chule pon santhip kisil’a, chule sana khisong mantam chule twikohchanga kijem, khopi chungnung nadanave!"
+      },
+      {
+        "verse": 17,
+        "text": "Nidan keh khat sungin nei hijatpi amanghel jengtan ahi,” atiuve. Chule kongtol miho jouse konga kitola muntin a vahle ho le kong khao lha le ho chule twikhanglena kilon ho chengse, hite ho chengse chu gamlatah a adingun,"
+      },
+      {
+        "verse": 18,
+        "text": "amanu kigona meikhu chu amu’vin, “Hiche khopi chungnung toh kibang hoiya ipi khopi umam?” tin asamun ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chule amaho chun alu chunguva leivui akithe khumun, kap kap le lhase tah-in, “Ohe, Ohe, khuche khopi sum hao vanga twikhanglena um kong neiho haodohna, khopi chungnung chu adanave! Nidan keh khat sungin amang del jengtan ahi,” tin asamui."
+      },
+      {
+        "verse": 20,
+        "text": "Vo nangho, van le mitheng ho chule solchah ho le themgao ho, nangho amanu chung changa khun kipah thanomun; ajeh chu nangho chunga thu kitan chu Pathenin amanu chunga thu atan ahitai."
+      },
+      {
+        "verse": 21,
+        "text": "Chujouvin Vantil hat chungnung tah khat’in sumhei lheh lheh song lentah khat adomin, twikhanglen ah asep lhan, “Hiche banga hi Babylon khopi chungnung chu hasea kisep lha ding ahi; khonung le itih chan hijongle kimu kit ta louhel ding ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Chule selangdah tumho selangdah tumgin, lathemho lasah, sumkuli mutte ho sumkon gin a-imatih chan a nalah a kijata louhel ding ahi; chule khut themna gotchom choma thema khut them nalah a kimuta louhel ding ahitai; sumhei gin jong nalah a kijata lou ding ahi;"
+      },
+      {
+        "verse": 23,
+        "text": "a-imatih chan a nalah a meivah kivahta louhel ding ahi, chule nalah a mounu le moulang o kijadoh ta louhel ding ahi; hichu nasumkolvei ho chu vannoi leiset pipuho milen milal ahiuva, chule nangma doi choiya namtin vaipi alamvai jeh ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chule themgao hole mitheng ho thisan chule leiset chunga kithat jouse thisan aboncha hiche sunga hi kimudoh ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hicheng jou chun van’ah mipi atama tam ogin lheh lheh nasatah kajan, “Hallelujah, huhhingna le loupina Chule thahat thuneina i-Pathenuva ahi;"
+      },
+      {
+        "verse": 2,
+        "text": "Ama thutan vaihom akitah jeh le adih jeh ahi. Ajeh chu ajon thanhoiya Vannoi leiset suchavaiya noti lennu chu Aman athu atanin, Amanu khut’a kon Asohte phu chu alatan ahi,” atiuve."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin avel vel’in “Hallelujah,” atiuve. Chule amanu khu chu tonsot geiya kitungdoh jing jeng ding ahitai."
+      },
+      {
+        "verse": 4,
+        "text": "Chujou chun upa som ni le li ho chule ganhing li ho chun laltouna a tou Pathen chu alhaiyun achibaiyun, “Amen Hallelujah” atiuvin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin laltouna a kon chun o khat ahung sohdoh-in, “Vo Pathen sohte ho, Ama ginga nangho chengse Alen aneo nabonchauvin Pathen chibaiyun, vahchoiyun,” ati. "
+      },
+      {
+        "verse": 6,
+        "text": "Chujou chun mipi atama tam ogin tobang le twi tamtah lon gin tobang, chule van gin tobangin kajan, “Hallelujah, i-Pakaiyu Pathen, Hatchungnung-an vai apohtah jeh hin."
+      },
+      {
+        "verse": 7,
+        "text": "Hungun, kipa thanop bol’u hitin, Aloupina vahchoiyuhite; Ajeh chu Kelngoinou chu Ajineina ding aphat ahitai; Aji dingnu chu Kigosadema uma ahitai."
+      },
+      {
+        "verse": 8,
+        "text": "Chule aji dingnu chu Akijepna ding tonjih ponbang Ngimsel val lai lai kipea ahitai; Hiche tonjih ponnem chu mitheng ho chonphatna ahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin ama chun kajah a, “Kelngoi-nou ji kipuina golvahna a kikouho chu anun nom ahiuve, tin sunin,” eiti. Chuin ama mama chun kajah a, “Hicheng hi Pathen thu dihtah ahi,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun keiman ama chu chibai boh dingin akho bul’ah kaboh khup tan ahi. Chuin aman, “Chingtheiyin, hitobang chu bol hih-in, keima nasoh chanpi chule Jesu thu het-tohsah nasopite ho soh chanpi kahibouve; Pathen jeng bou chibai naboh ding ahi, ajeh chu Jesu thu hettohsah chu gao thu seidoh lhagao ahi,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin keiman van kot’kihon kamun ahi; chule veuvin sakol kang khat akilang-in, achunga toupa chu amin, “Tahsan um le Dihtah” akitin ahi; ama chu chon dihtah a thutan vaihoma chule galsat ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Ama chu amit meikong ahin, alua lal lulkhuh tamtah kikhuh ahi, chule amin khat akisunin, amin chu ama tailou koimacha dangin ahepoi."
+      },
+      {
+        "verse": 13,
+        "text": "Chule aponsil chu thisan kithe khuma ahi; chule amin chu Pathen Thu kitia ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chule van sepai ho chengse tonjih ponneljet vamleng le ngimsel akisil’un, sakol kang chunga anung ajuiyun ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin namtin vaipi asatna dingin akam-sunga konin chemjam hemtah khat a-hungdohtan ahi; ama chun achunguva thih tenggol’a vai apoh ding ahi; chule Hatchungnung Pathen lunghanna kichat umtah lengpiga hehna a jong chu aman achilji ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule aponsil chung le amal buh laiya, “Leng ho Lengle pakaiho Pakai,” tia min kisun khat aume."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin keiman nisa chunga dinga Vantil khat kamun; chule ama chun vanlaijol’a lenglea vachate jouse jah a,"
+      },
+      {
+        "verse": 18,
+        "text": "“Hungun, nanghon leng ho sa, sepai lamkaiho sa, ahat apaoho sa, sakol ho le achunga touho sa, cham len le soh ho sa, aneo le alen ho jouse sa, ne dingin Pathen golvahna chungnungah hung ki-khomun,” tin asamin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin sakol chunga toupa le asepaiho chutoh kisat dingin sahem chule leiset leng ho chule asepaite chengseu toh akikhomun kamui."
+      },
+      {
+        "verse": 20,
+        "text": "Chuin sahem chu amantauvin; chule themgao lhem, amitmua melchihna kidang dang bol’a sahem melchihna kilah ho le alim chibai boh ho lhem lha a sulamvaiya chutoh amat thatauvin ahi; chuin kath meika al leng lung jing jeng mei dil’ah ahingin aleh lut tauvin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chule adang amoh chengse chu sakol chunga toupa kamsunga kona hung potdoh chemjam chun athat gamtan ahi; chuin vachate jouse ahungun asau chu ahung neuvin avaset tauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin lei-ong hehna le thihkhao khat choiya Vantil khat van a kona ahung kumlhah kamun ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin ama chun dragon gul lui chu, hichu diabol le satan ahin, amanin chuin akanin kum sang khat geiya dingin lei onga chun asep lut tan ahi;"
+      },
+      {
+        "verse": 3,
+        "text": "chule chuche kum sang khat chu alhin kahsea, namtin mite alhep lhah thei louna dingin akha chah khumin, asinkhana anam khumtan ahi; chujou le chomkhat dinga kilhadoh ding ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin keiman laltouna phabep khat kamun, achunga touho chu thutan vaihom apedoh-un ahi; chule Jesu thu hettohsah jal le Pathen thu jal’a alu kitan ho, chule sahem chule alim chibai boh lou, achal le akhut’uva melchihna kilah a kichin lou amaho chengse lhagao hing chu kamun ahi; amaho chu ahinga ahitauve, chule kum sang khat Christa toh vai apo khomui."
+      },
+      {
+        "verse": 5,
+        "text": "Hiche kum sang khat chu alhin masangsea chu mithi ho amoh chengse chu hingdoh lou ahiuve. Hichu thokit masa ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Koi hile hiche thokit masa changkha chu mi nun nom le atheng ahi; amaho chunga chu thi chun thu aneilou ahitai; ahin amaho chu Pathen le Christa thempu hiuva amatoh kum sang khat vai apoh dingu ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chule kum sang khat chu alhin teng le satan chu akihenna a kona kilhadoh a,"
+      },
+      {
+        "verse": 8,
+        "text": "vannoi leiset ning lia cheng namtin vaipi, twikhanglena neldi jat, Gog le Magog chu doha lhemlha a galsat dinga kikhopsah dinga hungdoh ding ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin amaho chu lei vai khah tanin aleilimin akonun mitheng ho ngah phol le khopi deitah chu a um kimveltauve; hichun van a konin mei ahung lhan amaho chu akavam gamtan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chule amaho lhem lha a diabol chu mei le kath meika dil sunga chun aseplut tauve; hiche koma chun sahem chule themgao lhem jong chu aumui; chule amaho cheng chun tonsot tonsot geiya asun ajan a thohgim nasatah athoh jing dingu ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin laltouna len chungnung a ban a bang khat le achunga toupa chu kamun; ama angsunga kon chun vannoi leiset le van ajam mangtan ahi; hite ni ding chun mun akimutapon ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Hiche laltouna maiya chun mithiho jouse alen aneo adin kamun; chujouvin lekhabu phabep khat aphongui; chuin hinna lekhabu atiuvin achom khat jong aphongun ahi; chunin chuche lekhabua kisun dungjui chun mithiho chu ama ama thilbol dungjui cheh-in athu atantauvin ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuphat chun twikhanglen in ama a um mithiho jouse chu ahinlehdoh-in; chule thina le Mithigam injong amithiho chengse ahinlehdoh soh keitauve; chuin athilbol dungjui cheh-in athu atantauvin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin thina le Mithigam chu meidil sunga chun aleh lut tauve. Hiche meidil chu thi nina ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chule hinna lekhabu sunga amin kiholdoh louse chu meidil’a chun aleh lut tauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chujou chun keiman vanthah leithah kamun ahi; ajeh chu van masa le lei masa chu kitol manga ahitai; twikhanglen jong aumtapoi."
+      },
+      {
+        "verse": 2,
+        "text": "Chule ainneipu henga dinga kijema kigosadem mounu banga khopi theng, Jerusalem thah chu, Pathen kom van a kona ahung kumlhah kamun ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin keiman laltouna a kon chun o sangtah a thu kisei kajan, “Veuvin, Pathen chenna chu mihem lah ahung hitai, chule ama amahotoh cheng khom ding; amaho chu ama mite hi ding ahiuve; chule Pathen amatah mongin aumpi dingu chule aPathenu hiding ahi;"
+      },
+      {
+        "verse": 4,
+        "text": "chule a mit chenguva amit lhi chengseu atheh ngim ding; chule chule thina umta louhel ding; chule lhasetna le ka-na chule nat thohgim umta lou ahi; thil masa ho chengse chu kitol mangsoh ahitai,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin laltouna a toupa chun, “Veuvin, keiman ijakai kathahsem soh keiye,” ati. Chuin ama chum, “Sunin, ajeh chu hicheng hi tahsan um le thutah ahi,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin kajah a, “Hichengse chu kichaiya ahitai. Kei Alpha le Omega, akipatna le akichaina kahi. Adang chah a chu hinna twinah a twi chu manbeiyin penge."
+      },
+      {
+        "verse": 7,
+        "text": "Ajou chanin hicheng hi alo ding ahi; keima a-Pathen hing ting, ama kachapa hiding ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Ahin mi kichase ho, tahsan neilouho, thet umho, tolthat te ho, jon panho, doi choiho, milim houho, chule mijouho jouse meile kath meika al leng lung jingjeng meidil’a chu achan dingdol cheh chang ding ahiuve; hichu thi nina ahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin suhgamna nukhah dimset sumlheng sagi nei Vantil sagi ho lah a khat chu ahungin kajah a, thu aseiyin, “Hilama hin hungin; keiman nangma Kelngoinou inneipi ding mou vetsah inge,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin ama chun keima Lhagaovin molsang lentah khat chungah eilhoh touvin Pathen kom van a kona hung kumlha a Pathen loupina nei Jerusalem, khopi theng chu eimusah tan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Avahje dan chu khisong mantam tah abangin, jasper song lheh lheh ahin, songval val’in aval’in;"
+      },
+      {
+        "verse": 12,
+        "text": "akul chu lentah chule sangtah ahin, akot som le ni ahi; kot som le nia chun Vantil som le ni aumin; chule min phabep khat thua chun akisunin; hichu Israel chate phung som le phung ni min ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Akot chu thumin niso lam angan, thumin sah lam angan, thumin lhang lam angan chule thumin nilhum lam angan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chule khopi kul chu akhombul som le ni ahin; hicheho chunga chu Kelngoinou solcha som le ni ho min chu kisuna ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chule khopi chule akot le akul chu te-na dingin kajah a thuseipa chun gam te-na sana tenglhon achoiyin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Khopi chu aning li kitoh, adung avai kibang ahi. Chuin gam te-na tenglhon a khopi chu ate le Mile sang khat le Mile ja nga ahi; adung avai, atun kibang soh kei ahi. "
+      },
+      {
+        "verse": 17,
+        "text": "Chujouvin kul chu aten ahile, tong ja khat le tong som li le li ahi; Vantil thil te-na chu mihem thil te-na jong ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Chule kul kiget chu jasper songa kigen ahi, chule khopi chu phatvet thengtah tobang sana thenga kisa a ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Khopi khombul song chu khisong mantam jat chom jat choma kijema ahi. Khombul masapen chu jasper khisonga kijem ahin, abana chu sapphire khisong ahin, athumna khalkedon khisong ahin ali na emerald khisong ahin;"
+      },
+      {
+        "verse": 20,
+        "text": "anga na onyx khisong ahin, agupna Camelian khisong ahin, asagina chu Quartz khisong ahin, agetna Beryl khisong ahin, ako-na tapaz khisong ahin, asomna chrysoprase khisong ahin, som le khatna jacinth khisong ahin, som le nina chu amethyst khisong ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Akot som le ni chu twikohchang som le ni ahin, kot khat khat chu twikohchang khat khat’a kisem ahi. Chule akhosung lamlen chu phatvet thengsel tobang sana theng ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Chule asunga chun houin kamupoi; Pakai Pathen Hatchungnung chule Kelngoinou chu ahouin ahijeng jeh chun."
+      },
+      {
+        "verse": 23,
+        "text": "Chule khopi chun asalvah dinga nisa jong ngaita lou ahi; ajeh chu Pathen loupi chun avahsah jeng ahin, chule Kelngoinou chu ameivah hijenga ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chule namtin vaipi avah a chu vah le ding, chule leiset leng hon aloupinau asunga chu ahinpoh lut dingu ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Chule akotkhah ho chu a-imatih chan a suna kikhah lou ding ahi @9(chua jan umta lou ding ahijeh chun)@7;"
+      },
+      {
+        "verse": 26,
+        "text": "chule namtin vaipin loupina le jabolna asunga chu apohlut dingu ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Chule itinama jong le thil aboh pou pou le thet um thil bol’a chule jou pan a lut louhel ahi; Kelngoinou hinna lekhabua amin kisun ho chengse bou chu lut ding ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin ama chun Pathen le kelngoinou laltouna a kon a put hintwi luidung crystal songvala val, khosung lamlen lailunga chu eivetsah tan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chule luidung chu apang langtoa hinthing keh ahin, aga jat chom chom som le ni ga a, alha seh a ga jing jeng ahi; chule thingna ho chu namtin vaipi hoidamna ahi. "
+      },
+      {
+        "verse": 3,
+        "text": "Chule sapset umta louhel ding ahi. Chule Pathen le Kelngoinou laltouna chu asunga chu um ding ahin, chule asoh ten ama chu ajen dingu;"
+      },
+      {
+        "verse": 4,
+        "text": "chule amahon amai amu dingu, chule chule achal’uva amin um ding ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chule jan umta louhel ding ahi; chule amahon thaomei vah le nisa vah ngaita louhel ahiuve; Pakai Pathenin amaho asalvah ding ahijeh chun; chule amaho chun atonsot atonsot geiya vai apoh dingu ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin aman akajah a, “Thu hicheng hi tahsan umle dihtah ahi; chomkhat jou le hungsoh ding hichengse chu themgaoho lhagao Pakai Pathenin asohte vetsah dinga Avantil asol ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chule ven, kahungvah ding ahi; hiche lekhabua lhagao thuseidoh ho chengse nitpa chu anun nom ahi,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Kei John tah-in hichengse hi kajah chule kamu ahi. Kajah a chule kamu phat chun hichengsepi eivetsah pa Vantil ang’a chun ama chu chibai boh dingin kaboh khuptan ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun aman kajah a, “Chingtheiyin, hitobang chu bol hih-in, keima nangma soh chanpi le nasopi themgao ho soh chanpi chule hiche lekhabua thu nitte ho sohchanpi kahibouve; Pathenjoh chibai bohtan,” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin aman kajah a, “Hiche lekhabua lhagao thu seidoh ho hi imchah hih hel’in; phat anaitah jeh hin."
+      },
+      {
+        "verse": 11,
+        "text": "Achonpha lou chun chonphat lou bol jing hen; aboh chu boh jinghen; chule achonpha chun chonphat bol jing hen; athenga chu athengin um jing hen."
+      },
+      {
+        "verse": 12,
+        "text": "Veuvin, keima kahung vah ding ahi; chule athilbol achonna dungjui cheh a lethuhna kapeh ding tohman kakoma aume."
+      },
+      {
+        "verse": 13,
+        "text": "Keima Alpha le Omega kahin, amasa le anukhah kahi, chule abul le aleh kahi."
+      },
+      {
+        "verse": 14,
+        "text": "Hinthing chu lo theina ding le kotpia lut’a khopi sunga lut theina dinga, avon kisop theng ho chu anun nom ahiuve."
+      },
+      {
+        "verse": 15,
+        "text": "Uicha ho le doi choiho, chule jon thanhoi panho le tolthat te ho, chule milim houho, chule thujou sei ngailua semdohho pamah aumui."
+      },
+      {
+        "verse": 16,
+        "text": "Kei Jesun, Houbung hoa dinga hicheng thu hi nangho hettohsah dinga ka-Vantil kahinsol ahi. Keima David Jungpi le achilhah, Jing Valpa vahtah chu kahi."
+      },
+      {
+        "verse": 17,
+        "text": "Lhagao le mouvin, “Hungin,” ti hen; chule adang chah chan hung hen; ago chanin manbeiyin hintwi chu kilah hen."
+      },
+      {
+        "verse": 18,
+        "text": "Hiche lekhabua Lhagao thuseidoh hi ajachan kahettoh sah a kaseipeh ahi, koi hile hicheng hi abelap aum le Pathenin hiche lekhabua kisun suhgamna ho chengse hi achunga abelap ding ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chule koi hile lhagao thuseidoh hiche lekhabua thuho lamanga aum le, Pathenin hiche lekhabua kisun hinthinga kon le khopi thenga kona chu achan alahmang ding ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Hicheng thu hettohsah chun, “Ahi, kahungvah ding ahi,” ati. Amen, Pakai Jesu hungin."
+      },
+      {
+        "verse": 21,
+        "text": "Pakai Jesu milungset chun mitheng ho umpi hen. Amen."
+      }
+    ]
+  ]
+}

@@ -1,0 +1,515 @@
+/* ===========================
+   RESET
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+/* ===========================
+   COLORS
+=========================== */
+
+:root{
+
+    --bg:#f5f5f5;
+    --card:#ffffff;
+
+    --text:#222;
+    --text2:#666;
+
+    --border:#dddddd;
+
+    --primary:#2563eb;
+
+    --hover:#eef5ff;
+
+    --search:#fafafa;
+
+}
+
+body.dark{
+
+    --bg:#111827;
+
+    --card:#1f2937;
+
+    --text:#f3f4f6;
+
+    --text2:#9ca3af;
+
+    --border:#374151;
+
+    --primary:#60a5fa;
+
+    --hover:#2b3445;
+
+    --search:#18212f;
+
+}
+
+/* ===========================
+   BODY
+=========================== */
+
+body{
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    font-family:
+
+        Inter,
+
+        "Segoe UI",
+
+        Arial,
+
+        sans-serif;
+
+}
+
+/* ===========================
+   LAYOUT
+=========================== */
+
+.container{
+
+    display:flex;
+
+    height:100vh;
+
+}
+
+/* ===========================
+   SIDEBAR
+=========================== */
+
+.sidebar{
+
+    width:320px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    background:var(--card);
+
+    border-right:1px solid var(--border);
+
+}
+
+.logo{
+
+    padding:20px;
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    border-bottom:1px solid var(--border);
+
+}
+
+/* ===========================
+   SEARCH
+=========================== */
+
+.search-box{
+
+    padding:15px;
+
+}
+
+.search-box input{
+
+    width:100%;
+
+    padding:12px;
+
+    border-radius:10px;
+
+    border:1px solid var(--border);
+
+    background:var(--search);
+
+    color:var(--text);
+
+    font-size:15px;
+
+}
+
+.search-box input:focus{
+
+    outline:none;
+
+    border-color:var(--primary);
+
+}
+
+/* ===========================
+   SEARCH RESULTS
+=========================== */
+
+.search-results{
+
+    max-height:280px;
+
+    overflow:auto;
+
+}
+
+.result{
+
+    padding:12px;
+
+    cursor:pointer;
+
+    border-bottom:1px solid var(--border);
+
+}
+
+.result:hover{
+
+    background:var(--hover);
+
+}
+
+.result-title{
+
+    color:var(--primary);
+
+    font-size:13px;
+
+    margin-bottom:5px;
+
+    font-weight:bold;
+
+}
+
+.result-text{
+
+    font-size:14px;
+
+    line-height:1.6;
+
+}
+
+/* ===========================
+   BOOKS
+=========================== */
+
+.book-list{
+
+    flex:1;
+
+    overflow:auto;
+
+}
+
+.book{
+
+    padding:15px 20px;
+
+    cursor:pointer;
+
+    border-bottom:1px solid var(--border);
+
+    transition:.15s;
+
+}
+
+.book:hover{
+
+    background:var(--hover);
+
+}
+
+.book.active{
+
+    background:var(--primary);
+
+    color:white;
+
+}
+
+/* ===========================
+   READER
+=========================== */
+
+.reader{
+
+    flex:1;
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+/* ===========================
+   HEADER
+=========================== */
+
+header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    background:var(--card);
+
+    padding:15px 25px;
+
+    border-bottom:1px solid var(--border);
+
+}
+
+.nav{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+}
+
+header button{
+
+    border:none;
+
+    background:var(--primary);
+
+    color:white;
+
+    padding:8px 14px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    font-size:15px;
+
+}
+
+header button:hover{
+
+    opacity:.9;
+
+}
+
+#reference{
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    padding:0 12px;
+
+}
+
+/* ===========================
+   CHAPTER LIST
+=========================== */
+
+.chapter-list{
+
+    padding:15px;
+
+    border-bottom:1px solid var(--border);
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:8px;
+
+    background:var(--card);
+
+}
+
+.chapter-button{
+
+    border:1px solid var(--border);
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    padding:8px 12px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
+
+.chapter-button:hover{
+
+    background:var(--hover);
+
+}
+
+.chapter-button.active{
+
+    background:var(--primary);
+
+    color:white;
+
+}
+
+/* ===========================
+   CHAPTER
+=========================== */
+
+.chapter{
+
+    flex:1;
+
+    overflow:auto;
+
+    padding:35px;
+
+}
+
+/* ===========================
+   VERSES
+=========================== */
+
+.verse{
+
+    font-size:20px;
+
+    line-height:2;
+
+    margin-bottom:18px;
+
+}
+
+.verse-number{
+
+    color:var(--primary);
+
+    font-size:12px;
+
+    vertical-align:super;
+
+    margin-right:8px;
+
+    font-weight:bold;
+
+}
+
+.verse:hover{
+
+    background:var(--hover);
+
+    border-radius:8px;
+
+    padding:4px 8px;
+
+}
+
+.highlight{
+
+    background:#fff7b2;
+
+    border-radius:8px;
+
+    padding:4px 8px;
+
+}
+
+body.dark .highlight{
+
+    background:#665500;
+
+}
+
+mark{
+
+    background:#ffd54a;
+
+    padding:2px 4px;
+
+    border-radius:4px;
+
+}
+
+/* ===========================
+   SCROLLBAR
+=========================== */
+
+::-webkit-scrollbar{
+
+    width:10px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#999;
+
+    border-radius:20px;
+
+}
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media(max-width:900px){
+
+.container{
+
+    flex-direction:column;
+
+}
+
+.sidebar{
+
+    width:100%;
+
+    height:360px;
+
+}
+
+.chapter{
+
+    padding:20px;
+
+}
+
+header{
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+.nav{
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+}
+
+#reference{
+
+    font-size:20px;
+
+}
+
+}

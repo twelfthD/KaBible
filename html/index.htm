@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>Holy Bible</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Sidebar -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+
+            📖 Holy Bible
+
+        </div>
+
+        <div class="search-box">
+
+            <input
+                id="searchInput"
+                type="text"
+                placeholder="Search entire Bible...">
+
+        </div>
+
+        <div
+            id="searchResults"
+            class="search-results">
+
+        </div>
+
+        <hr>
+
+        <div
+            id="bookList"
+            class="book-list">
+
+        </div>
+
+    </aside>
+
+    <!-- Reader -->
+
+    <main class="reader">
+
+        <header>
+
+            <div class="nav">
+
+                <button id="prevBook">
+
+                    ⏮
+
+                </button>
+
+                <button id="prevChapter">
+
+                    ◀
+
+                </button>
+
+                <span id="reference">
+
+                    Genesis 1
+
+                </span>
+
+                <button id="nextChapter">
+
+                    ▶
+
+                </button>
+
+                <button id="nextBook">
+
+                    ⏭
+
+                </button>
+
+            </div>
+
+            <button id="darkMode">
+
+                🌙
+
+            </button>
+
+        </header>
+
+        <div
+            id="chapterList"
+            class="chapter-list">
+
+        </div>
+
+        <section
+            id="chapter"
+            class="chapter">
+
+        </section>
+
+    </main>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>

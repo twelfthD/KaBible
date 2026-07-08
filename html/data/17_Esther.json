@@ -1,0 +1,762 @@
+{
+  "id": 17,
+  "name": "Esther",
+  "shortName": "ESTH",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Vashti Lengnun Ahasuerus Lengpa thu apalkeh"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Esther Lengnua akipansah"
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "title": "Lengpa douna thil kibol Mordecaiyin aphondoh."
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "title": "Haman in Judahte suhgam ding angaito"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Amite dia taona neipeh dinga Esther akitep"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "title": "Esther'in Lengpa le Haman chu golvah Ankong umkhom dinga akou"
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "title": "Mor'decai thana dinga Thingpel kisem."
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "title": "Achamlouva Haman in Mor'decai ajabol dia kibol"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "title": "Haman thilgon athona ama joh akikhailih"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "title": "Judahte akihuh hingna diuva tha kipeh"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "title": "Judahten amelmateu asuhgam u"
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "title": "Purim Kut golvah kibol"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "title": "Mor'decai let le lal dan"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Ahasu-e'rus khang laiyin, hiche Ahasu-e'rus kitipa hi India gama pat Ethopia gam geiyin gamsung ja khat le som ni le sagi chunga lengvaipon ana pangin,"
+      },
+      {
+        "verse": 2,
+        "text": "hiche laiya hi Ahasu-e'rus lengpa hi akhopi munpi pen Susa khopia hi alaltouna chunga atoujin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "chuin aleng chan kal kum thum lhin kumin aman jong golvah neh khom khat anahol'in, hichea hin amilen amilalte jong, asepaite asohte jong, sepai lamkai pipuho jong, Persia gama kon, Media gama kon, chutengleh gamkai jousea kona hung kikhom milem milalte leh gamvaipo ho chu amasanga akikhop kimpet tah-uvin,"
+      },
+      {
+        "verse": 4,
+        "text": "Ahasu-e'rus lenga jong hin aleng loupina ahaona chengse leh aloupina jouse, aleng thaneina aloupina jouse chu nikho tamtah, ni ja khat le ni somget sungin miho chu avetsah sah jengin ahi. "
+      },
+      {
+        "verse": 5,
+        "text": "Ni ja khat le ni som get chu akichaisoh phat'in hiche Susa munpia hin mipi chu alen aneo kidat louhel'in lengpan jong abonchauvin thilpeh apen, chule hiche golvah neh khom kibol jonghi leng in pia honlei lai tollhanga chun ni sagi sungin akibol'in ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Hichea hin pondal pon, ponkang jong, pondum jong tupat ponnem patjang chutoh akijop matsoh keiyin, ponsandup chuto jong akijop'in, dangka sumkol ho chutoh akijopmat soh keiyin, saiha songval khompia kisema kiphut hoa chun akihenin, Mose kalbi leiya jong chun sana le dangka akiphan, song mantam jelpol akigol'in, saiha songval akigol'in, twikohpi chang akibat'in, chule song mantam dang dang tampin akijempol'in ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chutengleh twi dona ding khon jeng jong jatchom choma kisem sana khon jeng aumin, lengpa haona dungjuiyin lengpa din jutwi neng jeng jungin akilha lha jengin ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hichea hin don dingdol chu angaiya kibol bou ahin, mihem koima ada acham louva ki-eng bol'a kidonsah nah nah aumpoi; ijeh-inem itileh lengpan amaleng inpia vaibola pang ho jouse chu thu apeh soh keiya, mihem ama ama dei cheh a bolpeh ding ati ahitai."
+      },
+      {
+        "verse": 9,
+        "text": "Vashti lengnun jong Ahasu-e'rus lengpa leng inpi sunga chun numei ho din golvah neh khom khat abol e."
+      },
+      {
+        "verse": 10,
+        "text": "Ni sagi lhin nia lengpa chu ju achima alungthim nomsa tah a a um phat'in amanjong Mehu'man, Biztha, Harbo'na, Bigtha chule Abag'tha le Zethar toh chujongleh Carkas kiti pasal nukiso mi sagi lengpa Ahasu-e'rus dinga asemanga pang ho chu asol'in,"
+      },
+      {
+        "verse": 11,
+        "text": "Vashti lengnu chu alal lukhuh puma lengpa angsunga ahunga, mitin vaipi leh milen milalte chu amel-hoidan chu avetsahna dingin thu apetai; ajeh chu Vashti lengnu hi vetnom nom uma mel-hoi tah mi ahiye."
+      },
+      {
+        "verse": 12,
+        "text": "Ahivangin nukiso pasal sagin ahung seipeh lengpa thupeh chu Vashti lengnun apalkeh jengin adatai; hichea hin lengpa chu alung ahang behseh jengin, asunga alung chang akitumlutlut jeng tan ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Lengpan thilsoh ijakaiya danthu themho leh thutan themho adoh ngai mong ahijeh chun, phat umchan dol hethem michingho chu adongin lengpan aseitai,"
+      },
+      {
+        "verse": 14,
+        "text": "hichea lengpa ban tah a pang thaneiho chu Carshe'na, Shethar, Adma'tha, Tarshish, Meres, Marse'na chule Memu'can ahiuvin, Persia gam le Media gamsunga alen alal'a pang, lengpa angsunga lut masa cheh, lenggam sunga jong alamkat loiya pang cheh mi sagi ahiuve;"
+      },
+      {
+        "verse": 15,
+        "text": "hiche ho jah a hin, \"Danthu dungjuiya Vashti lengnu khu ilo ding lom ham? Ajeh chu aman nukiso pasal sagi kisol'a ahenga kiseisah lenga thupeh chu bol louvin akoitai,\" ati."
+      },
+      {
+        "verse": 16,
+        "text": "Hichun lengpa angsung le milen milal ho angsunga chun Memu'can kitipan aseitai, \"Lengpa heng mai maiya hiche Vashti lengnu hin thil abol khel ahipoi, lengpa Ahasu-e'rus lenggam gamkai hijat sunga cheng milen milal hijat le mit-in vaipi hijat dinga jong thil abol khel ahijenge. "
+      },
+      {
+        "verse": 17,
+        "text": "Ijeh-inem itileh lengnu thilbol achonna hitobang hi numei jouse heng lhungsoh-in tin, chutengleh amahon ajipa jouseu anoiseuva hichea kona hi hitia asei diu, 'Ahasu-e'rus lengpan bon a-angsunga hunglut dinga Vashti lengnu thu apeh a amanu hung deh ngap lou,' ati diu ahitai. "
+      },
+      {
+        "verse": 18,
+        "text": "Tuni le tuni kah jenga jong Persia gam le Media gamsunga numei lalten hiche lengnu chonna hi ajah doh tengu leh lengpa dinga milen milalte jah a seiyuvin tin, kinoisena le lungsatna seijou louva hung umdoh pai ding ahitai."
+      },
+      {
+        "verse": 19,
+        "text": "Lengpan nadei dinga ahileh, lengpa koma konin thupeh khat kithot doh hen lang, akikhel kit thei louhelna dingin Persia mite leh Media mite danthu lekhabu dunga kijihlut jeng hen, Vashti lengnu hi Ahasu-e'rus lengpa angsunga hung kit hen lang hunglut kit ta hih helhen; chuleh lengpan jong lengnu panmun hi ama sanga phajo khat pedoh jeng hen."
+      },
+      {
+        "verse": 20,
+        "text": "Hitia hi lengpan hitobang thupeh hi abol' a alenggam pumpia hi alen le aneo dungjuiya akiphondoh soh kei teng leh, numei jousen ajipateu chu alen hihen aneo hijongleh ajabol soh hel diu ahi,\" ati."
+      },
+      {
+        "verse": 21,
+        "text": "Hiche kihilguhna hin lengpa alung lhaisah tan, milen milalte jong alung lhaisah soh keiyin, hijeh chun lengpan Memu'can ngaito bang chun aboltai;"
+      },
+      {
+        "verse": 22,
+        "text": "Lengpan lenggam sunga gamkai jousea lekha athot soh keiyin, gamkai jousea chun ama ama gamkai lekhajem in ajih-in, mitin vaipi chujat jong chu ama ama pao cheh-in asune, hitia chu pasal jouse ainsung cheh a apua panga, amite pao cheh a thu chu aseipeh dingin aboltan ahi. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Thilsoh hijat akichai nung hin lengpa Ahasu-e'rus jong alungsat alungdam tan. Vashti lengnun ipi anahol khel hiya, hijeh a chu amanu chunga thupeh itobang kiboldoh hitam, ti chu ageldoh tai. "
+      },
+      {
+        "verse": 2,
+        "text": "Hichun lengpa sohte, ama jen dia ahenga hung kaiho chun aseitauve, \"Lengpa din nu-ngah dong lai mel-hoi tah tah kihol ta hen."
+      },
+      {
+        "verse": 3,
+        "text": "Hiche-na ding hin lengpan agamsung pumpia vaibola pang ding mi tampi lhengdoh hen, amaho hin gamkai jousea nu-ngah dong lai amelhoi tah tah ho chu hinkhom'u hen lang Susa khopi muna numeiho in a chun kikhol'u hen lang, numeiho chunga vaipoa pang lengpa dinga nukisopa Hegai chun chingu hen; chule amaho hi akinu diu thao kipesoh kei leh phante."
+      },
+      {
+        "verse": 4,
+        "text": "Hiche ho lah a nu-ngah koi koi hijeng jongleh lengpan adeipen alung lhaina pen chu Vashti lengu khel'a lengnua pang jeng ding ahi,\" atiuve. Hiche aseiyu hin lengpa alung lhaisah lheh jengin, hijeh chun aman jong hitobang chun aboltai."
+      },
+      {
+        "verse": 5,
+        "text": "Hiche lai hin Susa khopi munpia hin Juda mi khat anachengin, ama chu amin Mor'decai akitin, Ja'ir kitipa chapa ahi; Ja'ir hi Shim'e-i chapa ahin, Shim'e-i chu Kish kitipa Benjamin mi khat chapa ma ahi;"
+      },
+      {
+        "verse": 6,
+        "text": "ama jong chu Judah lengpa Jeconi'ah kitipa toh Jerusalem khopia kona sohchang ho lah a kitolmang tha ahin, Babylon lengpa Nebuchadnez'zar chun Jeconi'ah atolmanga chu ama jong pang-ah anahi."
+      },
+      {
+        "verse": 7,
+        "text": "Mor'decai kitipa hin apa-ngah chanu Hadas'sah, Esther kitinu chu ahinvah khangin avop doh-e; ajeh chu amanu hi anu le apa bei ahitai; hiche nu-ngahnu cha hi amel ahoi lheh jengin, dei dei aume, ama hi anu le apa athi phat a Mor'decai hin akivah a ama chanu bang banga abol ahitai. "
+      },
+      {
+        "verse": 8,
+        "text": "Lengpa thupeh athuphon chu akiphondoh a, chujongleh nu-ngah atama tam Susa khopi munpia akikhop'uva, Hegai kitipa koma ama chin dinga ahung kikhop phat'uvin Esther jong hi lengpa leng inpia chun apuilut'uvin; numeiho chinga pang Hegai kitipa chin ding chun aumtai."
+      },
+      {
+        "verse": 9,
+        "text": "Hiche nu-ngahnu Esther hin Hegai chu alung lhaisah a alung dei banga aumdoh phat chun aman jong amanu kinu ding thao jong apen, aneh ding an neh jong kinloiyin abolpeh tan ahi, amanu dingin ajen dinleng inpia konin nungah lhentum cheh mi sagi aki-ngaitopeh tan, chule amanu hileh ajenle ho ding hin numeiho chenna insunga jong mun phapen tah apetan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Esther hin amite chu koi hiuva, ainkote jong koi hiuvam, ti hi aseidoh poi, ajeh chu Mor'decai hin aseidoh louhel nadinga ahil chah masah sa ahitai."
+      },
+      {
+        "verse": 11,
+        "text": "Nisim niseh leh Esther chu itobanga iti uma iti ti hinam, ti hetdoh ding dei nan Mor'decai hi numeiho chenna in leitol mai dunga avah le le jin ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Numeiho kisem ding danthua kisei dungjuiya lha som le lha ni jou teng nu-ngah jouse chu aban ban a kilhauva lengpa Ahasu-e'rus angsunga galut cheh diu ahi; numeiho kisem ding dan lha som le lha ni sunga chu hitobanga hi kisem diu ahi : lha gup sunga chu myrrh namtui kinu nu jenguva, lha gup sungma a chu numeiho dinga kisem, gimnamtui le thao kinu nu jeng diu ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Nu-ngah khat chu lengpa henga alut ding tengleh hitobanga hi aman adei dei chu ipi hijeng jongleh leng inpi numeiho chenna in a kona chu akichoi thei ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Nungah nu chu nilhah tengleh a chelut ji ahin, jingkah tengleh numeiho chenna in ni lhin naa chu hung nung kit'a, thaikemho chinga pang lengpa dinga nukiso pa Shaash'gaz kitipa chin dinga ama koma chu hunglut ji ahiuve; lengpan nu-ngah nu chu adei monga amin mong monga ahinkou kit louva ahileh lengpa henga nu-ngah nu chu kile kit thei lou ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Mor'decaiyin akivah a achanu sema akisem, apa-ngah pa Ab'ihail kitipa chanu Esther dinga jong aphat ahung lhina, lengpa henga lutna ding ahung hiphat'in amanun thil dang imacha thum louhel'in numeiho chinga pang lengpa dinga nukisopa Hegaiyin ahilna chubou akichinin ahi. Esther hin amanu mupha chan mit vet' in lung lhaina aboldoh tan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Lengpa Ahasu-e'rus koma aleng inpi sunga Esther ahinpuilut nau chu lha som lhinna, Tebeth lha ahin, Ahasu-e'rus leng chan kal kum sagi lhin kum ahi;"
+      },
+      {
+        "verse": 17,
+        "text": "Lengpan jong Esther chu numei dang jouse sangin adeipenin, nu-ngah dong lai adangse se sangin jong Esther hin lengpa mitmun alung dei dei ding leh alung lhaina dingjeng aboldoh tai, hijeh chun lengpan jong lallukhuh chu amanu akhuhpeh-in, Vashti lengnu khel'in amajoh chu lengnun apansah tan ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun lengpan jong ama dinga milen milalte leh alhacha pang asohte jouse din golvah neh khomna loupi tah khat abol'in, hiche golvah neh khomna jong hi Esther golvah akiti. Lengpan gamkai jousea jong choldo ni khat alhan, lengte phatna hetdohna din jong thilpeh tampi ahomin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Nu-ngah dong laiho chu anivei lhinna akikhop kit phat'uvin Mor'decai jong hi lengpa kelkot phunga atouve."
+      },
+      {
+        "verse": 20,
+        "text": "Mor'decaiyin ahilchah bang bangin Esther hin ainkote koi hiya chule amite chu koi jat mi hiuvam, ti hi aphongdoh hih laiye; aman ahinvah doh bang bangin Esther hin Mor'decai thu angaiya angai ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Hiche laiya hi Mor'decai jong lengpa kelkot phunga atouva ahileh lengpa dinga nukiso teni Bigthan le Teresh, sambuh ngah a pang teni chu alung hang lhonin, lengpa Ahasu-e'rus chunga khut lhah din ago lhontai."
+      },
+      {
+        "verse": 22,
+        "text": "Hitobanga thil angaito lhon hi Mor'decai chun ahedoh tan, hijeh chun aman jong Esther lengnu jah a aseipeh-in, chuin Esther lengnun Mor'decai minin lengpa jah a aseitai."
+      },
+      {
+        "verse": 23,
+        "text": "Hiche thu kisei hi akikhol toh-in ahileh atah ahiphat'in nukiso teni chu thing chunga akhailih tauve. Chule athusoh hi lengpa angsung laitah a thusim lekhabua akijihlut tan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Thil hijatpi aso nung hin Ahasu-e'rus lengpan Agag mi Hammeda'tha chapa Haman chu apanmun akalsah-in, apanpi milen milal dang jouse sangin alenjon akoiyin, lal tah-in atungtai. "
+      },
+      {
+        "verse": 2,
+        "text": "Chuphat'in lengpa kelkot phunga uma alhacha asohte jouse abonchan akun chehuvin Haman chu asalam soh keitauve; ijeh-inem itileh Haman chu hitia hi bol ding ahi, tia lengpan thu apehsa ahitai. Ahinla Mor'decai chu kunjong akun pon, salam jong abol deh poi."
+      },
+      {
+        "verse": 3,
+        "text": "Hichun lengpa kelkot phunga um lengpa sohte alhacha ho chun Mor'decai jah a aseiyuvin, \"Ipi dinga nangman lengpa thupeh napal lhah a nasuh keh ham?\" atitauve."
+      },
+      {
+        "verse": 4,
+        "text": "Hitobanga hi amahon nisim niseh a ajah a asei sei jeng vangun amanla ngaisah-in anei deh poi, hijeh chun amahon jong Mor'decai hi aseiya pang jou mong nam, ti vetna dingin Haman henga aheh tauvin ahi; ajeh vang chu Mor'decai hin Judah mi ahilam chu amaho hi aseipeh lou anahipene."
+      },
+      {
+        "verse": 5,
+        "text": "Mor'decai hi akun pon, salam jong abol poi, ti Haman in amudoh phat'in Haman alung hang behseh jengin ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin achangseh a Mor'decai chunga khut lha jeng ding chu anompon, akitim nah nah-e. Hichun mihon jong Mor'decai jat mite chu koiham, ti hi Hamanjah a aseipeh-uva ahileh, Hamanin jong Ahasu-e'rus lenggam sungse sea Judahte, Mor'decai jat mite chu suhmang dingin aholtan ahi. "
+      },
+      {
+        "verse": 7,
+        "text": "Ahasu-e'rus lengpa leng chan kal kum som le kum ni lhin kumin lha masapen Nisan lha sungin mihon nisim niseh leh Haman masanga vang asan jiuvin Pur kiti chu asep jiuve; hitobang hin mihon alha alhan asep sep jengun, lha som le lha ni lhin gei, Adar lha kiti geiyin asep nalaiyuvin ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Ahasu-e'rus lengpa jah a chun Haman hin aseitai, \"Mi jat khat kithe thangsoh keiya, nangma lenggam sunga mitin vaipi lah a vah cheh soh hel khat aume; amaho hi adanthu u jong midang jat dang jousea sanga jatchom hel ahin, chule amaho hin lengpa danthu jouse jong anit pouvin, hijeh chun amaho chamlhat sah sah ding hi lengpa dinga phatchomna hilou ding ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Lengpa lung lhaina ahidinga ahileh, amaho suhgamna ding hin dan kisemdoh leh phante, hichea lengpa natonga pang ding mithat ding ho chu keiman dangka talent sang som penange, amahon hiche sum chu lengpa thil kholna insung dunga koilut jouvinte,\" ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuphat'in lengpan jong akhut'a konin akhutjem mohor kisemna chu asut lhan hiche Agag mi Hammeda'tha chapa Haman kitipa Judahte melmapa chu apetai."
+      },
+      {
+        "verse": 11,
+        "text": "Chule lengpan Haman jah a aseiyin, \"Asum chu nangma nakipe ahitan, mipi jong hi nakipeh tha ahitai, aboncha hi nangin pha nasah lam lama nabol jeng ding ahi,\" atitai."
+      },
+      {
+        "verse": 12,
+        "text": "Lha masapen nisom le nithum lhin nin lengpa dinga lekha sun a pang jouse chu akou khom'uvin, Haman in thu apeh bang bangin lengpa dinga vaipoa pang ho leh gamkai dunga gamvaipoa pang miho heng, milen milalte henga ding, mitin vaipi henga ding leh gamkai jousea chun ama ama gamkai lekhajem cheh leh mijat jouse chu ama ama paovin leng thupeh khat asun'uvin lekha athot tauve; hiche lekha thot chu Ahasu-e'rus lengpa mina kisun ahin, lengpa khutjem mohor kisemna a chu mohor kinam khum cheh ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Hiti hin lengpa insunga natong ho chun lekha thot tampi athot'uvin, lengpa gamhop sunga gamkai jousea athot'un, Judahte chu numei chapang, khangdong le tehse gei geiya asuhgam'uva, ni khat sung, Adar lha kiti lha som le lha ni lhin na, nisom le nithum lhin ni leh asuhgam'uva, athil jouseu jong akichomsoh hel diuvin athot tauve."
+      },
+      {
+        "verse": 14,
+        "text": "Hiche leng thupeh lekha kisun tobang bang khat cheh chu gamkai jousea akipen, akiphondoh dungjuiya mipi chu nikho kiseipeh hung lhun ni ding hileh kigosa dem a aumna diuvin akibol soh keitai."
+      },
+      {
+        "verse": 15,
+        "text": "Lengpa thusah a konin lengpa insunga natong miho chu kinle bongin alhaiyuvin, chule hiche thupeh hi khopi munpipen Susa kona hung kihomdoh ahi. Hichun lengpa le Haman chu judon din atou lhontai; ahinla Susa khopia mite chu alung dong gamtauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hitobang thil kibol ho hi Mor'decai in ajah doh phat'in aponsil jouse a bot tel jengin, khaodip pon akisil'in, vutvam akiloiyin, chuin khopi lailunga apotdoh paiyin, ogin thongje jun akap'in, lhase tah-in apeng jah jenge."
+      },
+      {
+        "verse": 2,
+        "text": "Chujongleh lengpa kelkot phunga chelutna langa chun achetouvin ahi, ajeh chu mihem koimacha jong khaodip pon kisil'a hiche lengpa kelkot phunga chu vahlut ngailou ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chule gamtina hiche lengpa thupeh hung kipoh lutna chan a chun Judahte lah a lunghemna nasa tah aumdoh tan, an angol'uvin akap kap'uvin, apeng peng jenguve, chutengle alah uva mi tamjo chu khaodip ponjeng kisil'in alum uvin, vutvam akiloi loijeng tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Esther dinga ajenlea pangnu leh ama dia nukiso kikoiho chu ahunguva Esther jah a ahung sei phat'un, lengnu jong halung gimin alung gim lheh jeng tai; amanun jong chu Mor'decai hin khaodip pon akisil ho chu akheldoh a akisil dingin ponsil tampi athot'in ahi; ahinla aman hiche ponsil ho chu akisan deh pon ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat'in Esther jong chun lengpa nukiso ho lah mi khat, Hathach kitipa, ama vetup dinga ki-pansah pa chu akouvin, amahi ipi hiya hitaa chule ipi dinga hitia hi um-ah hi tam, ti hetdohna dingin Mor'decai henga asol tai."
+      },
+      {
+        "verse": 6,
+        "text": "Hathach jong chu lengpa kelkot maiya kholai dung tollhanga Mor'decai henga chun agachen ahileh,"
+      },
+      {
+        "verse": 7,
+        "text": "hichea hin Mor'decai hin amapa jah a ama chunga ipi thu hung lhung hitam ti aseipeh-in, Haman in Judah mite akisuh mang tengleh amaho kisuh mangjeh a lengpa thil kholna in dunga koipeh dinga akitepna sum jat mong mong jong chu aseipeh tan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chujongleh Mor'decai hin Hathach hi Judahte suhmangna dinga Susa khopia kona kithot doh lekha kisun khat jong chua pen, hitia chu amanjong Esther avetsah a, athudol chu amanu henga ahilchet a, chutengleh amanu chu asol'a lengpa henga achea amite dinga thumna le taona aganei dingin aseipeh tai."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun Hathach jong achen Mor'decai sei sei chu Esther koma agaseipeh tan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chuphat'in Esther jong chun Hathach jah a aseipeh-in, Mor'decai dingin thu athot'in hi tin aseiye,"
+      },
+      {
+        "verse": 11,
+        "text": "\"Lengpa lhacha asohte hihen lang mipi hijongleh, agamsunga miho hin ahetsoh keiyu chu pasal hihen numei hijongleh kou louva lengpa indan sung nunga vah lut'a auma ahitah leh, hitobang mi bolna ding hin dan khatseh aume; mihem koi itobang hijongleh aboncha tha tei tei ding ahin, amavang lengpan asana tenggola ajap'a ahipa vang chu hingdoh thei ding ahinai. Chule hiche nithum sung hin lengpa henga vahlut din keima jong eikikou kha tapoi,\" ati. "
+      },
+      {
+        "verse": 12,
+        "text": "Hichun amahon jong Esther thusei chu Mor'decai jah a aseipeh tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuphat'in Mor'decai jong hin Esther donbutna dingin thu alethot pai kit'in, \"Judah mite hijat thina dinga hi nangma jeng jong lengpa leng inpia chun hoidoh nange, tin kigel dan."
+      },
+      {
+        "verse": 14,
+        "text": "Ijeh inem itileh hitobang phat sunga hi nangma na-um thip beh dinga ahileh, mun chom dang aning koi lah khat'a kona Judahte kilhadohna ding leh huhdohna ding hung umdoh tei tei ding ahin, nang le na-inkote vang namanthah diu ahi. Chujongleh hitobang phat khoh pet'a hi nangma lengmuna nahung pankhah kit nahung pan khah kit lou kon ija ahet ding ham?\" ati. "
+      },
+      {
+        "verse": 15,
+        "text": "Hichun Esther jong hin miho jah a Mor'decai aseipeh diu thu ahil'in, hitia adonbut diuvin aseiye,"
+      },
+      {
+        "verse": 16,
+        "text": "\"Chen lang Susa khopi sunga cheng Judahte chu atam alhomin gakou khomsoh keiyin, chutengleh keima thalhengin an ngol'uvin, nithum sungin asun ajanin an nelou twi don louvin um jenguvin. Kei le kasoh numeiho jong hin nang ho bol bang bangin bol'uving ting an kangol diu ahi. Chutengleh dan to kitoh lou ahivangin keima lengpa henga galut jeng ing ting, hichea chu kamanthah loa ahijongleh kamanthah ding hitante.\" ati."
+      },
+      {
+        "verse": 17,
+        "text": "Chuphat'in Mor'decai jong achedoh pai paiyin thil ijakai Esther'in athupeh bang bangin abonchan agabolsoh keiyin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Nithum lhin nin Esther jong chun alalpon loupi ponchol chu akisil'in leng inpi insung dan lhonglai, lengpa kikhopna indan to kimai ngat laiya chun adingin ahi. Lengpa jong chu leng inpi sunga leng inpi lama lutna kotmai lam ngan alaltouna chunga atouve;"
+      },
+      {
+        "verse": 2,
+        "text": "hichea hin langpan Esther lengnu chu lhonglaiya adin amudoh-in, lengpa mitmun Esther hi lung lhai aum lheh jengin, hijeh chun lengpan jong akhut'a achoi sana tenggol chun Esther chu agah jap'in ahi. Chuphat'in Esther jong ahung vah lut paiyin, leng tenggol luvum chu athamtai. "
+      },
+      {
+        "verse": 3,
+        "text": "Hichun lengpan jong amanu jah aseiyin, \"Ipi hiya hi tam lengnu Esther? Ipi nadei ham? Nadei dei chu kalenggam akeh khat gei hijongleh nakipe jeng ding ahi,\" atitai."
+      },
+      {
+        "verse": 4,
+        "text": "Chutah chun Esther jong hin aseipaiyin, \"Lengpan nadei dinga ahileh, lengpa dinga jan an kahon khu ane din lengpa jong, Haman jong tunin hung lhonle chun kadeiye,\" ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat'in lengpan aseitai, \"Kinloi tah-in Haman chu gapui loiyun, Esther sei bang banga kabol lhon na dingin,\" ati. Hiti hin lengpa le Haman hi Esther jan an honsa nekhom din ahung lhonin ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin amanin ju adon lhon phat'in lengpan jong Esther jah a aseiyin, \"Ipi ham nangman nathum nom chu? Nakiphalpeh tei ding ahiye. Ipi nathum ding ham? Keima lenggam akeh khat gei hijeng jongleh nakibol bulhing peh tei tei ding ahi,\" ati."
+      },
+      {
+        "verse": 7,
+        "text": "Hichea hin Esther chun aseiyin, \"Keiman kathum nom le ka-ngeh nom chu hiche hi ahi:"
+      },
+      {
+        "verse": 8,
+        "text": "Lengpa mitmua keima lung lhaina theiya kachona, kathum le ka-ngeh ding hi lengpan phalpeh ding nadeiya ahileh, jing jong leh lengpa le Haman hi keiman jan an nahonpeh kit lhon ing ting, jing tengleh lengpan nasei bang chun keiman kathum ding chu thum nange.\" ati."
+      },
+      {
+        "verse": 9,
+        "text": "Hiche nikho hin Haman jong kipah tah le lung sung thanomin apotdoh tai. Ahinla Mor'decai hi lengpa kelkot phunga Haman hin amupa kit'in, Mor'decai chu amasanga thoujong thou lou, tijong tija louvin aume; hijeh chun Haman chu Mor'decai chunga alungsa behseh jengin ahitai. "
+      },
+      {
+        "verse": 10,
+        "text": "Ahivanginla Haman chu akitim nah nah-in in lama achetai; chuin Haman hin mi asol loiyin agol-ho leh ajinu Zeresh chu aga holdoh sah tan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Hichun Haman jong hin ahaona aloupina chengse avel'in asei kit'in, achapa jat jong asimdoh-in, lengpan apanmun akalsahna jouse jong aseidoh-in itobanga ajabol hitam, ti aseiyin, chujongleh itobang tah a lengpan amilen amilalte le alhachaho chunga akhandoh jeng hitam, ti aseisoh keiye."
+      },
+      {
+        "verse": 12,
+        "text": "Haman chun aseibe nalaiyin, \"Esther lengnu jeng injong golvah an ahonsa chu midang koimacha jong lengpa toh nehkhom sah ding adeipon, keibou eikouvin ahi. Chule jing teng jongleh lengnu hin lengpa toh nekhom kit din eikou kit nalaiye."
+      },
+      {
+        "verse": 13,
+        "text": "Hijongleh thilpha hijat hin keima dingin nopsahna imacha aboldoh thei poi, keiman Judah mipa Mor'decai khu lengpa kelkot phunga atou jing kamu laisen,\" atin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuphat'in ajinu Zeresh leh aloi agol jousen Haman jah a aseiyuvin, \"Thingpel tong som nga jen sang khat hi kisemdoh hen lang, jing jingkah tengleh Mor'decai khu hiche thingvuma chu khailih dingin lengpa henga sei jengin; chujou teng chuleh nangma nomsa tah-in lengpa toh jan an nekhom din chetan,\" atiuve. Hitia ahilguh nau hin Haman lung deilam tah adoikhan, hijeh chun Haman in jong thingpel ding chu asemsah tai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche jan hin lengpa chu a-ihmu thei tapon, hijeh chun aman jong suhmil theilou thilbol kisutna lekha, thusimbu la dingin mi asol'in, hiche lekhabu ho chu lengpa angsunga asimpeh tauve. "
+      },
+      {
+        "verse": 2,
+        "text": "Hiche lekhabu dunga hin masanga lengpa dinga nukiso teni Bigthana le Teresh kiti te nin sambuh a ana pang lhona itobang tah a lengpa Ahasu-e'rus chunga khut alha got lhon ham, ti thuguh chu Mor'decai in aseidohna akimudoh tan ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hichun lengpan jong aseiyin, \"Hitobang thilpha abol jeh a hi Mor'decai chu itobang ja na ham ahiloule minthan na ham kipem?\" atileh; lengpa lhacha pang ahenga kaiho chun aseiyuvin, \"Mor'decai dingin imacha anakibolpeh poi,\" atiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Chuphat'in lengpan jong, \"Indan sunga tua hi kon na atoh am?\" atileh; hichepet tah chun Haman hi leng inpi dan po-nungjoh-a chun ahunglut paiyin, Mor'decai khailihna dinga kisem thingpel chunga chu Mor'decai khailih ding thu lengpa henga sei din ahung kigoi."
+      },
+      {
+        "verse": 5,
+        "text": "Hijeh chun lengpa lhacha a pang ho chun lengpa jah a aseiyun, \"Indan sunga lhonglaiya um khu Haman ahin, ading dinge,\" atiuvin ahi. Chuin lengpan jong, \"Hin lutsah-uvin,\" tin aseitai. "
+      },
+      {
+        "verse": 6,
+        "text": "Hijeh chun Haman jong ahunglut tai; hichun lengpan jong Haman jah a anaseiyin, \"Mihem koi hileh lengpan achunga kipana anei mi chu ipi kibolpeh le pham?\" tin adonge. Hichea hin Haman chu alungthim sunga ama changin akihouvin, \"Keima sanga koipen tah chunga lengpan kipana aneiya ama chu jabol ding agot ahidem?\" tin agele."
+      },
+      {
+        "verse": 7,
+        "text": "Chujouvin Haman hin lengpa jah a aseiyin, \"Mihem koi hileh lengpan achunga kipana aneiya jabolna peh ding ati chu,"
+      },
+      {
+        "verse": 8,
+        "text": "lengpan akisilji leng pon loupi acholpa chu galah sah-in lang, lengpan touna naneiji sakol jong gakaisah-in, chule lengpa kipana mipa chu alua lengpa lallukhuh kikhuh peh-in tin,"
+      },
+      {
+        "verse": 9,
+        "text": "chujongleh lengpa dinga milen milalte lah a ja um pen khat chun poncholle sakol chu kipen tin, ama hin lengpa kipana mipa chu ajep'a jabol dinga agon ding, chule hipa chun lengpa jabol nompa chu sakol ahin kailea, amasanga chu aban a kiseiho hi aseiya aphondoh ding ahi, 'Lengpan achunga kipana aneipa chu hitobanga hi kibol cheh ding ahi,' tia aphondoh ding ahi,\" ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chutah chun lengpan jong Haman jah a asei pai jengin, \"Man gang tah-in lal ponchol galan lang, sakol chu gakai loiyin, nangin nasei bang bang hin, chule lengpa kelkot phunga toujing Judah mipa Mor'decai khu hiti chun bolpeh loiyin. Nangin naseise se chu khat' a khat jeng cha jong bol lhing lel nei hih-in,\" atitai."
+      },
+      {
+        "verse": 11,
+        "text": "Hijeh chun Haman jong chun ponchol chu alan, sakol chu agakaiyin, Mor'decai chu ajemin, khopi sunga kholai dung aning tin a sakol chunga atousah-in atol len, aphongdoh peh jengin, \"Mihem koi hijongleh achunga lengpan kipana anei jouse chu hitobanga hi kibolsoh kei ding ahin jabolna kinei ding ahi,\" tin asampeh-e."
+      },
+      {
+        "verse": 12,
+        "text": "Chujouvin Mor'decai chu lengpa kelkot phunga ahung kile kit'in, Haman vang chu kin le bongin ainlama alhaijel'in, alua ponlu akikhuh-in alunghem in alung hesoh lheh jenge."
+      },
+      {
+        "verse": 13,
+        "text": "Hichun Haman in jong achunga thilsoh jouse chu ajinu Zeresh le agol apaiho jouse chu aseipeh soh keiye. Chuphat'in ama dinga miching ho le ajinu Zeresh kitinu chun ajah a aseiyuvin, \"Tua amasanga kipal lhuhna nanei napa hiche Mor'decai hi Judah mi ahipou pouva ahileh, nangin ama nadeh jou louhel ding, amasanga nakipal lhuh pai tei tei ding ahibouve,\"atitauve."
+      },
+      {
+        "verse": 14,
+        "text": "Hiti hin amaho anakihou lim nalaiyun lengpa dinga nukiso ho chu ahung lhung paiyun, kin loitah-in Haman chu Esther galvoh ankonga tou dingin ahung pui mang tauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiti hin lengpa le Haman chu lengnu Esther golvah ankong phunga alut lhontai."
+      },
+      {
+        "verse": 2,
+        "text": "Golvah nikho ni ni lhin nin, amanin ju adon pet lhonin lengpan jong Esther jah a asei kit'in, \"Lengnu Esther, ipi pen ham nangin nathum nom chu? Nakiphalpeh jeng ding ahi. Hijeh chun ipi ham nangin nathum nom chu? Keima lenggam akeh khat gei hijeng jongleh kimolso jenga nakipe ding ahi,\" ati kit tai."
+      },
+      {
+        "verse": 3,
+        "text": "Chutah chun Esther lengnun adonbut paiyin, \"Vo lengpa, nangma mitmua lung lhaina dol kahiya, chule lengpan nadei dinga ahileh keima hinkho jong sumang hih-in tia katao ahin, chule kamite jong sumang hih beh-in tia kathum ahiye."
+      },
+      {
+        "verse": 4,
+        "text": "Ijeh-inem itileh kei le kamite hi thagama, suhmang ding, chule suh beihel dinga min eijoh mangsau ahitai. Hichea hi keiho numei pasala soh ding mai maiya eikijoh-uva hileh keiman ima sei ponge; ajeh chu keiho genthei hesohna hi lengpa dinga nasuh mang thil man jat hitoh tekah thei hoi ahipoi,\" ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat'in Ahasu-e'rus lengpan jong Esther lengnu jah a chun aseiyin, \"Najoh-uva chu koi ham? Ama chu hoiya um tam? I-atileh aman hetoh louva hitobang thil hi abol jeng ding ham?\" tin adonge."
+      },
+      {
+        "verse": 6,
+        "text": "Hichun Esther jong chun asei jengin, \"Kidoupi le melma hi nah ta! Hiche migiloupa Haman hi hiya me!\" a tin ahi. Chutah chun lengpa le lengnu angsunga Haman chu akichan atija behseh jeng tai."
+      },
+      {
+        "verse": 7,
+        "text": "Lengpa jong golvahna ankong phunga konin alungsat pum pumin adingdoh jengin, leng inpi honsunga chun achetai; Haman chula ahinna tei tei dingin Esther lengnu henga atao tao jengin aumden nalaiye; ijeh-inem itileh Haman chun achunga lengpan thilse abolgot mong mong ahitai, ti amudoh ahitan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun lengpa jong leng inpi honsunga konin ahing kile kit'in amahon ju adon nauva muna chu ahunglut kit'a ahileh, Haman chu Esther lengnu lupna jalkhuna chun anakijamin anaum nalaiye; chutah chun lengpan jong asei pai jengin, \"Hichepa pi hin ka-insung laitah a, keima angsung jenga jong lengnu jengjong hitobanga hi adelkhum jeng ding hitam?\" atin agah seidoh bep nalaiyin ahileh, mihon lengpa thusei jou jouvin Haman chu amai ponin atomsoh tauvin ahi. "
+      },
+      {
+        "verse": 9,
+        "text": "Hichun lengpa lhacha panga ahenga kai nukiso ho lah a mi khat Harbo'na kitipa chun aseipaiyin, \"Hiche keo hi ahipoi, aphat cha thu ahung lhun jeh a lengpan hinlona anei Mor'decai kitipa khailihna dinga Hamanin thingpel asema, tong som nga jen sanga abol chu, tujong hin aina akitung nalaiye,\" atitai."
+      },
+      {
+        "verse": 10,
+        "text": "Chuphat'in lengpan jong aseitai, \"Hiche thingpel chunga chun amajoh hi khailih tauvin,\" ati. Hijeh chun mihon Haman chu aman Mor'decai khailihna dinga asemsa thingpel chunga akhailih tauve. Chujouvin lengpa chu alung damtai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche nikho hin Ahasu-e'rus lengpan Esther lengnu chu Judahte melmapa Haman in chu apetai. Ama dinga a-ipi ahi chu Esther hin Mor'decai hi lengpa koma aseidoh phat'in, Mor'decai jong lengpa angsunga ahunglut tai."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun lengpan akhutjem mohor kisemna chu asut lhan, hiche khutjem hi Haman khut'a asut lhah pehsa ahi, akhutjem chu Mor'decai apei. Chule Esther chun Mor'decai hi Haman insunga vaipon apansah-in ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chujouvin Esther chun lengpa henga thu asei kit'in, akengphang te nia aboh khup'in amit lhi long pum pumin lengpa henga ataovin, Agag mi Haman in Judahte douna thilse agona, thilpha lou aboldoh got chu akhel kitna din aseitai."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun lengpan jong Esther chu sana tenggol'in agahjap'in,"
+      },
+      {
+        "verse": 5,
+        "text": "Hichun Esther jong athouvin lengpa angsunga adinge. Chule Esther hin aseitai, \"Lengpa nalung alhai dinga, chule keiman nang mitmua lungsetna thei thil kaboldoh a ahileh, chutengleh kasei ding hi lengpa mitmua adih dinga kilom ahiya, keijeng jong hi nangma mitmua lung lhaina theidol kahileh, masanga Agag mi Hammeda'tha chapa Hamanin lengpa gamkai jousea cheng Judah mite suhgamna dinga lekha anathotsa chu kheldoh kitna dingin thupeh khat bol'in lang lekha thot homjal kit'in."
+      },
+      {
+        "verse": 6,
+        "text": "Ajeh chu kamite chunga hung lhung ding hitobang hamsetna hi keiman iti kavet jou ding ham? Chujongleh kajat mite kithagam pichu keiman iti kathoh jou mong mong ding ham?\" ati."
+      },
+      {
+        "verse": 7,
+        "text": "Hichun Ahasu-e'rus lengpan Esther lengu leh Mor'decai jah a aseiyin. \"Ven, Haman in chu keiman Esther kapen, chule Haman hin Judah te chunga akhut alhah got jeh-in ama jong thingpel chunga akhailih tauve."
+      },
+      {
+        "verse": 8,
+        "text": "Judahte chung chang thudola hi nang nin nadei deiya, lengpa min a nasut thei lhon, lengpa khutjem mohor kisem chu na-namkhum thei lhon ahi; ijeh-inem itileh lengpa min a kisunsa le lengpa khutjem mohor kisemna kinam khumsa chu thupeh ahitan kikheldoh thei lou ding ahi.\" ati."
+      },
+      {
+        "verse": 9,
+        "text": "Hichepet hi lha thum lhin na Sivan lha kiti sunga nisom ni le ni thum lhin ni ahin, lengpa lekhasun a pang ho jouse akou khomsoh keiyun, Judahte chung chang thudol Mor'decaiyin athupeh bang banguvin thupeh khat asun'uvin, hiche hi chu vaipoa pang ho leh gamvaipo ho henga, gamsunga milen milalte henga jong thot din akibol'in, India gama pat Ethopia gam geiya gamsung ja khat le som ni le sagi sunga hop jal din akigon, agamkai jousea ama ama lekhajem cheh in lekha akisunin, mitin vaipi henga ding chun ama ama pao cheh-in akisut pehuve; Judahte ding jong chu amaho lekhajem le amaho paovin akisunin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Lekha kisun ho lengpa Ahasu-e'rus min a kisun ahin, chujongle lengpa khutjem mohor kisemna chu kinam khum cheh ahi; chuin lekha thot jouse chu leng insunga natonga pang ho akipoh sah soh keiyin, amaho hi lengpa kin a kimangji sakol kaljang tah tah, leng sakolte chilhah mong mong ho chunga atouvun alhaitauve."
+      },
+      {
+        "verse": 11,
+        "text": "Hiche lekha thot'a hin lengpa khopi jousea cheng Judahte chu akikhop khom'uva ahinkhou akihuh-uva akihinso tei teina diu angaitouva, koi jat mi hihen lang hoilam gamkai sunga mite hijongleh gal manchah choiya amaho hindel khum jouse chu numei chapang geiya athauva. asuhmang diu chule asuh beihel diuvin asut sah-in, chujongleh athilkeo jouseu jong akichom khomuva."
+      },
+      {
+        "verse": 12,
+        "text": "Ahasu-e'rus lengpa gamsung pumpia gamkai jousea chu ni khat sungseh, Adar lha, lha som le lha ni lhin na, chuche lha msom le ni thum lhin ni chuleh akihuhna diuvin asuntauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chule hiche lekha kisun kijihdoh son khat cheh jong chu gamkai jousea thupeh khat'a pang dia thot ding, mipi jah a hiche hi akiphondoh tengleh Judahte chu hiche nikho kitep alhin ni hileh amemlmateu chunga aphu akilah jouna diuva kiging sadema um cheh diu ahitai."
+      },
+      {
+        "verse": 14,
+        "text": "Hitobang hin lengpa insunga natonga pang ho chu lengpa kinbolna kimang jing sakol kaljang tah tah ho chunga atoudoh uvin, leng thupeh a konin kin le bongin alhaidoh jenguvin ahi; hiche thupeh lekha kisun hi Susa khopi munpia kona kihomdoh ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Mor'decai chu lengpa angsunga konin leng pon loupi achol chu, adum jong akang jong akisil'in apotdoh paiyin, sana lal lukhuh loupi tah chu alua akikhuh-in, ponsil le tupat ponnem le pon sandup akisil'a acheleh khopi sunga mipi chu akipah-uvin othongje jun asam sam jenguve. "
+      },
+      {
+        "verse": 16,
+        "text": "Judahte jong chun meivah adeuvin kipa thanop abol'uvin mi jana akimu uvin ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Gamkai jouse le khopi jouse, hoilai hijongleh lengpa thupeh alekha thot hung lhunna chan a Judahte lah a chun kipa thanopna le golvah bolna dinga natong louva suty kilhadohna aumsoh keiyin ahi. Hichea hin gamtina mitin vaipi ho jong chun acham cham'uvin Judah mi kahiuve, tin aphongdoh gamtauve; ijeh-inem itileh achunguva Judahte kichatna hung lhung ahitai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Lengpa thupeh chu Adar lha, lha som le lha ni lhinna, chuche lha nisom le ni thum lhin nia hi tohdoh ding ahitan, hiche nikhoa hi Judahte melmahon Judahte chunga thaneina neiya apu'uva pan ding atiuva kinepna aneiyu anahin, ahinla hiche nikhoma maa hi Judahte joh chun amelmateu chung joh a thaneina aneiyuva, apua panna aneijoh diuva kikheldoh ahitai."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun Ahasu-e'rus lengpa gamkai sung pumpia khopi jousea cheng Judahte chengse chu amaho suh khah dinga hinhol tapou chu achunga khut lhah ding agouvin akikhomsoh hel tauve. Hichea hin koima chan Judahte chu ating jou tapoi, ijeh-inem itileh Judahte ginna hi mitin vaipi chunga hung lhungsoh ahitan ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chujongleh gamkai sung jouse milen milal jousen jong vaipoa pang ho ahiuvin gamvaipo ho ahiuvin, chule lengpa dinga vaibola pang ho ahiuvin Judahte chu akithopi soh hel'uvin ahi; ajeh chu amaho jong hin Mor'decai chu aginsoh hel'u ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Ijeh-inem itileh lengpa insunga chu Mor'dccai hi milen tah a pang ahitan, gamkai jousea jong minthang-ah ahitai; amonga jong Mor'decai kitipa hin tha aneibe cheh cheh jengin atha akije khong tan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hiti hin Judahte chun amelmateu chu abonchan chemjam in asat sat jenguvin, athat'uvin asumang manguvin, amaho vetda a anapang ho chu adei deiyin abol jenguve."
+      },
+      {
+        "verse": 6,
+        "text": "Susa khopi sung seh seh a jong Judahte chun mihem ja nga jen athat'uvin asumang tauve; "
+      },
+      {
+        "verse": 7,
+        "text": "amithau melchih theitah tah chu Par-shan-datha, le Dalphon toh, Aspa'tha toh,"
+      },
+      {
+        "verse": 8,
+        "text": "chule Pora'tha le Ada'lia toh, Arida'tha le"
+      },
+      {
+        "verse": 9,
+        "text": "Parmash'ta toh, Ar'isai le Ar'idai toh chule Vaiza'tha ahiuvin,"
+      },
+      {
+        "verse": 10,
+        "text": "Judahte douva anapang Hammeda'th achapa Haman kitipa chapa jeng ahiuvin, pasal som alhinguve; ahivangin Judahten amaho thilkeo hi akhut chan jong athampouve."
+      },
+      {
+        "verse": 11,
+        "text": "Hiche nikhoma man Susa khopi munpi sunga kithat mihem jat chu lengpa henga akiseipeh tai. "
+      },
+      {
+        "verse": 12,
+        "text": "Hijeh chun lengpan jong Esther lengnu jah a aseiyin, \"Susa khopi munpi sung seh seh ajong Judahten mihem ja nga athat'uvin, chule Haman chapate pasal som khat jong atha thauve. Chuti ahileh lengpa gamsung mun dang danga ijat itobang banga abol diu hitam! Ipi ham tua nathum nom chu? Nathum thum nakipe jeng ding ahi. Ipi thumbe ding nanei nah laiyam? Nathum chan kibulhit peh jeng ding nahi,\" ati kit nalaiye."
+      },
+      {
+        "verse": 13,
+        "text": "Hiche jong hin Esther in aseitai, \"Lengpan pha nasah dia ahileh, Judahte Susa khopia cheng ho hin tunia thu kipe bang banga jing teng jongleh abol kit diuvin kiphal peh leh. Chutengleh Haman chapate mi pasal som khat jong chu thingpel chunga kikhaisoh keileu, kati,\" atin ahi. "
+      },
+      {
+        "verse": 14,
+        "text": "Hijeh chun lengan hitobanga bol ding hin thu apekit tai; Susa khopi sunga leng thupeh khat akiphongin, Haman chapate pasal som khat jong chu akhai tauve."
+      },
+      {
+        "verse": 15,
+        "text": "Adar lha nisom le ni li lhin nin jong susa khopia cheng Judahte chu akikhom kit'uvin, Susa khopi seh seh a mihem ja thum jen athat'uve; ahivangin athilkeovu chu akhut chan jong atham pouvin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Lengpa gamsunga cheng Judah mi adang jouse jong chu achen chen nau mun cheh a amaho le amaho kihinso ding ngaitona leh amelmateuva kona kilha kang ding dei nan akikhomsoh keiyun, masanga amaho vetda pang miho chu mihem sang som sagi le sang nga jen athat gam'uvin ahi; amavang athilkeovu chu khat'a khat jeng cha jong akhut chan jong atham pouvin, kichom din agopouve."
+      },
+      {
+        "verse": 17,
+        "text": "Hitobanga mi athanau hi Adar lha sunga nisom le ni thum lhin nia abol'u ahin, nisom le ni li lhin nin akicholdo uvin, kut nikhon amangun kipah thanomin aumuve."
+      },
+      {
+        "verse": 18,
+        "text": "Susa khopia cheng Judah mite vang chu Adar lha nisom le ni thum lhin ni leh, nisom le ni li lhin nin akikhomun gal abol'uvin, nisom le ni nga lhin nin vang akicholdo uvin kut bolnan amanguvin kipah thanomin aumuve."
+      },
+      {
+        "verse": 19,
+        "text": "Hichejeh a chu kho neo dunga leh kulpi kaikhum lou kholen dom doma cheng Judah miten Adar lha nisom le ni li lhin ni hi kipana nikho, kut nikhoa aman'uva, suty kilhana anei jiu, agol apai henga thil hoitah tah kithot le naa aman jiu ahiye. "
+      },
+      {
+        "verse": 20,
+        "text": "Mor'decai jong chun thilsoh hijat hi thubua ajih lut'a, lengpa Ahasu-e'rus gamkai sung jousea cheng, nailam le gamla cheng Judahte jouse henga lekha athot'a,"
+      },
+      {
+        "verse": 21,
+        "text": "Adar lha nisom le ni li lhin ni leh, chuche lha ma ma nisom le ni nga lhin ni hi kumsim kumsih a anit jingna diuva aseipeh a,"
+      },
+      {
+        "verse": 22,
+        "text": "hiche nikho te nia hi Judahten amelmateuva kona ontholna akimu niu, gim gentheina jouse amaho dinga kipa thanopna akiheidoh nikho ahi ahet'uva, jingkah a pat kicholdona sutia aman diu, chujongleh hiche nikho teni kut bolna le kipa thanopna nikhoa aneiyuva, khat le khat thil hoi tloi kithot to na anei diu, vaichate thil apehna diuvin aseipeh tan ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Judahten jong amahon apatdoh bang banguleh Mor'decaiyin ahenguva lekha ahinthot bang bangin amanguvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Ijeh-inem itileh Hammeda'tha chapa Agag mi Haman, Judah mite pumpi douva pangpan Judahte suhmangna ding thil anagona, phun anasan a Pur asea phun asan a, hiche vang kisan a chu Judahte noigoiya suhgam ding ati, ahi;"
+      },
+      {
+        "verse": 25,
+        "text": "ahivanginla Esther chu lengpa angsunga ahunglut phat'in lengpan jong thutan ananeiyin, lekha sut thon abol'in, Haman in hitobang tah a Judahte douna thilse anagon chu ama chungma maa chuhsah ding, chujongleh ama le achapate chu thingpel chunga khailih dingin thu apetai. "
+      },
+      {
+        "verse": 26,
+        "text": "Hichejeh a chu mihon hiche nikho teni hi Pur kisan nikho ahijeh a Pur min aputsah-uva Purim nikho asah-u ahiye. Hichejeh a jong chu Mor'decai lekha thot a kisun jouse, chule hiche chung chang thudola amahon ipi atoh khauva, achunguva ipi hung lhung-ah hitam, kiti ho jouse chu "
+      },
+      {
+        "verse": 27,
+        "text": "Judahten abonchan amaho le amaho chunga akipoh jenguvin, suhdetna aneiyun, ason chilhah jouseu leh amaho jop ho jong apohsah-uve; hitia chu kumsim kumsih leh aphat kitep dungjuiya thon moa hiche nikho teni hi anit jing jeng diuvin abol'uvin,"
+      },
+      {
+        "verse": 28,
+        "text": "hiche nikho teni hi akhang khanga gel doh jing jenga, insung jousea jong nit jing ding, gamkai jousea jong nit'a, khopi jousea jong nit ding, Judahte lah pou pouya hiche Purim nikho teni hi thon moa nit jing ding, man louva hithei louhel ding, chutengleh amaho chilhah ho lah a jong hiche nikho teni hetjingna hi kisumil thei lou ding, bolda lou din abol tauve."
+      },
+      {
+        "verse": 29,
+        "text": "Esther lengnu Ab'ihail chanu, Mor'decai chaga vop nun jong Judahte chu thaneina lhingset'a aneina diuvin lekhaa sut thon apen, hiche Purim kut suh detna ding hin lekha anivei nan athot'in ahiye. "
+      },
+      {
+        "verse": 30,
+        "text": "Judahte jouse henga lekha athot soh keiyun, gamkai ja khat le som ni le sagia kihom khen, Ahasu-e'rus lengpa gamkai sunga cheng Judahte jousea jah a chun chamna thu le thutah jengin lekha athot'e;"
+      },
+      {
+        "verse": 31,
+        "text": "hitia hi hiche Purim kut nikho teni hi aphat kitep phat kum kihei phat leh anit theina diuvin Mor'decai leh Esther lengnun Judahte henga athot lhonin, asudet lhontai; hichea hi ama nin amani hinkho ding leh ason achilhah teu hinkho dinga kipehdohna anei lhona, hiche thudola hi an angol lhona lunghem tah a anaumsa ahilhone."
+      },
+      {
+        "verse": 32,
+        "text": "Esther lengnun hiche Purim kut nikho teni manna dinga thu apeh chu akigah chah paiyin, hichu thubu sungajong akijihlut tai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ahasu-e'rus lengpan gamsung mite chung le twikhanglen pang dunga cheng mite jouse chunga hi kai anadonji ahiye."
+      },
+      {
+        "verse": 2,
+        "text": "Hichea hi lengpan tha aneina le athahat ijakai, Mor'decai chunga ja na lentah anapeh thusim aboncha, midang chunga ama akhandoh jeng thusim jong, aboncha hi Media le Persia lengte thusim lekhabua kijihlut soh keijah hilou ham?"
+      },
+      {
+        "verse": 3,
+        "text": "Ijeh-inem itileh Judah mi Mor'decai kitipa hi alet alaldan chu lengpa Ahasu-e'rus ban tah a pang anahin, chujongleh amapa hi Judahte lah jenga jong alal'in, asopite mihem chujatpi chutoh aminche lheh jenguvin ahi; ajeh chu Mor'decai hin amite khantouna ding phattouna ding jeng ahol'in, amite jouse henga chamna thu jeng anaseiyin ahi."
+      }
+    ]
+  ]
+}

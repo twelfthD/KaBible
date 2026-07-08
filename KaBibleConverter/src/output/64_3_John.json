@@ -1,0 +1,87 @@
+{
+  "id": 64,
+  "name": "3 John",
+  "shortName": "",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Salam thu"
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "title": "Gaius pachatna"
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "title": "Diotrephes le Demetrius"
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "title": "Salam chaina"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Upa keiman thutah a ka-ngailut kangai Gaius hengah."
+      },
+      {
+        "verse": 2,
+        "text": "Ngai, nalhagao phattheina achan banga chu imalam jousea naphat theiya nadamna dingin kataojie."
+      },
+      {
+        "verse": 3,
+        "text": "Sopite ho ahunguva nakitah je le thutah a nachon thudol eihung hettohsah jeh-un kakipah behseh jenge."
+      },
+      {
+        "verse": 4,
+        "text": "Kachate thutah a achon thu kajah a kakipa sanga chungnungjo kakipana dang aumpoi."
+      },
+      {
+        "verse": 5,
+        "text": "Ngai, nangman het phah lou maljin sopiho nahin bolna chu tahsan nei chonna doltah ahi;"
+      },
+      {
+        "verse": 6,
+        "text": "amahon nangma ngailutna thudol chu Houbungah ahetsah-un ahi. Nangman amaho chu Pathena doltah-in ajin nauva anathahji le chun pha lheh ding ahi;"
+      },
+      {
+        "verse": 7,
+        "text": "ijeh-inem itile amahon chidang namdang hoa kona imacha kilah louva Min jal’a chu hung pot jeng ahiuve."
+      },
+      {
+        "verse": 8,
+        "text": "Hijeh a chu thutah kithopi ihi theina dinguva hite ho tobang mi chu eiho tah-in ilhunsah dingu thu ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Keiman ilouthem khat Houbunga kahinsutsa ahi, ahinla alah uva piput ngailua Diotrephes chun kaseiyu alapon ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Hichejeh a chu keima kahunga ahile athilbol achonna thu gilou tamtah kachunguva aseiya eiseiset nau chengse kageldohsah ding ahi; chua jong chu lung lhai loulaiyin sopiho chu amanla alhunsah pon, lhunsah dinga gohoma ajadan, Houbunga konin anodoh jengin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Ngai nangma vangin ase chu jom louvin apha chu jomin. Apha bola chu Pathena kon ahi; ase bol’a vang chun Pathen amu loulai ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Demetrius chun mijouse hettohsahna aneiya, thutah jongin ahettohsah ahin, keihon jong kahettohsah jengu ahi; chule keiho hettohsah chu thutah ahi ti nangman nahei."
+      },
+      {
+        "verse": 13,
+        "text": "Nangma henga hinsut ding thil tamtah aume, ahinla lekha twi le lekha mol a hinsut ding kanompoi;"
+      },
+      {
+        "verse": 14,
+        "text": "ahin chomkhat jou le nangma kamua chule kimaitoa ikihoulim ding kakineme. Nachungah lungmon chuhen. Gol le paihon nasalamui. Gol le paiho chu amin cheh phan salamin."
+      }
+    ]
+  ]
+}

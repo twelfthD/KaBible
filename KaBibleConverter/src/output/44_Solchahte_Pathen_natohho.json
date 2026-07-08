@@ -1,0 +1,4518 @@
+{
+  "id": 44,
+  "name": "Solchahte Pathen natohho",
+  "shortName": "",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "Jesun Lhagao Theng ateppeh"
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "title": "Jesu Vana akaltou"
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "title": "Judas khel seijui khat aki lhenbe"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Lhagao Theng hungkum"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "title": "Pentecost nikhoa mipi maiya Peter thusei"
+    },
+    {
+      "chapter": 2,
+      "verse": 43,
+      "title": "Jesu tahsan ho akimanchah dol"
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "title": "Houin kelkot phunga elbai khat Peter in aboldam"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "title": "Solomon leibuh a Peter thusei"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Lamkaiho kikhopna Peter le John"
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "title": "Jesu tahsan ho hanna dia ataovu"
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "title": "Thil jouse neilhanga anei khomu"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "title": "Ananias le Sapphira"
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "title": "Melchihna tampi le thil kidang tampi aboldoh-u"
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "title": "Solchahho min abolgentheiyu"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "title": "Mi sagi kilhendoh"
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "title": "Stephen amat’u"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "title": "Stephen kihonna thusei"
+    },
+    {
+      "chapter": 7,
+      "verse": 54,
+      "title": "Stephen songa aselih-u"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "title": "Saul’in Houbung abolgenthei"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "title": "Samaria khopia kipana thupha kiseiphong"
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "title": "Philip le Ethiopia a hungkon nukisopa"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "title": "Jesu Christa dia Saul hinkho kikhel. @9(Sol. 22:6-16; 26:12-18)@7"
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "title": "Damascus khopia Saul in Kipana Thupha aseiphong"
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "title": "Judah mihon athana diuva kona Saul ajamdoh"
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "title": "Jerusalem khopia Saul"
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "title": "Aeneas kitinu kiboldam"
+    },
+    {
+      "chapter": 9,
+      "verse": 36,
+      "title": "Dorcas kicho-hing kit"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "title": "Peter le Comelius"
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "title": "Comelius insunga Peter in thu asei"
+    },
+    {
+      "chapter": 10,
+      "verse": 44,
+      "title": "Chidang namdangte Lhagao Theng chan"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "title": "Jerusalem Houbunga Peter thulhut"
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "title": "Antioch khopia Houbung"
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "title": "Jacob athauva Peter songkula akhumu"
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "title": "Herod thi"
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "title": "Barnabas le Saul"
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "title": "Cyprus gama solchah teni thusei phong"
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "title": "Antioch le Pisidia khoa Paul le Barnabas"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "title": "conium khoa Paul le Barnabas"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "title": "Lystra khoa Paul songa aseu"
+    },
+    {
+      "chapter": 14,
+      "verse": 24,
+      "title": "Paul le Barnabas Syria gam Antioch a ahung kile kit lhon"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "title": "Jerusalem a lamkaiho kikhop"
+    },
+    {
+      "chapter": 15,
+      "verse": 22,
+      "title": "Lamkaiho kikhopna kona lekha thot"
+    },
+    {
+      "chapter": 15,
+      "verse": 36,
+      "title": "Barnabas adalhah-a Paul achangva"
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "title": "Timothy’n Paul le Silas akilhonpi"
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "title": "Macedonia a mi khat, Paul in gao achana amu"
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "title": "Christa dia Lydia hinkho kikhel"
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "title": "Phllippi khoa Paul le Silas songkul lut"
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "title": "Thessalonica khoa thunoh baotam"
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "title": "Solchah hon Beroea aphah-u"
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "title": "Athens khopia Paul"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "title": "Corinth khopia Paul"
+    },
+    {
+      "chapter": 18,
+      "verse": 18,
+      "title": "Paul Antioch khoa ahung kile kit"
+    },
+    {
+      "chapter": 18,
+      "verse": 24,
+      "title": "Ephesus khopia Apollos thu lhangsap"
+    },
+    {
+      "chapter": 19,
+      "verse": 1,
+      "title": "Ephesus khopia Paul"
+    },
+    {
+      "chapter": 19,
+      "verse": 11,
+      "title": "Sceva chapate"
+    },
+    {
+      "chapter": 19,
+      "verse": 21,
+      "title": "Ephesus khopia thunoh"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "title": "Macedonia le Greek gama Paul kholjin"
+    },
+    {
+      "chapter": 20,
+      "verse": 7,
+      "title": "Paul’in Troas khopi alhahna dinga agavil kit"
+    },
+    {
+      "chapter": 20,
+      "verse": 13,
+      "title": "Troas khopia pat Miletus geiya Paul konga akitol"
+    },
+    {
+      "chapter": 20,
+      "verse": 17,
+      "title": "Paul’in Ephesus kho upaho henga lhahna thu asei"
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "title": "Jerusalem jona Paul kholjin"
+    },
+    {
+      "chapter": 21,
+      "verse": 17,
+      "title": "Paul’in Jacob akimupi"
+    },
+    {
+      "chapter": 21,
+      "verse": 27,
+      "title": "Hou-in sunga Paul amat’u"
+    },
+    {
+      "chapter": 21,
+      "verse": 37,
+      "title": "Paul’in akihonna thu asei"
+    },
+    {
+      "chapter": 22,
+      "verse": 6,
+      "title": "Paul’in ahinkho kikhel avelsei kit"
+    },
+    {
+      "chapter": 22,
+      "verse": 17,
+      "title": "Chidang namdang lah a thusei dia Paul akikou"
+    },
+    {
+      "chapter": 22,
+      "verse": 22,
+      "title": "Rome sepai kaidongpa ina Paul"
+    },
+    {
+      "chapter": 22,
+      "verse": 30,
+      "title": "Lamkaiho kikhopna a Paul"
+    },
+    {
+      "chapter": 23,
+      "verse": 12,
+      "title": "Paul hinkho suhbeina ding thilgon"
+    },
+    {
+      "chapter": 23,
+      "verse": 23,
+      "title": "Gamvaipo Felix henga Paul asol’u"
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "title": "Paul hehna thu"
+    },
+    {
+      "chapter": 24,
+      "verse": 10,
+      "title": "Felix anga Paul kihonna"
+    },
+    {
+      "chapter": 24,
+      "verse": 22,
+      "title": "Mihenna ina Paul akihen"
+    },
+    {
+      "chapter": 25,
+      "verse": 1,
+      "title": "Caesar henga Paul’in achungthu alhut"
+    },
+    {
+      "chapter": 25,
+      "verse": 13,
+      "title": "Agrippa le Bernice anga Paul akailut’u"
+    },
+    {
+      "chapter": 26,
+      "verse": 1,
+      "title": "Agrippa anga Paul’in akihonna asei"
+    },
+    {
+      "chapter": 26,
+      "verse": 12,
+      "title": "Paul’in ahinkho kikhel avelsei kit. @9(Acts 9:1-19; 22:6-16)@7"
+    },
+    {
+      "chapter": 26,
+      "verse": 19,
+      "title": "Juda mite leh chidang namdangte Paul’in achung changa Pathen thilbol aseidoh"
+    },
+    {
+      "chapter": 26,
+      "verse": 24,
+      "title": "Agrippan atahsan tei teina dia Paul’in taona anei"
+    },
+    {
+      "chapter": 27,
+      "verse": 1,
+      "title": "Rome khopi jona Paul konga kitol"
+    },
+    {
+      "chapter": 27,
+      "verse": 13,
+      "title": "Twikhanglen chunga huise atou"
+    },
+    {
+      "chapter": 27,
+      "verse": 39,
+      "title": "Kongke"
+    },
+    {
+      "chapter": 28,
+      "verse": 1,
+      "title": "Malta twikol a Paul"
+    },
+    {
+      "chapter": 28,
+      "verse": 11,
+      "title": "Paul Rome khopi alhun"
+    },
+    {
+      "chapter": 28,
+      "verse": 17,
+      "title": "Paul’in Rome khopia Pathen thupha aseiphong"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Vo Theophilus, lekha masa a chu Jesu thilbol le athuhil kipattil thudol jouse,"
+      },
+      {
+        "verse": 2,
+        "text": "Lhagao Thenga asolchah lhenho thu apeh jouva ama lahtouva aum ni geiya thu chu kasut ahi;"
+      },
+      {
+        "verse": 3,
+        "text": "gim genthei athoh jouvin chuche solchah ho chu hetphotna tamtah toh thon ahingin akimusah-in, ni somli geiyin ahenguvah akilah jin Pathen gam thudol aseiyin:"
+      },
+      {
+        "verse": 4,
+        "text": "chule amahotoh aum khomin amaho chu hiche thu hi apen, “Nanghon Jerusalem dalha hih’un; Pa thutep keiya kona najah u chu ngah jingun."
+      },
+      {
+        "verse": 5,
+        "text": "Ijeh inem itile John chun twiya baptize achansah ahin, nangho vang tukal ni phabep joule Lhagao Thenga baptize nachan dingu ahi,” ati. "
+      },
+      {
+        "verse": 6,
+        "text": "Hichun amaho ahung kikhomun ajah-a, “Pakai tua hi Israelte gam nakiledohsah kit ding ham?” tin adongui."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin Aman ajah-uva, “Pan acham chama athuneinaa angaitoa agot phat le nikho chu nangho hetding dol ahipoi."
+      },
+      {
+        "verse": 8,
+        "text": "Amavang Lhagao Theng nachunguva ahung lhun tengle nanghon thahat nanei dingu ahi; chule nangho Jerusalema jong, Judea gam sungsea le, Samaria, chule leiset chung gam jousea kolmong geiya kathu hettohsah a napan dingu ahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin thu hicheng chu asei jouvin, amahon avet vet pettah un Ama lahtouvin aumin; amitmuva konin meilhang khat’in atolmangtan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin akaltouva van lam avet vet pettah-un, veuvin, ponbang sil mi ni akenguvah ahung dingin;"
+      },
+      {
+        "verse": 11,
+        "text": "miteni chun, “Galilee gam miho, ibola nadinuva van lam navet jingu ham? Hiche Jesu nangho koma kona vana kilatou hi, vana akaltou namu bang banguva hi hung ding ahi,” ati lhone."
+      },
+      {
+        "verse": 12,
+        "text": "Chutah-in Olivet mola kon chun Jerusalem a akiletauve; hichu Jerusalem nai ahin cholngah ni lampi bou ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin alhunun aumnau chungnung dan a chun aluttou tauve. Peter le John, Jacob le Andrew, Phillip le Thomas, Bartholomew le Matthew, Alphaeus chapa Judas, Jacob le Zealot Simon, chule Jacob nao Judas hicheng chu ahiuve."
+      },
+      {
+        "verse": 14,
+        "text": "Hiteho chengse chu numei phabeptoh Jesu nu Mariam toh, asopiteho toh lungkhat tah-in gunchu tah-in atao jom jing tauve."
+      },
+      {
+        "verse": 15,
+        "text": "Hiche pet chun sopiho lah a Peter adingdoh-in @9(mipi akikhoma chu mi ja le somni jen ahiuve)@7,"
+      },
+      {
+        "verse": 16,
+        "text": "“Sopiteho, Jesu manho lamkaiya pang Judas, achungchang thudol, Lhagao Thengin David kama aseisah Pathen lekhabua thu chu aguilhun ding thu ahin; "
+      },
+      {
+        "verse": 17,
+        "text": "ijeh-inem itile ama chu eiho lah a kisimtha ahin, chule hiche lhacha mun jong hi changa ahin,"
+      },
+      {
+        "verse": 18,
+        "text": "@9(aman khan gitlou man sumin leimun khat alamin, akhupbon achun atumpi apohkeh-in agil jouse ahung dohtan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Hiche thu hi, Jerusalem a cheng jousen ahesoh keiye; hiti chun amaho paovin chuche leimun min chu Akeldama asahtauve; hichu Thisan Lei tina ahi.)@7 "
+      },
+      {
+        "verse": 20,
+        "text": "ijeh-inem itile Labua akisune, ‘Ama umna mun chu onghen, chua chun koima um hihhen; Chule avaipoh panmun chu midang chang hen,’ ati."
+      },
+      {
+        "verse": 21,
+        "text": "Hijeh chu John in baptize achansah-a pat Pakai Jesu eihoa kona lahtouva aum ni geiya,"
+      },
+      {
+        "verse": 22,
+        "text": "eiho lah-a Ama ache le ahung le lai sungsea ikiloi khompiu hiche miho lah-a mi khat, Ama thodoh kit hettohsah a eipanpi dingu thu ahi,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin mi ni, Barsabbas atiu Joseph amin chom Justus, chule Matthias, hiteni chu aanguva atungdoh-un,"
+      },
+      {
+        "verse": 24,
+        "text": "ataovun, “Vo mijouse lung hesoh Pakai, Judas chu ama muna che dingin hiche lhacha na chule solchah a a pan alhatan ahi;"
+      },
+      {
+        "verse": 25,
+        "text": "hiche panmun chu lo dinga hiteni koijoh hi nalhen em neivetsah-un,” atiuve."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin amahon hiteni ding chun vang asanun ahile Matthias min ahung dohtai. Hichun ama chu solchah som le khat chutoh akisimtha tai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Pentecost ni ahung lhung tan ahile abonchauva mun khat’a umkhom ahiuvin;"
+      },
+      {
+        "verse": 2,
+        "text": "Chuin phulou helouvin vana konin hui hattah nung gin bangin ahung gingin atounau in chu adimsoh jengin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin meikong bangin lei ahung kilah-in akikhen jalin alu chung cheh-uva achongin ahile,"
+      },
+      {
+        "verse": 4,
+        "text": "amaho Lhagao Theng adimset tauvin, Lhagaovin aseidoh sah bangun pao chom pao chom in thu asei pantauvin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hichea chu vannoi leiset gam tina chitin namtin lah-a kona hou gut Judah miho Jerusalem a aum laiyu ahi. "
+      },
+      {
+        "verse": 6,
+        "text": "Chuin chuche hu gin chu akijah phat chun mipi ahung kikhomun, amitakip’in ama ama pao cheh-a thu kisei ajah jeh-u chun alung kichihlai jengun ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin amaho chun adatmovin kidang asauvin, “Veuvin, thu seiho hi abonchauva Galilee gam mi hilou hiuvam?"
+      },
+      {
+        "verse": 8,
+        "text": "Chule iatile eihon amitakip’in ipenna gam cheh paova thu kisei ijah-uham?"
+      },
+      {
+        "verse": 9,
+        "text": "Eihola abang Parthia mi, Mede mi, Elam mi ihiuvin, abang Mesopotamia gama cheng, Judah gama le Cappadocia gama cheng, Pontus gama le Asia gama cheng,"
+      },
+      {
+        "verse": 10,
+        "text": "Phrygia le Pamphylia gama cheng, Egypt gama cheng, chule Cyrene gam vela, Libya gama cheng ihiuvin; a bang Rome a kona hung kholjin, Judah hole Judah chona chonho,"
+      },
+      {
+        "verse": 11,
+        "text": "chule Crete mi le Arab gam mi ihiuvin; ahivangin eima pao cheh-a Pathen thilbol loupi thu aseiyu thakhat jah-in ijauve,” atiuvin ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin abonchau chun kidang asauvin adatmo lheh jengun, “Itina ahidem,” tin khatle khat akidongto tauvin ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Ahivangin adangho chun ajon taiyun, “Hiteho lengpiga twithah khama hiuva hi,” atiuve."
+      },
+      {
+        "verse": 14,
+        "text": "Ahin Peter som le khat chutoh adingin aw sangtah-in asamin ajah uva, “Judah gam mite le Jerusalem a cheng ho, nanghon nabon chauvin hiche hi heuvin, chule kathusei lungna changin ngaiyun."
+      },
+      {
+        "verse": 15,
+        "text": "Ijeh-inem itile hiteho hi nangho ngaito banga lengpitwi khama ahipouve; tu hi vai ahinalai bouve;"
+      },
+      {
+        "verse": 16,
+        "text": "ahin hiche hi Joel themgao sei chu guilhunga ahibouve!"
+      },
+      {
+        "verse": 17,
+        "text": "’Pathen in, ni nunungle hiti ding ahi, mi jouse chunga ka-Lhagao bunglha ding kahi; Chule nachapateu nachanuteu vin lhagao thu aseidoh dingu ahi. Chule nalhangval-hovin mu aneiyuva, Na-upahovin mang a mat dingu;"
+      },
+      {
+        "verse": 18,
+        "text": "Ahi, hiche niteng chule kasohpa hole kasohnu ho chunga jong Kalhagao bunglha ding kahi, chule amahon lhagao thu aseidoh dingu ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chule leiset chunga vana thil kidang dang, Chule noi leisetna melchihnaho; thisan, mei, meikhu kamusah ding;"
+      },
+      {
+        "verse": 20,
+        "text": "Nisa thimsoh-a, lha thisan soh ding, Pakai ni loupi tah le minthang tah chu ahung lhun masanga;"
+      },
+      {
+        "verse": 21,
+        "text": "Chule hiti ding ahi, Koi hijongle Pakai mina tao chan chu kihuhhing ding ahi,’ ati."
+      },
+      {
+        "verse": 22,
+        "text": "“Nangho Israel mite, hiche thu hi ngaiyun; Nazareth Jesu, Pathenin amanchah-a nalah-uva, thil lou pi bolle, thil kidang chule melchih naho abola kon chun nangho dinga aphatsah aphotchen-sah ahi, hichu nanghon naheuve;"
+      },
+      {
+        "verse": 23,
+        "text": "ama chu Pathen in ageltohsa le ahet masahsa bangin pehdoh-in aumtan ahile, nanghon dan neilouho khut’in, thingpelah nakhenbeh-un, nathat tauve."
+      },
+      {
+        "verse": 24,
+        "text": "Ama chu Pathen in thina-in akan chu asutlhappeh-in, akaithoutai; thina-in ama chu atuhden hoi ahiloujeh chun."
+      },
+      {
+        "verse": 25,
+        "text": "Ijeh-inem itile David’in ama thudol chu aseiyin, ‘Keiman Pakai chu kamaikoh-a kamu jinge, Ajeh chu keima kalon louna dingin, ama kakhut jet lamah aume, "
+      },
+      {
+        "verse": 26,
+        "text": "Hijeh chun kalung akipah-in chule kalei athanome; Chuche kalval chun kaphe jong kinema cholnga ding ahi;"
+      },
+      {
+        "verse": 27,
+        "text": "Ajeh chu nangman kalhagao thikhol khula nadalhah lou ding ahin, Namitheng chu monmangsah lou ding nahi."
+      },
+      {
+        "verse": 28,
+        "text": "Nangman keima hinna lampi neihetsah ahitan, Namaisoa kipana neidip ding ahi,’ ati."
+      },
+      {
+        "verse": 29,
+        "text": "“Sopiteho, iphung bulpiu David thu hi olmo louhelin najah-uva kasei theiye, ama chu athin, akivuiyin abuikhuh tu geiyin ilah-uva aum jinge."
+      },
+      {
+        "verse": 30,
+        "text": "Ama chu themgao ahi jeh-in, Pathen in ama taiguiya peng khat alal tounaa atousah ding, kihahsela athutep chu ahen;"
+      },
+      {
+        "verse": 31,
+        "text": "chutia chu khonung thu ahet masah jeh chun Christa thokit ding thu aseiyin, Thikhol khulah dalhah denin aumpoi, Alongin jong mon mangna amupoi,’ ati. "
+      },
+      {
+        "verse": 32,
+        "text": "Hiche Jesu chu Pathen in akaithou kittan, ahetoh-a keiho kabonchau kahiuve."
+      },
+      {
+        "verse": 33,
+        "text": "Hijeh chun Pathen khut jet lamah choisangin aumin athutepsa Lhagao Theng chu a-Paa konin amun, hichu ahin bunglhan, tua namuu najah-u hi, ahi."
+      },
+      {
+        "verse": 34,
+        "text": "David chu vanah akalpoi, ahivangin amatah-in hiti hin aseiye, ‘Pakai chun ka-Pakai jah a Kakhut jet lamah tou jingin,"
+      },
+      {
+        "verse": 35,
+        "text": "Keiman namelma ho nakeng chotpha kaneisah masang sen,’ ati."
+      },
+      {
+        "verse": 36,
+        "text": "Hijeh chun Israel insung mi jousen kichentah-in heuhen, hiche Jesu nanghon thingpel a nakhetbeh-u chu Pathen in Pakai le Christa a atun ahitai,” ati."
+      },
+      {
+        "verse": 37,
+        "text": "Amahon thu hichengchu ajah phat’un, alungu hem’a kisun abangin, Peter le solchah dangho jah-a, “Sopite, i-kati dingu ham?” atiuve."
+      },
+      {
+        "verse": 38,
+        "text": "Chuin Peter’in ajahuvah, “Nalung heiyunlang chonset suhbei nan Jesu Christa minin nabon chauvin baptize chang cheh-un, chule Lhagao Theng kipea hi nachan ding ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Ijeh inem itile thutep chu nangho dingle nachateu dinga chule gamla tah-a umho, Pakai i-Pathenun ama henga akou dingho jouse dinga ahi,” ati."
+      },
+      {
+        "verse": 40,
+        "text": "Chule thu dang dang tamtah man ahettohsah-in, atilkhouvin, “Tulai khang lung gilouva kon hin kihuhdoh-un,” ati."
+      },
+      {
+        "verse": 41,
+        "text": "Chutah chun athu jop chan chu baptize achang tauve; chule hiche nilele chun amaho chu mi sang thumjen in abetauve."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin amaho chu solchah ho thuhil a jong, kithokhom in jong, changlhah semkeh-in jong, taovin jong gunchutah-in apang det jing tauve."
+      },
+      {
+        "verse": 43,
+        "text": "Hichun ami tin akicha tauve; chule solchah ho chun thil kidang tamtah le melchihna aboltauve."
+      },
+      {
+        "verse": 44,
+        "text": "Chule atahsan jouse chu aum khomun thil jouse neilhangin aneiyun;"
+      },
+      {
+        "verse": 45,
+        "text": "chule aneiyu athilkeovu ajoh-un, abonchauvin angaichat akin toh khombep cheh-in, akihom jiuvin ahi."
+      },
+      {
+        "verse": 46,
+        "text": "Chule niseh-in lung khattah-in hou inah gunchu tah-in aumdet jingun, ainhovah changlhah asemkeh-un, kipah le lung khatseh pun an ane jiuvin,"
+      },
+      {
+        "verse": 47,
+        "text": "Pathen avahchoiyun, chule mi jouse lungdeiyin aumun ahi. Chuin Pakaiyin huhhinga umho chu niseh-in amahoa chun abe jingtan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ni khat Petter le John tao phat’in, hichu ni kihei ahin, houina achetou lhonin ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin mi khat anu sunga apena elbaiya peng ahinpouvin, houina lut jouse henga khut adoa thil akithum dingin houina Kotkhahhoi atiuva chu niseh le akoijiu ahin;"
+      },
+      {
+        "verse": 3,
+        "text": "ama chun Peter le John houina alut ding lhon amu phat’in thil eikipe le tin anathum in ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Peter in ama chu ave changmel in John toh ahin, “Keini neive lhonin,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun aman ikhat mu akinem in lung luttah-in avetan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahin, Peter in, “Dangka sana kaneipoi; ahivangin kaneisun penge; Nazareth Jesu Christa min in lamjot tan,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin aman akhut jet’in amanin akai dingin ahile, chupet tah chun akengphang le a-ahkhomit guho ahatdohtai."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin akichomin adingin lam a jot pantai; chuin amani chutoh houinah alut’in, avahlen akichom akichom in Pathen avahchoi avahchoi jengtan ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin mi jousen avalea Pathen avahchoi avahchoi chu amuvin;"
+      },
+      {
+        "verse": 10,
+        "text": "chule houin Kotkhahhoi phunga touva khut doa chu ahi aheuvin; chule achunga thil soh chu kidang le datmo um asa lheh jengun ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin aman Peter le John atuh pet chun, miho jouse chun kidang behseh asauvin ahenguva Solomon kempum atiuva chun ahung lhai khomun ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin hichu Peter in amu phat’in miho chu adonbut’in, “Vo nangho Israel mite, ibola hichepa chunga hi kidang saa nahiuvem? Ole keihon keiho thahat le houdih vanga ama hi lam kajotsah theiya nangaitouva neivet vetjingu ham?"
+      },
+      {
+        "verse": 13,
+        "text": "Abraham le Isaac chule Jacob Pathen, iputeu ipateu Pathen in alhacha Jesu chu achoiat hija hi; ama chu nanghon nalehdoh-un Pilate ang sungtah-a aman lhadoh dinga agotsan jongin napedoh jengui."
+      },
+      {
+        "verse": 14,
+        "text": "Ahi, nanghon Chondih tah le Thengtah chu nalehdoh-un tolthatjoh chu nalhadoh pehna dingun nathumun,"
+      },
+      {
+        "verse": 15,
+        "text": "hinna Bulpi chu nathat tauve; ahinla ama chu Pathen in athiho lah-a konin akaithou kittan ahi, ahetoh keiho hi kahiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Chule ama mina tahsan vanga amin chun nanghon nahet jingule namu jingu hichepa hi ahatsah ahitai; ahi, ama vanga tahsan chun hichepa hi nangho jouse mitmua adamsahhel ahitai."
+      },
+      {
+        "verse": 17,
+        "text": "“Chule tun, sopite hichu nahet lou jeh-uva nanghole navaipo pipuhovin nabolu ahi kahei."
+      },
+      {
+        "verse": 18,
+        "text": "Ahivangin Pathen in athemgao ho jouse kama aseisah-a ‘Christa chun gim genthei athoh ding ahi,’ ati chu hitia hi aguilhunsah ahibouve."
+      },
+      {
+        "verse": 19,
+        "text": "Hijeh chun, nachonsetnau chulmanga a um theina dingin nalung heiyun, hung kilehei kit’un, chutile Pakai anga konin haldohna kiledohna phat chu hung lhung theiyin tin;"
+      },
+      {
+        "verse": 20,
+        "text": "chule nangho dinga agotsa Christa Jesu chu nahenguva ahinsol thei ding ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Amavang imajouse akiledohsah kit phat kahsea chu, vanin ama chu alah luttahdi ding mong thu ahi; hiche thu hi Pathen in atil abula pat’a athemgao thengho kama ahinsei sahpeh ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Mose’n ‘Pakai Pathen in keima eitundoh banga hi nangho dinga nasopiteu lah-a khat themgaova atundoh ding ahi; ama chun najah-uva thu asei jouse chu nangai dingu ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Chule hiti ding ahi, koi hijongle chuche themgao thusei ngai lou lou chu miho lah-a kona kisumanghel ding ahi,’ ati."
+      },
+      {
+        "verse": 24,
+        "text": "Ahi, themgao ho jousen, Samuel a pat’a anunga abanjom chengsen jong thusei jousen tulai thusoh umchan ding hi aseiyun ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Nangho, themgao hole Pathen in naputeu napateu atepna thutep chate chu nahiuve, Pathen in Abraham jah-a, ‘Nangma chilhah-a kona vannoi leiset phung jouse phatthei chang ding ahi,’ tia atep chu."
+      },
+      {
+        "verse": 26,
+        "text": "Pathen in alhacha chu atungdoh-in nagitlounau chengseuva kona lehei cheh-a phatthei chansah dingin nangho hengah ahinsol masapen in ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin miho jah-a athusei pet lhonin, thempu hole houin vaipo chu Sadducee hotoh achung lhonah achuvin."
+      },
+      {
+        "verse": 2,
+        "text": "mi thu ahil lhonle Jesu vanga athi lah-a kona thokit thu ahil lhonjeh chun alungphamo lheh jengui."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin amani chu amanun, nilhah ahitah jeh chun ajinga dingin mihenna inah akhum tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Ahivangin athu jaho mi tamtah-in atahsan un, chule amijat chu sang nga jen ahiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin ahitin ahi, ajingin avaipoho chengseutoh aupaho chengseu chule danthu sunho Jerusalem a akikhomun;"
+      },
+      {
+        "verse": 6,
+        "text": "chule hia chun Annas thempu chungnungtoh Caiaphas hi, John hi, Alexander hi chule thempu chungnung inkote chengsetoh aumkhomui."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin alai lunguvah amani chu atungun, “Ipi thuneina le koi mina hiche hi nabol lhonham?” tin adongui."
+      },
+      {
+        "verse": 8,
+        "text": "Chutah-in Peter Lhagao Thengin adimset’in ajah-uva, “Nangho, miho vaipoho chule upaho,"
+      },
+      {
+        "verse": 9,
+        "text": "tunia hiche michatmo phatna kibol thua, hichepa ipia iti kiboldam hela hitam, tia eikidonga ahitah-a ahile,"
+      },
+      {
+        "verse": 10,
+        "text": "nabonchauvin kihet cheh-un, chule Israel mi jousen hecheh hen, nanghon thingpela nakhetbeh-u Nazareth Jesu Christa Pathen in athiho lah-a kona akaithou chu ama mina chu ama hi na anguva dama dinga ahitai. "
+      },
+      {
+        "verse": 11,
+        "text": "Nangho insahon nadeimova napaiyu song aninga apipena panga chu ama hi ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chule koima dangah huhhingna aumpoi; ijeh-inem itile vannoiya mihem lah-a huhhinga iumna dinguva kipea min dang a min dang in aumpoi,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin Peter le John hakatje chu amu phat’un, lekha themlou ahi lhonle mimol ahi lhon chu aheuvin adatmo lheh jengui; amani chu Jesu toh kivopsa ahi lhon chu aheuve."
+      },
+      {
+        "verse": 14,
+        "text": "Chule mi akiboldampa chu amahotoh adin khom jing chu amuvin adounan imacha asei theitapouve."
+      },
+      {
+        "verse": 15,
+        "text": "Ahivangin amaho chu akikhop nauva kona chu achoma ga-umdoh dingin asoldoh-un, amaho le amaho akihouvun."
+      },
+      {
+        "verse": 16,
+        "text": "“Hiche miho hi iba ilo dinguham? Amahon thil bolmo kidang datmo tah abolu hila Jerusalem a cheng mi jouse het’in akiphong doh tan; eihon jongla, ahipoi, tin inel theipouve."
+      },
+      {
+        "verse": 17,
+        "text": "Hijongle hiche hi miho lah-a achal cheh cheh louna dingin, tukal a Jesu mina hi thu asei kit louhelna dingun hagih-in gihsal uhite,” akitiuve."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin amani chu akouvun Jesu mina thu aseiya asei louhelna dingu le mi ahil louhelna dingun akhamchah tauve."
+      },
+      {
+        "verse": 19,
+        "text": "Ahivangin Peter le John in adonbut lhonin ajah-uva, “Pathen thu sanga nangho thu ngaijoh chu Pathen mituma dihnam, nanghon geltoh-un."
+      },
+      {
+        "verse": 20,
+        "text": "Keiho vang thil kamu chengseu le kajah chengseu sei louvin kaum theipouve,” ati lhone."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin amahon agihsal kitleuvun alhadoh tauve, mipi jeh chun talen pehnaje ahepouve; ijeh-inem itile thil kibol jeh chun mijousen Pathen avahchoiyun ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Ajeh iham itile bolmo kidangtah kibola kiboldam mipa chu kum somli chunga mi ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin akilhadoh phat lhonin, aloiho henga ahung lhonin, ajah-uva thempu pipuiho le upaho thusei chu alhut lhonin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin amahon hichu ajahtah-un, aw sangtah-in, lungkhattah-in Pathen asamun, “Vo Pakai, Nangma van le lei chule twikhanglen chule asunga um jouse sema nahi;"
+      },
+      {
+        "verse": 25,
+        "text": "Nangin Lhagao Thenga kapuluiyu nalhacha David kama, ‘Namtin vaipi ibola lunghanga hiuvam, Chule ibola mihon mohthil angaitou ham?"
+      },
+      {
+        "verse": 26,
+        "text": "Leiset chunga lengho apang golun. Chule avaipoteu akikhomui. Pakai le a-Christa chunga chun,’ tia nasei sahsa ahin;"
+      },
+      {
+        "verse": 27,
+        "text": "atahbeh-in hiche khopi sunga hin nalhacha theng Jesu, nangma thaonu chungah, Herod le Pontius Pilate, chidang namdang tetoh Israel mihotoh nakhutle nalungthim in,"
+      },
+      {
+        "verse": 28,
+        "text": "hung guilhung dinga agon masah chengse chu bol dingin akikhomun;"
+      },
+      {
+        "verse": 29,
+        "text": "chule tun, Pakai ami gihsalnau hi vetan;"
+      },
+      {
+        "verse": 30,
+        "text": "chule Nalhacha Theng Jesu mina mi damsah nale melchihna chule bolmo kidang dang abolna dingun. Nakhut lhang inlang nasohte hi hakattah-a nathu aseina dingu pen,” atiuve."
+      },
+      {
+        "verse": 31,
+        "text": "Hiti chun ataovun ahile akikhop nau chu ahung kilingin, abonchauvin Lhagao Thengin adimun hakattah-in Pathen thu asei tauve."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin mipi atahsan chengse chu lungkhat le thakhat ahiuvin; khatchan jong anei chu keiya tum ahi, ti louvin; thil jouse abonchan akikop’un neilhangin aneitauve."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin solchahho chun thahat chungnung tah-in Pakai Jesu thokit thu ahettohsah jiuvin; abonchauva chungah lungsetna nasatah aumtan ahi."
+      },
+      {
+        "verse": 34,
+        "text": "Ajeh chu alah-uva jong koima alhasama aumpouvin; anei jouseu chu gam leiset, in ajoh-un, chule ajoh-u thil manho chu achoiyun,"
+      },
+      {
+        "verse": 35,
+        "text": "solchahho keng bulah ahung koijiuvin akin toh khambep cheh-in akihom jiuvin ahi."
+      },
+      {
+        "verse": 36,
+        "text": "Chuin Joseph, solchahhon Barnabas asah-u @9(hichu lungmonna chapa tina ahi)@7 chu Levi phung mi Cyprus twikol gam mi ahin,"
+      },
+      {
+        "verse": 37,
+        "text": "lou ching khat anei chu ajoh-in, sum chu achoiyin solchaho keng bulah ahung koiyin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ahin mi khat amin Ananias, ainneipi Sapphira toh anei khat ajoh lhonin,"
+      },
+      {
+        "verse": 2,
+        "text": "aman alang akikoiyin hichu ainneipin jong ahet ahin, alang chu ahinchoiyin solchahho keng bulah ahung koiyin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ahinla Peter in, “Ananias ibola gam man chu alang kikoiya Lhagao Theng najoulhep dinga satan in nalung sung alodim hitam?"
+      },
+      {
+        "verse": 4,
+        "text": "Aum laiya chu nanga tum hilouham? Chule najoh nunga jong chu nangma thuneina a um hilouham? Ibola hitobang hi lunga vop nahim? Nangman mi najoulhep ahipoi, Pathen najoulhep ahibouve,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Ananias’in thu chucheng chu ajah jah chun alhun athitai; chuin aja jouse chunga chun kichatna nasatah achutan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin gollhangho akipatdoh-un, atomun apudoh-un agavuitauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin chuche jou nidan thum ahi donin ainneipi thilsoh umchan chu hepha louvin ahung lutjelin ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Peter in adonbut’in, ajah-a, “Hijat manseh bouva hi gam chu nalhah lhonham,” atile amanun, “Ahi, hijatbou chu ahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Ahinla, Peter in amanu jah a, “I-atile Pakai Lhagao patep dinga nakithukop lhon hitam? ven, nainneipu vuiho kot bul ahung geitauve; amahon nangjong naputdoh dingu ahi“, ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin amanu chu chupettah chun akeng bulah alhun athipaitai; chuin gollhangho chu ahunglut’ule amanu athi chu ahung muvin, apudoh kit’un, ainneipu komah agavuitauve."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin Houbung pumpi chungle chucheng thu jaho jouse chungah kichatna nasatah achutan ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chule solchahho khut’in melchihna le thil kidang dang miho lah-a chun abol jengtan ahi. Amaho chu lung khattah-in Solomon kempuma chun aumun ahi. "
+      },
+      {
+        "verse": 13,
+        "text": "Chuin midang koimachan amaho lah-a lhah ding chu angapcha tapon ahi; ahinla mihon amaho chu aotcha lhehji nauve."
+      },
+      {
+        "verse": 14,
+        "text": "Chule atahsana numei pasal Pakai henga aumbebe jengun;"
+      },
+      {
+        "verse": 15,
+        "text": "chutitah chun Peter a vale komle ale beh khattou chunga achuh na dingin damlou ho khosung lamlen ah ahinpouvin khun le talaiyah alupsah jiuvin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule Jerusalem kim vela khopihoa konin mipi chu ahung khomun adamlou hole lhagaoboh bolgimho ahinpuiyun ahile, abonchau chun boldamin aumji tauve."
+      },
+      {
+        "verse": 17,
+        "text": "Ahin thempu chungnung le aloiho jouse @9(amaho chu Sadducee loi ahiuvin)@7, athangseuvin,"
+      },
+      {
+        "verse": 18,
+        "text": "akipatdoh-un solchahho chu amanun jalhang henna a ahentauve."
+      },
+      {
+        "verse": 19,
+        "text": "Ahinla jan in Pakai Vantil in kot ahongin amaho pamah apuidoh-in ajah-uva,"
+      },
+      {
+        "verse": 20,
+        "text": "“Cheuvinlang houinah gadingun hiche hinna thu jouse hi miho gahilun,” ati. "
+      },
+      {
+        "verse": 21,
+        "text": "Hichu ajauvin ajing khovah-in houina alut paiyun athu ahiltauve. Ahin thempu chungnung chu aumpi aloiho toh ahungin houvai poloi le Israel chate aupaho chengseu akoukhom in, khatteho chu gakai dingin songkul ina chun mi asoltan ahi:"
+      },
+      {
+        "verse": 22,
+        "text": "Ahivangin sottol ahungho chun songkul sungah ahung mutapouve; chuin amaho akileuvin agaseiyun,"
+      },
+      {
+        "verse": 23,
+        "text": "“Songkul inla bitkeiyin akikhahchah nan, angahho jong kotphunga adin jingu kagatoh-un, kot kahonule asungah koima kamutapouve,” agatiuve."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin houin vaipole thempu pipuihon thu hicheng chu ajah phat’un, hichea kon chun ipi ahung sohdoh tadem, tin achung changuvah alungdong lheh jeng tauvin ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin mi khat ahungin ajah-uva, “Veuvin, songkula nahenhou chu houinah adingun miho thu ahilui,” ahung ti."
+      },
+      {
+        "verse": 26,
+        "text": "Chutah-in vaipo chu sottol hotoh akonun agakaiyui; ahivangin miho chun songin eisep get unte ti akichauvin kangchanbou agabol ui."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin apuilut phat’un, amaho chu houvaipoiloi angsungah adinsah-ui. Chuin thempu chungnung chun amaho chu adongin,"
+      },
+      {
+        "verse": 28,
+        "text": "“Hiche min hin mi hildauvin, tia hachang khama kakhamu nahiuvin, ahin, veuvin, nathuhilu Jerusalem nadipsoh tauve; chule hichepa thisan phu hi keiho chunga chuhsah dingin nagouve,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Ahivangin Peter le solchahho chun adonbut’un, “Mihem thu sanga Pathen thua kanunjoh dingu ahi."
+      },
+      {
+        "verse": 30,
+        "text": "Iputeu ipateu Pathen in nanghon thinga nakhaiyuva nathau Jesu chu akaithoutan ahi."
+      },
+      {
+        "verse": 31,
+        "text": "Ama chu Pathen in Israelte lungheina dingle chonset suhbeina dinga, Pakai le Huhhinga hidinga akhut jet’a achoisang ahitai."
+      },
+      {
+        "verse": 32,
+        "text": "Chule hiti thuho hi ahetoh-a keiho kahiuve; chule athua nungho dinga Pathen in apeh Lhagao Theng jong chu ahi,” atiuve."
+      },
+      {
+        "verse": 33,
+        "text": "Ahivangin amahon hichu ajahtah-u chun alungchang kikaldoh a bang jengun tha dingin agotauvin ahi."
+      },
+      {
+        "verse": 34,
+        "text": "Ahivangin houvaipoloi lah a mi khat, Pharisee mi amin Gamaliel, mi jousen aja lheh ahin, adingdoh-in, miho chu chomchakhat soldoh dingin thu apetan ahi. "
+      },
+      {
+        "verse": 35,
+        "text": "Chuin aman ajah-uva, “Nangho Israel mite, hiteho chunga ibol ding nakigot’u hi kichih theiyun."
+      },
+      {
+        "verse": 36,
+        "text": "Ijeh-inem itile tumasang lai Theudas kiti mi khat asohdoh-in ama chun milen kahi atin, ama henga chun ami jat jali jen akaiyun; chuin ama chu athattauvin ahile, athua nungho jouse chu acheh gamun ima hilou asohtauve."
+      },
+      {
+        "verse": 37,
+        "text": "Hichepa jouma chun min kisut laiyin, Galilee gama Judah aumdoh kitleuvin ahenga mi kimkhat aloimangin; ama jong chu amangthah-in athua nungho jouse jong achehgam tauvin ahi."
+      },
+      {
+        "verse": 38,
+        "text": "Chule tua kaseipeh nahiuve, hiche mihoa kon khun kikhindal un limsah dauvin; ijehinem itile hiche kingaitole thil kibola hi mihem phudoh ahile, suhmangin hung um nante."
+      },
+      {
+        "verse": 39,
+        "text": "Ahilouva Pathena kon ahile sumang joupouvinate; ajole Pathen kidoupi hikha get’unate,” ati."
+      },
+      {
+        "verse": 40,
+        "text": "Chuin ama sei chun akilolun, chuin solchahho chu akouvun, avovin, Jesu minin thu sei hihhelun, tin akhamun alhatauve."
+      },
+      {
+        "verse": 41,
+        "text": "Hitichun houvaipoloi anga kon chun, hiche Min jala nahsahmoa bol, thoh dinga lom ihiuve, tin kipahtah-in achemang tauve."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin niseh-in houin a le aintinuva thu hilleh, Jesu chu Christa ahi, tia thupha hil atangdeh pouve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche lai chun seijuiho amijat a pun be cheh cheh phat’un, Hebrew ho chunga Greek gam Juda ho aphuntauve, niseh thil kihoma ameithaiteu adonlou jeh-un."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin somleni ho chun seijui mipi chu akouvun,“Keihon Pathen thu pailhah a anneh thulam jeng ngaito chu kadihsah pouve."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun, sopite, hiche kina hi kapansah thei dingu, nalah-uva konin seiphat chang, lhagao le chihna dimset mi sagi veuvin lhengdoh-un."
+      },
+      {
+        "verse": 4,
+        "text": "Keiho vang taonale thu lhacha chu kapandet jing jeng dingu ahi,” atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Hiche thua chun mi jouse chu alunglhaiyun, tahsanle lhagao Thenga dimset Stephen toh, Philip toh, Prochorus toh, Nicanor toh, Timon toh, chule Parmenas a leh Judah chonna chon Antioch khoa Nicolaus, hicheng chu alhengdoh-un, "
+      },
+      {
+        "verse": 6,
+        "text": "solchahho angah adinsah-un ahile, amaho ataovun, atao jouvun achunguvah akhut angamtauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin Pathen thu chu ahung chaljaltan, chule Jerusalem a seijuiho amijat hapunin apung lheh jeng tauvin; thempuho jong tamtah tahsan thun anungtauvin ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Stephen chu lungsetna le thilbol theina dimin, mi lah a thil kidangle melchihna loupitah aboljin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ahivang in Libertine kikhopna atiu kikhopna a miho phabep, Cyrene mile Alexandria mihotoh chule Cilicia mihole Asia gam miho akipatdoh-un, Stephen chu akinelpitauve."
+      },
+      {
+        "verse": 10,
+        "text": "Ama Lhagaole chihna a athusei chu anel theitapouvin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin amahon mi atiluvin; amaho chun, “Hichepa hin Mose le Pathen ataitom kajauve,” atiuve."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin miho le upaho chule danthu sunho chu atilseuvin, chule amaho chun ahung manun houvaipoloi henga akaiyun,"
+      },
+      {
+        "verse": 13,
+        "text": "hettohsah lhem asemun, hicheho chun, “Hichepa hin hiche intheng hile dan hi tanglouva ataitomjia;"
+      },
+      {
+        "verse": 14,
+        "text": "hiche Nazareth Jesu hin hiche intheng hi aphet lhah-a, Mose danthu peh hi abol lamdang ding ahitai, tia asei kajauve,” atiuvin ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin houvaipoloi atouho jouse chun ave veuvin ahile amaiso Vantil maiso bangin amuve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin thempu chungnung chun, “Hiche thuho hi hinam?” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Stephen’in, “Sopite le pate, ngaiyun; ipuluiyu Haran khoa achen masanga Mesopotamia gama aum laiyin, loupi Pathen ahenga akilah-in ajah-a,"
+      },
+      {
+        "verse": 3,
+        "text": "’Nagam a konin chule nainkoho lah-a konin kipatdoh-in keiman kavetsah ding gama hungin,’ ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chutah in ama Chaldea gama konin ahungdoh-in Haran ah achengtan ahi; chuin hi a kon chun apa thi nungin, Pathen in, tua nachennau, hiche gama achon lutsahtai."
+      },
+      {
+        "verse": 5,
+        "text": "Ahin chua chun akengto ngapna kham jong mun alo ding apepoi, ahivang chun ama le anunga asonho geiya alo dinguva kapeh ding ahin tin, chapa anei loulai peh chun athuteptan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin Pathen in hiti hin thu aseiye, asonho chu hetlou gama pem ding chule amahon soh-a aloilut dingu chule kum jali jen kinom sahna a anei dingu ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Chule asohchan nateu vaipi chu Keiman athu katan ding; chuche joule hung potdoh-uva hiche kom muna hi Keima eihou dingu ahi,’ ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin kitepna cheptan thu apen; chuin chutichun Abraham in Isaac ahing in, ani get nin achep atan in; chuin Isaac chun Jacob ahingin, Jacob’in pului somleni chu ahingin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "“Chuin pului ho chun Joseph chunga thangset abolun Egypt gam a ajoh mangun ahinla Pathen in ama chu aumpin,"
+      },
+      {
+        "verse": 10,
+        "text": "chuin agim agentheina jousea konin ahuhdoh in. Egypt lengpa Pharaoh angsungah lungset nale chihna apen, chuin aman Egypt gam chunga le ama insung jouse chunga gamvaipon apansahtai."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin Egypt gamsung jouse le Canaan gama kel alhan gentheina chungnung tah alhungin ahile, ipului teuvin neh ding amutapouvin ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Ahivangin Jacob chun Egypt gama anneh aume ti ajah jah-in, iputeu chu amasapen in agahsoldoh-e."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin aniveina-in Joseph chun asopite chu akihetdoh sahtan ahile, Joseph nam chu Pharaoh hetchen in aumtai."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin Joseph-in mi asolin apa le ainkote abonchan mi somsagi le nga chu ama heng lama agakou sahtai."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin Jacob Egypt lama achesuh-in; chuin athi tan, iputeu jong athitauve;"
+      },
+      {
+        "verse": 16,
+        "text": "chuin alongu chu Shechem’ah apo galkaiyun, Abraham in aman dangka apeh-a Shechema Hamor chapate hoa kona achoh thana chun alupsah tauve."
+      },
+      {
+        "verse": 17,
+        "text": "“Chuin Pathen in Abraham athutep chu aguilhun aphat alhin konin, miho chu Egypt gama apungun atamcheh jengui; "
+      },
+      {
+        "verse": 18,
+        "text": "Joseph hephalou leng chomkhat Egypt gam chunga avaipoh gei chun."
+      },
+      {
+        "verse": 19,
+        "text": "Ama chun ivaiyu duha themin abolin iputeu ipateu chu achasenu ahin louna dingin, apaidoh dingun heltah-in abol jengin ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Hiche lai chun Mose apengin ahile, Pathena dingin ahoi lheh jengin; apa inah lhathum avah-un;"
+      },
+      {
+        "verse": 21,
+        "text": "chuin akoidoh phat’un, Pharaoh chanun akilahdoh in, achapa dingin akivahtan ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin Mose chu Egypt miho chihnale themna jouse ahilun; chuin ama chu athule thilbol in thahattah ahitai."
+      },
+      {
+        "verse": 23,
+        "text": "“Chuin ama chu akum somli alhin konin, asopiho Israelte chu gavil ding alunga aumtan ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin alah uva khat alam louhela bolgenthei thoh amun ahile ahuh-in, bolgenthei thohpa phu chu alan Egypt mipa chu avolih tai;"
+      },
+      {
+        "verse": 25,
+        "text": "aman Pathen in ama khut’a amaho ahuhdoh chu asopiho chun henahtau ati ahin; amahonla ahepouve."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin ajing in alah-uva mi ni akidel in ahile ama ahenguva agachen, suhcham ding agon, “Vo miteni, nangni sopicha nahiu chu; ibola nangho le nangho ahilouva nakibol touham,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Ahivangin aheng akom ahilouva bolpa chun ama chu asondoh in, ‘Keiho chunga vaipo le thutana koiham natunga? "
+      },
+      {
+        "verse": 28,
+        "text": "Janhia Egypt mipa natha banga chu tha dinga neigot-ham.’ ati."
+      },
+      {
+        "verse": 29,
+        "text": "Hiche ati chun Mose ajam in Midian gama apem in hikoma chun chapa ni ahinge."
+      },
+      {
+        "verse": 30,
+        "text": "“Chuin kum somli alhin phat’in, Sinai mol gamthip’a Vantil in hamboh’a meikongin akimusah-in;"
+      },
+      {
+        "verse": 31,
+        "text": "chuin Mose’n hichu amun athilmu chu kidang asan; chuin agavechen dingin agache naiyin ahile, chua chun Pakai aw ahung gingin."
+      },
+      {
+        "verse": 32,
+        "text": "‘Keima napute napate Pathen, Abraham Pathen, Isaac Pathen, Jacob Pathen kahi,’ ati. Mose akihot hot jengin ave ngamtapoi."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin Pakai chun ajah a, ‘Nakenga konin nakengchot chu sutlhan; ijeh-inem itile nadinna mun chu muntheng ahi. "
+      },
+      {
+        "verse": 34,
+        "text": "Egypt gama um kamite hesoh genthei chentah-in kamun apenu kajan, ahuhdoh dinguva hung kumlha kahi; tun hungin nangma Egypt gama solinge,’ ati."
+      },
+      {
+        "verse": 35,
+        "text": "“Hiche Mose, ‘Keiho chunga vaipole thutana koiham natunga?’ tia aledohpa tah-u chu, Pathen in hamboh a akimusah vantil chu akithopin asem in, vaipole huhdoh hikop dingin asoltan ahi."
+      },
+      {
+        "verse": 36,
+        "text": "Hichepa chun Egypt gamah chule Twikhanglen San le gamthip’ah kum somli sungin thil kidang dang le melchihna abolin amaho chu apuidohtai."
+      },
+      {
+        "verse": 37,
+        "text": "Pathen in nangho dinga nasopiteu lah a kona keima tobang themgao khat asodohsah ding ahi,’ tia Israel chate jah a seiya hiche Mose chu ahi."
+      },
+      {
+        "verse": 38,
+        "text": "Sinai mola ajah-a thu seiya Vantil chutoh chule iputeu ipateutoh gamthip gama Houbunga umkhoma, chule eiho pehson dinga hinna thu mua ama chu ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Iputeu ipateuvin ama thua nunding chu anom hih un ama asondoh un, Egypt lama alungu aheiyun."
+      },
+      {
+        "verse": 40,
+        "text": "Aaron jah a, ‘Eilamkai dingu pathenho neisempeh-un; ijeh-inem, itile Egypt gama kona eipuidoh-uva Mose la hoiya itia ahi kahepouve,’ atiuve."
+      },
+      {
+        "verse": 41,
+        "text": "Chuin amahon hiche pet chun bongnou lim asemun, milim houna ding chun gan athat’un, amaho khut sema chun athanom un ahitauve."
+      },
+      {
+        "verse": 42,
+        "text": "Hijeh chun Pathen in akiheimang sanin van janelpi hou dingin amaho chu alhatai. Vo Israelte, gamthip gama chu kum somli sunga Sa kithale ganlha a keima neihou jiuvem?"
+      },
+      {
+        "verse": 43,
+        "text": "Nanghon Moloch ponbuh le pathen Rephan ahsi, Hou dinga alim nasem u napole jibovui. Hijeh a chu keiman nangho Babylon kallampeh a Katol mangding nahiuve; tia kisei bang chu ahi."
+      },
+      {
+        "verse": 44,
+        "text": "Alim kigon namu bang bang chun houbuh san, tia Mose hilpa thupeh dungjuiya kisa hettohsahna houbuh chu gamthip gama chu iputeu ipateuvin ananeiyu ahi."
+      },
+      {
+        "verse": 45,
+        "text": "Chujouvin iputeu ipateu le Joshua’n hichu aneison peh un, iputeu ipateu masang sanga Pathen in anodohho vaipiho gam alo laiyu chun apo lutpeh un, David nikho lai geiyin aumin;"
+      },
+      {
+        "verse": 46,
+        "text": "ama chun Pathen mitmun deina amun, Jacob Pathen umna ding athum in;"
+      },
+      {
+        "verse": 47,
+        "text": "ahinla in chu Solomon in asahpeh jobouve."
+      },
+      {
+        "verse": 48,
+        "text": "Ahijeng vangin, Chungnungpen chu khut’a kisa a chun achengpoi; themgaovin,"
+      },
+      {
+        "verse": 49,
+        "text": "‘Pakaiyin, Van katouna ahin, Lei kakengphang ngapna ahi; Itobang in neisahpeh dingham? Kacholngahna mun hoikom ham?"
+      },
+      {
+        "verse": 50,
+        "text": "Thil jouse hi aboncha kakhut Sem hilouham? ati,’ tia sei banga chu."
+      },
+      {
+        "verse": 51,
+        "text": "Nangho milouchalte ho, lungsungle na tanlouteho, nanghon aimatih chanin Lhagao Theng nadoudal jingui; naputeu napateu bol bang chu nanghon nabolui."
+      },
+      {
+        "verse": 52,
+        "text": "Themgao koipen chu naputeu napateuvin abolset lou umam? Chondihtah hungding thusei masa ho athatgam un; tun amatah chu amatsahle athat’in nangho napangui;"
+      },
+      {
+        "verse": 53,
+        "text": "chule Vantil thupeh ahi tia nalah sonu danthu chu nanit pouve,” ati."
+      },
+      {
+        "verse": 54,
+        "text": "Chuin thu chucheng ajahtah-un, alungchang kikaldoh abang jengun, aha agoi khumun ahi."
+      },
+      {
+        "verse": 55,
+        "text": "Ahivangin ama Lhagao Theng adimset in, van lam ave aven ahile, Pathen loupile, Pathen khut jet lama Jesu adin chu amun."
+      },
+      {
+        "verse": 56,
+        "text": "“Veuvin, vanho akihona Pathen khut jet lama Mihem chapa adin kamui,” ati."
+      },
+      {
+        "verse": 57,
+        "text": "Ahivangin amaho hatah-in aaosot jengun, akol asimun, thakhattah-in anovin;"
+      },
+      {
+        "verse": 58,
+        "text": "chuin khopam lama anodoh-un, songin aseptauve. Ahetoh ho chun Saul atiu gollhang khat keng khophang koma apon chengseu akoiyun ahi."
+      },
+      {
+        "verse": 59,
+        "text": "Chutia chu amahon Stephen songa ase pettah-u chun ama ataovin “Pakai Jesu kalhagao lan,” ati."
+      },
+      {
+        "verse": 60,
+        "text": "Chuin adilsun hatah-in asamin, “Pakai, hiche chonsetna hi amaho min in sun hih-in,” ati. Chuin hiche chu aseiyin aimudam deltai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Saul jong chun athau chu aphasah ahi. Chuche nia pat chun Jerusalem a um houbung suhmangna dinga bolsetna khohtah aum pantan ahile solchahho chengse tailou a dang chengse Judah gamle Samaria gamah avahcheh tauvin ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Pathena kipetumho chun Stephen chu avuiyun hakan akauve."
+      },
+      {
+        "verse": 3,
+        "text": "Saul vang chun Houbung suhmangna habolin abolin, in tin ah alut’in anumei apasalin ajandoh-in songkula akhum akhumin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hijeh chun avahchehho chu gamtinah avah leuvin thupha chu ahille tauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Philip Samaria khopia achesuh-in ajah-uva Christa chu aphongjal letai."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin melchihna abol-ho chu amuva athuseiho ajah phat’un, mipi chengse chun Philip thuseiho chu lungkhat tahle lunglut tah-in angaitauve."
+      },
+      {
+        "verse": 7,
+        "text": "Hichu, lhagao boh vop mi tamtah a kona lhagao bohho chu hapena apen uva ahung potdoh jeng jenga; chule langthi le elbaiho jong tamtah aboldam jeh ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin chuche khopi sunga chun kipa thanop nasatah aumtan ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ahivangin hiche khopia chun amin Simon kiti mi mitphel doichoi khat anaumin, ama chun milen khat kahi tia, Samaria miho chu kidang satah a anaumsah ahi;"
+      },
+      {
+        "verse": 10,
+        "text": "amahon ama thu chu anangai lheh jengun, aneopena pat alenpen geiyin, “Hichepa hi Pathen thahat chungnung kiti chu ahi,” atiu ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Sotpeh-a pat aman amitpheldoiya amaho chu kidang satah-a aumsahsa ahi jeh-a chu angai lheh jengu ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Ahivangin Philip’in Pathen gam thuphale Jesu Christa min ahillhang atahsan phat’un, anumei apasal in baptize achangtauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chule Simon amatah jongin atahsan tan, baptize achangin Philip toh aum khomjom lhonin melchihnale bolmo thil kidang kibol-ho chu amun, kidang asa lheh jengin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin Jerusalem a um solchah hon, Samaria mihon Pathen thu ajoptauve ti ajah phat’un, Peter le John agahsol tauve. "
+      },
+      {
+        "verse": 15,
+        "text": "Amani chu alhunsuh phat lhonin Lhagao Theng achan theina dingun amaho ding chun ataopeh lhonin;"
+      },
+      {
+        "verse": 16,
+        "text": "ijehinem itile hiche geiya chu alah-uva khatchabeh chunga chuloulai ahin; Pakai Jesu mina baptize changmai maibou anahiuve."
+      },
+      {
+        "verse": 17,
+        "text": "Chutah chun alu chunguva akhut angam lhonin ahile Lhagao Theng achang tauve."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin Simon in solchah ho khut ngap vanga Lhagao Theng kipeh chu amun, amani chu sum peh agon."
+      },
+      {
+        "verse": 19,
+        "text": "“Koi chung koi chung hijongle kakhut kangap le ama chu Lhagao Theng achan jeng jengna dingin keima jong hiche thilbol theina hi neipeuvin,” ati."
+      },
+      {
+        "verse": 20,
+        "text": "Ahivangin Peter-in ajah-a, “Nasum chu nangtoh manthan, nangman Pathen thilpeh suma choh dinga nangaito jeh chun."
+      },
+      {
+        "verse": 21,
+        "text": "Hiche thua hin lhahna naneipoi, chan jong naneipoi; Pathen mitmua nalungput adihlou jeh chun."
+      },
+      {
+        "verse": 22,
+        "text": "Hijeh chun hiche nagitlou hi nalung heiyin, nalung sunga gitlou natup chu angaidam theikhat le Pakai henga taovin. "
+      },
+      {
+        "verse": 23,
+        "text": "Chonsetna khat vengvungna thinkha a lhalut le gitlouna kikan khoma nahi chu kahedoh tai,” ati."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin Simon in adonbut’in ajah-a, “Nathusei ho chu khatcha jong kachunga alhun louna dingin nanghon Pakai henga neitaopeh-un,” atitai."
+      },
+      {
+        "verse": 25,
+        "text": "Hiche chun amanin Pakai thu ahettohsah lhona asei jou lhonin Jerusalem lama akile kit lhonin. Samaria kho tamtah-ah Kipana Thupha chu ahil lhangpeh lhontai."
+      },
+      {
+        "verse": 26,
+        "text": "Ahin Pakai Vantil khat’in Philip jah-a thu aseiyin. “Kipat’in lhang lama Jerusalem a kona Gaza jotna lampia khun chesuh-in, hikhu gamthip ahi.” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin ama akipatdoh-in achetai; chuin veuvin Ethiopia gama mi khat nukiso, Ethiopia lengnu Candace noiya thunei chungnung tah agou jouse chunga vaihom, Jerusalem a Pathen hou dinga chea ahin;"
+      },
+      {
+        "verse": 28,
+        "text": "akile kit lama kangtalaiya akitol puma themgao Isaiah lekhabu chu asimjipeh ahi."
+      },
+      {
+        "verse": 29,
+        "text": "Chuin Lhagaovin Philip jah-a, “Khuche kangtalai khu naiyinlang kiloipin,” ati."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin Philip ahenga alhaiyin ahile Isaiah themgao lekha chu asim ajan, chuin, “Nasim chu nahetnah em,” ati."
+      },
+      {
+        "verse": 31,
+        "text": "Chuin aman, “Mi khattouvin eihilchen loule iti kahet thei dingha,” ati."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin Philip chu keldoh-a akoma tou dingin akoutai. Pathen lekhabu asim chu asim mun lai chu hiche hi ahi: “Ama chu tha dinga kikai kelngoi bangin akaiyun; Kelngoinou amul vouho anga hampoh louhela aum bangin. Ama jong akamkapoi."
+      },
+      {
+        "verse": 33,
+        "text": "Akineo sahna lama achunga thudih tan asubei tauve: Akhanga thu koiham aseiphong dinga Ijeh-inem itile leiset’a kona ahinna asuh mangu ahi,” kiti chu."
+      },
+      {
+        "verse": 34,
+        "text": "Chuin nukiso chun adonbut’in, ” Themgao chun hiche hi koi thudola asei ham? ama thudola aseiha midang thudola aseiham,” tin Philip adongin ahile."
+      },
+      {
+        "verse": 35,
+        "text": "Philip’in akamkan chuche Pathen lekhabua thua chun apanin ajah-a Jesu @9(Thupha)@7 chu aseitan ahi."
+      },
+      {
+        "verse": 36,
+        "text": "Chuti chun ache che lhonle twi umna mun khat agei lhonin; chuin nukiso chun, “Ven, hikoma twi aume; baptize kachanmo nading ipi uman,” ati."
+      },
+      {
+        "verse": 37,
+        "text": "[Chuin Philip’in, “Nangman nalung pumpia natahsan le chang theiyinate, ati. Chuin aman adonbut’in] “Jesu Christa chu Pathen chapa ahi ti katahsane,” ati."
+      },
+      {
+        "verse": 38,
+        "text": "Chuin akangtalai chu angahsah-in, ani lhonin twiyah akumlha lhonin, Philip le nukisopa chu, chuin Philip’in ama chu baptize achan sahtai."
+      },
+      {
+        "verse": 39,
+        "text": "Chuin twiya kona ahungdoh lhon phat’in, Pakai Lhagaovin Philip chu alhoh mangtan ahile nukisopa chun amu kittapoi, ama kipah thanomtah a achena dinga achepaitah jeh chun."
+      },
+      {
+        "verse": 40,
+        "text": "Philip vang chu Azotus khopia amudoh-ui; chuin aman ajotpaiyin Caesarea alhun kahsen khopi tinah Kipana Thupha chu ahillhang pehtan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Saul vang chu Pakai seijuiho gihsal le that dingin, ahai hai nalaiyin, thempu chungnung henga achen,"
+      },
+      {
+        "verse": 2,
+        "text": "chuche Lampi tahsan chan chu koi hijongle amu mu numei jong pasal jong akana Jerusalem a ahinkai theina dingin, Damascus kikhopna hoa dingin lekha agathume."
+      },
+      {
+        "verse": 3,
+        "text": "Chule achele Damascus kho alhun ding konin phulou helouvin vana kon vah khat’in a vel asalvah soh jengin;"
+      },
+      {
+        "verse": 4,
+        "text": "chuin ama tol-ah alhun, chule ajah-a, “Saul, Saul, nangin ibola suhmang dinga neibolset jingham,” tia kisei aw ajan ahi. "
+      },
+      {
+        "verse": 5,
+        "text": "Chuin aman, “Pakai, nang koi nahim?” atile; aman, “Suhmang dinga nabolset Jesu chu kahi;"
+      },
+      {
+        "verse": 6,
+        "text": "ahivangin thouvin lang khopi sunga luttan; chule nabol ding nakiseipeh ding ahi,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chule alhonpi ho chu pao louvin adingun aw vang chu ajauvin mi koima amupouve."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Saul tola kon chun athouvin, chuin amit ahasah le ima amutapon; akhut’in akaiyun Damascus a chun apuilut tauve."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin khomu louvin annelou twidonlouvin ni thum aumin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Damascus a chu amin Ananias atiu seijui khat uma ahin, Pakai chun akimusah-in ajah-a. “Vo Ananias,” atin ahile a man, “Ven Pakai, hikoma kaumnai,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin Pakai chun ajah-a, “Kipatdoh in, Lamjang atiu khosung lamlena khun gachenlang Judah inah Tarsus khoa mi amin Saul atiu chu gaholin; ijeh-inem itile ven, ama atao pettah ahi;"
+      },
+      {
+        "verse": 12,
+        "text": "chule aman mi khat amin Ananias ahunga, kho amu theina dinga alu chunga akhut angap amui,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Ahivangin Ananias in adonbut’in. “Pakai, keiman chuche mipa umchan Jerusalem a nangma mithengho itobanga khoh a abolsetje thu chu mi tamtah-a kona kajah ahitai;"
+      },
+      {
+        "verse": 14,
+        "text": "chule hikoma jong nangma min pan jouse kan dinga thempu pipuihoa kona thu anei ahi,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Ahivangin Pakai chun ajah-a, “Chetan, chidang namdang ho heng le lengho henga chule Israel chate henga kamin polut le dinga ama hi kamanchah lhen ahi."
+      },
+      {
+        "verse": 16,
+        "text": "ijeh-inem itile aman keima min jala genthei hesoh ijat athoh ding hichu kavetsah ding ahi,” ati."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Ananias chu agachen ina chun alut’in; chuin alu chungah akhut angamin. “Sopi Saul, nahunga lampia nakimusah Pakai Jesu chun, kho namu theina dingle lhagao Thenga nadimna dinga eihinsol ahi,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin chupettah chun amit’a konin lip tobang ahung pullhan ahile kho amutai; chuin ama akipat doh-in baptize achangtai;"
+      },
+      {
+        "verse": 19,
+        "text": "chuin an anen atha ahattai. Chuin ni ijat ham Damascus a seijui hotoh aum khomtauve."
+      },
+      {
+        "verse": 20,
+        "text": "Chuin chupettah chun kikhopna intinah Jesu chu Pathen Chapa ahi ti chu asamle paitan ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin athusei ja jouse chun kidang asa lheh jengun, “Jerusalem a hiche min panho jouse sucheh-a chu ama hi hilouham? Chule amaho chu kanchoma thempu pipuiho henga kailut dinga hikoma hung ahime,” atiuve."
+      },
+      {
+        "verse": 22,
+        "text": "Saul chula athahat akhang cheh cheh-in. “Hichu Christa ahi mong monge,” ti photchenna aseiyin Damascus a um Judaho chu anel khupjin akisuh dongsah jitan ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin ni tamtah jouvin, Juda ho Saul that dingin akihousom tauve;"
+      },
+      {
+        "verse": 24,
+        "text": "ahivangin agutuhnau chu Saul in ahedohtai. Chuin amahon ama chu atha theina dingun sunle janin kotpiho jong chu angah jiuvin ahi;"
+      },
+      {
+        "verse": 25,
+        "text": "ahinla aseijuihon janin apuiyun bomin kul pangah agahkhai lhatauve."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin ama Jerusalem alhun in seijui hotoh kiloi ding agon ahile, amahon ama chu seijui khat ahi ti atahsan lou jeh-un akicha tauve."
+      },
+      {
+        "verse": 27,
+        "text": "Ahin Barnabas-in apuiyin solchahho henga apui lut’in, ajah uva, lampia Pakai amua, ajah a thu asei chule Damascus a hakattah a Jesu min ahil lhangle chu aseitan ahi."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin ama amaho chutoh Jerusalem a alutle apotleuvin."
+      },
+      {
+        "verse": 29,
+        "text": "Pakai minin hakattah in ahil lhanglen chuin Greek gam Judaho jah-a chun thu aseiyin aneljin; ahin amahon ama tha dingin agotauvin ahi."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin sopiten hichu aheuvin, Caesarea ah apuilha suh-un, Tarsus khoa asolmang tauve."
+      },
+      {
+        "verse": 31,
+        "text": "Chuti chun Houbung chu Judea gam sungsea le Galilee gam sungsea chule Samaria gam sungsea adetta chehcheh un mongtah-in aumtauve; chulc Pakai gingin Lhagao Theng lungmonsah-in aumun apung tultul tauve."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin ahitin ahi, Peter gamtina avahle avahlen Lydda a um mithengho heng sanah agalhung suhtai."
+      },
+      {
+        "verse": 33,
+        "text": "Chukoma chun, mi khat amin Aeneas atiu, alangthi jeh-a kum get ajalkhuna lum agamudoh in,"
+      },
+      {
+        "verse": 34,
+        "text": "chuin Peter in ajah a, “Aeneas, Jesu Christan nadamsah ahitai; thou vinlang nalupna kisemin,” ati. Chuin chupettah chun ama athoudoh paijenge."
+      },
+      {
+        "verse": 35,
+        "text": "Chuin Lydda cheng jouse le Sharon a cheng jousen ama chu amuvin, Pakai lamah akihei tauve."
+      },
+      {
+        "verse": 36,
+        "text": "Joppa a chu seijui khat uma ahin amin Tabitha, hichu Dorcas tina ahin, amanu chu thilpha bol le mi thilpeh-a bulhingtah ahi."
+      },
+      {
+        "verse": 37,
+        "text": "chule ahitin ahi, hiche pet chun ama chu anan ahile athitai; chuin amahon asilun indan chungnunga alupsah tauve. "
+      },
+      {
+        "verse": 38,
+        "text": "Chuin Lydda chu Joppa kom nai ahi jeh chun, seijuihon chua chun Peter aume, ti ajauvin, ahenga mini asolun, “Geisang louvin kahenguva hungin,” tin ataovun ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Chuin Peter akipatdoh-in amani chutoh alhontai. Chuin alhun in amahon indan chungnunga chun apuiyun; meithaiho jouse chu akimvela adingun akap pumun, sangkhol, pon Dorcas-in ahin laiya abolpeh-u chu avetsah-ui."
+      },
+      {
+        "verse": 40,
+        "text": "Ahivangin Peter in amaho chu abonchauvin apotdoh sah-in, adilsun ataotai; chuin along lama chun akiheiyin, ‘Tabitha, thouvin.” ati. Chuin amanun amit ahinha sah-in ahile, Peter amu phat chun atoudoh tai."
+      },
+      {
+        "verse": 41,
+        "text": "Chuin aman akhut a pen akaithoutai; chuin mithengho, meithaiho akouvin amanu chu ahingin apetai."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin hichu Joppa khoa jouse chun ahesoh tauvin, mi tamtah-in Pakai chu atahsan tauve."
+      },
+      {
+        "verse": 43,
+        "text": "Chuin ahitin ahi, Peter chu Joppa khoa savun sem Simon inah ni tamtah aumin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Caesarea ah mi khat Comelius atiu aumin, Italia loi atiu sepai jalamkai ahin;"
+      },
+      {
+        "verse": 2,
+        "text": "Pathen ngaisah tahle ainsung mi jousetoh Pathen gingtah ahin; miho thilpeh tamtah pejia ahin, Pathen henga jong tao jingjia ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ni khat ama chun kolbunoi honphat donin akhangmangin kichentah-in Pathen Vantil khat ahenga hunga, “Comelius“, ahungti amui."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin aman ama chu ave aven, akichan. “Ipiham Pakai” ati. Chuin ama chun ajah-a, “Nataona hole nami thilpehho chu geldoh jing dingin Pathen angah alhung toutai."
+      },
+      {
+        "verse": 5,
+        "text": "Chule tun nangman Joppa a mi sol inlang Simon amin chom Peter asah-u chu gakou sah-in;"
+      },
+      {
+        "verse": 6,
+        "text": "ama twikhanglen panga Simon atiu savun sem mi khat inah alhunge,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin ajah a thusei Vantil chu achedoh phat’in, ainsung lhachaho lah-a mi nile ajenlea pang jingho lah a Pathen ngaisahtah sepai khat akouvin,"
+      },
+      {
+        "verse": 8,
+        "text": "thu jouse chu abonchan ajah-uva asei sohkeiyin, Joppa ah chun asoltan ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ajingin amaho ache acheuva khopi chu alhun ding konu khokeng ageiyin, Peter chu atao dingin sunkim don hin in chungah akaltouvin;"
+      },
+      {
+        "verse": 10,
+        "text": "chuin agilkeltan ahile an aneh nomtan, ahinla aneh ding agotpeh laitah-un agaochangin;"
+      },
+      {
+        "verse": 11,
+        "text": "chuin van akihona bom khat ponlhe lentah banga aning lia tola ahung kikhailhah amun;"
+      },
+      {
+        "verse": 12,
+        "text": "asunga chun akengli sa namkimle tola vah ganhing chule chunga leng leng vacha namkim aumin;"
+      },
+      {
+        "verse": 13,
+        "text": "chuin ahenga aw khat ahung gingin, “Thouvin, Peter; kithanlang nen,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Ahivangin Peter in, “Chuti ponte, Pakai; ajeh chu keiman imatih chanin thilbohle athenglou kanekhapoi,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin aniveina-in aw khat aja kit’in. “Pathen in asuhthengsa chu nangman aboh tihih-in,” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin hiti chun thumvei ahung umin bom chu vanah akikhaidoh tou kittan ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Peter in agaochana amu chu itina ahidem tia alunggim pettah chun, veuvin, Comelius mi sol-ho chun Simon in ahinhol un, kelkot phunga adingun,"
+      },
+      {
+        "verse": 18,
+        "text": "akouvun, Simon amin chom Peter chu hikoma chu lhungam, tin adongui."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin Peter in agaochana amu chu angaito pettah-in Lhagaovin ajah-a. “Ven, mi thum in nahol e."
+      },
+      {
+        "verse": 20,
+        "text": "Ahin thouvin lang kumlha suh-in, lung sa-ih lou helin amaho khutoh lhonin; ijeh-inem itile amaho khu keima sol ahiuve.” ati."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin Peter miho henga chun akumlha suh-in. “Veuvin, naholu chu keima hi kahi; ibola hunga nahiuvem?” ati. "
+      },
+      {
+        "verse": 22,
+        "text": "Chuin amahon, “Mi chondihtah Pathen ging, Judah vaipin aseiphat, Comelius sepai jalamkai khat, nangma hung kousah a aina nathusei ngai dingin Pathena konin Vantil theng khat’in ahilin ahi.” atiuve."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin aman amaho chu akou lut’in alhunsah tai. Chuin ajingin ama akipatpaiyin amaho chutoh alhondoh-in, chule Joppa a konin sopiho koi koiham in alhonpiuvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin ajingin Caesarea a aluttauve. Chuin Comelius chun ainkoho le ajol agol chengse anakou khomin amaho chu anangah jingun ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin ahiti. Peter agalutle Comelius-in agalamton akengphang bulah abohkhup’in, chibai abohtai."
+      },
+      {
+        "verse": 26,
+        "text": "Ahivangin Peter in akaithouvin. “Dingdoh-in keima mihem kahibou hi,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin ama chutoh ahoulim lim in, agalutle mi tamtah kikhom agamun;"
+      },
+      {
+        "verse": 28,
+        "text": "chuin ajah-uva chun, “Judah min jat dang mi khat akitimatpia chule ahenga ache chu dan ngai ahilou chu nangmahon naheuve; ahin kei hi mi koima abohle athenglou kati louna dinga Pathen in eivetsah ahitai;"
+      },
+      {
+        "verse": 29,
+        "text": "hijeh a chu keima jong thupha louhela eikou nahinsol le kahung jeng ahi.” ati."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin Comelius-in. “Nili ahitai tuphat geihin, ka-insunga kolbunoi honphat dona kataole, ven, kaanga ponbang kisil mi khat ahung dingin;"
+      },
+      {
+        "verse": 31,
+        "text": "chuin, Comelius nataonaho kisanga ahitai, chule nami thilpehho jong Pathen mitmua geldoh jinga kineiya ahitai. "
+      },
+      {
+        "verse": 32,
+        "text": "Hijeh chun Joppa a mi sol inlang Simon amin chom Peter asah-u chu gakousah-in; ama twikhanglen panga savun sem Simon inah alhunge,’ eiti."
+      },
+      {
+        "verse": 33,
+        "text": "Hiche jeh a chu nakou kahinsolpai jeng ahin; tun nangma nahungin apha lheh jenge. Hijeh chun tun Pakaiyin nangma thu napehho chengse chu ngai dinga Pathen mitmua kabonchauva hikoma kikhoma kahiuve,” ati."
+      },
+      {
+        "verse": 34,
+        "text": "Chuin Peter akamkan. “Tahbeh mongin, Pathen in mi datkhen aneipoi, ti kahei;"
+      },
+      {
+        "verse": 35,
+        "text": "ahin namtin lah jousea mi koi hijongle ama ginga chule chondih bola chu ama dinga lah thei ahi."
+      },
+      {
+        "verse": 36,
+        "text": "Aman Israel chate henga thu ahinthot’in Jesu Christa kam in chamna lungmonna Kipana Thupha ahil lhanglei @9(ama chu mijouse Pakai ahi)@7."
+      },
+      {
+        "verse": 37,
+        "text": "John in alhangsap le baptize chan nungin Galilee a kipanin Judea gam pumpia achal sohtan ahi, hiche thu hi nanghon naheuve."
+      },
+      {
+        "verse": 38,
+        "text": "Hichu hiti hi ahi. Pathen in Nazareth Jesu chu Lhagao Theng le loupina a thao anu ahin, ama muntinah avahle avahlen thilpha abollen, satan bolgenthei hesohho abonchan aboldam in ahi; hichu Pathen in aumpi jeh ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Chule Judahho khotinle Jerusalem a abol athilbol jouse hetoh keiho kahiuve; ama chu thinga akhaiyun athat tauve. "
+      },
+      {
+        "verse": 40,
+        "text": "Ama chu Pathen in anithum nin akaithouvin akiphondoh sahtai;"
+      },
+      {
+        "verse": 41,
+        "text": "mi jouse heng hilouvin amasanga Pathen in alhendoh athodoh nunga amatoh nekhom a donkhom ahetoh keiho heng ahibouve."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin ahing le athi thutana Pathenin atun, ama hi ahi, ti thu miho hillea hetsah dingin thu eipeuvin."
+      },
+      {
+        "verse": 43,
+        "text": "Ama min vanga ama tahsan chan chu achonset suhbeiya um ding ahi, tia ama thudol chu themgao ho jousen ahettohsah sohkeiyu ahi.” ati."
+      },
+      {
+        "verse": 44,
+        "text": "Chuin Peter-in thu chucheng asei pettah chun athu jaho jouse chungu chun Lhagao Theng ahung chutan ahi."
+      },
+      {
+        "verse": 45,
+        "text": "Chuin cheptanho lah a atahsan ho Peter hinlhonpi chengse chun Lhagao Theng kipe chu chidang namdang ho chunga jong akibuh lhah jeh chun adatmo lheh jengui."
+      },
+      {
+        "verse": 46,
+        "text": "Ijeh-inem itile pao chom choma thu aseiyuva Pathen avahchoiyu chu ajauvin ahi."
+      },
+      {
+        "verse": 47,
+        "text": "Chutah-in Peter in, “Eiho banga Lhagao Theng changa hiteho baptize chan louna dinga twi kham theiya koi umam?” ati."
+      },
+      {
+        "verse": 48,
+        "text": "Chuin aman Jesu Christa mina baptize chang dingin amaho chu thu apetai. Chuin ni ijat-ham nichong dingin alhotauve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin solchahho le Judea gama um sopihon chidang namdang hon jong Pathen thu ajoptauve, ti ajatauve."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Peter Jerusalem a agalhun touvin, cheptan hon ana oimovin."
+      },
+      {
+        "verse": 3,
+        "text": "“Cheptan louho ina nalut’in amahotoh nane khome, me,” atiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Ahinla Peter in abula panin aban-chan ajah-uva aseiyin,"
+      },
+      {
+        "verse": 5,
+        "text": "“Joppa a kaum in kataovin, chuin gaochanin mu kaneiyin, ponlhe lentah tobang bom aning lin vana konin ahung kikhailhan, keima kom le le ahung geiyin:"
+      },
+      {
+        "verse": 6,
+        "text": "chuin keiman hichu kavet jinga kangaitoa kahile, leiset chunga leng akengli sa hole gamsa chule tola vah akhupboa kithol, vanlai jola lengle vacha kamui."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin kajah a thusei aw khat jong kajan. ‘Thouvin Peter; kithanlang nen,’ eiti."
+      },
+      {
+        "verse": 8,
+        "text": "Ahivangin keiman. ‘Ahinpoi, chuti ponte Pakai keiman imatihchan in thilboh le athenglou kanekhapoi,’ kati."
+      },
+      {
+        "verse": 9,
+        "text": "Ahin aniveina-in aw chun vana konin eidonbut’in, ‘Pathen in asuhthengsa chu nangman athenglou ti hih-in,’ ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin hitichun thumvei akibol’in, abonchan vanah akikhaidoh tou kittai."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin veuvin, Caesarea a kona kahenga hinkisol mi thum chu kaumnau in kot maiya anading jinga ahitauve."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin Lhagaovin koima dat bih nei louva amaho chutoh lhon dingin eisole. Hiche sopiho gup jong hin eilhon piuvin, chuin mipa ina chun kalut’un ahile,"
+      },
+      {
+        "verse": 13,
+        "text": "ama chun kajah-uva aina Vantil adin amua ajah-a, ‘Joppa a mi sol inlang Simon amin chom Peter chu gapui sah-in;"
+      },
+      {
+        "verse": 14,
+        "text": "ama chun nangmale nainsung mi jouse huhhinga naumna dingu thu naseipeh ding ahi,’ tia asei umchan chu kajah-uva aseiye."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin thusei kagakipatle atila eiho chunga achuh bang chun Lhagao Theng achunguvah ahung chutai."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin keiman Pakai thusei, ‘John in twiya baptize achansahji ahin, nangho vang Lhagao Thenga baptize nachan dingu ahi.’ ati chu kagel doh-e."
+      },
+      {
+        "verse": 17,
+        "text": "Chutichu ahin, Pakai Jesu Christa itahsanuva eiho eithilpeh bangu chu amaho Pathen in apehtah a ahile, kei koi kahia Pathen kakham thei dingham?” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin amahon thu chucheng ajah phat’un, athiptauvin Pathen avahchoiyun, “Chuti ahile Pathen in chidang namdang ho jong hinna dinga lungheina aphalpeh hita chu,” atiuve."
+      },
+      {
+        "verse": 19,
+        "text": "Hijeh chun Stephen chungchanga sohdoh hesoh genthei um jeh-a vahcheh ho chu Phoenicia, Cyprus chule Antioch geiyin acheuvin, koima dang henga sei louhel in Juda ho heng jenga thu chu aseile tauvin ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Ahivangin alah-uva mi abang chu Cyprus le Cyrene gam mi ahiuvin, amaho chun Antioch a acheuvin, Greek miho henga jong thu aseiyun Pakai Jesu asei phongle tauve."
+      },
+      {
+        "verse": 21,
+        "text": "Chule Pakai khut chun akithopiuvin; chuin atahsana mi atama tam Pakai hengah akiheitauve."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin amaho umchan thu chu Jerusalem a um Houbung mihon ajatauve; chuin amahon Barnabas Antioch geiyin asolui."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin ama chu alhun in, Pathen milungset chu amun ahile akipah-e; chuin amaho chu Pakaiya abechah jingna dingu lung ngaiton, abonchau chun atilkhouvin ahi;"
+      },
+      {
+        "verse": 24,
+        "text": "ijeh-inem itile ama chu mipha ahin, chumale Lhagao Theng le tahsan dimset mi ahi; chuin miho atama tam Pakaiyah alutbe tauve."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin ama Saul hol in Tarsus khoa achen;"
+      },
+      {
+        "verse": 26,
+        "text": "Chuin amudoh-in Antioch a chun ahinpuitai. Chuin ahitin ahi, kum khatjen Houbungho chutoh akikhomji lhonin mi tamtah ahilji lhonin ahi; chule hiche Antioch-a chu seijuiho Christian asah masah penu ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin hiche lai chun themgao koi koiham Jerusalem a konin Antioch’a agacheuvin,"
+      },
+      {
+        "verse": 28,
+        "text": "chuin alah-uva khat amin Agabus chu adingdoh-in. “Lhagaovin aphondoh a konin vannoi gam jouse chunga kel lha ding ahi,” ati; hichu Claudius nikho laiyin aguilhungin ahi."
+      },
+      {
+        "verse": 29,
+        "text": "Chuin seijuiho chun ajokham cheh a Judea gama cheng sopiho chu huna ding thot dingin akiloltauvin;"
+      },
+      {
+        "verse": 30,
+        "text": "hichu Barnabas le Saul khut’in upaho agah thottauve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin hiche lai vel chun Herod lengpan Houbungho lah a koi koiham bolset dingin agon akhut alamtan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin John upa Jacob chu chemjam in athattai."
+      },
+      {
+        "verse": 3,
+        "text": "Hichun Juda ho alung lhaisah chu amun, Peter jong chu amatbetan ahi. Hiche lai chu cholsolou changlhah kut lai ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin ama chu amanin songkul a akhumin angah ding sepai loi li apedoh-in lilin angasahtai; kalchuh kut joule miho henga puidoh ding alung got ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hijeh chun Peter chu songkula akhumun angah tauve; ahin Houbung min ama ding chun Pathen henga lungluttah in ataopeh-un ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin Herod chun kaidoh dinga agot jantah chun Peter sepai ni kah a thihkhao nia kihena ihmu ahin; angahho jong chu kotbul a dinga songkul chu ngah jinga ahiuve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin, veuvin, Pakai Vantil khat akoma hung dingin chule vah khat’in aumna mun chu asalvah-in; chuin ama chun Peter chu apang abeng in, “Thoudoh loiyin,” atin asukhangtai. Chuin akhut a konin akihenna thihkhao ho chu akilham lhan alhadohtan ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Vantil chun ajah a, “Nakong kigeh-in nakengchot kisen,” ati. Chuin aman hiti chun aboltai. Chuin ama chun ajah a, “Napon kisilin kanung hinjuiyin.” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin ama apotdoh-in ajuitai; hichu Vantil in abol tahbeh ahi chu helouvin, kagaochana mu kanei ahi, ti angaitobouve."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin amanin kot ngah masa le anina akhel phat lhonin khopi sung lam jotna a thih kot phung chu agei lhonin, kot chu amani ding chun achamin akihong jenge; chuin achedoh lhonin khosung lamlen khat ajot lhung lhonin ahile, hichun Vantil chun ama dalha paitan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin Peter akhahdoh phat chun, “Pakaiyin a-Vantil asoldoh a Herod khut’a konle Judah mite kinepna jousea kona eihuhdoh ahi, ti tun kichentah-in kahetai;” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin akingaito jouvin Mark atiu John nu Mariam ina chun agachei; chua chun mi tamtah akikhomun anataovui."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin aman hongcha kot akiuvin ahile, nungah khat amin Rhoda atiu chu adonbut dingin ahunge."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin aman Peter aw ahi ahet phat’in akipaman in kot hongta louvin alhai lutjel-in, Peter kot phunga adin chu aga seiye."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin amahon amanu jah a, “Angola nahi,” atiuve. Ahivangin aman, “Ahimonge,” ati changsal in ahi. Chuin amahon, “Avantil hichu,” atiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Ahivangin Peter in akiu akiuvin ahile, ahon ule ama amuvin adatmo lheh jengui."
+      },
+      {
+        "verse": 17,
+        "text": "Ahivangin aman athipbehna dingun akhut’in ajap’in. Pakaiyin songkula kona ahin puidohje umchan chu aseitan ahi. Chuin, “Hiti thuho hi Jacob le sopiho seipeh-un,” ati. Chuin ama apotdoh-in mun danga achetai."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin khovah vah-in, sepaiho chu, Peter hoiya um hitam, atiuvin lungjin mainah-in alung jing pouve."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin Herod chun aholin amutapon ahile, angahho chu achunguva thu atanin, amaho chu tha dingin thu apetai; chuin ama Judea gama konin Caesarea a ache suh-in chukoma chun aumdentai."
+      },
+      {
+        "verse": 20,
+        "text": "Hiche laiya chu Tyre le Sidon miho chunga ha lunghana lunghanga ahin; ahivangin amaho thu khat akisauvin ahenga acheuvin, lengpa insunga vaihom amin Blastus chu akihou theipiuvin, kichamna ding athumui; ajeh chu lengpa gama kona anneh amaho gama hungji ahi. "
+      },
+      {
+        "verse": 21,
+        "text": "Chuin akinitep niuvin Herod chu leng vonin akivonin alal touna a atouvin ajah-uva chun thu aseiyin ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin miho chun, “Mihem awso ahipoi, Pathen awso ahi,” tin asamui."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin a man choiatna chu Pathen apeh lou jeh chun, Pakai Vantil in chupettah chun adengin ahile lungin anen athitai."
+      },
+      {
+        "verse": 24,
+        "text": "Pathen thu vang chu achal jalin akhangtou cheh chehtai."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin Barnabas le Saul akin lhon achai phat lhonin, Jerusalem a konin akile lhonin, John amin chom Mark chu apui lhone."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Antioch-a Houbung a chun themgaole mihil, Barnabas, Simeon Niger atiule, Cyrene mi Lucius chule Herod lengpatoh kivah dohtha Manaen toh Saul hicheng chu aumui."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin amaho chu Pakai lhachalea apanuva an angol laiyun, Lhagao Thengin, “Kakouna natong dingin Barnabas le Saul neise khenpeh-un,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Chutah-in an ngola atao jouvun, achung lhona akhut angamun asoldoh tauve. "
+      },
+      {
+        "verse": 4,
+        "text": "Chuti chun Lhagao Theng soldoh-in amani Seleucia a achesuh lhonin; chuin chua kon chun Cyprus lama akitol lhontai."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Salamis kho alhun phat lhonin Juda ho kikhopna inhoa chun Pathen thu ahil lhangle lhontai: ama nin ajenle lhon dingin John jong akipui lhone."
+      },
+      {
+        "verse": 6,
+        "text": "Chuti chun twikol gam sung chu Paphos geiyin achonsoh lhonin, Bar-Jesus atiu Judah mi mitphel doichoile themgao lhem khat uma ahin, ama chu amudoh lhone. "
+      },
+      {
+        "verse": 7,
+        "text": "Ama chu milung ching Sergius Paulus twikol gamvaipo chutoh uma ahi. Gamvaipo chun Saul le Barnabas akouvin Pathen thu chu ngai ding agotan ahi. "
+      },
+      {
+        "verse": 8,
+        "text": "Ahivangin Elymas mitphel doichoi chun @9(hichu amin kiledohna ahi)@7 gamvaipo chun atahsan louna dingin, amani chu adoudal in ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin Saul in, Paul jong akitin, Lhagao Thengin adimin ama chu ave aven,"
+      },
+      {
+        "verse": 10,
+        "text": "“Vo nangjouva lheplhah le minambol dimset, diabol chapa, chondihna jouse melmahpa, nangin Pakai lampi dihho akalea hei natat lou ding ham?"
+      },
+      {
+        "verse": 11,
+        "text": "Chule tun, ven, Pakai khut nachunga achui; chule chomkhat geiya nisa mu louva mitchoa naum ding ahi,” ati. Chupet tah chun meijinle muthim achunga ahung chupai jengin; chuin aman akhut’a kai ding mi aholle tai."
+      },
+      {
+        "verse": 12,
+        "text": "Chutah-in gamvaipo chun thil kibol umchan chu amu phat chun Pakai thuhil chu kidang asa lheh jengin atahsan tai."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin Paul aloihotoh Paphos a konin akitolun Pamphylia gama Perga alhungtauve; chuin John in amani adalhan Jerusalem lama akile kittai."
+      },
+      {
+        "verse": 14,
+        "text": "Amani vang chu Perga a konin achepeh lhonin Pisidia gama Antioch a alhung lhonin; chuin cholngah nin kikhopna inah alut lhonin atou lhontai."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin danthu le themgao ho thu asim jouvin, kikhopna in vaihom hon ajah lhona agah seiyun, “Sopiteni, tilkhouna thu ima nanei lhonle sei lhonin,” ati. "
+      },
+      {
+        "verse": 16,
+        "text": "Chuin Paul adingin akhut ajah-in thu aseiyin, “Vo Israel miho chule vo Pathen gingho, ngaiyun;"
+      },
+      {
+        "verse": 17,
+        "text": "Hiche Israel te Pathen hin iputeu ipateu alhengin, miho Egypt gama apem laiyu chun amite chu achoisangin amaho chu ahin puidohtan ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin kum somli jen pa-naovah bangin achonu aven;"
+      },
+      {
+        "verse": 19,
+        "text": "chuin Canaan gama vaipi sagi asumangin amaho gam chu alo dingun amaho apetan ahi; kum jali le kum somnga sungin;"
+      },
+      {
+        "verse": 20,
+        "text": "chuin hiche jou chun, Samuel themgao nikho lai gei chun thutan vaihomho apejin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin amahon leng athum un ahile Pathen in amaho chu Benjamin phunga Kish chapa Saul apen kum somli geiyin akoiye."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin aman ama chu achon mangin, aleng dingun David atungdohtai; ama thudol chu ahettohsah in, ‘Keiman keima lung doltah mi khat Jesse chapa David kamudoh tai; ama khun kalunggot jouse abol bulhit ding ahi,’ ati."
+      },
+      {
+        "verse": 23,
+        "text": "Chuchepa sonho lah a chun Pathen in thutep dung juiyin Israelte heng ah Huhhinga khat, Jesu chu, ahin lhuttai."
+      },
+      {
+        "verse": 24,
+        "text": "Ama hung masangin John in Israel miho jah-a lungheiya baptize chan ding thu ahil lhangtan ahi."
+      },
+      {
+        "verse": 25,
+        "text": "John in alampi ajotsoh ding kon laiyin, ‘Nanghon koiya neingai tovem? Keima ama chu kahipoi; ahin, kanunga mi khat ahunge; keima akengchot sutlham dinga jong kilom kahipoi,’ ati."
+      },
+      {
+        "verse": 26,
+        "text": "“Vo sopiteho, Abraham chateho, chule nalah-uva Pathen gingho, hiche huhhingna thu hi eiho henga hinkithot ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Ijeh-inem itile Jerusalem a chenghole avai poteuvin ama chu ahet lou jeh-ule cholngah niseh a kisimji themgao ho thu ahettoh lou jeh-un, ama chu athemmo sah-un hiche thu chu abulhit tauve."
+      },
+      {
+        "verse": 28,
+        "text": "Chule athina thei ajeh aholmosan jongun, Pilate henga a thana ding athumui. "
+      },
+      {
+        "verse": 29,
+        "text": "Chuin aumchan ding thudol kisun masa jouse chu asubulhit sohkeiyun, thing chunga konin alalhauvin, lhanah alupsah tauve."
+      },
+      {
+        "verse": 30,
+        "text": "Ahivangin Pathen in ama chu athi lah-a konin akaithou tai. "
+      },
+      {
+        "verse": 31,
+        "text": "Chuin Galilee a kona Jerusalem geiya alhonpiho chun ni tamtah geiyin amu jing jiuve, amaho tulaiya mi henga athu hettohsah-a pangho hi ahiuve."
+      },
+      {
+        "verse": 32,
+        "text": "Chule iputeu ipateu athutep thudola Kipana Thupha chu keihon nangho kahung hetsah nahiuve;"
+      },
+      {
+        "verse": 33,
+        "text": "Pathen in Jesu akaithou chu achateu eiho dinga thutep chu amolso ahitai. Chujongle hiche thudol hi labu bung nina a jong, ‘Nangma ka-Chapa nahi, tunia hi kahin nahi,’ tin akisune. "
+      },
+      {
+        "verse": 34,
+        "text": "Aman monmangna a kilekittha lou dinga athi lah-a kona akaithou ding thudol chu, hitin aseiye, ‘David phattheina thon loule athenga chu keiman nangho kapeh dingu nahiuve,’ ati. "
+      },
+      {
+        "verse": 35,
+        "text": "Hijeh chun aman Labu mun danga, ‘Namitheng chu monmangna musah lou ding nahi,’ ati kitleuve."
+      },
+      {
+        "verse": 36,
+        "text": "Ijeh-inem itile David chun Pathen lungthimpeh bangin ama khanga ding abolin aihmu miltan; chuin apute a pate koma alupsah-un ahile monmangna chu amutai."
+      },
+      {
+        "verse": 37,
+        "text": "Ahin Pathen in akaithoupa vang chun monmangna amupoi. "
+      },
+      {
+        "verse": 38,
+        "text": "Hijeh chun hiche hi heuvin, sopite. Ama vanga chu chonset suhbeina thu najah-uva kiseiya ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Koi hijongle atahsan chan chu, Mose danthua them nachan jou lounau imajousea kona ama vanga chu them chansah-a um ahi."
+      },
+      {
+        "verse": 40,
+        "text": "Hijeh chun chingtheiyun, achuti loule ajole themgao thusei nachunguva lhungkha get’inte;"
+      },
+      {
+        "verse": 41,
+        "text": "’Vo nahsahmoho, nanghon veuvin. Kidang sauvin lang mangthah-un; Nanikho laiyun thil khat kabole. Hiche thil chu min seipeh jongleu chun natahsan louhel dingu ahi, ti hi,” ati."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin apotdoh phat’un cholngah ni kit jongle hiche thu chu sei kit dingin asolui."
+      },
+      {
+        "verse": 43,
+        "text": "Chuin akikhomho chu akikhen phat’un, Judah mi tamtah le Judah hou la Pathen ngaisahho lah-a mi tamtah-in Paul le Barnabas nung ajuitauve; chuin amanin amaho chu ahoulimpi lhonin. Pathen lungsetna a umdet jing ding in atilkhou lhontai. "
+      },
+      {
+        "verse": 44,
+        "text": "Cholngah ni kit’in akho thingun Pathen thu ngai dingin akikhomtauve."
+      },
+      {
+        "verse": 45,
+        "text": "Ahivangin Juda hon mi pi chu amu phat un athang seuvin, Paul thusei chu ataitom un anel kalletauve."
+      },
+      {
+        "verse": 46,
+        "text": "Chuin Paul le Barnabas-in hakattah-in, “Pathen thu hi nangho henga sei masah ding dol mong ahin; ahivangin nanghon nasot manguva tonsot hinkemlou changa kilom louva nakigot jeh-u chun, veuvin, chidang namdangho henga kihei tauvinge. "
+      },
+      {
+        "verse": 47,
+        "text": "Ijeh-inem itile Pakaiyin hiti hin keiho thu eipeuve, ‘Vannoi leiset kolmong geiya sochatna hidinga, Keiman nangma chidang namdangho salvah-a kapansah nahi,’ ati tin” asei lhontai."
+      },
+      {
+        "verse": 48,
+        "text": "Chidang namdanghon hichu ajauvin akipah athanomun Pathen thu avahchoi tauve, chule tonsot hinkemlou chang dinga gotsa um chengse chun atahsan tauve."
+      },
+      {
+        "verse": 49,
+        "text": "Chuin Pakai thu chu chuche gamkol sungsea chun achalsohtai."
+      },
+      {
+        "verse": 50,
+        "text": "Ahivangin Juda hon Pathen ngaisah numei lal hole khopi sunga pipuiho atilseuvin, Paul le Barnabas chu abolset sah-un, agamgi sunguva konin adelmang tauve."
+      },
+      {
+        "verse": 51,
+        "text": "Chuin amanin akengphang lhona leivui athinglha lhonin, Iconium kho lama ache lhontai."
+      },
+      {
+        "verse": 52,
+        "text": "Chuin seijuiho chu kipanale Lhagao Thengin adimset tauve. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Iconium khoa chun Judaho kikhopna inah alut khom lhonin hititah hin thu aseiji lhonin. Judah miho le Greek mi atama tamin atahsan jengtan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Ahivangin thua nunglou Juda hon sopiho chungah chidang namdangho atilseuvin alung hansah tauve."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun sottah aum lhonin, alungsetna hettohsah a akhut lhona thil kidangle melchihna bolsah Pakaiya chun hakattah-in thu aseiji lhonin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun khopia mipi chu akikeh khenun, akimkhat Juda ho lama, akimkhat solchahho lama apangtauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin chidang namdangho le Juda hon chule avaipohovin amani chu nahsahmoa bola chule songa se dingin agouvin ahile,"
+      },
+      {
+        "verse": 6,
+        "text": "hichu amanin ahedoh lhonin, Lycaonia gama Lystra le Derbe kho chule akimvel gam kolah ajam lut lhonin,"
+      },
+      {
+        "verse": 7,
+        "text": "chua chun Kipana Thupha agahil lhangle lhontai."
+      },
+      {
+        "verse": 8,
+        "text": "Lystra khoa chun imatihchana lam jot lou akenga thahimhim um lou apena elbaiya peng khat atouvin Paul thusei angai jingin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin aman ama chu ave aven, boldama aum ding atahsan chu ahen,"
+      },
+      {
+        "verse": 10,
+        "text": "hatah-in asamin, “Nakengin pasan ding jangin,” a tile ama akichomin adingin lam ajot tai. "
+      },
+      {
+        "verse": 11,
+        "text": "Chutah chun mipi chun Paul thilbol chu amuvin, Lycaonia paovin, “Pathen ho mihem lima ihenguva hung kumlha ahiuve,” atitauve."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin amahon Barnabas chu Jupiter asah-un, chule Paul chu thuseiya apipui ahi jeh chun Mercurius asahtauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin khopi kotmaiya ahou in uma Jupiter hou thempu chun bongchal le pahchavui kotpi phunga ahin choiyin, mipi chutoh amani houna a chu tha dingin agotauvin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Ahivangin solchahho, Barnabas le Paul chun hichu ajah lhon phat’in apon asat-eh lhonin, mipi heng lama chun alhaijel lhonin, asam lhonin,"
+      },
+      {
+        "verse": 15,
+        "text": "“Vo miho, ibola hitobang hi nabol uham? Keini jong nanghotoh kithakhat mihem kahi lhonbouve; chule hiti mohthila kona hi vanle lei twikhanglen chule asunga thil um jouse sema Pathen hing henga nakiheina dinguva, Kipana Thupha kahung lhutpeh nahiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Hiche Pathen chun malaiya chu namtin vaipi jouse hi aningnop cheh-a analhatsah ahin, "
+      },
+      {
+        "verse": 17,
+        "text": "ahivangin ama hettohsahna beiyin anaumsahpoi, chuti chun phatna aboljin, vana kon gotwile ima ga phatle an nehna napeuvin, nalungu kipa thanopna-in adimsah jin ahi,” ati lhone."
+      },
+      {
+        "verse": 18,
+        "text": "Thu hicheng chu asei lhonin amani hounaa gan tha ding chu nah nah-in mipi chu akham jou lhone."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin Antioch a leh Iconium a konin Judah mi phabep hilama chun ahungun, mipiho chu atilseuvin Paul chu songin ase sahtauve; chuin athi ahitai tin khopi pam lama akaidoh tauve. "
+      },
+      {
+        "verse": 20,
+        "text": "Ahivangin seijuiho akimvela adin pettah-un, ama athoudoh-in khopi sungah aluttai; chuin akit nin Barnabas toh Derbe a ache lhontai."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin amanin chuche khopia chun Kipana Thupha ahil lhangle lhonin, mi tamtah seijuiyin asem lhonin Lystra, Iconium chule Antioch lama akile kit lhonin,"
+      },
+      {
+        "verse": 22,
+        "text": "genthei hesoh tamtah thoh-a Pathen gama lut ding ahi, tin tahsana umdet jing dingin thu ahil lhonin seijuiho lung aphudetpeh lhontai."
+      },
+      {
+        "verse": 23,
+        "text": "Chule amanin Houbung tinah amaho dinga chu upa apansah lhona, an ngola atao jouvin amahon atahsanu Pakaiyah apedoh lhontai."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin Pisidia gam ajotdoh lhonin, Pamphylia a ache lhonin,"
+      },
+      {
+        "verse": 25,
+        "text": "Perga a thu ahil lhonin, Attalia lama ache lhontai."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin chua kon chun kongin akitol lhonin, atohchai lhon chu tong dinga Pathen lungsetnaa akipehdohna lhon Antioch khoa chun ache lhontan ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Chukom alhun lhonin Houbung miho akhom lhonin, Pathen in akithopi lhona thilloupi abol chule chidang namdangho dinga tahsan kot akihon umchanje chu asei lhonin, hiti umchan thuho jouse chu ahetsah lhontai."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin amani chu seijuihotoh sottah aumkhom lhontai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Judea gama konin mi phabep ahungsuh un, “Mose chonna danthu peh dungjuiya chep natan louvule huhhinga naum theilou dingu ahi,” tin sopiho ahung hilui."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin amaho chutoh Paul le Barnabas akitohmo lheh jeng tauvin, akinel baotam jingtauvin ahile, hiche thudola chun Paul le Barnabas toh chule alah-uva mi phabeptoh Jerusalem a solchah ho le upaho henga gacheuhen tin thu alhuhsah tauve."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin Houbung mihon amaho chu agathah un ahile, amahon Phoenicia le Samaria gam ajotpeh- un, chidang namdangho lunghei thu chu aseiyun sopite jouse abonchauvin hapan akipasah tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Jerusalem alhunun, houbung, solchahho chule upaho chengsen amaho chu anasangui; chuin Pathen in amani akithopia thil abol umchan chu asei lhontan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Ahivangin atahsana Pharisee loi koi koiham akipatdoh in, “Hiche miho chu thonmoa cheptana chule Mose danthupeh nitsah ding hiuva chu,” atiuve."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin solchah ho le upaho hiche thu ngaito ding chun akikhom tauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin tamtah-in akinelun ahile, Peter akipatdoh in ajah uvah, “Sopiteho, chidang namdang hon keima kama kona Kipana Thupha ajah-uva atahsanna dingun masangpeh chun Pathen in nangho lah a keima ei lhengdoh-in, hichu nanghon naheuve."
+      },
+      {
+        "verse": 8,
+        "text": "Chule milungsung hea Pathen in eiho eipeh bangun amaho jong chu Lhagao Theng apen amaho chu ahettoh sah tan;"
+      },
+      {
+        "verse": 9,
+        "text": "chuin aman eihole amaho kah a dat nei louvin, tahsan in alungu asuthengin ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chutichu ahin iputeu ipateuvin jong eiho jeng jongin ipoh jou louvu namkoljon chu seijuiho lenga naseuva Pathen napatep uham?"
+      },
+      {
+        "verse": 11,
+        "text": "Ahin amaho bang chun eihon jong Pakai Jesu Christa lungset vanga huhhinga um ding itahsanui,” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin mipi chu athip beh-un, Barnabas le Paul’in, Pathen in amani amana, chidang namdang ho lah-a melchih nale thil kidang dang abol thu, asei lhon chu angaiyun ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin athusei athip lhon phat’in Jacob’in alapaiyin, “Sopite, kathusei ngaiyun;"
+      },
+      {
+        "verse": 14,
+        "text": "Pathen in ama min dinga chidang namdangho avil thu Simon in aseitai."
+      },
+      {
+        "verse": 15,
+        "text": "Chule hiche hi themgao ho thuho toh akitoh-e."
+      },
+      {
+        "verse": 16,
+        "text": "’Hicheng nung chule kilengting, David houbuh alhusa chu saphang ting, Chule katundoh ding ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Mi amoh chengse le chidang namdang kamina kikouho jousen Pakai chu aholna dingin, tin"
+      },
+      {
+        "verse": 18,
+        "text": "Gollui laiya pat thil hitiho hetsahjia Pakai chun aseiye,’ tin akisune."
+      },
+      {
+        "verse": 19,
+        "text": "Hijeh chun hitin kangaitoi, chidang namdang ho lah a Pathen henga kiheiho chu bol genthei dauhite;"
+      },
+      {
+        "verse": 20,
+        "text": "milim houna thilboh neh, jonthanhoi, chule alol kimeh-a kithatsate thisan neh, hichenga kona chu akikangsena dingun sun leuhen, kati."
+      },
+      {
+        "verse": 21,
+        "text": "Ijeh-inem itile masang gollui laiya pat’in Mose’n khotinah athu hillhanglea aseiyin, cholngah niseh-in hou inah asimji nauve,” ati. "
+      },
+      {
+        "verse": 22,
+        "text": "Chuin solchahho le upahon Houbung pumpi chutoh alah-uva mi lhendoh a, Paul le Barnabas toh Antioch-a sol ding aphasah-un, sopite lah-a apipu Barsabbas atiu Judas le Silas alhengui;"
+      },
+      {
+        "verse": 23,
+        "text": "chuin hiti hin asunun, amani khut’a chun athottauve: “Solchahho le upaho sopite jousen, Antioch le, Syria gama chule Cilicia gama um chidang namdang sopiho asalamui."
+      },
+      {
+        "verse": 24,
+        "text": "Kalah-uva konin koi koiham ahungun, thun nahung sulung jingun nalungu asuchavaiyui, ti kana” jauve; amaho chu keihon thu kape pouve;"
+      },
+      {
+        "verse": 25,
+        "text": "hijeh chun lungkhat kakisauvin, mi lhendoh-a ideitah-u Barnabas le Paul,"
+      },
+      {
+        "verse": 26,
+        "text": "Pakai Jesu Christa min jala ahinkho settoh jinga umteni toh nahenguva hinsol ding kaphasah tauve."
+      },
+      {
+        "verse": 27,
+        "text": "Hijeh chun Judas le Silas kahinsol tauve; amanin jong hiche thu mama hi, kama nahil dingu ahi."
+      },
+      {
+        "verse": 28,
+        "text": "Ijeh-inem itile Lhagao Thengin pha asan, keihon jong pha kasauve, hicheng akhohlai chengse tailou hi pohgihsa dang pohsah lou ding katiuve;"
+      },
+      {
+        "verse": 29,
+        "text": "nanghon milim houna sa neh, thisan neh, alol kimeh-a kithat sa neh, chule jonthanhoi, hichenga kon chun kikangseleu chun nangho dinga pha ding ahi. Anadamselun,” ati."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin amaho chu alhadoh tauvin ahile, Antioch-a ahungsuh-un mipi chu akhomun lekhathot chu apedoh tauve. "
+      },
+      {
+        "verse": 31,
+        "text": "Chuin amahon hichu asimjouvun lungmonsahna thu jeh chun akipah tauve."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin Judas le Silas chu amani jong themgao ahi lhonin, amanin jong thu tamtah-in sopiho chu alungmonsah lhonin, aphutdet lhone."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin chua chu chomkhat set aumjou lhonin, ahinsol teho henga ding chun sopihon lungmongin alhadoh tauve."
+      },
+      {
+        "verse": 34,
+        "text": "Ahin silas vang chukoma ama aum ding pha asai."
+      },
+      {
+        "verse": 35,
+        "text": "Paul le Barnabas vang chu Antioch khoa chun sottah mi tamtah toh aum lhonin ahil lhonin Pakai thu chu ahillhang lhontai."
+      },
+      {
+        "verse": 36,
+        "text": "Chuin ni phabep jouvin Paulin Barnabas jah-a, “Chen, Pakai thu ihilna khopiho chenga chun che hitin sopite gakimutopi hitin iti umnauvam gavehite,” ati."
+      },
+      {
+        "verse": 37,
+        "text": "Chuin Barnabas-in Mark atiu John jong chu pui ding lung angaiton ahi."
+      },
+      {
+        "verse": 38,
+        "text": "Ahivangin Pamphylia amani dalha a chule amanitoh lhona natonga cheta lou, chutobang mi pui ding chu Paul in pha asapon ahi."
+      },
+      {
+        "verse": 39,
+        "text": "Chuin akihanel tentauvin ahi; chuin Barnabas-in Mark chu akipuiyin kongin akitolin Cyprus lama achetai."
+      },
+      {
+        "verse": 40,
+        "text": "Paul vang chun, Silas akilhendoh-in, sopihon Pakai lungsetna ah apedoh tauve."
+      },
+      {
+        "verse": 41,
+        "text": "Chuin ama achen Syria gamle Cilicia gam ajotpeh-in, Houbungho aphutdetji pehtai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin ama Derbe le Lystra alhungin: chuin veuvin, chukoma chun seijui khat aumin, amin Timothy, atahsana Judah numei khat chapa ahin, apa vang chu Greek ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Ama chu Lystra le Iconium a um sopihon aseiphat lheh jengu ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Paul in ama chutoh lhondoh ding lung angaiton ahile, apuiyin chuche dunga um Juda ho jeh chun achep atanin ahi: ijeh-inem itile apa Greek ahi chu abonchauva ahet sohkeiyu ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin amaho akho akhoa avahle avahleuvin, Jerusalem a um solchahho le upaho phudoh thupeh chu anti dingun ape le tauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuti chun Houbung ho chu tahsanin athau ahatdoh-in niseh-in amijat apung cheh chehtai. "
+      },
+      {
+        "verse": 6,
+        "text": "Chuin Lhagao Thengin Asia gama athuhil dingu akham jeh-in, Phrygia le Galatia gam ajotpeh-un achetauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin Mysia jon ageiyun Bithynia a lut akigovin ahile, Jesu Lhagaovin ajadai;"
+      },
+      {
+        "verse": 8,
+        "text": "chuin chuti chun Mysia ajotpaiyun Troas ah achelhasuh tauve."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin janin Paul in mu aneiyin, Macedonia mi khat adingin ahenga ataovin. “Macedonia a hung galkaiyin neihung hu uvin.” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Chuti chun aman mu anei phat chun, Pakaiyin amaho chu Kipana Thupha hil dinga eikouvu ahi ti kaheuvin, chupettah chun Macedonia gama che ding kasom paitauve."
+      },
+      {
+        "verse": 11,
+        "text": "Hiche chun Troas a konin kongin kakitolun, paljangin Samothrace kajonun, chuin ajingin Neapolis kalhung tauve;"
+      },
+      {
+        "verse": 12,
+        "text": "chuin chua kon chun Philippi kalhungui; hichu Macedonia gama khopi khat ahin, agamkol sunga khopi masapen ahin, Rome miho tollo ahi. Chuche khopia chun ni ijat-jen ham kaumui."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin cholngah nin kulpi kot polama lui pangah taona mun uma kaginchat nauva chun kacheuve; chuin katouvun, numei hung kikhomho jah a chun thu kaseitauve."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin amin Lydia atiu, pon sandup joh numei khat, Thyatira khopia mi Pathen hou ahin ama chun kathuseiyu ajatan, chuin Paul thuseiho chu lunglut tah a angaina dingin Pakaiyin alung kot ahon pehtan ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin amale ainsunga ainkote baptize achan jouvun, “Pakai tahsan tahbeh a neingaitou ahile, ka-inah hung lhungun,” tin eijolun kacham louhelun eilhunsah tauve."
+      },
+      {
+        "verse": 16,
+        "text": "Chujouvin taona muna chu kacheule, lhagao vop soh nungah khat’in eitohui; ama chun khonung thusoh ding aseiya apakaite chu aphatchomsah lheh jeng ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Ama chun Paul le keiho eijuile eijuileuvin. “Hiteho hi chungnungpen Pathen sohte ahiuvin, sochatna lampi nahung hilu ahi, atin asam asamjin ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Amanu chun chutia chu tamtah abol ahi. Ahin Paul in atheichim lheh jengtan, akiheiyin lhagao jah a chun, “Jesu Christa mina asunga kona chu potdoh a kasol nahi,” ati. Chuin chupettah chun apotdoh paijengtan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin apakaite chun phatchom ding akinepnau abeitai, ti ahetdoh doh-un. Paul le Silas chu amanun, kailhangah vaipoho hengah akaitauve."
+      },
+      {
+        "verse": 20,
+        "text": " Chuin thutan vaihomho ang alhut phat’un. “Hiteni hi Judah mi ahi lhonin, ikho sungu achohnoh lheh jeng lhone."
+      },
+      {
+        "verse": 21,
+        "text": "Eiho Rome min lahle jop dan ngai lou chonna dan sodoh ago lhone,” atiuve. "
+      },
+      {
+        "verse": 22,
+        "text": "Chuin mipi chu thakhattah-in amani bol ding chun akipatdoh tauve; chuin thutan vaihomho chun apon lhon ahoh alhauvin, chuin mola jep dingin thu apetauve."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin tamtah vei ajep jouvun, songkula akhumun, songkul ngahpa chu bitkeiya ngah dingin thu apeuvin ahilchah tauve;"
+      },
+      {
+        "verse": 24,
+        "text": "chutitah a thu apeh jeh-u chun, aman kihenna akhumin, akenguva bul atuhtai."
+      },
+      {
+        "verse": 25,
+        "text": "Ahinjan khangkimin Paul le Silas-in Pathen henga atao lhonin, la asa lhonin ahile, sohchangho chun angai ngaiyun ahi."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin phulou helouvin ling hatah in ahung kihot jenge, chutichun songkul chu abul ahot longgamin, kotkhah jouse akihong paiyin; chule akihennau bul akilhamlha gamtan ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin songkul ngahpa chu aimut ahung khangin, songkul kotkhahho akihon amun, sohchangho ajama ahitai, atin chemjam alan ama kithat akigotai."
+      },
+      {
+        "verse": 28,
+        "text": "Ahivangin Paul in hasap-in asamin, “Nangma kisuse hih in, keiho kabonchauvin hikoma kaum nauve,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Chuin aman meivah athum in, songkul sungah aleng lutjelin akichat jeh-in akithing thingin, Paul le Silas angah alhujenge."
+      },
+      {
+        "verse": 30,
+        "text": " Chuin amani chu apuidoh in adongin, “Puteni, huhhinga umna dinga ipi kabol ding ham?” ati. "
+      },
+      {
+        "verse": 31,
+        "text": "Chuin amanin, “Pakai Jesu tahsan in, chutile huhhinga naum ding ahi, nainsunga chengsetoh,” atilhone."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin amanin ama le ainsunga chengse jah a Pakai thu asei lhontai."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin aman hiche pettah chun amani chu apuiyin jan chun ajepnau maha chu asoppeh-in, chuin ainsunga chengsetoh hiche pettah chun baptize achangpai jengtan ahi."
+      },
+      {
+        "verse": 34,
+        "text": "Chuin ainah apuitouvin, aang lhonah neh ding aluipeh-in; Pathen atahsan jeh chun ama chu ainsunga chengsetoh akipah behseh jengtauve."
+      },
+      {
+        "verse": 35,
+        "text": "Chuin ni aso phat’in thutan vaihomhon sottol mimanho chu asolun; “Miho chu lhatauvin,” agatisah-ui."
+      },
+      {
+        "verse": 36,
+        "text": "Chuin songkul ngahpa chun hiche thu chu Paul jah a aseiyin, ‘Thutan vaihom hon nangni lhadohna ding thu ahinpe tauve; hijeh chun Iungmongin che lhontan,” ati."
+      },
+      {
+        "verse": 37,
+        "text": "Ahivangin Paul in, “Keini Rome mi kihia amahon themna themmona photoh louva japi angsunga eivova songkula eikhumuva chu, tua guhthima eilha dingu ham? Chuti theiponte; amaho mong hunguhen, amaho tah-in eihung lhauhen,” ati."
+      },
+      {
+        "verse": 38,
+        "text": "Chuin sottol mimanho chun thutan vaihomho hengah hiche thu chu agalhut tauve; hichun amani Rome mi ahi lhon chu ahedoh-un,"
+      },
+      {
+        "verse": 39,
+        "text": "akichauvin ahungun amani alhem lhemun apuidoh-un, khopia kona chedoh dingin ajoltauve. "
+      },
+      {
+        "verse": 40,
+        "text": " Chuin songkul a konin apotdoh un, Lydia ina chun alut tauve; chuin sopiho chu amu lhonin, alungmon sah lhonin apotdoh lhontai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Amphipolis le Apollonia ajotpai lhonin, Thessalonica alhung lhone, hia chun Juda ho kikhopna khat aum in;"
+      },
+      {
+        "verse": 2,
+        "text": "chuin Paul achon ngai bangin ahenguva achen cholngah ni thum sungin Pathen lekhabua konin asuhtopin."
+      },
+      {
+        "verse": 3,
+        "text": "Christa chun gim genthei athoh-a athi lah a kona thoudoh kit ding mong ahi; tin aphongdoh-in avetsah-in ahilchen in; chuin, “Najah uva kasei Jesu hi hiche Christa chu ahi,” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin alah-uva mi kimkhat le, Pathen ngaisah Greek miho, chule numei pipuiho tamtah-in ajoptauvin Paul le Silas lama akaitauve."
+      },
+      {
+        "verse": 5,
+        "text": "Ahivangin Juda hon thangset lungin kailhanga migilou thasehon koi koiham akipuiyun mipi koiham akipuiyun mipi hon khat akhom un, khopi sung chu achohnoh-un, Jason in abuluvin, amani chu miho henga hinkaidoh dingin aholtauve."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin amani chu amu hih-un, Jason le sopite koi koiham chu khopi sung vaipoho henga akaiyun, kho asamun. “Vannoi chohseho chu hikoma jong ahung lhungtauve;"
+      },
+      {
+        "verse": 7,
+        "text": "chule hiche jason hin ainah alhunsah-e; chule Jesu atiu leng chom khat aume atiuvin. Caesar thupeh nelkal lenan achon sohkeiyui,” atiuve."
+      },
+      {
+        "verse": 8,
+        "text": "Hicheng thu chu ajah phat un mipi chengse le khopi sung vaipoho jong chu anoh lheh jengtauve. "
+      },
+      {
+        "verse": 9,
+        "text": "Chuin Jason le adang danghoa kon chun jamin alauvin alhadoh tauve."
+      },
+      {
+        "verse": 10,
+        "text": " Chuin sopihon geisang louvin ajan janin Paul le Silas chu Beroea khopi lama asol tauve. Amani chukom alhun lhonin Juda ho kikhopna a ache lhonin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Amaho chu Thessalonica miho sang chun aphajouvin, lung kipahtah-in thu chu asangun, hichu hina hilouham ti hetna dingin niseh-in Pathen lekhabuah aholjiuve."
+      },
+      {
+        "verse": 12,
+        "text": "Hijeh chun alah-uva tamtah-in chule Greek miho lah a numei lal tamtahle pasal-injong atahsan tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Ahin Beroea a jong Paul in Pathen thu ahiltai, ti Thessalonica Juda hon ajauvin chukom gei chun ahungun, mipi chu ahung tilseuvin achohnoh kit tauve."
+      },
+      {
+        "verse": 14,
+        "text": "Hiche pettah chun sopihon geisang louvin Paul twikhanglen lama che dingin asolpai tauve; Silas le Timothy vang chu chukoma chun aumden lhone."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin Paul gathahho chun Athens geiyin apuitauve; chuin Silas le Timothy ahung gan theichan lhonin kahenga hungloi lhon hen, ti thuthot apouvin akile kittauve."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin Paul in Athens khoa amani chu anga sungin khopi chu hou milim adimset amun alung asoujah tai."
+      },
+      {
+        "verse": 17,
+        "text": "Hijeh chun kikhopna inah Judaho le Pathen ngaisah ho akinelpi jin, kailhang muna jong amuchan chu aneljin ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin Epicureaus mile Stoic mi lah-a mithemching koi koiham injong ama chu akinelpi jiuve; abangin, “Hiche kamtam belbul hin ipi seiding agot hinganai,” atiuvin, adang kimkhat chun, “Gamdang houho thuhil hile akilome,” atiuve; Jesu thule thokit thu aseile jeh chun."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin ama chu atuhun, Areopagus ah apuiyuh ajah a, “Hiche thuhil thah thu nasei hi kahet thei dinguham?"
+      },
+      {
+        "verse": 20,
+        "text": " Ijeh inem itile nangman datmo thil kidang dang kanauvah neijahsah-ui; hiche thil hi ipi itina ahi aumje chu kahet nomui,” atiuve."
+      },
+      {
+        "verse": 21,
+        "text": "@9(Chuche Athens miho chule chua cheng gamdang miho jouse chu akiman chanuva, imadang bol louva, thu thah seiya ahiloule angainaa aphat amanjiu ahi)@7."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin Paul Areopagus lailunga adingin, hiche thu hi aseiye, “Nangho Athens miho, imalam jouseah nangho hi hou ngaisah tah nahiuve ti kahedoh-e."
+      },
+      {
+        "verse": 23,
+        "text": "Ijeh-inem itile nahouho chengseu kavetlea kahile, ‘Hetphah lou pathen ding,’ tia kisun maicham khat kamui. Hijeh a chu nanghon het louva nahoujiu chu keiman nangho kaseidoh peh nahiuve."
+      },
+      {
+        "verse": 24,
+        "text": "Vannoi leisetle asunga thil um jouse sema Pathen chu van le lei Pakai ahin, khut’a kisa hou-inah achengpoi;"
+      },
+      {
+        "verse": 25,
+        "text": "chule ngaichat neiya banga, mihem khut’a jenle jong ahipoi; amatah imajouse hinnale haina peale ijakai pejoh ahibouve;"
+      },
+      {
+        "verse": 26,
+        "text": "chule leiset chung jouse losoh a cheng dingin, khat’a konin vannoi mi chitin namtin asemin, amaho chu phat ateppeh in, achennau jong gamgi asepeh-e."
+      },
+      {
+        "verse": 27,
+        "text": "amahon Pathen aholuva amai amaiyuva ijem tia amudoh theina dingun; ahinla ama chu eiho koimacha a konin aum gamlapoi."
+      },
+      {
+        "verse": 28,
+        "text": "Ijeh-inem itile eiho amaa hinga chatloh a, chule uma ihiuve; nangho lah a thuchih chomsun themho lah a koi koiham jengin jong, ‘Eiho jong ama son ihiuve,’ tin aseiyuve."
+      },
+      {
+        "verse": 29,
+        "text": "Pathen son ihi jeh-uva chu Pathen chu mihem lung suhtoa sana, dangka, song kikheng milim tobanga ingaito ding dolu ahipoi."
+      },
+      {
+        "verse": 30,
+        "text": " Ihet lou laiyu chu Pathen in einavet thimu ahin; tu vang in gam jousea mi jousen alung aheina dinga thu apen ahitai;"
+      },
+      {
+        "verse": 31,
+        "text": "aman nikho khat atep ahin, hiche ni chule ami tun chun chondihnaa vannoi hi athu atan ding ahi; ama chu athia kona akaithouva mi jouse ahet kichensah ahitai,” ati."
+      },
+      {
+        "verse": 32,
+        "text": "Athi thokit thudol ajah phat’un abangin anuisat tauvin ahi; chule adangho vang chun, “Hiche thudol hi nanga konin ngai kitnau vinge,” atiuvin ahi. "
+      },
+      {
+        "verse": 33,
+        "text": "Hiti chun Paul amaho lah a kon chun apotdoh tai."
+      },
+      {
+        "verse": 34,
+        "text": "Ahinla mi kimkhat ama henga akaiyun atahsan tauve. Amaho lah a chun Areopagus mi Dionysius le numei khat amin Damaris atiutoh chule adang dangho jong ahiuve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuche nung chun Paul in Athens a konin apotdoh-in, Corinth a achetai. "
+      },
+      {
+        "verse": 2,
+        "text": "Hiche lai chun Claudius-in Juda ho jouse aboncha Rome a kona potdoh dinga thu apeh jeh a ainnepipi Priscilla toh Italy gama kona hung lhungtil Pontus gama peng Judah mi khat amin Aquila chu amun amani henga chun achei."
+      },
+      {
+        "verse": 3,
+        "text": "Amani chu akiveina lhon amatoh thakhat ahi lhon jeh chun amani koma chun alhungin na atong khomjiuve; akiveinau chu amaho chu pon in sem mi ahiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Chule cholngah niseh le kikhopna ah thu asuhtopin Judaho le Greek miho chu atahsan dingin ajol lutjin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Silas le Timothy Macedonia gama kona ahung lhunsuh lhon phat chun, Paul thu hillam jenga akipen, Jesu chu Christa ahi, ti Juda ho chu ahettoh sahna ahiltan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin amahon adoudal un, ataitom un ahile, Paul in apon athingin ajah-uva, “Nangho thisan nangho lu chungah chuhen; kei kangime; tu kalin chidang namdang ho henga chetange,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin chua kon chun achen Pathen ngaisahtah amin Titus Justus atiu ina chun aluttai; ama in chu kikhopna inkom chu ahi;"
+      },
+      {
+        "verse": 8,
+        "text": "chuin kikhopna in vaipo Crispus chun ainsung mi jouse toh Pakai atahsan tai; chuin Corinth miho lah a mi atama tam in ajauvin atahsan un baptize achangtauve."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin jan in Pakaiyin Paul akimusah-in, “Nangma kicha hih-in; thu sei jing jengin; umthim hih-in;"
+      },
+      {
+        "verse": 10,
+        "text": "keiman nangma kaumpi jingnai, chule suhset dinga koiman nabulu lou ding ahi; ijeh-inem itile hiche khopi sunga hin mi tamtah kaneiye,” ati. "
+      },
+      {
+        "verse": 11,
+        "text": "Chuin ama amaho lah a chun kum khat le kumkeh aumin, Pathen thu ahiltai."
+      },
+      {
+        "verse": 12,
+        "text": "Ahin Gallio chu Achaia a gamvaipo ahi laiyin Juda ho lung khat akisauvin Paul bolnan akipatdoh-un, thutanna mun ah akaiyun."
+      },
+      {
+        "verse": 13,
+        "text": "“Hichepa hin chonna dan ngailouva Pathen hou dingin miho ajol lhai,” atiuve."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin Paul pao ding akigotle Gallio chun Judaho jah a, “Vo Judaho, hiche hi suhkhel ahim khan gitlou thu ahim hile, keiman nami hehnau kangaipeh ding nahiuvin;"
+      },
+      {
+        "verse": 15,
+        "text": "thu mai maile min mai mai ahiloule, nangho chonna danthu kibaona mai mai ahivangle, chutobang thutan hiding kanompoi” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin amaho chu thutanna muna kon chun anodohtai."
+      },
+      {
+        "verse": 17,
+        "text": "Hichun abon chauvin kikhopna in vaipoi Sosthenes chu amanun, thutanna maitah a avotauve. Ahivangin hitiho ima chu Gallio’n donin aneipoi."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin Paul chukoma chun sottah aumin, sopitetoh akilhan Syria gam lama kongin akitoltai; Priscilla le Aquila chutoh akilhone. Paul in kitepna anei jeh-in Cenchreae ah asam avouvin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin Ephesus khopi alhun un amani chu chukoma chun adalhatai; ama vang chu kikhopna inah alut’in Juda ho chu thu asuhtopitai."
+      },
+      {
+        "verse": 20,
+        "text": "Chuin chukoma chu um sot jep dingin alhouvin ahile ama anom hih-in, "
+      },
+      {
+        "verse": 21,
+        "text": "akilhadoh-in, “Pathen lunggot lam ahile nahenguva hung kitnange,” atin. Ephesus kho adalhan kongin akitoltai."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin Caesarea ah akumin achetouvin Houbung chu salam agapen Antioch a ahung kilesuh kittai."
+      },
+      {
+        "verse": 23,
+        "text": "Chukoma chun chom khat aumin chua kon chun Galatia le Phrygia gam ajotpeh-in seijuiho jouse aphutdet letai."
+      },
+      {
+        "verse": 24,
+        "text": "Hiche lai chun amin Apollos atiu Judah mi Alexandria a peng ahin, thuseiya themtah le Pathen lekhabua thua hattah ahin;"
+      },
+      {
+        "verse": 25,
+        "text": "ama chu Pakai lampi thu kihila ahin, alungin agunchu lheh jengin, Jesu umchan thudol kichehtah-in aseiyin, ahivangin John baptize jengbou chu ahet ahi."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin kikhopna inah hakattah-in thu asei pan tan ahi; chuin Priscilla le Aquila’n athuhil chu aja lhonin, ainah apui lhonin Pathen lampi thu chu dihtah in ahilchen lhontai."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin ama chu Achaia gama ache nomtan ahile sopihon atilkhouvun, chuin ama chu anasanna dingun seijuiho hengah lekha asuntauve. Chukom alhunin lungsetna vangin atahsanho phatna tamtah abolin ahi."
+      },
+      {
+        "verse": 28,
+        "text": "Ijeh inem itile Jesu chu Christa ahi, ti chu aman Pathen lekhabua konin aphottohna avetsah-in hakattah-in japi ang sungah Juda ho anelkhup dengtan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin ahitin ahi, Apollos Corinth khopia aum pet chun Paul in sahgam lam achonlen Ephesus ahung lhungin ahile seijui phabep amun ajah-uva, "
+      },
+      {
+        "verse": 2,
+        "text": "“Natahsanuva chu Lhagao Theng nachannah-uvem,” tin adongin ahile, amahon ajah a, “Lhagao Theng aume ti jong kajapouve,” atiuve."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin aman, “Ahile ipiaba baptize changa nahiuvem?” atile, amahon, “John baptize chanin,” atiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Paul in, “John in miho jah a chu, ‘Kanunga hunga Jesu chu tahsan un,’ atia lung heina dinga baptize achansah ahibouve,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin thu hiche chu ajah phat’un Pakai Jesu minah baptize achang tauve. "
+      },
+      {
+        "verse": 6,
+        "text": "Chuin Paul in achunguvah akhut angam in ahile Lhagao Theng achunguva achutai; chuti chun paotin pao tangin thu aseiyun, lhagao thu jong aseidoh tauvin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Amaho chu a bonchauvin mi somle ni ahiuve."
+      },
+      {
+        "verse": 8,
+        "text": "Chutah chun Paul kikhopna inah alut’in kicha louhelin lha thum geiyin thu ahilin amaho chu Pathen gam thudol asuhtopin ajolluttai."
+      },
+      {
+        "verse": 9,
+        "text": "Ahivangin mi kimkhat alouchala thua anun louva mipi angsunga chuche Lam chu aseiset phat’un, aman amaho chu adalhan seijuiho chu atum huiyin Tyrannus school’ah niseh-in akihoulim pitai."
+      },
+      {
+        "verse": 10,
+        "text": "Hitichun kum ni aumin ahile Asia gama cheng jousen, Judah mi jong, Greek mi jongin, Pakai thu chu aja sohkei tauve."
+      },
+      {
+        "verse": 11,
+        "text": "Pathen in Paul khut’a thil kidang mainah abolsahpoi;"
+      },
+      {
+        "verse": 12,
+        "text": "chuti chun ati chung a konin ultheh hijongle pon hijongle alauvin adamlou henga apojiuvin ahile, ahiveiyun adalha jeng adalha jengun lhagao bohho jong chu apotdoh jengji tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin Judah vahvei doithema kivei koi koiham in lhagao boh vopteho chunga Jesu min apanun. Paul in athu ahil Jesu mina thu kapeh nahi, ti pat dingin agouvin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chutia bola chu Judah thempu pipui Sceva chate pasal sagi ahiuve."
+      },
+      {
+        "verse": 15,
+        "text": "Ahivangin lhagao boh chun adonbut’in, “Keiman Jesu kahenai chule Paul jong kahenai, nanghobou hi koi nahiuvem” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin lhagao boh voppa chu achomin amaho mi ni chunga achun anilhon chun athajouvin akop lhon chun ajoutai, chuti chun chuche ina kon chun asagoh keole mapun ajamdoh tauve."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin hichu Ephesus a cheng mi jousen, Judah min jong, Greek min jong ahe soh keitauve; chule abonchauva chungah kichat achutan, chule Pakai Jesu min choisangin aumtan ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Atahsan ho jong tamtah ahungun athilbolu aseidoh-un aphongdoh tauve."
+      },
+      {
+        "verse": 19,
+        "text": "Chule doichoi ho tamtah-in jong alekhabu chengseu ahinchoi khomun agouvam un; chuin aman asuhtoule dangka sang som nga ahi ti aheuve. "
+      },
+      {
+        "verse": 20,
+        "text": "Chuti chun thahattah-in akhangtouvin Pakai thu chun ajoutai."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin chucheng thu kichai jou chun Paul in Macedonia le Achaia gam chu chotsoh a Jerusalem a che ding lung agon, “Chua kache jou chule Rome gavenge,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Chuti chun alhacha teni, Timothy le Erastus chu Macedonia gama asolin, ama Asia gamah chomkhat aumdene."
+      },
+      {
+        "verse": 23,
+        "text": "Hiche lai vel chun chuche Lampi thudola chun thunoh mainah asohpoi. "
+      },
+      {
+        "verse": 24,
+        "text": "Ajeh chu amin Demetrius atiu dangka kheng mi khat aumin ama chun dangkan Diana hou-in lim akhengin khut themho ding chun kiveina phabepcha aumdoh sahpoi."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin ama chun amaho chu chutobang natongho chengsetoh akou khomin ajah-uva, “Miho, hichea ikiveiyu hi ihaodoh nau ahi, nanghon naheuve."
+      },
+      {
+        "verse": 26,
+        "text": "Chule Ephesus goh hilouva Asia gam pumpia hiche mihempa Paul hin, ‘Miho khut’a kisema chu Pathen ahi hihhel e,’ tia ajola miho tamtah ahei manggam hi mu jong namuvin, he jong naheuve."
+      },
+      {
+        "verse": 27,
+        "text": "Hichea hin ikiveinau manlou ahungso ding kichat umjenggoh ahipoi; pathenlennu Diana hou-in jong nahsahmoa hung kibola chule Asia gam pumpiale vannoiyin ahou amanu jeng jong hi alet aloupinaa kona hung kiloilha khong ding ahi,” ati."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin chuche thu ajah tah un, alunghang behseh jengun, “Ephesus mite, Diana alene!” tin asam asam jengun ahi."
+      },
+      {
+        "verse": 29,
+        "text": "Chuti chun akho thingin akilohsoh jengun, Gaius le Aristarchus Macedonia gam mi, Paul akholjin na a alhonpi teni chu amanun, thakhat tah-in tot bolna inah alhailutpi jengui."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin Paul miho lah a chu lut ding akigon ahile seijuihon achesah pouve."
+      },
+      {
+        "verse": 31,
+        "text": "Chuin Asia gam mi akihoutheipi hon mi ahinsolun, tot bolna ina chu gakilulah louhel dingin akham lheh lheh jengun ahi."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin akikhomho chu aboilailai jengun mi atam jon akikhop’u chu ajeh ahepouve; hijeh chun kimkhat in thu khat asamun, kimkhat’in thu chom asamun ahi."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin mipi lah a kon chun Alexander ahinkaidoh un ahile Juda hon malama asonui. Chuin Alexander’in mipi lama chun akhut ajah-in akihonna thu sei akigon ahi."
+      },
+      {
+        "verse": 34,
+        "text": "Ahivangin ama chu Judah mi ahi aheuvin, “Ephesus te Diana alene!” atiuvin; hichu nidan ni geijenin asam asam jengun ahi."
+      },
+      {
+        "verse": 35,
+        "text": "Chuin khosung thusunpa chun mipi chu aphoh thip’in, “Vo Ephesus mite, Ephesus khopiho Diana lenle Jupiter a kona hunglha a hou milim hou-in-ngah ahi hi, miho lah a koi ahelou umam?"
+      },
+      {
+        "verse": 36,
+        "text": "Chuti chu ahin hicheng hi seitoi thei ahilou het’a thipbeh-a naum dingu, chule thu doptoh louva ima nabol lou dingu thu ahi."
+      },
+      {
+        "verse": 37,
+        "text": "Ijeh-inem itile nanghon nahinkaiyu miho hi hou-in choma jong ahipouvin eiho pathennu seisea taitoma jong ahipouve."
+      },
+      {
+        "verse": 38,
+        "text": "Demetrius le atohpi khut themhon mi koiham chunga thu aneiyule kihehna in honsan aume, chule gamvaipoho jong aumnauve; hikoma khun gakiheh tauhen."
+      },
+      {
+        "verse": 39,
+        "text": "Thu dang ima naholu ahivangle angaiya kikhopna a leltoh ding ahi. "
+      },
+      {
+        "verse": 40,
+        "text": "Tunia thunoh so thua hi, ajeh bei ahi jeh-a hi, ichunguva thu ahung um ding kichat aume; hiche ikikhoplo penu hiche hi ahi, tia idonbut thei lou dingu ahi,” ati."
+      },
+      {
+        "verse": 41,
+        "text": "chuin hichu aseiyin miho chu alhadoh tai. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin thunoh chu akichai jouvin Paul in seijuiho chu agakousah-in, akikhenpin, Macedonia gama dingin achetai."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin chuche gamkai sungse chu achonsoh-in amaho chu thu tamtah-in atilkhouvin, Greek gam alhungtai."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin chukoma chu lhathum atham jouvin Syria gam lama konga kitola che ding agotle Juda hon achanlhih jeh-un, Macedonia jotpai ago kittan ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Asia gam geiyin Beroea khoa Pyrrhus chapa Sopater, Thessalonica, Aristarchus le Secundus, Derbe khoa Gaius le Timothy, Asia gama Tychicus le Trophimus hicheng chun alhonpiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Hiteho chu keiho masangah anacheuvin Troas khoah einangah jingui."
+      },
+      {
+        "verse": 6,
+        "text": "Keiho vang chu cholsolou changlhah kut jouvin Philippi a konin kongin kakitolun ninga nin Troas khoah ahengu kalhungui. Chua chun nisagi kanichonui."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin hapta kipat ni masanin changlhah hehbal dingin kakikhomun ahile. Paul in ajinga che ding akigot jeh-in amaho chu akihoulimpin, khangkim geiyin sottah thu aseiye."
+      },
+      {
+        "verse": 8,
+        "text": "Kakikhopnau indan chungnunga chu meivah tamtah uma ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin bangkot’a tou gollhang khat amin Eutychus ahin, ana-ihmu lhutai; Paul in athusei aseisot jeh chun anaihmulhun, chung dan thumna a konin noi lamah alhatan ahile athisan agaphong doh-ui."
+      },
+      {
+        "verse": 10,
+        "text": "Ahivangin Paul akumlhan achungah abongin, apomin, “Lungdong hih-in, anuhkai nalainai,” ati. "
+      },
+      {
+        "verse": 11,
+        "text": "Chuin Paul akaltou kit’in changlhah ahehbal in anen, sottah khovah geiyin ajah-uva thu aseiyin ahoulim in chuti chun akipatdohtai."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin amahon gollhangpa chu ahingin ahinpuiyun, lungmon mainah-in alungmong tapouve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin keiho kong lama chu kanache masauvin Paul lalutpa dingin Assos jonin kongin kakitol tauve; aman akenga che agot jeh-a aman chutia chu agontohsa ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin Assos khoa eikisuhtopi phat’un, konga kalalut’un Mitylene twikol jonin kahung tauve."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin chua kon chun kakitolun akit nin Chios jon kalhungun, anikit nin Samos kajot pauvin akit nin Miletus kalhung tauve."
+      },
+      {
+        "verse": 16,
+        "text": "Ajeh chu Paul in Asia gama umsot ding anop lou jeh-a, konga kitola Ephesus khopi chu jotpai ding lunga agot jingsa mong ahi, ahitheile Jerusalem a Pentecost mang dinga, kin loiya che kigoa ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Miletus a kon chun Ephesus a mi asolin Houbung upaho agakou sah-e."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin aheng ahung lhun phat’un ajah uva, “Keima Asia gama kahungtila pat, nangho koma kaum lai sungsea kaumchan chu naheuve."
+      },
+      {
+        "verse": 19,
+        "text": "Lungnem tahle mitlhi pumin chule Juda hon eichanlhih jinguva kona kachunga chua thoh hesoh pumin Pakai lhacha na katongin;"
+      },
+      {
+        "verse": 20,
+        "text": " chule phatchomna ding thil imacha nangho dinga kaim beihelin kavetsah sohkeiyun jalhanga le aintinah kahil jiuvin,"
+      },
+      {
+        "verse": 21,
+        "text": "Juda ho hengle, Greek miho henga jong, Pathen lama lunghei thule i-Pakaiyu Jesu Christa lam tahsan dingdol kahetsah jin ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Chule tun, veuvin, lhagaova kisoma Jerusalem a chedinga kahi, chua chu kachunga ipi alhun ding kahepoi;"
+      },
+      {
+        "verse": 23,
+        "text": "kikanle hesoh gentheiyin eingah jinge, ti Lhagao Thengin khotina eihetsah jingbou hi kahei. "
+      },
+      {
+        "verse": 24,
+        "text": "Ahivangin kalhai tetna le Pathen lungsetna Pakai Jesua kona kamu kalhacha natoh Kipana Thupha hettohsah ding hi kachai molsoh poule kahinkho jong hi kaitchapoi."
+      },
+      {
+        "verse": 25,
+        "text": "Chule Pathen thu kaseilea nangho hin kamai namu kitlou dingu ahi, ti hi kahei."
+      },
+      {
+        "verse": 26,
+        "text": "Hiche jeh a chu mi jouse thisana kona ngima kahi, ti tunia kahetsah nahiuve;"
+      },
+      {
+        "verse": 27,
+        "text": "ijeh-inem itile Pathen thil ngaito jouse najah-uva im kanei aumpoi."
+      },
+      {
+        "verse": 28,
+        "text": "Hijeh chun Pathen in athisana achohsa Houbung vah dinga achinguva Lhagao Thengin napansah-u, kelngoi hon chengse chungle nangmaho chungchang ah chingtheiyun."
+      },
+      {
+        "verse": 29,
+        "text": "Kache nungle ngei gilou nalahuva alut’a ahon hi ahoilou ding kahei;"
+      },
+      {
+        "verse": 30,
+        "text": " chule nangho lah a kona jong abang bang potdoh-a amaho nung chu ajuina dinga aloilutna dinguva, thu akaleh-a hila hung um ding ahi, hiche jong hi kahei."
+      },
+      {
+        "verse": 31,
+        "text": "Hijeh chun nangho kigingpha jingun; chule keiman kum thum sunga mitlhi puma asun ajana nangho nabon chauva tilkhou kahai louhel chu geldoh jingun,"
+      },
+      {
+        "verse": 32,
+        "text": "chule nangho sadoh-a khantousah theiya, chule mi akisuthengho lah-a nangho gou chansah theiya, Pathenle alungsetna thua kakhumu nahiuve."
+      },
+      {
+        "verse": 33,
+        "text": "Koimacha dangka, sana, nihchen ponsil kadeichapoi."
+      },
+      {
+        "verse": 34,
+        "text": "Kakhut teni hin keima le kaloiho ngaichat chan kaboldohjin, hichu naheuve."
+      },
+      {
+        "verse": 35,
+        "text": "Keiman ijakaiya navet tohuva natho dingu kavetsah sohkeiye; nanghon chutobanga chu natoh gimuva, chatmoho phatna nabol dingu thu ahi, ‘Lah sangin peh ochat aumjoi,’ tia Pakai tah-in asei jong chu nageldoh dingu thu ahi,” ati. "
+      },
+      {
+        "verse": 36,
+        "text": "Thu hicheng chu aseiyin adilsun abonchauvin ataopitai."
+      },
+      {
+        "verse": 37,
+        "text": "Chuin abonchauvin hakan akap’un Paul angong koiyun, achop’un,"
+      },
+      {
+        "verse": 38,
+        "text": "Kamai namu kit lou dingu ahi, ati chu, hiche jeh tah chun alungse deh-un; kong mun geiyin agathah tauve. "
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin keiho amaho toh kakikhenun kongin kakitolun jangkeiyin Cos twikol kalhungun, akitnin Rhodes twikol kalhungun; chua konin kache paiyun Patara kho kalhungui;"
+      },
+      {
+        "verse": 2,
+        "text": "chuin Phoenicia gama kai ding kong khat kamuvin achunga kachongun kakitol tauve."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin Cyprus twikol akimu phat’in veilam ngan kapelun Syria gama kache paiyun, konga thil solhah ding aum jeh-in Tyre khoa kakingauve."
+      },
+      {
+        "verse": 4,
+        "text": "Chukom muna um seijuiho kaholdoh-un, chukomah nisagi kanichongui; amaho chun lhagaovin, Paul chu Jerusalem a che hihhen, atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin ni hijat chu kaum jouvun kakipatdoh-un kachena dingu kamasot tauve; chuin amaho chu a bonchauvin ajiteule achateu pumin khopi kulpam geiyin eihung thah-ui; chuin twikhanglen kama kadilsuvin kataovun, kakilha tauvin,"
+      },
+      {
+        "verse": 6,
+        "text": "keiho konga kakaltauve; amaho vang chu ain lamuva akile kittauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin keiho Tyre a konin kacheuvin Ptolemais kalhungun, twiya kacheu kachaiyui; chuin sopiho salam kaboh-un, amaho komah ni khat kaumui."
+      },
+      {
+        "verse": 8,
+        "text": "Ajingin chua konin kakipatdoh-un, Caesarea kalhungun; sagiho lah a Kipana Thupha seilea, Philip, ama ina chun kalhungun amatoh kaumtauve."
+      },
+      {
+        "verse": 9,
+        "text": "Ama chun chanu li aneiyin, nungah theng ahiuvin Pathen thu seiphonga pang ahiuve."
+      },
+      {
+        "verse": 10,
+        "text": " Chukoma chu ni ijat-ham kaumun, Judah gama konin amin Agabus atiu themgao khat ahungin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Ama chu kahenguva ahungin Paul konggah chu alan akhut akeng akikanin, “Lhagao Thengin hiti hin aseiye, ‘Hiche konggah neipa hi Jerusalem a Juda hon hitia hi akanuva chidang namdang ho khut’a apehdoh dingu ahi,’ ahung ti."
+      },
+      {
+        "verse": 12,
+        "text": "Hiche thu chu kajauvin chukoma umhole keihon Paul Jerusalem a che lou dingin kajoltauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin aman eidonbut’un, “Nanghon ibola neika kauva kalung nasuhset’uham? Ijeh-inem itile Jerusalem a kikan ding keogoh hilouva, Pakai Jesu min jala thi dinga jong kigosadema um kahi,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Aman keiho thu alah lou jeh-in kathiptauvin, “Pakai lunggot got hihen,” katitauve."
+      },
+      {
+        "verse": 15,
+        "text": "Chujouvin kathil keovu kakigot’un Jerusalem a kache tou tauve."
+      },
+      {
+        "verse": 16,
+        "text": "Chule Caesarea a konin seijui koi koihamin eijuiyun; amaho chun amin Mnason, Cyprus twikola seijui lui, lhunna a kanei dingpau chu ahinpuiyui."
+      },
+      {
+        "verse": 17,
+        "text": "Jerusalem kagalhunule sopihon kipahtah-in einasangui."
+      },
+      {
+        "verse": 18,
+        "text": "Akit nin Paul keihotoh Jacob henga kalut’ui; chua chun Houbung upaho jouse jong abonchauvin aumui."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin Paul’in amaho chu salam aboh jouvin alhacha natonga amana Pathen in chidang namdangho lah a thil abolsah jouse chu abanchan aseitai."
+      },
+      {
+        "verse": 20,
+        "text": " Chuin sopihon thu hicheng chu ajah un Pathen avahchoiyun; chuin Paul jah-a, “Sopi, Judaho lah-a atahsan sang tamtah ahi hi namui; chule amaho khu danthu lama gunchutah ahiuve."
+      },
+      {
+        "verse": 21,
+        "text": "Ahin amahon nangma thudol, nangma hin chidang namdangho lah-a Juda ho chu Mose danthu pailhah ding thu nahil in, chapang chep atanlou dingu, chule chonna dan ngaiya chonlou ding tin, nahillei ti ajauve."
+      },
+      {
+        "verse": 22,
+        "text": "Hijeh a chu iti ding hitam? Nangma hi ahungtai tila ajah tei dingu ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Hijeh chun thu khat seipeh-unge, hichu bolin; kitepna neiya mi li hikoma hin kaneiyui;"
+      },
+      {
+        "verse": 24,
+        "text": "amaho chu puiyin lang nangmatoh kisuthengun, chule asam vona dingu nangman sum toh-in: chutile nangma thudola athu jah-u chu ima hilou ahi, nangmatah chonna dan ngaiya nachon chu amahon ahetsoh dingu ahi. "
+      },
+      {
+        "verse": 25,
+        "text": "Chidang namdangho atahsanho thudol vang, milim houna thil neh, thi neh, akimehlihtho ganhing sa neh, chule jonthanhoiya kona akikang sena dinguva, keihon kasut’uva kathot sau ahitai,” atiuve."
+      },
+      {
+        "verse": 26,
+        "text": "Chutah-in Paul’in miho chu apuiyin akit nin amaho chutoh akisuthengun, hou inah alut’un, amaho khat cheh dinga sa kithat apehpeh kahsea akisuh thengna dingu ni kichaina ding chu thempu agahet sahtai."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin ni sagi chu alhin ding kon-chan Asia gama Juda ho chun hou-in sunga Paul amu phat’un, mipichu abon-chan atilseuvin ama chu amanun,"
+      },
+      {
+        "verse": 28,
+        "text": "Israel miho, neihuvin; hichepa hi ahi, gamtina mijouse henga, Judah mite le, danthu, chule hiche mun seiselea; chule chuche jeng hilouvin hou-inah Greek mi alut pin, hiche intheng hi asuboh-e,” tin asamtauve."
+      },
+      {
+        "verse": 29,
+        "text": "Hichu masanga khopi sunga Ephesus mi Trophimus toh amuva ahile, Paul in ama chu hou-ina alutpia angaitou ahi."
+      },
+      {
+        "verse": 30,
+        "text": " Chuin akhothing in akiloh jengun miho chu alhai khomun; Paul chu amanun, hou-ina konin akaidoh-un; kotkhahho chu akhah-pai jengui."
+      },
+      {
+        "verse": 31,
+        "text": "Chuin ama chu tha dinga agot laitah-un, Jerusalem khopia mi jouse aboiye ti thu sepai vaipipo heng alhungtai. "
+      },
+      {
+        "verse": 32,
+        "text": "Chuin ama chun sepaiho le sepai ja lamkaiho apuiyin ahenguva alhaisuh tauve; chuin sepai vaipipo le sepaiho chu amu phat’un, Paul avoh-u chu atangui."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin sepai vaipipo chun ahinnaiyin Paul chu atuh-in, thihkhao nia kan dingin thu apen; koiham ipi susea ham, tin adongtai."
+      },
+      {
+        "verse": 34,
+        "text": "Chuin mipi lah a chun kimkhat’in thuchom asamin, adang kim-khat’in thuchom asamui; chuin navai aum jeh chun aje ajang aheta hih-in kulpi sunga puilut ding thu apetai."
+      },
+      {
+        "verse": 35,
+        "text": "Chuin Paul kalbilei ageiyin mipin abol nasat behseh jeh chun sepaihon ama chu adom-peh jengui;"
+      },
+      {
+        "verse": 36,
+        "text": "ajeh chu mihonpi chun, “Sumangin, sumangin” tin asamun ajui lellul jengui."
+      },
+      {
+        "verse": 37,
+        "text": "Chuin Paul kulpi sunga apui lut ding konun aman sepai vaipipo jah-a chun, “Najah a thu themkhat seitheiyingem,” ati. Chuin aman, Greek pao nahet’-em?"
+      },
+      {
+        "verse": 38,
+        "text": "Masang laiya miho tilsea mihem khat mi sang li gamthip’a loidoh a Egypt gam mi chu nahi louham?” ati. "
+      },
+      {
+        "verse": 39,
+        "text": "Ahinla Paul in, “Keima Cilicia gama Tarsus khopia Judah mi kahi, khopi mai maiya mi kahipoi, chule nahenga katao ahi, miho jaha thu kaseina ding thu neipen,” ati."
+      },
+      {
+        "verse": 40,
+        "text": " Chuin aman athusei ding aphalpeh phat’in Paul leikalbi chunga chun adingin miho chu akhut’in ajap’in chuin athipchet phat’un, ajah-uva chun Hebrew paovin thu aseiyin:"
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "“Sopite le pate ho, tua kakihonna thu kasei ding hi ngaiyun,” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin aman ajah-uva Hebrew paova thu asei ajah phat’un, ahathip cheh tauvin ahile, aman,"
+      },
+      {
+        "verse": 3,
+        "text": "“Keima Judah mi, Cilicia gama Tarsus khopia penga, hiche khopi sunga hi Gamaliel khophang bula seilena iputeu ipateu chonna dan kikheltah dungjuiya kihildoh-a Pathen lama gunchutah, tunia nangho bang hi kahi;"
+      },
+      {
+        "verse": 4,
+        "text": "chule hiche Lam miho thina geiyin kabolsen anumei apasalin kakanin songkula kakhumjin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chujongle thempu chungnungle gamsung upaho jousen jong hiche thu chu eihetpiuve; amahoa kon chun sopiho henga dingin lekha kalan Damascus a um jouse talen peh dingin kana Jerusalem a hintol dingin, kachen ahi."
+      },
+      {
+        "verse": 6,
+        "text": "“Chuin ahitin ahi, kachele Damascus khokom kageiyin sunkim dontah-in phulou helouvin vana kon vah nasatah khat’in kavel ahinsalvah soh jenge."
+      },
+      {
+        "verse": 7,
+        "text": "Hichun keima tolah kalhutai, chuin kajah-a, ‘Saul, Saul nangin ibola keima eibolsea nahim?’ tia seiya aw khat kajai."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin keiman kadonbut’in, ‘Nang koi nahim, Pakai?’ kati. Chuin aman kajah-a, ‘Keima nabolset jing Nazareth Jesu kahi,’ ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin kalhonpiho chun vah chu amunauvin, kajah-a thusei aw vang chu ajapouve."
+      },
+      {
+        "verse": 10,
+        "text": " Chuin keiman, ‘I-katidingham, Pakai?’ kati. Chuin Pakai chun kajah-a, ‘Thoudoh-in Damascus khoa lut’in; chukoma chu nabol dinga kigo jouse aboncha kiseipeh ding nahi,’ eiti."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin vah loupi jeh a chu kho kamu lou phat’in kalhonpi hon khut’in eikaiyun Damascus kho kaluttai."
+      },
+      {
+        "verse": 12,
+        "text": "“Chuin mi khat Anamas, danthu dungjuiya Pathen ngaisah chule chukoma cheng Juda ho jouse seiphat chu, kahenga ahungin, kakoma adingin kajah-a,"
+      },
+      {
+        "verse": 13,
+        "text": "‘Sopi Saul, kho mutan,’ eiti. Chuin hiche pettah chun ama chu kamutan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin aman, ‘Ipateu Pathen in Ama lunggot lam he dingle michondih tah chu mua, akam sung kon aw ja dinga, napansah ahitai."
+      },
+      {
+        "verse": 15,
+        "text": "Ijeh-inem itile nangman namu le najah thua chu mi jouse hettohsah-a napan ding ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chule ipi tua nakhongai ham? Kipatdoh-in lang baptize changin aminin taovin, nachonset kisoplhah-in,’ eiti. "
+      },
+      {
+        "verse": 17,
+        "text": "“Chuin ahitin ahi, Jerusalem a kakile kit phat’in hou-in sunga kataole kagaochang tai;"
+      },
+      {
+        "verse": 18,
+        "text": "chuin, ‘Gangin, chule Jerusalem a konin potdoh loiyin; ijeh-inem itile amahon keima thudola nangma thuhil alah lou dingu ahi,’ tia kajah a thuseiya chu kamui."
+      },
+      {
+        "verse": 19,
+        "text": "Chuin keiman, ‘Pakai amahotah-in nangma tahsanho songkula kakhuma kikhopna in tina kavohji chu aheuve, "
+      },
+      {
+        "verse": 20,
+        "text": " chule nathu hettohsah Stephen, thisan aso pettah-uva jong akoma kadina kaphatsah-a athatteho ponho kanachin chu,’ kati."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin aman kajah-a, ‘Kipatdoh-in chen, Keiman nangma gamlatah a chidang namdang ho henga kasoljoh ding nahi,’ eititai,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin chuche thu gei chun angaiyun, chuin aw sangtah-in, “Hitobang mi hi vannoi leiset’a konin sumangin, ahinga umhoi ahipoi,” atitauve."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin kho asamun, apon alehlhau vin apaiyun leivui vanah akitundohsah jengun ahile,"
+      },
+      {
+        "verse": 24,
+        "text": "sepai vaipipo chun ama chu kulpi sunga puilut dingthu apen, achunga chutobang tah-a akhosap’u chu ajeh hetdohna dingin, jep’a patep dingin asoltai."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin savun khaova akantah phat’un, Paul in akoma ding sepai jalamkai jah-a chun, “Themmosahna beiya Rome mi jepna ding dan ngaiya thu naneiyem?” ati."
+      },
+      {
+        "verse": 26,
+        "text": "Sepai jalamkai chun thu hichu ajah phat’in sepai vaipipo henga chun agachen, “Ipi bol ding kigo nahim? Mipa khu Rome mi ahi,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin sepai vaipipo chu ahungin ajah-a, “Rome mi nahim? Neiseipeh-in,” atile aman, “Kahi,” ati."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin sepai vaipipo chun, “Keiman sum tamtah kapeh a Rome mi hina hi kachan ahibouve,” ati. Chuin Paul’in, “Keivang ahisa penga kahi,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Chutah-in athem amo hetdohna a bolgim dinga kigosadem ho chu hiche pettah chun akoma konin ache mangtauve; chule sepai vaipipo chun Rome mi ahi ahedoh-in, amatah-in akansah jeh chun akichatai."
+      },
+      {
+        "verse": 30,
+        "text": " Akit nin Juda hon Paul ahehnau thu chu hetchenna dingin sepai vaipipo chun ama chu alhamin, thempu pipuiho le houvaipoloi aboncha kikhom dingin thu apen. Paul ahin puilhan aanguvah adinsahtai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Paul in houvaipoiloi chu ave changmel in, “Sopiteho, tuni geiya hi imalam jousea ase apha hekah sohkeiya Pathen anga lung thengsela um kahi,” ati"
+      },
+      {
+        "verse": 2,
+        "text": "Ananias thempu chungnungin akoma dingpa chu akam bengin asole."
+      },
+      {
+        "verse": 3,
+        "text": "Chutah-in Paul in ajah-a, “Vo bang kiloibang, Pathen in nang nadenjoh ding ahi; nangma dan ngaitah a kathu tan dinga touva chuche dan chu napal lhah-a kei deng dinga mi nasolem?” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin akoma dinghon, “Nangman Pathen thempu chungnung chutia chu nahouset ong?” atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Paul in, “Sopite, thempu chungnung ahilam kahetlou ahi, ijehinem itile, ‘Nangin namite chunga vaipo chunga thuse sei hih-in,’ tin akisune.” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin Paul in amaho chu keh khat Sadducee ahia keh khat Pharisee ahi ahet phat’in, houvaipoloi lah-a chun asamin. “Sopite, keima Pharisee chapa, Pharisee kahi; athiho thodoh kit kinep thua ka thu kibola ahi,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin thu hiche chu asei phat chun Pharisee hole Sadducee ho akinelun, mipi chu akilangkhen tauve."
+      },
+      {
+        "verse": 8,
+        "text": "Ajeh chu Sadducee ho chun thokit, Vantil, chule lhagao hicheng chu aumpoi, atiu ahin. Pharisee ho vang hicheng chu aume tia aoiyu ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hitichun apoh vengvung jengun; chuin Pharisee mi danthu sunho phabep adingdoh-un, anelun. “Keihon hichepa agitlouna imacha kamupouve; lhagaovin ahim, Vantil ahim in, ajah a thu asei hikhat hihdem?” atiuve."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin hachang nela akinel phat’un, amaho chun Paul chu sattel unte tin sepai vaipipo chu akichan, kumlhasuh a alah-uva kona lahpeh a kulpi sunga puilut dingin sepaiho chu asoltai."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin hiche jan chun Pakai akoma adingin, “Kicha hih-in; ijeh-inem itile Jerusalem a keima thudol nahettohsah banga hi Rome khopia jong nahettohseh ding ahi,” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin khovah phat’in Juda ho akihou somun Paul itha masangseuvin anneh twidon bolpou hite tin kihahselin akihan lhotauve."
+      },
+      {
+        "verse": 13,
+        "text": "Chutia miphil dinga kihou soma chu mi somli val ahiuve."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin amaho chu thempu pipuiho le upaho henga acheuvin. “Keiho kihahsel khoh tah a kakihahsel uva Paul katha masang seuva imacha tep louhel dinga kihanlhoa kahitauve."
+      },
+      {
+        "verse": 15,
+        "text": "Hiche jeh chun tun nangho houvaipoloi toh athudol chu kichen cheh a hettoh-a bolphat ding ngaitoveh kisanvin nahenguva ahin puina dingin, sepai vaipipo henga kilangin seiyin; aman nangho kom ahinphah kah-a that dinga kigosadema um kahiuve,” agatiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin achanlhih-u thu chu Paul sopinu chapan ajan, ahungin kulpi sunga chun alut’in Paul jah-a ahung seitai. "
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Paul in sepai jalamkaiho khat ahenga akouvin. “Hiche gollhang hi sepai vaipipo henga puiyin; ajah-a seinom khat aneiye,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin aman apuiyin sepai vaipipo henga achen, “Hiche gollhang hin najah-a seinom aneiye tin, sohchang Paul in eikouvin nangma henga hin puiyin eiti,” tin agaseiye."
+      },
+      {
+        "verse": 19,
+        "text": "Chuti chun aman akhut’in atuh-in achoma apuidoh-in guhthimin adongin. “Kajah-a sei ding ipi thu naneiyem?” ati."
+      },
+      {
+        "verse": 20,
+        "text": "Chuin aman, “Nangman Paul thudol hi kichen cheh-a dohtoh-a nabolphat ding banga, jingle houvaipoloi kikhopnaa napuina dinga thum ding, tin Juda ho akiloltauve."
+      },
+      {
+        "verse": 21,
+        "text": "Hijeh chun nangman amaho thu la hih-in; Ijeh-inem itile mi somli valin, Paul itha masangseuvin anneh twidon bolpouhite, tin akihahselun, achanglhi jingui, chule tua hi kigosadema uma nangma thupeh mai ngah jinga um ahiuve,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Chuti chun sepai vaipipo chun gollhangpa chu ahilchah-in, “Kajah a naphondoh thu hicheng hi koima jah-a sei hih-in,” atin alhadohtai."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin aman sepaijalamkai ni ahenga akouvin hiche thu hi apei, “Jan nidan koa Caesarea a che ding akenga che sepai jani, sakol sepai somsagi chule tengchoi sepai jani gotsan koiyun;"
+      },
+      {
+        "verse": 24,
+        "text": "chule Paul Felix gamvaipo heng bitkeiya pui lhungna dingin ama tousahna ding sa jong gotsademin koiyun,” ati. "
+      },
+      {
+        "verse": 25,
+        "text": "Ahin lekha hitin asune:"
+      },
+      {
+        "verse": 26,
+        "text": "“Lal chungnung pen Felix gamvaipo, Claudius Lysias-in salam kahinboh-e."
+      },
+      {
+        "verse": 27,
+        "text": "Juda hon hiche mipa hi amanun atha ding konun keima seipai hotoh kakonin, ama hi Rome mi ahi, ti kahen kahuhdoh tai."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin ipi jeh-a aheh-u ahi ahehnau hetdohna dingin houvaipoloi kikhopnaa kapuiye."
+      },
+      {
+        "verse": 29,
+        "text": "Hia chun thina theihoile kikanna theihoi thudolin ahehpouve, amaho chonna dan thua asuhkhel amat doh-u ahitoh-e."
+      },
+      {
+        "verse": 30,
+        "text": "Ama hi phil dinga agot’uva achanlhih-u kahetdoh phat’a khongai louhela a pet tah-a nangma henga kahin solpai jeng ahi, chule ahehho jong nangma ang sunga ahehnau thu sei dingin thu kapei."
+      },
+      {
+        "verse": 31,
+        "text": "Chuin sepaihon thupeh dungjui chun ajan janin Paul chu apuiyun Antipatris lama achepitauve."
+      },
+      {
+        "verse": 32,
+        "text": "Ahin ajingin sakol sepaiho chu amatoh alhonsah-un, amaho kulpi lama akiletauve."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin amaho Caesarea alhunun lekha chu gamvaipo chu apeuvin Paul jong chu adinsah tauve."
+      },
+      {
+        "verse": 34,
+        "text": "Chuin aman lekha chu asimin, “Hoi gampoh mi nahim?” tin adongin, chuin Cilicia gam mi ahi ahetdoh phat’in, "
+      },
+      {
+        "verse": 35,
+        "text": "“Nahehho jong ahung tengule nathu ngainange.” ati. Chuin Herod inpia koi dingin thu apetan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin ni nga jouvin thempu chung nung Ananias upaho phabep toh chule Tertullus atiu thukalthem khattoh acheuvin, Paul ahehnau thu chu gamvaipo jah-a chun aseiyui."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Paul agakouvun ahile, Tertullus in ahehnan achunga thu aseipanin. “Vo lal chungnung pen Felix, nangma vangin lungmon chungnungin kalung amongui:"
+      },
+      {
+        "verse": 3,
+        "text": "chule nangma vaihom them vangin hiche nam mite hi imalam jousea phatdoh sah-in aumun. hiche jeh hin aimatih chan in hoikom hoikoma jong lung kipahtah-in kasangui."
+      },
+      {
+        "verse": 4,
+        "text": "Ahivangin thu tamtah seiya nangma suh lungjing ding kanompoi, nangman neilungset’un, kathu u paltana kaseiyu hi neingaipeh-un."
+      },
+      {
+        "verse": 5,
+        "text": "Ijeh-inem itile keihon hichepa hi mi sugam, chule vannoi leiset chung jousea Juda ho lah-a vaipi chohsea, chule Nazareth chona chonho lamkai pipu ahi kamandoh-un;"
+      },
+      {
+        "verse": 6,
+        "text": "chumale hou inma suhboh dinga agot jeh-a kamat’u ahi. *[6"
+      },
+      {
+        "verse": 7,
+        "text": "Ahin sepai lamkai Lysias hunga thahat sana kakhut’uva kona ahung lah mang ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Ahehho na-ang a ding dingin thu apen.] Nangman dongtoh le chun kahehnau hi adih adihlou adihlou abonchan hesoh keinan nate,” tai."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin Juda ho jong chun ajomun. “Hicheng chu ahicheh-e.” atiuve."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin gamvaipo chun thu sei dinga Paul akhasuh phat’in Paul in adonbut’in. “Kum sottah nangma hiche nam mite thutana panga nahitan hichu kahen, lung kipahtah-in kakihonna thu seiyinge:"
+      },
+      {
+        "verse": 11,
+        "text": "nangman henan natin, Pathen hou dinga Jerusalem a kache hi ni somle nini aval hihlaiye:"
+      },
+      {
+        "verse": 12,
+        "text": "hou-in sunga mi khat toutoh kakinel ahiloule kikhopnale kho sunga mihonpi katilsetna imacha eimupouve."
+      },
+      {
+        "verse": 13,
+        "text": "Tua eihehnau chengse jong chu aphotchenna hiche ahi ati theipouve."
+      },
+      {
+        "verse": 14,
+        "text": "Ahin keiman nangma jah-a kaseidoh hiche hi ahi, amahon houdan chom asah-u Lam dungjuiya keiman kaputeu kapateu Pathen chu kahouva, danthu le themgao ho lekhabua kisun dungjuiya chu thil jouse katahsana,"
+      },
+      {
+        "verse": 15,
+        "text": "amaho jongin michondih jong michondih lou jong thokit um ding ahi, tia akat jingu hitiho chu keiman Pathen lama kinepna kanei ahi;"
+      },
+      {
+        "verse": 16,
+        "text": "hiche jeh-a chu Pathen le mihem lama suhkhel beiya ase apha hetkahna neiya um dinga aimatih chana kihabol jing kahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin kum tamtah nunga kanam vaipiu min ahunau ti pehle thilkat hinpoa hunga kahin: "
+      },
+      {
+        "verse": 18,
+        "text": "hichea chun mihon hou inah kakisuhtheng eimuve: mihonpitoh jong kaumpoi, chule thunoh baotam imacha jong aumpoi; ahin Asia gama Juda ho koi koiham ahibovui:"
+      },
+      {
+        "verse": 19,
+        "text": "amaho chu hikoma nangma anga hin umuhen, kachunga thu eihehna ding aneiyule hiding ahi. "
+      },
+      {
+        "verse": 20,
+        "text": "Ahiloule hitoho hin seiyuhen, houvaipoloi anga kadina chu kasuhkhel ipi amatdoh-um. "
+      },
+      {
+        "verse": 21,
+        "text": "alah-uva kadina kho kasap’a, ‘Athiho thokit thua tunia na ang sunguva eikikouva eikidonga ahitai, tia kasei tailou chu” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Ahivangin Felix-in chuche Lam thudol chu ahetchet jeh-in athu tan ding chu akhongaiyin. “Lysias sepai vaipipo ahung tengle nathu u ngaito chennange,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin aman angah-a koiya chule anoma umsah-a chule ajenle ding, agol apaiho jong kham lou ding tin sepai jalamkai chu thu apetai."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin ni ijat-ham jouvin Felix chu ainneipi Judah numei Drusilla toh ahungin Paul agakousah-in, Christa Jesu tahsan thudol asei chu angaiyin ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin aman chondihna, kitim them chule khonunga hung lhung ding thupi kitan thudol asei phat’in Felix atijajahtan, adonbut’in. “Tun chetan; keiman kaon phatle nangma hung kousah nange.” ati."
+      },
+      {
+        "verse": 26,
+        "text": "Chujongle Paul chun sum eipente, tin phi veng vungin akousah-in ahoulimpi jin ahi. "
+      },
+      {
+        "verse": 27,
+        "text": "Ahivangin kum ni sungin, Porcius Festus-in Felix panmun chu ahin kheltai: hichun Felix chun Juda ho deiya um ding ngaito nan Paul chu akanin adalhatai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Festus chuche gamkai sunga ahung lhun ni thum jouvin Cacsarea a konin Jerusalem a achetoutai. "
+      },
+      {
+        "verse": 2,
+        "text": "Chuin thempuiho le Judah miho pipuhon Paul chungah ajah-a thu anaseiyun:"
+      },
+      {
+        "verse": 3,
+        "text": "chule lampia anachan lhih-uva anatha theina dingu lungthim ngaiton, ama chunga chu amaho alungset’uva Paul chu Jerusalem a ahinpuina dingin ataovun ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Ahivangin Festus-in adonbut’in, “Paul Caesarea a kikoiya ahi, chule keima khu lama chevah ding kahi."
+      },
+      {
+        "verse": 5,
+        "text": "Hijeh chun ama khun suhkhel anei ahile, nalah-uva athahat athunei chengse keimatoh kilhonin hungsuh-uhen, hung hehtauhen.” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Chuin amaho lah-a ni get ahim ni som ahim kalval nichong louvin Caesarea a chesuh paiyin, akit nin thutanna a atouvin. Paul gapui dingin thu apetai."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin ama ahung lhun phat’in Jerusalem a kona hungsuh Juda ho a kim vela adingun, achungah thu gilou tamtah aseiyun setahtah-in aheh jengjui, ahivanginla aphotchenna avetsah theipouve. "
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Paul in ama kihonna thu aseiyin. “Juda ho danthu ahin, hou-in ahin, ahiloule Caesar douna ahin, keiman imacha kasuhset kasuhkhel aumpoi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Ahivangin Festus chun Juda ho deiya um ding angaiton, adonbut’in Paul jah-a, “Nangma Jerusalem a chetouva khukoma keima ang sunga hicheng thudol hi ngaitoa um ding nanop’em?” ati. "
+      },
+      {
+        "verse": 10,
+        "text": "Ahinla Paul in, “Keima kathu kitanna ding dol Caesar thutanna anga dinga kahi. Keiman Juda ho ima kasusepoi, nangman jong nahe sohkeinai."
+      },
+      {
+        "verse": 11,
+        "text": "Chutia akhang gilou kahia thina theiloma suhset nei kahile, thi ding kadapoi; amavang hicheng eihehna chengseu hi tahbeh ahiloule koiman amaho khut a eipedoh theiponte. Caesar henga appeal kabole,” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Chutah-in Festus in vaibol chengse toh akihoutoh phat’in adonbut’in. “Nangman Caesar henga appeal nabol ahitan. Caesar heng monga nache ding ahi,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin ni ijat-ham jouvin Agrippa lengle Bernice, Caesarea a ahung lhung lhonin Festus chu salam ahung boh lhone."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin chua sottah anichong lhonin ahile, Festus-in lengpa jah-a chun Paul thu umchan aseiyin, “Felix dalhah sohchang kihen khat aumin,"
+      },
+      {
+        "verse": 15,
+        "text": "ama chu Jerusalem a kaum pet’in thempu pipuiho le Juda ho upahon athu eihetsah-un athu tana chai dingin kahenga athumui."
+      },
+      {
+        "verse": 16,
+        "text": "Akihehpa le ahehho kimaitoa akihonna thule ahehnau thudol seina neisah masanga, mi koi hile pehdoh chu Rome mi chonna ngai ahipoi tia amaho chu kana donbut ahi;"
+      },
+      {
+        "verse": 17,
+        "text": "chuin amaho hikoma ahung kikhom un ahile, kei jong chomkhat cha jong geisang louvin akit nilelen thutanna a katouvin amapa chu kaga kousahtai."
+      },
+      {
+        "verse": 18,
+        "text": "Chuin ahehho chu akim vela adingun, akhan gitlouna thun heh-unte, tia kaginchat bang chu achunga thukhoh imacha aseipouve;"
+      },
+      {
+        "verse": 19,
+        "text": "amaho hou thudol le Paul in, ahingin aume, ati Jesu atiu mithisa khat thudola kinel ahibovui. "
+      },
+      {
+        "verse": 20,
+        "text": "Chuin chutobang thu chu atannaje kahevah hih-in, Jerusalem a chea chuche athu chu tanding anop anop lou kadongin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Ahinla Paul in leng chungnung tandinga akikoina dinga appeal abol phat’in, Caesar henga kasol thei ding kahsea koi dingin thu kapetai,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin Agrippa’n Festus jah-a, “Kei jong keimatah-in hichepa thu chu jaleng kalung ahi,” ati. Aman, “Jingle janaveh ta chun,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Chuti chun ajingin Agrippa Bernice toh loupitah a ahunga thu ngaina inpia vaipipoho toh khopi sunga miho pipu chengse toh ahunglut phat lhonin, Festus thusah-in Paul chu ahinpui luttauve. "
+      },
+      {
+        "verse": 24,
+        "text": "Chuin Festus-in, “Lengpa Agrippa chule hikoma kaumpi mi jousen, hichepa hi namuve, ama hi Judah mihonpin Jerusalem a jong hikoma jong kahenga aheh-un, ahinga umhoi ahitapoi, tin asamui."
+      },
+      {
+        "verse": 25,
+        "text": "Ahivangin athina theilom ima akhan gitlouna keiman kamudoh poi; chule aman leng chungnung henga appeal abol jeh-in sol dinga kagot ahi."
+      },
+      {
+        "verse": 26,
+        "text": "Ahin achungchang thudol kapakai henga gahsut ding thu kichentah ima kaneipoi. Hiche jeh-a chu na-anguva, vo Agrippa lengpa, nangma ang sungtah-a kahin puidoh ahi, ijem tia athu dohtoh nunga sut dingthem kanei theina dinga."
+      },
+      {
+        "verse": 27,
+        "text": "Ijeh inem itile akihehna thu sun louva sohchang gahsol chu kitoh kasapoi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin Agrippa’n Paul jah-a, “Nakihonna thu sei theiyin nate,” ati. Chutah-in Paul in aban ajah-in, akihonna thu aseiyin,"
+      },
+      {
+        "verse": 2,
+        "text": "“Lengpa Agrippa, Juda hon eihehna jouseu thua tunia nangma anga kakihonna thu seidinga kaum hi lungnom kakisa lheh jenge,"
+      },
+      {
+        "verse": 3,
+        "text": "ajeh pen chu nangman Juda ho lah-a chonna danle kinelna thunoh jouse nahet sohkeiya nathemsoh jeh chu ahi; hijeh chun khongai themin kathu ngaiyin, tia katao ahi."
+      },
+      {
+        "verse": 4,
+        "text": "“Kachapan laiya pat’a kanam mite lah-a chule Jerusalem a kanunchan chu Juda hon ahe sohkeiyui; "
+      },
+      {
+        "verse": 5,
+        "text": "atila pat’a ahet sohkeisau ahi jeh chun kahoudanuva chondan Pharisee chona kachon chu sei nomleu asei thei dingu ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chule tua hi kaputeu kapateu Pathen in athutep chu kineppijeh-a athu kitan dinga hikoma ding kahi;"
+      },
+      {
+        "verse": 7,
+        "text": "hiche thutep chu mu ding kinema phung somle phung ni hin gunchutah-a asun ajana Pathen ahouvu ahi; hiche kinepna jeh-a chu Judah on eiheh-u ahi, lengpa!"
+      },
+      {
+        "verse": 8,
+        "text": "Pathen in athiho akaithoule ibola nanghon tahsan umlouva nangaitou ham?"
+      },
+      {
+        "verse": 9,
+        "text": "“Keiman jong Nazareth Jesu min douna hin thil tamtah akaleh-a bol ding ahi, tin kangaiton ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chule hichu Jerusalem a bol jong kabolin, chule thempu pipuihoa konin thuneina kamun mithengho tamtah songkula kakhumin, chule athau jong chun kaphasah-in ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chule kikhopna in jousea talen kape jingjin engsanin kataitomsah-in achunguva chun kalungsa tuntun jengin migam dang khopi gei sanin kabolsen ahi."
+      },
+      {
+        "verse": 12,
+        "text": "“Hiti chun thempu pipuihoa kona thuneinale eisolnau lekha kamun, Damascus lama kachen ahi; "
+      },
+      {
+        "verse": 13,
+        "text": "hichun, vo lengpa, sun kimtah-in lampia chun vana kon vah khat nisa sanga vahjo kamun, hichun kakimvelle kalhonpiho chengse asalvah soh jenge."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin tola kalhuh gam phat’un keiman Hebrew paova kajah-a, ‘Saul, Saul ibola nangin neibolset jingham? Nang dingin thihtul monghem lho ahahsai,’ eitia aw khat kajai."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin keiman, ‘Pakai Nang koi nahim?’ katile. Pakai chun, ‘Keima nabolset jing Jesu kahi. "
+      },
+      {
+        "verse": 16,
+        "text": "Ahivangin thouvin chule nakengin pansan dingin; nangman thil namusa chengse le khonunga nahenga kahung kilah tenga dinga chengsea kathu hettohsah dingle kalhachaa pansah dinga, hiche dinga chu nahenga kahung kilah kahi;"
+      },
+      {
+        "verse": 17,
+        "text": "kamitehoa konle chidang namdang hoa kona kahuhdoh ding nahi;"
+      },
+      {
+        "verse": 18,
+        "text": "amit’u hadohsah dingle muthim lah-a kona khovah-a, chule satan thuneina noiya aumuva kona Pathen henga akihei theina dingule, achonsetnau akisuhbeiya, keima eitahsan vanga kisuthengho lah-a gou alo theina dinguva ahenguva kasol ding nahi,’ eiti."
+      },
+      {
+        "verse": 19,
+        "text": "“Hijeh chun, vo lengpa Agrippa, keima vantil kamu thua chu nung louvin kaumpoi;"
+      },
+      {
+        "verse": 20,
+        "text": "ahin amasan Damascus a umho jah-a, chuin Jerusalem ah, chule Judah gam pumpiale, chi dang namdangho henga jong, lung aheiyuva Pathen lama akiheiyuva lungheitoh kilom thil abolna dingun kaseiphong letan ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Hijeh a chu Juda hon hou-in sunga eimat’uva tha dinga eigot’u ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Pathena kona huna kanei jeh-a tuni geiya kadina, alen aneo kahetsah ahi, thu dang ima kaseipoi, themgao ho le Mose’n, hung ding ahi, tia aseiyu,"
+      },
+      {
+        "verse": 23,
+        "text": "Christa chun gim genthei athoh tei dingje, athiho lah-a thoudoh kit amasa pen ahia; amite le chidang namdangho henga vah aphondoh dingje, kaseibou chu ahi,” ati."
+      },
+      {
+        "verse": 24,
+        "text": "Aman chutia akihonna thu aseiya adonbut chun, Festus chun aw sangtah-in. “Vo Paul, angola nahi; nalekha them sangin nasuhngol ahitai,” ati."
+      },
+      {
+        "verse": 25,
+        "text": "Ahin Paul in, “Vo michungnung Festus angola kahipoi; thudih tahle chihna thu kaseijoh ahibouve."
+      },
+      {
+        "verse": 26,
+        "text": "Ijeh-inem itile lengpan jong hiche thudol hi ahei; hijeh-a chu ama ang sunga ngamtah-a kasei ahi; ajeh chu hiche hi ningkoiya kibol ahiloujeh-in ama jah a kiima imacha aumpoi chentahin kahei. "
+      },
+      {
+        "verse": 27,
+        "text": "Leng Agrippa, themgao ho thu hi natahsah am? Natahsane ti kahei,” ati."
+      },
+      {
+        "verse": 28,
+        "text": "Chuin Agrippan Paul jah-a, “Thu themcha jollhah-a Christian hisah ding neigoi,” ati,"
+      },
+      {
+        "verse": 29,
+        "text": "Chuin Paul in “Thu themchan hihen, thu tampin hile, nangma chang hilouvin, tunia kathusei ja jouse hi kakikan naho tailou hin, abonchan keimatoh bangleu ti Pathen henga kathume,” ati."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin lengpatoh gamvaipo chutoh chule Bernice toh akomuva touho chengse chutoh akipatdoh-un,"
+      },
+      {
+        "verse": 31,
+        "text": "chuin achoma acheuvin akihouvun. “Hichepa hin thina hoile kanna dingdol thil ima asuhkhel aumpoi,” atiuve."
+      },
+      {
+        "verse": 32,
+        "text": "Chuin Agrippan Festus jah-a, “Hichepa hi, aman Caesar henga appeal abol lou hile, lhadoh thei ahi,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin konga kitola Italy gama kache dingu thu akichet phat’in Augustus sepai loi lah-a Julius atiu sepai jalamkai khut’ah Paul le sohchang dangho apedoh tauve."
+      },
+      {
+        "verse": 2,
+        "text": "Chuin Asia gamkolvel muntina kitol dinga kigo Adramyttium-ah konga kalut’un kakitol tauve; chule Macedonia gama Thessalonica mi Aristarchus jong chutoh kalhonui."
+      },
+      {
+        "verse": 3,
+        "text": "Akit nin Sidon khoah kong kangauve. Julius-in Paul alungset’in agol apaiho henga chea gakithado dingin thu apen asole."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin chua kon chun twi chunga kacheuvin, hui akale lama anun jeh-in Cyprus twikol le lam lamah kakitol tauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin Cilicia le Pamphylia dep’a twikhanglen kakhel-un Lycia gama Myra khopi kalhungui. "
+      },
+      {
+        "verse": 6,
+        "text": "Chukoma chun sepai jalamkai chun Italy gam jon ding Alexandria kong khat amudoh-in, hia chun eikhum tauve."
+      },
+      {
+        "verse": 7,
+        "text": "Chuin sottah olchachan kakitolun hahsatah-in Cnidus jon kagei hamhammui, huiyin einan jeh-un, Crete twikol lea kakitolun, Salmone jon kajot’un;"
+      },
+      {
+        "verse": 8,
+        "text": "nahnah-in Kaimunhoi-atiu mun khat kalhungui, akom chu Lasea khopi ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin akisottah behseh jeh, chule konga kitol setto kichat aum jeh chun @9(hichu an ngol kichai jou ahitan)@7. Paul in amaho chu akhamin,"
+      },
+      {
+        "verse": 10,
+        "text": "Vo miho hiche twi chunga icheuva hin setto hakamna inei dingu ahi, tin ken kamui; hichu thilkeole kong keo jong hilouvin, eiho ding jengin jong setto kichat aume,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Ahivangin sepai jalamkai chun Paul thu sangin kong pipu thule akong neipa thu ahajop jotan, ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin phalbia umna dinga kongkai mun chu akijen lou jeh-in, mi atam jon twikhanglena kona chu kitoldoh-a Phoenix chu lhun teiteiya chukoma chu phalbi sunga um ding asomtauvin ahi. Phoenix chu Crete twikol gama kongkai mun khat ahin, lhum sah le lhumlhang angatto ahi. "
+      },
+      {
+        "verse": 13,
+        "text": "Chuin lhang hui olcha chan ahung nungin ahile, alunggot bangu hin angaitouvin kong chu alhauvin Crete pam chin chinah atoltauve."
+      },
+      {
+        "verse": 14,
+        "text": "Ahivangin chujou chomkhat jouvin chua kon chun solamhui atiu huipi hattah ahung nungsuhtai; "
+      },
+      {
+        "verse": 15,
+        "text": "chuin konga chun ahung chutan ahile, malama atol joutapouvin kamoh lhatauvin ahile, eilhoh eilhoh jeng tauve."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin amin Cauda atiu twikol neocha le-leah kalhaiyun, hahsatah-in kongneo kaman nahnah-un ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin hichu akhaidoh-un ahunan amangun, khaovin kong noi lamah akanbeh tauve; chuin ajole Syrtis kileng lut get’inte, ti akichauvin pondal kikhainaho alalhauvin ahile, eimoh lhoh lhoh tauve. "
+      },
+      {
+        "verse": 18,
+        "text": "Chuin huipi chun eisuhgim behsehjeh-u chun akit nin thil apaidoh pantauve."
+      },
+      {
+        "verse": 19,
+        "text": "Anithum nin amahotah-in akhuttah-in kong manchahho chu apaitauvin ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Chuin ni tamtah nisa chule ahsiho eisalvah beihela huipi hat nasatah tang louhela anun anun phat chun, hichea pat chun kihinginte tia kinepna aumtapon ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chuin ni tamtah an nelouva aum phat’un Paul alah-uva adingin. “Vo miho, nanghon hiche settole hakamna hi to louna dinga kathu nangaiyuva Crete a kona chu kong hi nalha lou dingu thu ahi. "
+      },
+      {
+        "verse": 22,
+        "text": "Ahivangin tua jong lungmong tah-a um dinga katil nahiuve; nalah-uva koiman nahinnau nachan lou dingu ahi, kong vang hi mang ding ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Ajeh chu ama a kahia, alhacha a kapan Pathen chua-Vantil tujan chun kakoma adingin."
+      },
+      {
+        "verse": 24,
+        "text": "’Vo Paul, kicha hih-in; Caesar anga nadin tei ding ahi; chule ven, nalhonpiho chengse hi abonchauva Pathen in nang napeh ahitai,’ eiti."
+      },
+      {
+        "verse": 25,
+        "text": "Hiche jeh chun, vo miho, nangho lungmongun; ijeh-inem itile kajah-a asei bang banga chu hung soh tei ding ahi, hitichun Pathen katahsane."
+      },
+      {
+        "verse": 26,
+        "text": "Amavang twikol khat’a ichuh tei dingu ahi,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin Adria twikhanglena huiyin eisuhtol eitoutolu a jan somle ajanli janin khangkimin kong gamlei kinaiya hitante ti agingchauvin."
+      },
+      {
+        "verse": 28,
+        "text": "hichun twi athuh chu ateule lam som ni atedoh-ui; chuin phabep ache chonun ate kitleuvun ahile lam somle lam nga atedoh-un,"
+      },
+      {
+        "verse": 29,
+        "text": "song lah-a kikisunte ti akichauvin, kong tom lamah thihhat li asep lhauvin, khovah angahtauve. "
+      },
+      {
+        "verse": 30,
+        "text": "Ahivangin kong miho chu kong mai lama thihhat seplha ding veh akisauvin kongneo twikhanglena adomlhauvin jam ding lungthim aboltauvin ahile."
+      },
+      {
+        "verse": 31,
+        "text": "Paul in sepai jalamkai le sepaiho jah-a, “Amaho khu konga aum louvule nangho changin sohcha thei pouvinate,” ati."
+      },
+      {
+        "verse": 32,
+        "text": "Chu tah-in sepaihon kongkhao chu asattanun twi lah-a alhatauve."
+      },
+      {
+        "verse": 33,
+        "text": "Chuin jing khovah phat’in Paul in miho chu annen asolin. “Tuni ni somle nili ahitai, nanga nangau va an ngola imacha ne louhela naumnau."
+      },
+      {
+        "verse": 34,
+        "text": "Chutichu ahin, annea kasol nahiuve, hichu nakihinso nadinguva phachom ding ahi. Ijeh-inem itile nalu chunguva nasamjangu khatcha jong lou lou ding ahi,” ati."
+      },
+      {
+        "verse": 35,
+        "text": "Hiti chun atin aman changlhah alan mi jouse ang sungah Pathen alhaiyin changlhah ahehbel in ane pantai."
+      },
+      {
+        "verse": 36,
+        "text": "Chutah chun miho jouse chu abonchauvin alung ngamun an anecheh tauve."
+      },
+      {
+        "verse": 37,
+        "text": "Konga uma chu mihing ja nile som sagile gup kahiuve."
+      },
+      {
+        "verse": 38,
+        "text": "Chuin miho chun an anehva phat’un suhlouchang chu twi lah-a apaiyun kong chu asujang tauve. "
+      },
+      {
+        "verse": 39,
+        "text": "Chuin khovah phat’in gamlei chu ahetapouve; ahivangin voihanei twininglut khat amudoh-un, ahi theile kong huhnaa chu chukoma chu tol lut ding tin akihou somtauve."
+      },
+      {
+        "verse": 40,
+        "text": "Chuin thihhat-ho alha lhauvin, twikhanglena adalha tauve; chuin hichutoh thakhat’in kongkhe kanna chu alhamlhauvin, hui chena lama kongponjal chu atungdoh-un voiha lam chu ajontauve. "
+      },
+      {
+        "verse": 41,
+        "text": "Chuin twikinong ni kisuhtonaa kalut khatauvin ahile kong monghem chu leiya akiphut dentai; chuin kong mai lam chu long louhelin aohdentan, kong neilam chu twikinong chun hasuh-a asuhle akeh pantai."
+      },
+      {
+        "verse": 42,
+        "text": "Chuin sepaihon, sohchangho chu twi jap galkaiya ajama um get’inte, atiuvin tha dingin agotauve. "
+      },
+      {
+        "verse": 43,
+        "text": "Ahivangin sepai jalamkai chun Paul chu huhhing agon bol dinga alung got’u chu akhamin, twi jap thei theiyan twi jap galkai hen vapam anakai masa hen;"
+      },
+      {
+        "verse": 44,
+        "text": "adang amohse konga um khunpehle thil dang dangin kitol galkai hen, tin thu apetai. Chuti chun abonchauvin bitkeiyin asohchauvin tol alhung tauve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chuin kasochat phat’u chun twikol chu Malta akiti ti kaheuve."
+      },
+      {
+        "verse": 2,
+        "text": "Chule paomah hammah ho chun khoto mainah-in eikhoto pouve; hiche pet chu gojuh lai ahin adap jeh chun mei eitipeh un eilhunsah sohkeiyui."
+      },
+      {
+        "verse": 3,
+        "text": "Ahin Paul in thinglom khat achoma meiya chu agahtole meisahul chun gulse khat ahungdoh-in akhut achun akikhaiden jengin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin paomah hammah ho chun gul khut’a akikhaiden jeng chu amuvin khatle khat akihouvun, “Hichepa hi tolthat mong ahi, twikhanglen a ahuhdoh jeng vangin thudihtanan ahinghoi lousam ahi,” atiuve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin aman gul chu mei sunga chun athinglhan aima aloupoi."
+      },
+      {
+        "verse": 6,
+        "text": "Ahivangin amaho chun hungpom intin, ahiloule phulou helouvin lhuntin thi ding ahi, tin angah jingun ahi; ahinla sottah angauva avet jouvun aim a alou lou chu amuvin alung gelu akhelun, ama chu pathen ahi, atitauve."
+      },
+      {
+        "verse": 7,
+        "text": "Hiche mun koma chu twikol gam pipu amin Publius atiu chun gam anei ahi; ama chun eila lut’un lung ngaitah-in ni thum aina eilhunsah jengun ahi. "
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Publius pa chu khosih le ehthit veiya luma ahin; chuin Paul akoma agalut’in, achunga akhut angamin ataovin adamsah tai."
+      },
+      {
+        "verse": 9,
+        "text": "Chutia abol jou chun chuche twikol gam sunga midang ana nei jouse ahungun ahile adam gamtauve."
+      },
+      {
+        "verse": 10,
+        "text": "Amaho chun eijabol lheh jengui; chuin konga kakitol phat’un kangaichat ding dolchanu thil kongah eihung koipeh-ui."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin lha thum jouvin Alexandria kong phalbi sungsea twikola chu chama amelchihna Ucha Sohkop atiu chun kakitol doh tauve."
+      },
+      {
+        "verse": 12,
+        "text": "Chuin Syracuse ah kakingauvin chukoma chun nithum kaumui."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin chua kon chun kache velkolun Rhegium kalhungui; chuin ni khat jouvin lhanghui anungin ahile akit nin Puteoli kalhung tauve."
+      },
+      {
+        "verse": 14,
+        "text": "Hikoma chun sopiho kamudoh-un, akomuva ni sagi nichong dingin eijolui, chuin chuti chun Rome lam ngan kachetauve."
+      },
+      {
+        "verse": 15,
+        "text": "Chuin chua kon chun sopihon keiho thu ajah phat’un eilam touvin. Appius a Kailhang le Jinglhun in Thum geiyin ahungui; Paul in amaho chu amu phat’in Pathen athangvah-in alung ngamtan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin Rome khopi kalhun un Paul chu ama changa sepai angahpa chutoh um dingin thu apetauve."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin ahitin ahi, ni thum jouvin Juda ho lah-a apipuho chu akou khomin; chuin amaho ahung kikhop phat’un ajahuva, “Sopiteho, keima inam miteu dounale iputeu ipateu dan dounaa ima kasuhset aum lou vangin, Jerusalem a konin Rome mite khut’a sohchanga pehdoh-kahitai."
+      },
+      {
+        "verse": 18,
+        "text": "Kathem kathemlou aholtoh-un thina hoi ima kachunga amudoh lou jeh-un, lhadoh dingin eigotauvin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Ahivangin Juda hon hichu anel jeh-un kacham louvin Caesar henga appeal kaboltan ahi; hichu kanam mite hetna dinga ahipoi."
+      },
+      {
+        "verse": 20,
+        "text": "Hiche jeh-a chu nangho toh kimutoa kihoulim dinga kakou nahiuve, ijeh-inem itile Israelte kinepna jeh-a thihkhaova hi kihen kahibouve,” ati. "
+      },
+      {
+        "verse": 21,
+        "text": "Chuin amahon ajah-a, “Keihon nangma thudol Judah gama konin lekha kamupouve; chule sopiho lah-a jong koima hikoma ahungin nangma chung changa khan gitlouna thu hunglhut aumpoi."
+      },
+      {
+        "verse": 22,
+        "text": "Ahivangin nangma lung ngaito thudol hi nanga konin kajah nomui; ijeh-inem itile hiche houchom thudol hi gamtina seiset’a aum kaheuve,” atiuve. "
+      },
+      {
+        "verse": 23,
+        "text": "Chuin nikho ateppeh-un, aumna a chun ahenga atama tam ahungui; chuin aman jingkah-a pat nilhah geiyin, Mose danthu le themgao ho lekhabua konin thu asodoh-in Pathen gam thu ahettohsah-in, Jesu thudola ajoltan ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin athuseiho chu abangin atahsanun, abangin atahsan pouve."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin amaho le amaho akilol thei lou phat’un Paul in thu khat asei jouvin apotdoh tauve; athusei chu hiche hi ahi; “Lhagao Thengin themgao Isaiah kama naputeu jah-a, asei chu adih lheh jenge."
+      },
+      {
+        "verse": 26,
+        "text": "’Hiche mite henga hin chenlang gaseiyin: Nanghon ja vang janauvin natin, Angainaje nahet lou dingu; Muvang munauvin natin. Nahetdoh lou dingu ahi; "
+      },
+      {
+        "verse": 27,
+        "text": "Ijeh-inem itile hiche nam mite hin Amit’uva amu louva. Anauva ajah louva. Alunga jong ahetdoh louva; Chule ahung kihei kit louva. Keiman amaho chu kadamsah louna dingin, Alungu thaovin atomin, Chule akolseh gamun, chule amit asingui,’ tia asei chu."
+      },
+      {
+        "verse": 28,
+        "text": "Hiche jeh chun hiche hi kihet’un, hiche Pathen mihuhhingna hi chidang namdangho henga kisola ahitai; amahon ngai jong angai dingu ahi,” ati. "
+      },
+      {
+        "verse": 29,
+        "text": "[Paul’in hicheng asei jou hin Juda hon ada lhau vin hanel’inakinel tauve.]"
+      },
+      {
+        "verse": 30,
+        "text": "Chuin aman inman apeh-a achenna a chun kum ni lhingset aumin ahenga hung jouse chu anasangjin."
+      },
+      {
+        "verse": 31,
+        "text": "Pathen gam thu ahil lhangjin, hakattah-in Pakai Jesu Christa thudol ahiljin, koimachan akhampon ahi."
+      }
+    ]
+  ]
+}

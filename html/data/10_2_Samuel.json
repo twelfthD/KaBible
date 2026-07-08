@@ -1,0 +1,3037 @@
+{
+  "id": 10,
+  "name": "2 Samuel",
+  "shortName": "2SAM",
+  "pericopes": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "title": "David in Saul athitai, ti ahetdoh"
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "title": "David in Saul le Jonathan pul adouva alunghem"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "title": "Judahte chunga David lenga atundoh-u"
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "title": "David in Saul insung mite athagam"
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "title": "Hebron khopia peng David chapate @9(I Chr. 3:1-4)@7"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "title": "Abnerin David to kitepna nei ding agon"
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "title": "Joab’in Abner atha"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "title": "Min lsh-bo-sheth athau"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "title": "David Leng achansah-u @9(I Chr. 11:1-3)@7"
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "title": "David in Zion ajoa alah @9(I Chr. II:4-9)@7"
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "title": "Hiram Lengpan David Leng ahitai, tia anoppeh @9(I Chr. 14:1-2)@7"
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "title": "Jerusalem khopia peng David chate @9(I Chr. 3:5-9; 14:3-7)@7"
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "title": "David in Philistine gal ajo @9(I Chr. 14:8-17)@7"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "title": "Pathen Thingkong podoh dia David ache @9(I Chr. 13:5-14)@7"
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "title": "Jerusalema Pathen Thingkong apoh lut’u @9(I Chr. 15:1-16:6)@7"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "title": "David dinga Pathen kitepna @9(I Chr. 17: 1-27)@7"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "title": "David in Alenggam akeh let @9(l Chr. 18:1-13)@7"
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "title": "David dinga Vaibola pang ho @9(II Sam. 20:23-26; I Chr. 18:14-17)@7"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "title": "Mephibosheth dinga David khotona."
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "title": "Ammon mite le Syria mite akisat piuva ajou @9(I Chr. 19:1-19)@7"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "title": "David le Bathsheba thusim"
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "title": "Nathanin David aphosal"
+    },
+    {
+      "chapter": 12,
+      "verse": 26,
+      "title": "David Rabbah kho ajoa alah @9(I Chr. 20:1-3)@7"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "title": "Ammon le Tamar umchan"
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "title": "Absalomin phu alah chule ajamdoh"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "title": "Absalom hung kilekitna dia Joab thilgon."
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "title": "Absalomin David douna gal abol"
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "title": "Hushai chun Ahith’ophel lunggel atet lhah"
+    },
+    {
+      "chapter": 17,
+      "verse": 24,
+      "title": "Mahana’im muna David umchan"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "title": "Absalom thi thusim"
+    },
+    {
+      "chapter": 19,
+      "verse": 9,
+      "title": "David Jerusalema ahung kile kit"
+    },
+    {
+      "chapter": 20,
+      "verse": 1,
+      "title": "Sheba galbol"
+    },
+    {
+      "chapter": 20,
+      "verse": 23,
+      "title": "David dia vaibola pang ho @9(II Sam. 8:15-18; Chr. 18:14-17)@7"
+    },
+    {
+      "chapter": 21,
+      "verse": 1,
+      "title": "Gibeon miten phu alah-u"
+    },
+    {
+      "chapter": 21,
+      "verse": 15,
+      "title": "Philistine gal-hatpa khut’a Abishaiyin David ahuhdoh"
+    },
+    {
+      "chapter": 21,
+      "verse": 18,
+      "title": "David sepaiten gal-hat ho athagamu @9(I Chr. 20:4-8)@7"
+    },
+    {
+      "chapter": 22,
+      "verse": 1,
+      "title": "David in Huhhingna la abol @9(Ps. 18:1-50)@7"
+    },
+    {
+      "chapter": 23,
+      "verse": 1,
+      "title": "David in achaina thu aseiho"
+    },
+    {
+      "chapter": 23,
+      "verse": 8,
+      "title": "David sepai gal-hat mite @9(1"
+    },
+    {
+      "chapter": 24,
+      "verse": 1,
+      "title": "David in Israel le Judah mi asimtoh @9(1"
+    }
+  ],
+  "chapters": [
+    [
+      {
+        "verse": 1,
+        "text": "Saul thi nungin David chu Amalek mite agatha gamna muna konin ahung kite kit’in Ziklag khoa ahungin, hikoma chun ni ni sungin anichonge;"
+      },
+      {
+        "verse": 2,
+        "text": "chujouvin anithum thin nin vetan, Saul ngahmuna kon chun mi khat aponsil jouse teljeng jungin ahungin, aluchanga jong leiset a nat deh duh-e; amapa hi David heng ahung lhun phat’in tola aboh khup jengin David chu jana apen ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ama jah a chun David in jong, “Hoilama kona hung nahim?” tia adoh leh; aman adonbut’in, “Israelte ngahmuna kona hung jamdoh kahi,” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chuphat’in David jong chun adong loi kit’in, ‘Thil itobang banga um nam, neiseipeh temin,” atin ahileh, aman jong aseipeh-in, “Galmuna konin Israelte ajamtai; mipi tamtah jong min asat lhu uvin athitauve; Saul le achapa Jonathan jeng jong athi lhontan ahi,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun David in athuseiya gollhangpa jah a, “Saul le achapa athi lhontai, ti chu iti nahet mong ham?” atileh;"
+      },
+      {
+        "verse": 6,
+        "text": "ahenga thusei gollhangpa chun ajah a, “Agom kom kitoh khan keima Gilboa molsanga chun kahung soh doh khatan, hikoma chun Saul chu atengchan akithil’in anakingaiye; hichea hin vetan, kangtalai jouse le sakol themho jong chu Saul kom dunga chun akijam chap jenguvin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Saul chu ahung kiheiyin ahileh eihin mudoh paiyin eihin koupai tai; keiman kagah houva, “Hoiyo,”  katileh;"
+      },
+      {
+        "verse": 8,
+        "text": "aman kajah a, ‘Koi nahim?’ tin eidonge; hijeh chun ken jong, ‘Amalek mi kahi, tin kaseipeh-e."
+      },
+      {
+        "verse": 9,
+        "text": "Chuphat’in aman kajah a, ‘Kakoma hung pansan lang neihung that tan; ijeh-inem itileh thina khop hela lel mong mong kahitan, keila thilouvin kahing hing nalaiye,’ ati. "
+      },
+      {
+        "verse": 10,
+        "text": "Hijeh chun keijong akoma kaga pansan kathat paitai; ajeh chu alhuh kal chu hing kit louhel ding ahi, ti kichen tah a kahet ahitai; hiti hin aluchanga alallukhuh le abanjanga aban tomna chu kahin lan, hikoma kapu henga kahin choilut peh ahi,”  tin aseitai."
+      },
+      {
+        "verse": 11,
+        "text": "Chutah chun David in aponsiljouse abottel jengin ahileh aumkhompi chengsen jong chutima chun abol tauve;"
+      },
+      {
+        "verse": 12,
+        "text": "chujongle Israel mite chu Saul le achapa Jonathan ding, Pakai mite athiho ding, Israel insung mite dingin chemjama alousoh phat’uvin alunghem peh-un apul adouvin akap’uvin, nilhah geiyin an angol’uvin ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Hichun ajah a thuseiya gollhangpa jah a chun David in, “Hoiya kona hung nahim?” tia adoh leh; aman jong, “Keima Amalek mi kahin, khol lamleng mi khat chapa kahi,”  tin akiseidoh tai."
+      },
+      {
+        "verse": 14,
+        "text": "Chuphat’in David jong amapa jah a“Itidola nangman Pakai thao nusa lengpa Saul chunga nakhut nalap jenga natha a kicha louhela umthei nahim?” tin adatmon; "
+      },
+      {
+        "verse": 15,
+        "text": "chujongle gollhang ho khat chu akouvin ajah a, “Hichepa hi nailut’in lang gathat tan,”  atin ahileh; aman jong agahsat pai jengin, amapa jong chu athipai pai tan ahi. "
+      },
+      {
+        "verse": 16,
+        "text": "Hichun David in jong kikaona aseiyin, “Nangma thisan phu nachungma ma a chujo hen, ajeh chu nangma mong mongin, ‘Pakai thao nusa lengpa kathat tai,’ tia nakamtah a naphondohsa ahitai,” ati."
+      },
+      {
+        "verse": 17,
+        "text": "David chu Saul le achapa Jonathan dingin akap’in, alunghem peh-in,"
+      },
+      {
+        "verse": 18,
+        "text": "chujongle ka-la abolin, hiche alabol chu Judah mite jouse hil din aseiyin; hiche alabol hi vetan, Jashar lekhabua akisunin ahi. David in aseiye:"
+      },
+      {
+        "verse": 19,
+        "text": "@@@1“Vo Israel, naloupina chu nangma @3munsang dunga akithattai, @2Itobang tah a mihatte kijam chap @3jeng hitam!"
+      },
+      {
+        "verse": 20,
+        "text": "@@@1Gath khosunga seidoh dauvin lang, @2Ash’kelon kholai dunga gaphongjal @3hih hel’uvin; @1Achutilouva ahileh Philistine chanute @3kipah-uvin tin, @2Cheptanlou chanute kichoi sang @3get’unte."
+      },
+      {
+        "verse": 21,
+        "text": "@@@1“Gilbo’a molsang dung nang ho, @2Nachunguva daitwi lhah dau hen, @3gotwi juh da hen; @1Damlaiya jong twi hung noudoh hih @3hel hen; @2Ajeh chu Gilbo’a hi Gal-hatpa pho @3kisuthang ahin, @1Saul pho kiti chu @3Thao nulouva kijam ahitai."
+      },
+      {
+        "verse": 22,
+        "text": "@@@1“Mi akithatpa thisana kon, @2Gal-hatpa sathao lah a konin, @1Jonathan thalpi chang hung kile kit @3da hen, @2Saul chemjam jong mithat louvin @3hung kile da hen."
+      },
+      {
+        "verse": 23,
+        "text": "@@@1“Saul le Jonathan, deitah le mel-hoi @3tah teni; @1Hinlai sungle thi nung geiyin jong @3akikhen lhonpoi; @1Amani hi muvanlai sangin jong @3ajangkhai jo lhonin, @2Sakeiho sangin jong ahatjo lhon me."
+      },
+      {
+        "verse": 24,
+        "text": "@@@1“Israel chanute Saul dingin kap’uvin, @2Aman ponsan-ao hoitah tah @3nasilpeh-uva. @1Ama chun nang ho naponsil chunguva @3jong @2Sanajem jeng jong nabapeh-u ahiye."
+      },
+      {
+        "verse": 25,
+        "text": "@@@1“Iti hiya gal-hat ho kijam chap del @3hitauva, @2Galmun lailunga kijam chap jeng @3hiuvam? @1Jonathan jeng jong chu @2Munsang dunga athisan akijamden @3tai."
+      },
+      {
+        "verse": 26,
+        "text": "@@@1Kasopi Jonathan, nang jeh-in @2Kalungthim ahesoh behseh jeng tai; @1Kei dingin nangma lungdei dei naum @3jengin, @2Nangman neilungsetna akidang @3behseh-e, @1Numei milungset sangin jong @2Nangman neilungset asangjoi."
+      },
+      {
+        "verse": 27,
+        "text": "@@@1“Itibep hiya gal-hat ho kijam chap @3jenga, @1Gal manchah jouse mangthah soh @3hitam!” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hitobanga thil asojou hin David chun Pakai dohna aneiyin, “Judah gamsunga khopiho khat pen pen a khu kachetou ding hitam?” atileh; Pakaiyin jong ajah a aseiyin, “Chetouvin,” ati. Chuin David chun adong paiyin, “Khopi hoiche pen tah a khu kachetou ding ham?” atia ahileh; Pakaiyin, “Hebron khopia chetou tan,” atipeh-e."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun David jong Hebron khopia chun achetouvin, aji teni Ahin’o-am kitinu Jezreel khoa mi chuleh Carmel khoa mi Nabal kitipa ji meithainu Abigail chutoh akilhonin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hitobang hin David chun amite asepai jouse chu ama ama insung mite cheh chutoh ahinpui touvin, abonchan amaho hi Hebron khopia acheng tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun Judah miho ahunguvin, David chu Hebron khopi sunga Judah insung kon mite chunga leng chang din thao anu uvin ahi. Mihon, “Saul long vuidoh a pang miho chu Ja’beshgil’ead mite ahiuve,” tia David jah a aseipeh phat’uvin,"
+      },
+      {
+        "verse": 5,
+        "text": "David injong Ja’besh-gil’ead mite henga sottolle miho asolin ajah-uva aseiye, “Pakaiyin nang ho phatthei naboh-u hen, ijeh-inem itileh hichea hin nang hon napu u Saul navuiyun, kitahna nasa tah naphongtauve!"
+      },
+      {
+        "verse": 6,
+        "text": "Hijeh chun tun Pakaiyin jong longlou hel’in nalungset-u hen lang kitahna neitah-in nabolu hen! Hitobang thilpha nabol jeh-uva hi ken jong nang ho dinga thilpha kabolpeh ding nahiuve."
+      },
+      {
+        "verse": 7,
+        "text": "Hichejeh chun naban-gol jeuvin lang hangtah-in panguvin, ajeh chu napu u Saul athia ahitan, Judah insung konse sen nang ho chunga leng chang dinga keima hi thao einu u ahitai,” tia aseipeh diuvin ahil e."
+      },
+      {
+        "verse": 8,
+        "text": "Ner chapa Abner kitipa, Saul dinga sepaite lamkaiya anapangpa chun Saul chapa Ish-bo-sheth kitipa chu apuiyin, Mahana’im khoa ahinpui lut tai;"
+      },
+      {
+        "verse": 9,
+        "text": "chujongle Abner chun lsh-bo-sheth hi Gilead gam le Ashur mite chung, Jezreel le Ephraim chung, Benjamin le Israel dang jouse chunga leng chang din asemtai."
+      },
+      {
+        "verse": 10,
+        "text": "Saul chapa Ish-bo-sheth hi Israelte chunga leng achan chun akum som li alhingtan, kum ni sungin lengvai anapoi. Ahin Judah insung konse sen vang David nung ajuiyun, amabou lengin aneiyui."
+      },
+      {
+        "verse": 11,
+        "text": "Hebron khopia Judah insung konse se chunga David in lengvai apohna hi aphat kum sagi le lhagup alhinge."
+      },
+      {
+        "verse": 12,
+        "text": "Ner chapa Abner le Saul chapa lsh-bo-sheth sohte chu Mahaha’im khoa konin apotdoh-uvin Gibeon kho geiyin acheuvin ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Hichun Zeru’iah chapa Jo’ab le David sohte jong apotdoh-uvin ahileh Abner le aloite chu Gibeon twikul phunga akitopi tauve; Jo’ab le aloite chu twikul gal lang khat’a atouvun, Abner le aloite jong chu twikul gal lang khatma chun atouvun ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin Abner chun Jo’ab jah a aseiyin, “Gollhang ho hi eiho masanga hin kisat sah-u hite,” tia achou leh; Jo ‘ab jong chun, “Kipatdoh uvin tin kisat tah tau,” atin ahi. "
+      },
+      {
+        "verse": 15,
+        "text": "Chuphat’in gollhang ho chu akipatdoh soh keiyuvin aban banin ajat kibang cheh chun akijot’uvin, Benjamin phung le lsh-bosheth Saul chapa min dingin gollhang som le ni ahiuvin, David sohte lah a konin jong gollhang som le ni ma ahiuve."
+      },
+      {
+        "verse": 16,
+        "text": "Mi khat cheh chun akitopi cheh aluchangin akiman touvin achemjam asatdoh cheh uvin, akidot to cheh uva ahileh alhu uvin akijam thom cheh tauve. Hichejeh hin hiche lai mun hi amin Hel’kathhazzurim tin akiminvo lo tan ahi amun Gibeon gamsung ahiye."
+      },
+      {
+        "verse": 17,
+        "text": "Hiche nikho hin hasat sat’in akisat’uvin Abner le Israel mite chu David sepaite masanga apang jou tapouvin gal alel tauve."
+      },
+      {
+        "verse": 18,
+        "text": "Gal kisatna muna chun Zeru’iah chapate athumin apanguve; amaho hi Jo’ab ahin, Abishai ahin, chule As’ahel ahiuve. Alah-uva As ‘ahel kitipa hi sakhipi lhai hat tah banga akeng jangkhai tah mi ahi;"
+      },
+      {
+        "verse": 19,
+        "text": "hijeh chun As’ahel hin Abner nung adelpeh jengin, hitia Abner nung adelna hin lamjet lamvei jeng cha jong kiheidoh louhel’in alhai lhai jengin ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Hichun Abner jong ahung kinung heiyin, “Nang nahimo, As’ahel?” atileh; aman jong ahouvin, “Henge, kei kahi,” ati."
+      },
+      {
+        "verse": 21,
+        "text": "Abner in jong ajah a aseipeh-in, “Jet khat vei khat’a kiheidoh jon lang gollhang ho khat pen pen kimat’in athilkeo kilah jon.” ati vangin As’ahel chun ama nung jeng adelin akiheidoh chomdeh tapoi."
+      },
+      {
+        "verse": 22,
+        "text": "Chuphat’in Abner chun As’ahel jah a asei kit’ in, “Kei nung hindel datan; ipi dinga ken nang hi kasat lup’a tola kajam jeng ding ham? Chutia kabol teng keiman nasopipa Jo’ab mai kavet ngam lou ding ahi,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Ahinla As’ahel chu akihei mang deh tapoi; hijeh chun Abnerin atengton As’ahel chu aoipoh adotpeh-in ahileh, atengcha chu atungtun langa ahung paidoh-in ama jong sakol chunga konin akileh lhan achuhna muna athidentai. Anunga hunga As’ahel akileh lhah a athidenna mun hinhopa jouse chu ading den soh keiyuvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Jo’ab le Abi’shai vang chun Abner nung adelpai pai lhonin, nilhah nisa khehsuh lamin Gibeon gammang lam pi lang Ammah kitilai thinglhang dung ahung gei lhontan ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Hichun Benjamin mite abonchan akikhomuvin Abner nunga a pang soh keiyuvin, hon khatseh-in akiloiyun thinglhang vuma chun apang tauve."
+      },
+      {
+        "verse": 26,
+        "text": "Abner chun Jo’ab ahinkouvin, “Chemjam hin mi atha tha jeng ding hi tam? Akichaina ding hi doulel hel hi ding ahi, ti nangman nahet lou mong mong ham? Itih tah le nangman nasepaite hi asopiteu nung adelnauva kona nanung sol kit ding ba ham?” tin adonge."
+      },
+      {
+        "verse": 27,
+        "text": "Chuphat’in Jo’ab hin aseiyin, “Pathen hing jing mina kasei ahiye, nangman naseisa hilou hileh hiche sepaiten asopiteu adelu hi jingkah langa chu angah diu ahitai,” atin;"
+      },
+      {
+        "verse": 28,
+        "text": "hiti chun Jo’ab chun saki pengkul amut gingin ahileh mipi atangsoh keiyuvin, Israelte jong adelehom deh tapouve, chujongle galjong akisat datauvin ahi."
+      },
+      {
+        "verse": 29,
+        "text": "Abner le asepaite chu chuche jan khovah helin akitol’uvin Arabah ajot jot jenguvin ahi; chuin Jordan vadung agalkaiyuvin, jingkah lam nisa sat-ham masangsen akitol’uvin Mahana’im kho ahung lhung tauve."
+      },
+      {
+        "verse": 30,
+        "text": "Jo’ab jong Abner nung adelna konin ahung kile kit’in; mipi asepaite aboncha akhop tup soh keiya ahivangin David sohte lah a mihem som le ko akikolmon, As’ahel jong akiholmo nalaiye."
+      },
+      {
+        "verse": 31,
+        "text": "Amavang David sepaiten Abner sepai Benjamin mite chu mihem jathum le somgup agathat gam’uve."
+      },
+      {
+        "verse": 32,
+        "text": "Mihon As’ahel long chu apu uvin Bethlehem khoa apa lhan khuh ma ma u agavuitauve. Jo’ab le asepaite jong jan khovah hel’in ahung kitol’uvin, Hebron ahung geiphat’uvin khon avah den tauve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Phat sotpi sungin Saul insung konse se leh David insung konse se chu anakidouvun gal anasoh jing jengui; ahinla David chu akhangtou cheh akhang tou cheh jengin, Saul insung lam vang chu alhasuh cheh alhasuh cheh jouve."
+      },
+      {
+        "verse": 2,
+        "text": "Hebron khopia chun David in chapa phabep ahinge; achapa apeng masapen chu Jezreel khoa mi Ahin’o-am kitinu chun ahinpeh ahin amin Amnon ahi;"
+      },
+      {
+        "verse": 3,
+        "text": "chule achapa ni lhin napa chu Chil’e-ab akitin, Carmel khoa Nabal jinu Abigail kiti meithai nu chun ahin ahi; achapa thumna chu Absalom ahin, Geshur lengpa Talmai chanu Ma’acah kitinun ahinpeh ahiye."
+      },
+      {
+        "verse": 4,
+        "text": "Achapa li lhinna pa chu Adonijah ahin, Haggith chun ahinpeh ahi; achapa nga lhinna pa chu Shephatiah ahin. Abi’tal hin ahi;"
+      },
+      {
+        "verse": 5,
+        "text": "chule achapa gupna chu Ith’ream akitin, David jinu Eglah hin ahiye. Hicheng hi Hebron khopia peng David chapate jeng anahiuve."
+      },
+      {
+        "verse": 6,
+        "text": "Saul insung konse se leh David insung kah a kidouna auma akisat sat laiseuvin Saul insung dingin Abner chu amale ama akitil khouvin athahat penin anapang jing jenge."
+      },
+      {
+        "verse": 7,
+        "text": "Saul chun numei thaikem khat ananeiyin, amanu chu amin Rizpah akitin, Ai’ah chanu anahi; Ish-bosheth hin Abner hi aphulin, “Ipi dinga nangman kapa thaikemnu khu nakitimat pi ham?” tia adoh leh;"
+      },
+      {
+        "verse": 8,
+        "text": "Abner, chu Ish-bosheth thuseiho jeh chun alung hang behseh jengin aseitai, “Kei hi Judah dinga uicha lamkaiya pang kahim? Tuni geiya keima napa Saul insung ding, asopite ding, agolle apaite dinga kitah tah a kapan jinga ahijeh a David khut luma kalousah louhelu nahilou ham? Hichan gei hin jong nangman tunin numei khat chung chang thudola themmo neipen nahi nalaiye."
+      },
+      {
+        "verse": 9,
+        "text": "Keiman tua hi Pakaiyin David athutep peh chu molso pehna dinga na katoh lou pou pouva ahileh Pakaiyin keima eisumang hen;"
+      },
+      {
+        "verse": 10,
+        "text": "Saul insung mitea kona lenggam hi lahdoh a Dan khoa pat’a Beersheba geiya Judah chung le Israel chunga David laltouna tundoh tei ding ngaitona na katoh ding ahitai,”  atin a-eojah jenge."
+      },
+      {
+        "verse": 11,
+        "text": "Hichun lsh-bo-sheth jong chun thu dang imachan Abner chu adonbut ngamtapoi, ipijeh-inem itileh Abner chu akchat behseh jeng ahiye."
+      },
+      {
+        "verse": 12,
+        "text": "Abner chun Hebron khopia David henga sottolle miho asolin hi tin aga seisah e, “Gamsung hi koigama nabol ham? Keitoh kitepna semin, chutile vetan, Israel pumpi nahenga huitupna dinga keijong nang toh kikhutjop ding kahi,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Hichea hin David chun aseiyin, “Aphai; keiman nangto kitepna sem nange, ahivanga amasa thil khat nahenga kasei masah ding ahi, nangma keito kimutoa nahung tengleh amasa Saul chanu Michal chu nahinpui louva ahileh kamai namu louhel ding ahi,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Hichun David in jong Saul chapa Ish-bosheth henga sottolle miho asol paiyin, hitin agaseisah-e, “Keiman Philistine te chep jakhat katanjeh a kaji hisa Michal kiti kajinu chu neipen,” tin agaseisah tai."
+      },
+      {
+        "verse": 15,
+        "text": "Hijeh chun lsh-bo-sheth jong chun mi asolin Michal chu ajipa La’ish chapa Pal’ti-el koma konin agapuisah tai."
+      },
+      {
+        "verse": 16,
+        "text": "Ahin ajipa jong chu Michal nunga ahungin ajuipeh jengin Bahurim chan geiyin amanu nung nunga lam dung lhung keiyin ahung kap peh-e. Hichun Abnerin jong Pal’ti-el jah a chun aseipeh-in, “Kinungle kit’in lang che kit tan,” atileh; ama jong akinung le kittai."
+      },
+      {
+        "verse": 17,
+        "text": "Abner jong chu Israel upate toh akihou lim’uvin hitin aseiye, “Masang lai chun nang hon David chu nachunguva leng chang din nahol hol’uvin,"
+      },
+      {
+        "verse": 18,
+        "text": "tun hichu boldoh tauvin, ijeh-inem itileh Pakaiyin David chu athutepsa ahin, hitin aseiye, ‘Keiman kalhacha David khut’a kamite Israelte hi Philistine te khut’a kona kahuhdoh a, amelmate jouseu khut a kona jong kahuhdoh ding ahi,’ tia anaseisa ahi,” ati."
+      },
+      {
+        "verse": 19,
+        "text": "Abner chun Benjamin mite jah a jong aseiyin ahi; chuin Abner amatah jeng jong Hebron khopia David henga achen, Israel pumpi le Benjamin insung miten jong chutia bol ding chu thilphan anagel jouvin ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Abner chun mi som ni ahinpuiya Hebron khoa David henga ahung phat’in David jong chun Abner le alhonpi mite vahnan golvah abol e."
+      },
+      {
+        "verse": 21,
+        "text": "Hichun Abnerin David jah a aseiyin, “Keima kipat’in ting kache ding, Israel mite aboncha kapu lengpa henga kahin khop ding, chutengle amahon nangto kitepna khat sem’uvin tin, chutah le nangman nalunga nadeina jousea vai nahom ding ahin lengvai napoh ding ahi,” ati. Hiti hin David in jong Abner asolmang tan, ama jong lung mongin achetai."
+      },
+      {
+        "verse": 22,
+        "text": "Chujou tah chun David sepaite jong michoma achenauva konin ahung lhung paiyun, athilehomu tampi ahinpo lut’uvin ahi. Ahin Abner chu Hebron khopia David koma chun ana um tapoi; ajeh chu David in anasol manga Abner jong ana potdoh sa ahitai."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin Jo’ab le akilhonpi sepaite chu ahung lhun phat’uvin mihon Jo’ab jah a aseiyuvin, “Ner chapa Abner chu lengpa henga ahungin, lengpan ama chu asolmangin, amajong lung mongtah-in achetai.” tin aseipeh-uvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chutah chun Jo’ab jong lengpa henga achen agaseitai, “Ipi bola nahi hitam? Vetan, Abner nahenga hunga nangman ipi dinga namoh sol mang jenga ama chutobanga lung monga chedoh hi tam?"
+      },
+      {
+        "verse": 25,
+        "text": "Ner chapa Abner chu nahenga hunga nalhem lha ding kigoa, navaikon navailhun kihetdoh ding agot’a chule nathilbol jouse hetoh dinga hungjo ahibouve,” tin aseitai."
+      },
+      {
+        "verse": 26,
+        "text": "Jo’ab chu David angsunga kona ahung potdoh doh chun Abner nung del din sottolle miho asol in, sottolle ho chun Abner chu Sirah twinah phunga konin ahin nung pui kit’uvin ahi; athilbolu chu David in ahepoi."
+      },
+      {
+        "verse": 27,
+        "text": "Hebron khopia Abner ahung akile kit phat’in, Jo’ab chun achanga guhthima kihoulimpi dingin kelkot phung lama apui mangin, anaopa As’abel athajeh chun kelkot phunga chun aoipoh tah adotpeh-in ahileh Abner jong athitai."
+      },
+      {
+        "verse": 28,
+        "text": "Hiche thusoh hi khonunga David in ajah phat’in hitin aseiye, “Ner chapa Abner thisan kiso chung changa hin keijong kalenggam jong themmona bei kahi."
+      },
+      {
+        "verse": 29,
+        "text": "Hiche themmona hi Jo’ab le ainkote apa insung konse se chunga chujo hen; chujongle Jo’ab insung mite lah a hin thisan longa na a mikhat um jing hen, aphah a khat um jing hen, tenggol kiphua lam jot khat um jing hen, chule chemjama kithat khat le anneh ngaiya akela khat um jing hen!” tin agaosap tan ahi."
+      },
+      {
+        "verse": 30,
+        "text": "Hitobang hin Jo’ab le asopipa Abi’shai chun Abner chu aman Gibeon galmuna anaopa lhon As’ahel athajeh chun athat lhontai."
+      },
+      {
+        "verse": 31,
+        "text": "Chuphat’in David chun Joab le aumkhompi miho jah a aseipeh-in, “Naponsil chengse bottel’uvin lang Abner masanga hin ama dingin lunghemin apul douvun, “tin aseiyin, chule David lengpa amavang chun mithikong puho nung ajuitai."
+      },
+      {
+        "verse": 32,
+        "text": "Hiti hin amahon Abner chu Hebron khopia avuiyuvin, David lengpa jeng jong Abner lhanphunga chun oging thongje jun akap jengin ahileh, mipi jong abonchan akapsoh keiyuve."
+      },
+      {
+        "verse": 33,
+        "text": "@@Lengpan Abner chu akan chule aseitai, @1“Abner chu mi-ngol thia @2Thi ding hi tam?"
+      },
+      {
+        "verse": 34,
+        "text": "@@@1Nakhut teni la akikanpon, @2Nakengphang teni jong akisompoi; @1Migiloupa adinlhuh jeng bangin @1Nang jong nading lhuh tan ahi,” ati. @0Chutah chun mipin jong abonchauvin Abner chu akasoh kei kit’uvin ahi."
+      },
+      {
+        "verse": 35,
+        "text": "Nisa la asun paitan, hijeh chun mipin David chu an nehsah tei din ahungjol un ahileh, David la anom deh tapon, akihahsel jah jengin hitin aseiye, “Nisa lhum masangsea keiman changlhah ham neh thei dang thil khat ham kaneh khah pou pouva ahileh Pathenin anop nop’in eibol jeng hen, neponge,” tin aseitai."
+      },
+      {
+        "verse": 36,
+        "text": "Akihahselna hi mipin amuchet phat’uvin alung damsoh tauve; ajeh chu lengpa thilbol jousen mipi abonchauva Israel mite chu alung lhaisah ngai mong jong ahijie. "
+      },
+      {
+        "verse": 37,
+        "text": "Hiche nikho hin mipi abonchau le Israel mite apum piuvin Ner chapa Abner kitha ding hi lengpa phasah alungdei ahipoi, ti ahedoh tauve."
+      },
+      {
+        "verse": 38,
+        "text": "Chujongle lengpan asohte jah a chun aseiyin, “Tunin Israelte lah a hin milen mithang tah khat athitai, ti nang hon nahet louvu ham?"
+      },
+      {
+        "verse": 39,
+        "text": "Hijeh chun keima leng chang dia thao nusa kahivangin tuni hin katha achol behseh jenge; hiche Zeru’iah chapate hi kei din thoh lel aum behseh jenguvin ahi. Pakaiyin thilse bolpa chu agitlouna dungjuiyin lethuh mai hen!” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Saul chapa Ish-bo-sheth kitipa chun Hebron khopia Abner athitai, ti thu ajah doh phat’in alungthim alha lhop pai jengin, chule Israel pumpi jong alung thoisoh tauve."
+      },
+      {
+        "verse": 2,
+        "text": "Saul chapa chun sepaite mi thilehoma pang gunset ho lamkai cheh mi ni aneiyin, khatpa chu amin Ba’anah akitin, khatpa joh chu amin Rechab akiti; anilhona chu Benjamin phunga mi Be-er’oth khoa chengpa Rimmon chapa ahilhone; ajeh chu Be-er’oth jong hi Benjamin mite chan dia kisimtha ahin;"
+      },
+      {
+        "verse": 3,
+        "text": "hijeh a chu Be-er’oth a chengte chu Gitta’im khoa jamlut’uva tuni geiya khopemden ahitauvin ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Saul chapa Jonathan chun chapa khat aneiyin, ama chu akeng phang teni kibai ahi. Jezreel phaiya Saul le Jonathan thi thu hung kithan chun amahi akum kum nga bou alhing bep’in, anaodona pangnun akidop’a ajampi leh, lungkin lung bonga ajampi nau chu alhahsah leh akeng akisuh khah a akengbaiya umlo ahitai. Akengbai jeh chun amin jong Mephib’osheth akisah tai."
+      },
+      {
+        "verse": 5,
+        "text": "Be-er’oth khoa mi Rimmon kitipa chapa teni Rechab le Ba’anah chu ache lhonin, nisa sat-ham dontah khun lsh-bo-sheth in ahung gei lhon tai; Ish-bo-sheth chu sunkima akicholdo ngaiyin anakicholdon ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chujongle vetan, ainkotpi ngah a pangnu jong chun suhlou chang anasep sep leh amale ama akilhim ihmun aihmut lo tan ahi; hijeh chun Rechab le asopipa Ba’anah chu guhthim chan insunga akithollut jel lhonin ahileh,"
+      },
+      {
+        "verse": 7,
+        "text": "Ish-bo-sheth chu alupna indan sunga jalkhuna chun analumin ahi, amanin ama chu asat lhonin athat lhontai, chuin alujong atanpeh lhonin, aluchang chu ahinpo lhonin jan khovah hel’in Arabah lampi ahinjot pipeh lhonin,"
+      },
+      {
+        "verse": 8,
+        "text": "Hebron khopia David henga Ish-bo-sheth luchang chu ahinpolut lhontai. Hichun amanin lengpa jah a asei lhonin, “Ven, tha dinga naholpa namelmapa Saul chapa Ish-bosheth luchang hi; tunin Pakaiyin Saul le achilhah ho chunga kapu lengpa din phu alatai,”  tin asei lhone."
+      },
+      {
+        "verse": 9,
+        "text": "Ahinla David chun Be-er’oth khoa mi Rimmon chapa teni Rechab le asopipa Ba’anah chu adonbut’in, “Kakidoupi mite jousea kona eihuhhing jing Pakai hing jing mina kasei ahi; "
+      },
+      {
+        "verse": 10,
+        "text": "mi khat’in thupha kahinpoi, tia agela kajah a, ‘Ven, Saul athitai,’ tia ahung sei jong chun keiman kamanin ama chu Ziklag khoa chun kathat tai; athupha poh jeh a keiman kipaman kapeh kiti chu ama katha chu ahitan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Chuti ahileh ichan geiya khohjoa migilouvin mipha alupna indan sung, ajalkhuna athaden tengleh keiman nangni khut’a hiche thisan phu chu kalah da a leiset chunga nangni sumang louva kaum thei ding ham?” tin adongin ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chutah chun David in jong sepaite gollhang ho chu thu aseipeh-in, amahon amani chu athat uvin, akhut lhon le akeng lhon atanpeh-uvin atahsa lhon chu Hebron khopia twikul phung koma chun akhaitauve. lsh-bo-sheth luchang vang chu achoiyun Hebron khopia Abner lhankhuh ma ma u avui tauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Israel phungtin ahunguvin Hebron khopia David henga ahung kikhomuvin ajah a aseitauve, “Vetan, keiho hi nangma gule chang, phe le vou jeng kahiuvin, namite kahiuve."
+      },
+      {
+        "verse": 2,
+        "text": "Masanglaiya keiho chunga Saul leng anahi laiyin jong Israelte lah a vaikon ngam le vailhung ngama nang bou nahin, chujongle Pakaiyin nangma jah a anaseiyin, ‘Nangman kamite Israel hi kelngoi chinbanga nachin a, Israelte chunga leng nahi ding ahi,’ tin anaseiye,” ahung tiuve."
+      },
+      {
+        "verse": 3,
+        "text": "Hiti chun Israel upa chengse chu Hebron khopia David lengpa henga ahunguvin, David lengpan jong Pakai angsunga amaho chutoh kitepna khat asemin, amahon jong David chu Israel chunga leng chang din thao anutauve."
+      },
+      {
+        "verse": 4,
+        "text": "Lengvai ahinpoh pat chun David akum somthum alhing tan, chujouvin kum som li sungin lengvai apoi."
+      },
+      {
+        "verse": 5,
+        "text": "Hebron khopia chun Judahte chunga kum sagi le lha gup sungin lengvai ana poi; chule Jerusalem khopia chun Israel pumpi le Judahte chunga kum somthum le kum thum sungin lengvai anapon ahi."
+      },
+      {
+        "verse": 6,
+        "text": "David lengpa le asepaite chu Jerusalem a acheuvin agamsunga chengte Jebus miho agadel khum’uva ahileh, amaho chun David jah a anaseiyun, “Nangma hikom khopi sunga hung lut joupon nate, miteho le elbai ho jengin jong nasotdoh jeng theiyu ahi,” atiuvin, “David chu khopi sunga hin hung lutjou ponte,” tin anagel’uve. "
+      },
+      {
+        "verse": 7,
+        "text": "Ahivangin David chun Zion kulpi jong alatai; hiche hi ahiye, David khopi kiti chu."
+      },
+      {
+        "verse": 8,
+        "text": "Hiche nikho hin David chun aseiyin, “Koi hijongle Jebus mite that nompan kipatdoh hen lang David in alunga adei louhel ahot miho miteho le elbai suh gentheina din twilam sin bing peh jouhen,” tin aseiyin; hichejeh chun“Miteho le elbai houin sunga lut thei louhel ding ahi,” tin akiseilo tai."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin David chu Zion kulpi sunga acheng denin, akhopi jong chu David khopi ahisah tai; chujongle David in akhopi chu akimvel lhung keiyin Milloa pat asung lamse se asah ben ahi."
+      },
+      {
+        "verse": 10,
+        "text": "David chu Pathen, tha neipen Pakaiyin aumpi jing jeh-in aloupi cheh cheh jengin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Tyre gama lengpa Hiram kitipan David dingin asottolle miho leh thing thembol ho, thingvaipo ho asolpeh in, Cedar thing jong athot’in; amaho hin David dingin in khat agasah peh-uve."
+      },
+      {
+        "verse": 12,
+        "text": "Hichun Pakaiyin ama chu Israel chunga lenga atundoh ahitai, ti David jong chun akihetdoh tan, hijeh chun amite Israelte gelkhohna le khohsah nan aman jong alenggam chu achoisang lheh jenge."
+      },
+      {
+        "verse": 13,
+        "text": "Hebron khopia kona ahunga Jerusalem khopi ahung lhun nung jong chun David in numei thaikem jong aji mong mong ding jong akipuibe kit nalaiye. Hijeh chun David in chapa jong chanu jong tampi ahinbe kit nalaiyin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Jerusalem khopia David in ahinkit achate chu amin anoiya ho hi ahi: Sham’mu-a, Shobab, Nathan, Solomon,"
+      },
+      {
+        "verse": 15,
+        "text": "Ibhar, Eli’shu-a, Nepheg, Japhi’a,"
+      },
+      {
+        "verse": 16,
+        "text": "Elish’ama, Eli’ada chule Eliph’elet ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Israel chunga leng chang dingin David chu min thao anutauve, ti Philistine miten ajah doh phat’uvin, Philistine mite abonchan akontouvun David hol din achetauve; ahin David in ajah phat’in amajong akonsuh pai paiyin kulpia pang din achetai."
+      },
+      {
+        "verse": 18,
+        "text": "Philistine te chu ahunguvin Reph’aim phaiya akithe thangsoh heluvin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Hichun David in Pakai adongin, “Keima Philistine te toh kisat dinga kache ding hitam? Nangman amaho chu keima khut’a neipeh doh ding hinam?” tia adoh leh; Pakaiyin David jah a chun aseiyin, “Kontou tan, keiman thon louhela Philistine te chu nangma khut’a kapeh tei tei ding ahi,” ati."
+      },
+      {
+        "verse": 20,
+        "text": "Hijeh chun David jong Ba’al-perazim kiti lai geiyin agachen, hikoma chun David in Philistine te agajouvin, hichun aseitai, “Pakaiyin kamasanga kamelmate asugamin, lhanghoh long cheh bangin aboltai,” ati. Hijeh chun hikom min chu Ba’al-perazim tin akiminvo tan ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Akisatnauva chun Philistine miten amilimdoiyu tampi adalhauvin, David le aloiten apomang tauve."
+      },
+      {
+        "verse": 22,
+        "text": "Ahivangin Philistine te chu ahung kitoltou kit’uvin Reph’aim phaiya chun akithejao kit leuvun ahi."
+      },
+      {
+        "verse": 23,
+        "text": "David chun akisatpi ding akisatpi lou ding thudola Pakai adoh a ahileh, Pakaiyin aseipeh-in, “Nangman deltou hih-in, anung lamuva khun veltou jon lang selgel thingphung gal dona khun hindel khumjon."
+      },
+      {
+        "verse": 24,
+        "text": "Chule nangman selgel thingphung chung dung hung kithin gin najah tengleh nangle nangle hung kitilkhou tan, ajeh chu nangma masanga chu Pakai hunga Philistine sepaite suhgam ding agot ahitai,” ati."
+      },
+      {
+        "verse": 25,
+        "text": "David’in Pakai thupeh bangin abol’in, Geba pat Gezer geiyin Philistine te chu asugam peh tan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David chun Israel mite sepai lhentum cheh akhom kit’in ahileh abonchan sang somthum alhinguve."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun David jong akipatdoh pai paiyin apanpi miho chengse chutoh Ba’ale-judah lama akitol’uvin chua kona Pathen thingkong hinpoh doh din agouve; hiche lai hi Cherub te chunga laltouva toupa Pakai thanei chung nungpen min kiputsah ahiye."
+      },
+      {
+        "verse": 3,
+        "text": "Amaho hin Pathen thingkong chu bongkang athah leh khat’ in ahinpouvin, thinglhang vuma kisa Abin’adab insunga konin ahintoldoh tauvin ahi; chule Uzzah kitipa le Ahio atipau, Abin’adab chapa tenin bongkang thah leh chun"
+      },
+      {
+        "verse": 4,
+        "text": "Pathen thingkong chu ahintol lhonin ahi. Ahio chu Pathen thingkong masanga chu ahung lamkaiye."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin David le Israel insung pumpin Pakai angsunga kipa golnop abol’uvin, atha neicha sun nun la asauvin, selangdah asaiyun, tumgingthei atum’uvin, khutbeh abenguvin, sum-eng avoginguve."
+      },
+      {
+        "verse": 6,
+        "text": "Ahung kitol’uva ahileh Nacon changphol ahung gei phat’uvin bongchal teni akital jeng phat chun Uzzah kitipan akhut’in Pathen thingkong atuh jengin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun Uzzah chunga Pakai ahung lung hangjah jengin, hitia aman Pathen thingkong akhut’a atuh jeng jeh chun Pathenin ama chu a that tai; chuti chun Uzzah jong Pathen thingkong panga chun athiden tai."
+      },
+      {
+        "verse": 8,
+        "text": "Pakaiyin chutia Uzzah atha jeng jeh hin David jong alung na behseh jengin; hijeh chun hikom mun jong chu tuni geiyin Pe’rez-uzzah tin amin akisah lo tan ahi. "
+      },
+      {
+        "verse": 9,
+        "text": "Ahivangin hiche nikho hin David in Pakai aging behseh jengtan, aseitai, “Iti Pakai thingkong lom lom chu keima henga hung kitol lut jeng thei ding ham?” ati."
+      },
+      {
+        "verse": 10,
+        "text": "Hiti hin David khopi sunga Pakai thingkong poh lut jeng ding chu David anomtapoi; hijeh chun David in thingkong chu aletol’in Git mi O’bededom kitipa ina atol lut tai."
+      },
+      {
+        "verse": 11,
+        "text": "Git mi O’bede’dom kitipa insunga chun Pakai thingkong chu lha thumsungin akoitauve; hiche sung hin Pakaiyin O’bededom le ainsung mite chu phatthei aboh tan ahi."
+      },
+      {
+        "verse": 12,
+        "text": "“Pathen thingkong jeh chun Pakaiyin O’bed-e’dom insung mite leh athilkeo anei jouse phatthei aboh tai,” tia min David lengpa agaseipeh phat’in, David jong achen kipah le thanomin Pathen thingkong chu O’bed-e’dom ina konin David khopi sunga agapolut tan ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Pakai thingkong puho chu kalgup gup achetengu leh aman bongchal khat le kelngoi thaotah khat athatjin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chule David jong athan ajochanin Pakai angsunga alampeh-in, hiti hin David chu amatah thempuvonin akivonin akong akigah-in ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Hitia hi David le Israel insung pumpin Pakai thingkong chu ahinpoh tou uva aw-thongje jua ahinpohu ahin, saki pengkul ahin mut gingpeh-u ahi."
+      },
+      {
+        "verse": 16,
+        "text": "David khopi sunga Pakai thingkong ahung kitollut phat’in Saul chanu Michal chun bangkot’a konin agah ven ahileh Pakai ansunga David lengpa alama akichop chop jeng chu amudoh tai; hijeh chun Michal jong chun alungthimin adeimo lheh jengin ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin Pakai thingkong chu ahinpo lut’uvin, David in akitunna dinga asemsa ponbuh sunga chun atunguvin ahi; chujongle David chun Pakai angsunga pumgo thilto le chamna kilhaina thilto atoh tai."
+      },
+      {
+        "verse": 18,
+        "text": "Chutia David chun pumgo thilto le chamna kilhaina thilto atosoh phat’in mipi abon chauvin Pakai thanei chungnungpen minin phatthei abohtai."
+      },
+      {
+        "verse": 19,
+        "text": "Chujongle ahung kikhomdoh Israel mipumpi lah a chun numei pasal ahiuvin abonchan changlhah lhon khat cheh le sachan khat cheh ahop peh soh keiye, chule lengpitheiya kisem changlhah tobang boh khat cheh toh apeh thai. Aneh jou phat’uvin mipi abonchan apotdoh soh keiyuvin ainlam cheh akijot tauve."
+      },
+      {
+        "verse": 20,
+        "text": "David jong chu ama insung mite phatthei boh din ahung kile kit tai. Ahin Saul chanu Michal chu David lamto din ahung doh-in aseitai, “Itilom loma Israel lengpa chu tunia ama le ama kichoi sanga asohte numei pasal chujat lah a chu jumlam jalam helouva asagoh keova chuti len jeng hitan tem ong?” tin aseitai."
+      },
+      {
+        "verse": 21,
+        "text": "Hichun David in Michal jah a aseiyin, “Keima Pakai angsunga lam kahibouve. Ama hin napa chung le ainsung mite chung, Pakai mi Israelte chunga leng chang dinga eilhensa ahin, hijeh a chu Pakai angsunga keima kipah mong ding kahi."
+      },
+      {
+        "verse": 22,
+        "text": "Nangma mitmun vang kisuneo lheh jeng nang ting, ahin nangin nasei hiche soh numeiho mitmun vang ja le gin umtah kahi ding ahinai,” atipeh-e."
+      },
+      {
+        "verse": 23,
+        "text": "Saul chanu Michal chun athi ni geiyin jong cha aneipoi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David lengpa chu ain muna akicholdo tan ahi, ijeh-inem itileh Pakaiyin jong akimvela agalte jousea konin akicholdo sah tai;"
+      },
+      {
+        "verse": 2,
+        "text": "chuin lengpa David chun Nathan themgaopa jah a aseiyin, “Vetan, keima tuhin Cedar thinga kisa insunga kacheng tan, ahinla Pathen thingkong chu ponbuh mai mai sunga akikoi nalaiye,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun Nathan jong chun lengpa jah a aseiyin, “Chen lang nalungthima nagel jouse chu gaboltan, ijeh-inem itileh Pakaiyin naumpi jingnai,” tin aseipeh-e."
+      },
+      {
+        "verse": 4,
+        "text": "Hichejan chun Nathan henga Pakaiyin thu ahinsei pai jengin,"
+      },
+      {
+        "verse": 5,
+        "text": "“Chen lang kalhachapa David gaseipeh tan, ‘Pakaiyin hitin aseiye: Nangin kachenna ding in neisah peh ding hinam?"
+      },
+      {
+        "verse": 6,
+        "text": "Egypt gama kona Israel chate kahin puidoh nikhoa pat tuni geiyin keima insunga kacheng kha hih laiye, ponbuh khat a hin kapansan kakitolle len ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hitia hi Israel chate toh kakitolle na ahin kamite Israel chingtup’a kelngoi chin banga ching dia ka nganse thutan vaihomho jah a jong hitin kaseijie, “Ipi dinga nang hon kei ding in khat beh Cedar thinga neisah peh lou uham?” katijie."
+      },
+      {
+        "verse": 8,
+        "text": "Hichejeh chun tun nangman kalhachapa David jah a seipeh-in lang, ‘Thanei chungnung pen Pakaiyin hitin aseiye: Nang hi keiman hamhing lah, kelngoite nung najuina a kona kakouva kamite Israel chunga leng chang dinga kapuidoh nahi;"
+      },
+      {
+        "verse": 9,
+        "text": "chujongle nachele navale na chan a keiman kalhon-pin, nama sanga namelmate jouse abonchan kasugamtai; hijeh a chu keiman hi leiset ami minthang ho banga minthang tah khat hisah dia kagot nahiye."
+      },
+      {
+        "verse": 10,
+        "text": "Chule keiman kamite Israel chan ding mun khat kalhendoh peh ding, hilaiya chu amaho muchi kitu banga katua, hitia hi amaho agamsung uva cheng thei diu, koiman jong asuh linglao louhel diu ahi; mi pumhat’a bolten jong amaho chu abolgenthei kit lou diu, masanga abol banguva abol thei lou dingu ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "kamite Israel chunga thutan vaihom ding mi kalhendoh a pat nangman nakimvela namelmatea kona kicholdona nanei ding ahitai. Hiche kalvaljong hin Pakaiyin nangma hi in khat nasemdoh peh ding ahi, tin aphongdoh tan ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Nangma nahin nikho alhina napu napate toh nalup khom teng leh nanunga chu keiman nachikhai ding mi katundoh ding ahin, amahi nangma tahsaphe vouva hung kondoh mong mong hiya, keiman ama lenggam chu kaphudet peh ding ahiye."
+      },
+      {
+        "verse": 13,
+        "text": "Ama hin kei dinga in khat eisah peh ding, ken ama lenggama laltouna chu atonsot geiya umjing dinga kaphudet peh ding ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Keima hi ama dinga apa kahi ding, ama chu kei dinga kachapa hi ding ahi; aman themmona anei tengleh mihemin mi ajepnaji tenggola kajep’a kasuhdih ding, mihem chapaten mi avoh banga kavoh ding ahi;"
+      },
+      {
+        "verse": 15,
+        "text": "amavang kalungset longlou Saul chunga kalah mang banga kalah mang lou ding ahi, Saul chu ken namasanga kadelmangsa ahitai."
+      },
+      {
+        "verse": 16,
+        "text": "Chujongle keima angsunga nangma insung le nalenggam hi kiphutdet chet ding, nalatouna jong hi atonsot geiya kitungdet ding ahi,’ tin aseiye, gatin,” ati."
+      },
+      {
+        "verse": 17,
+        "text": "Thu hijat kiseipeh dungjui leh themgao thilmua thil hijat amu dungjui hin Nathan jong chun David henga aseitan ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun David lengpa jong Pakai houbuh sunga alut pai paiyin Pakai angsunga atouvin aseitai, “Vo Pakai, Pathen keima hi koi kahim, chule ka insung jong hi imacha hilou ahi, nangman hichan geiya nahin khohsah vangin."
+      },
+      {
+        "verse": 19,
+        "text": "O Pakai, Pathen, nangma mitmun hiche jeng jong hi thil neocha bou ahinalaiye; nangman khonunga lhung ding chung changa nasohpa insung thu ding jong naseiyin; hiti chun khang nu nung thu ding geiyin neivetsah tan ahi, O Pakai Pathen!"
+      },
+      {
+        "verse": 20,
+        "text": "Hiche kala hi David kitipa keiman nang koma ipi kasei ding ham? O Pakai Pathen, nangin nalhachapa keima hi neihetsa ahinai."
+      },
+      {
+        "verse": 21,
+        "text": "Nangma thutep dungjui le nalungthima nagel bang banga, nalhachapa keima hetsah dinga hiche letna thudol hi nahinpoh lut ahitai."
+      },
+      {
+        "verse": 22,
+        "text": "Hichejeh hin O Pakai, Pathen nangma loupi tah nahi; ajeh chu nangma tobang koimacha aumpon, nang tailou jong Pathen dang aumpoi; kanauva kajah bang bangu nahiye."
+      },
+      {
+        "verse": 23,
+        "text": "Leiset chunga namdang koipen hi namite Israel tobanga Pathen chea amite dinga akilhatdoh um kha a, ama dinga minthanna khat akisemdoh khah a, amite dinga thil lentah le tijat umtah abola, amite masanga namdang ho leh apathen lim semthu u anomangpeh midang um nam?"
+      },
+      {
+        "verse": 24,
+        "text": "Vo Pakai, nangman namite Israelte hi aitih chan gei hijongle nangma mite hisah sah jeng din nachamtah-in natungdoh-in chule nangma a-Pathen’u nahitai."
+      },
+      {
+        "verse": 25,
+        "text": "Vo Pakai Pathen, tun nalhachapa keima le ka in sung chung thudola naseidohsa thu hijat dungjui hin nasei bang bangin aitih geiya din sudet jengin lang boldoh jengin;"
+      },
+      {
+        "verse": 26,
+        "text": "chutileh atonsot geiya nangma min pahchat’a uma hitia kisei ding ahi, ‘Thanei chung nungpen Pakai chu Israel Pathen ahi,’ kiti ding; chutia hi nalhachapa keima David insung jong atonsot geiya dia nangma angsunga kiphutdet ding ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Vo thanei chung nung pen Pakai, Israel Pathen, ajeh chu nangman hiche thuphon hi nalhachapa keijah a naphongdoh tan naseiye, ‘Keiman in khat kasahpeh ding nahi,’ nati. Hichejeh a chu nalhachapa keima hangtah a nahenga hiche taona hi seiya tao ngam kahi."
+      },
+      {
+        "verse": 28,
+        "text": "Vo Pakai Yaweh, nangma Pathen nahin, nathusei jouse jong adih-e; chujeh chun nangman nalhachapa kei dingin hiche kipana thupha hi naseiyin nakitep tai."
+      },
+      {
+        "verse": 29,
+        "text": "Tun nalhacha keima insung phatthei boh ding nangma lung lhaina hijing hen lang, hitobang hin nangma angsunga soh jing jeng hen; vo Pakai Pathen, nangman thu naseisa ahitan; hijeh chun atonsot geiyin nangma phattheina hi nalhachapa keima insunga hung lhung jing hen,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche nung hin David in Philistine te akisat pin ahileh ajouvin, amaho asunemsoh tan, Meth’egam’mah khojong chu David chun Philistine te khut’a konin alahpeh tan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "David chun Moab mite jong akisatpin ahileh ajou kit’in, amite chu asimtoh dim demin, abonchan tola alup sah soh keiyin, agola kigol gol nia miho chu tha din alhahsah-in, gol khat lhingset vang chu ahinghoi nai; ahinghoi Moab mite chu David din soh-in apang soh keiyuve."
+      },
+      {
+        "verse": 3,
+        "text": "David chun Euphra’tes luipi dung geiya agam akeh let nomjeh-in achepeh-in Zobah lengpa Rehob chapa Hadade’zer jong akisat pin ahileh ajou tai."
+      },
+      {
+        "verse": 4,
+        "text": "Hadadezer khut’a konin David chun sakol touthem mi sepai sang khat le ja sagi amanin, kenga galbol sepai sang som ni amane; chujongle sakol jouse chu akeng atanboh peh soh keiyin, kangtalai jakhat kaikham seh seh bou akhenin ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Damascus khopia cheng Syria mite chu Hadade’ezer kiti Zobah lengpa kithopi dia ahunguva ahileh, David in hiche Syria miho jong chu sang som mi athat kit’in ahi. "
+      },
+      {
+        "verse": 6,
+        "text": "Chujouvin David chun Aram gamsunga Damascus khopia jong sepai hon khat atousah tai; hijeh chun Syria mite jong David soh ahiuvin, kai apejiuve. Hitobang hin David chu agalkonna chan a Pakaiyin gal ajosah sah jengin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Hadade’zer sepaite manchah sana ompho jouse chu David in alan Jerusalem a ahinpo lut soh keiye."
+      },
+      {
+        "verse": 8,
+        "text": "Hadade’zer khopi teni Betah le Bero’thaiya konin jong David chun sum-eng tamtah ahinchomdoh-e."
+      },
+      {
+        "verse": 9,
+        "text": "Hamath lengpa Toi kitipan jong Hadade’zer sepaite abonchan David in akisat pin ajoutai, ti ajah phat’in,"
+      },
+      {
+        "verse": 10,
+        "text": "Toi lengpan jong achapa Joram hi David lengpa henga salam bolgun set ding le apahcha gunset din a sole; ipijeh-inem itileh David chun Hadade’zer kitipa akisatpia ajo-jeh ahi; ajeh chu Hadade’zer hin Toi lengpa akisatpi jing jeng anahi. Joram hin dangka le sana chule sum-eng ahinpon peh-in ahi;"
+      },
+      {
+        "verse": 11,
+        "text": "David in Joram thilpoh chengse chu alan aman achomdoh namtin vaipia kona gal ajoteng leh akilah dangka le sana jouse pumin Pakaiya athenso thatai."
+      },
+      {
+        "verse": 12,
+        "text": "Hiche thil ho hi Edom gama alah jong, Moab gama alah jong, Ammon mitea alah jong ahin, Philistine tea kona alah jong ahi. Amalek mitea alahpeh jong ahin. Zobah lengpa Reboh chapa Hadade’zer chapa a kona achomdoh chengse jong ahithai."
+      },
+      {
+        "verse": 13,
+        "text": "Hiti hin David in ama chamtah-in minthanna akiboldoh tai. Ahung kile kit lamin jong chikhuh phaiya Edom mite mihem sang som le sang get ahinthat pai."
+      },
+      {
+        "verse": 14,
+        "text": "David chun Edom gamsunga jong sepai atousah pai paiyin, Edom gam pumpia sepai atousah soh keiye; hijeh chun Edom mite jong abonchan David soh ahisoh tauve. Hitobang hin David gal akonna chan a Pakaiyin gal ajosah sah jenge."
+      },
+      {
+        "verse": 15,
+        "text": "Israel pumpi chunga David chun lengvai anapon, amite jouse chunga David in thu adih dih chan atan jin, kitona analensah-e."
+      },
+      {
+        "verse": 16,
+        "text": "Zeru’iah chapa Jo’ab chu sepai lamkaiyin anapangin, Ahilud chapa Jehosh’aphat chu thuching din apangin,"
+      },
+      {
+        "verse": 17,
+        "text": "Ahitub chapa Zadok le Abi’athar chapa Ahim’elech chu thempun ana pang lhone; chutengle Serai’ah kitipa chu lekha sunin anapangin,"
+      },
+      {
+        "verse": 18,
+        "text": "Jehoi’ada chapa Bena’iah kitipa chu Chereth mite leh Philistine te chunga vaibolin anapange; chule David chapate ho chu thempun apanguvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "“Jonathan jala tua hi kalungset thei Saul insung mite khat beh um nalaiyam?” tia David in mi adoh a ahileh;"
+      },
+      {
+        "verse": 2,
+        "text": "Saul insunga soh natong ho lah ami khat ana um khan ama chu amin Ziba akiti; mihon amapa chu David henga agakou lut tauve. Hichun David lengpan jong “Nang hi Ziba kitipa chu nahi nah am?” tin adonge. Hichun Ziba injong, “Nasohpa kei hi ama chu kahinai.” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Chuin lengpan aseiyin, “Keiman Pathen mi khotona hi kachanpi thei ding Saul insung mi khat beh ahingdoh um lou hi tam?” atileh; Ziban jong lengpa jah a aseiyin.“Jonathan chapa khat aum nan, ama hi akengphang teni chatmoa kibai ahi.” atipeh-e."
+      },
+      {
+        "verse": 4,
+        "text": "Chuphat’in lengpanjong, “Ama chu hoiya um am?” tia adoh leh; Ziba in lengpa aseipeh-in, “Ama chu Lodebar khoa Am’miel chapa Machir ina aum nai,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun David lengpan mi asolin, ama chu Lodebar khoa Am’miel chapa Machir ina konin agapuidoh sah tai."
+      },
+      {
+        "verse": 6,
+        "text": "Hiti hin Saul tupa Jonathan cha Mephib’osheth kitipa chu David henga ahungin akunin jana apen ahi. Chuin David chun ahouvin, “Mephib’osheth,” atileh; amanjong, “Neihin vetan nasohpa hi,” tin adonbut’e."
+      },
+      {
+        "verse": 7,
+        "text": "Hichun David in ajah a aseiyin, “Kicha hih hel’in, keiman napa Jonathan jal a nang hi kakhoto ding, chujongle napu Saul gamsung chu aboncha nang kapeh kit ding nahi; chule nangman keima ankong phunga an naneh jing jeng ding ahiye,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Hichun Mephib’osheth jong chun jana abol kit’ in aseitai, “Nasohpa kei hi ipi kahiya, nangin hiche uicha thisa tobang hi neivet khoh khoh ding ham?” atitai."
+      },
+      {
+        "verse": 9,
+        "text": "David lengpan Saul sohpa Ziba chu akouvin ajah a aseipeh-e, “Ipi hijongle Saul thilkeo anei jouse leh ama insung mite nei jouse chu aboncha hiche napu chapa hi kapeh ahitai."
+      },
+      {
+        "verse": 10,
+        "text": "Hijeh a chu napu chapa hin anneh akimujouna dinga nang le nachapate, chule nasohten ama dinga lou nabolpeh dingu ahin, alousoh nahinpoh peh diu ahi; ahin hiche Mephib’osheth napu tupa vang hin keima ankong phunga an aneh jing jeng ding ahi,” tin thu apetai. Ziba kitipa hin chapa som le nga ananei yin, sohjong som nijen aneiye."
+      },
+      {
+        "verse": 11,
+        "text": "Ahin Ziba hin lengpa jah a aseiyin, “Kapu lengpan nasohpa keima neithupeh bang bang chun nasohpa hin gabol nange,” ati. Hiti chun Mephib’osheth hin lengpa chate lah a khatpen pen bangin David ankong phunga an anejing jenge."
+      },
+      {
+        "verse": 12,
+        "text": "Mephib’osheth jong hin chapa gollhang khat aneiyin, amin jong Mica ahi. Chuin Mephib’osheth soh natong din Ziba insung mite abonchan apang tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Hiti hin Mephib’osheth chu Jerusalema anachenge; ajeh chu aman lengpa ankong phunga an aneh jing ahi. Ama vang hi akengphang teni kibai ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ammon mite lengpa athi phat’in Hanun kitipan ama khelin lengvai apoi."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun David in jong aseiyin, “Nahash chapa Hanun hi apan keima gunche tah a einabol bang banga ken jong gunche tah a kabol ding ahi,” tin anaseiye. Hijeh chun David in jong mi asol’in Hanun chu apa thijeh a lhem lung mong din asolpeh-e. Hiti hin David sohte chu Ammon mite gamsung ahung lut tauvin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Ahinla Ammon mite milen milal hon apupau Hanun jah a aseiyuvin, “Nangma lhem lung mong ding ahinsol jeh a hi nangman David hi napa jabol beh a nagel ham? David in asohte hi khopi sung kholtoh le ding le ave-lhi le dinga ahinsola akhopi hi suhgam ding agot hilou ham?” tin asei tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Hijeh chun Hanun hin David sohte chu amanin melse tah-in akhamul akeh lang avo chaipeh soh keiyin, aponsilu akivon nau akimlai cheng, akongbuh dontah a achetan peh soh keiyin anungsol mangtai."
+      },
+      {
+        "verse": 5,
+        "text": "Asohte chunga thusoh hi David jah a aseiphat’uvin David in jong amaho lamto din mi asolpeh tai; ijeh-inem itileh amaho chu jacha behseh-uva hung lut ngamlou ahitauve. Chuin David lengpan aseiyin, “Nakhamul u akikhan lhit kit masangsen Jericho khopia hung kho ngaiyun lang akikhan lhit teng hung kile kit tauvin,” tin ahil tai."
+      },
+      {
+        "verse": 6,
+        "text": "David chun kidoupi din agotauve, ti Ammon miten akihetdoh phat’uvin, Ammon mite akihou toh-uvin Beth-re’hob a cheng Syria mite leh Zobah a cheng Syria mite tola panga galsat sepai sang som ni thalah ding le, Ma’acah lengpa le amite sang khat thalah ding chule Tob mite sang som le sang ni thalah dingin mi asol tauve."
+      },
+      {
+        "verse": 7,
+        "text": "Hiche thusoh hi David in ajahdoh phat’in lamkai Jo’ab le asepaite mihat chengse abonchauvin asoltai."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin Ammon mite chu ahung kitoldohvuvin kelkot phunga chun gal sat din akigoltauve; Zobah khoa Syria mite leh Rehob khoa Syria mite vang chu Tob mite chutoh, Ma’acah chutoh acham chamin tollhanga anop len nalaiyuve. "
+      },
+      {
+        "verse": 9,
+        "text": "Jo’ab chun amasang lam le anung lama gal miten ating tan to tai, ti amudoh phat’in, Israel lah a mi son um lhentum cheh phabep alhengdoh-in, Syria mite dou din apansah tai;"
+      },
+      {
+        "verse": 10,
+        "text": "mi amoh chengse chu asopipa Abi’shai lamkaipeh din akoiyin, Abi’shaiyin asepaite chu Ammon mite toh kisat to din agoltoh tai."
+      },
+      {
+        "verse": 11,
+        "text": "Chuin aseitai, “Keiman Syrian mite hi kalel dinga ahat behseh jenguva ahileh nangman neihung kithopin lang, chule Ammon mite hi nang dinga ahatval behseh jenguva ahijongle keima hung ing ting nangma nahung kithopi nange."
+      },
+      {
+        "verse": 12,
+        "text": "Hangtah-in hung pangin lang, imiteu ding leh i-Pathen’u khopi jouse din pasal chutah-in pangu hite; Pakaiyin aphatsah sah chu hinbol jeng hen,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Hiti hin Jo’ab le amato pang khom sepaiho chu Syria mite toh kisat din akitol tauve; chutah chun Jo’ab masanga Syria mite ajamtauve."
+      },
+      {
+        "verse": 14,
+        "text": "Syria mite jam chu Ammon mitenjong amudoh phat’uvin amaho jong chutobangma man Abi’shai masanga ajamuvin khopi sunga alhailut tauvin ahi. Hichun Ammon mite toh akisatna a konin Jo’ab jong ahung kile kit’in Jerusalema ahung tai."
+      },
+      {
+        "verse": 15,
+        "text": "Israel ten ajo mong mongu ahitai, ti amudoh phat’uvin Syria mite chu amaho le amaho akikhomtauve."
+      },
+      {
+        "verse": 16,
+        "text": "Hadade’zer kitipan mi asolin Euphrates luipi gal a cheng Syria mite agakousah-in ahileh, amaho jong Hadade’zer sepai lamkaipa Shobach lamkai nan Helam geiyin ahung kitol’uvin ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Amaho hung galkon hi David jah a min aseipeh phat’in, aman jong Israel pumpi akhomsoh keiyin Jordan ahung galkaiyin Helam khoa ahung tan ahi. Hichun Syria mite jong David dou din achamtah-in anapang tauvin akisatpi tauve."
+      },
+      {
+        "verse": 18,
+        "text": "Ahivangin Syria mite chu Israel masanga ajam kit leu tauve; hichea hin David in Syria mite kangtalai ja sagi tola pang sepai leh sakol them mihem sang som li toh athat’in, chule agal lamkaipau Shobach kitipa jong amavon, hijeh chun amajong hikoma chun athiden tan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Hadade’zer noiya lengneo neo kaidonga pangjousen, Israelten amaho ajodel-u chu amuchet soh phat uvin Israel joh toh kichamna asem uvin, Israelte noiya alutjo tauve. Hijeh hin Syria mitenjong Ammon mite kithopi kit ding kichatna aneilo tauvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Chavang laiya leng ho galkon phat laiyin David jong chun Jo’ab le asepaite toh Israelte abonchan galkon din asoltai; amaho hi acheuvin Ammon mite kichep nan aneiyuvin, Rabbah kho aga umtauve. David vang chu Jerusalem khopia aumden jing nai."
+      },
+      {
+        "verse": 2,
+        "text": "Nikhat hi nilhah lam ni kihei don hin David jong alupna jalkhun a konin athoudoh-in leng inpia inchunga chun avah len ahileh, inchunga kon chun numei khat akisil pet tah amun, anumeinu chu amelhoi lheh jengin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "Hijeh chun David in mi asol’in numeinu chu koi ham, tin agadoh le sah tai. Hichea hin mi khat chun, “Hiche nu hi Eli’am chanu, Uri’ah Hit mipa jinu Bathsheba kitinu chu hilou hai mo?” tin aseiye."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun David in mi sotolle ho asolin amanu chu agapuisah leh, Bathshe’ba jong David henga ahung lut’in, chuin David chun amanu chu aluppi tan ahi. Hichepet’a hi Bathshe’ba chu athi neijou akisuh theng joucha bou hijah ahi; akichaiyin amanu jong ainlama achetai."
+      },
+      {
+        "verse": 5,
+        "text": "Bathsheba’n nao avop phat’in mi asol’in David jah a, “Keiman nao kavoptai,” agatisah-e."
+      },
+      {
+        "verse": 6,
+        "text": "David chun mi asolin Joab henga thu agathot’in, “Uri’ah kitipa Hit mipa chu kahenga hinsol temin,” agatisah-e. Hijeh chun Jo’ab jong chun Uri’ah chu David henga asolpeh tai."
+      },
+      {
+        "verse": 7,
+        "text": "Uriah chu ahenga ahung lhun phat’in David’injong Jo’ab umchan pou adongin, mipi itobang banga umuva chule gal itobanga asat chal nah-uvam, tin adongin ahi. "
+      },
+      {
+        "verse": 8,
+        "text": "Chujouvin David in Uri’ah jah a aseiyin, “Na-in lama chesuh-in, nakengphang teni kisop thengin,” ati. Hijeh chun Uri’ah jong achesuh-in lengpa ina kona apotdoh a ahileh anunga chun lengpa insunga konin thilpeh ding khat ahinchoipeh pai paiyuvin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ahivangin Uri’ah chu lengpa kotpi phungbula chun a pupa sepaite chutoh alum denin ainlama achesuh tapoi."
+      },
+      {
+        "verse": 10,
+        "text": "Hichun mihonjong David jah a “Uri’ah chu ainlama achepoi,” tia aseipeh phat’ uvin, David jong chun adongin, Uri’ah jah a, “Kholgama kona hung lhung nahilou ham, ibola na-in lama chelouva naum ham?” tin aseitai."
+      },
+      {
+        "verse": 11,
+        "text": "Hichun Uri’ah chun David jah a, “Pathen thingkong le Israelte chule Judah te lhambuh jenga cheng ahiuvin, kapu sepaite kapupa Jo’ab le asepaite jong tollhang lah a ngahmun mai maiya cheng ahiuve; ipi dinga keima ina kachea kadu du kaneh a atui tui kadona kajinu angsunga nomtah a kalup ding ham? Nangma damlai sung le nahinkho phat lai sungsen keiman hitobang kinopsah na thil hi bol ponge,” tin aseiye."
+      },
+      {
+        "verse": 12,
+        "text": "Chuphat’in David chun Uri’ah jah a aseiyin, “Tu nin jong hikoma umtan, jing tengle navaikondoh sah nange,” atitai. Hijeh chun Uri’ah chu hiche nikho le ajing nikho hin Jerusalem a anichong tai."
+      },
+      {
+        "verse": 13,
+        "text": "David’in Uri’ah chu akouvin, ama koma an ne dingle lengpitwi don dingin ahil e; chuin ama chu lengpitwi adon khamsah tai; nilhah lamin Uri’ah chu apupa sepaite chutoh lumkhom din ajalkhun akijot kit’in, ainlama chesuh louvin aum kit tan ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Ajing jingkah chun David in lekha khat asunin Uri’ah khut’a agah thot’e."
+      },
+      {
+        "verse": 15,
+        "text": "Lekha sunga hin David chun hitin asune, “Uri’ah hi gal kisatna ahah lai laiya amasan pansah-uvin lang chutengle min athatei teina din ama achangseh-in dalhauvin,” tin asun e."
+      },
+      {
+        "verse": 16,
+        "text": "Hijeh chun Jo’ab chun khopi khat aum phat’in mihat tah tah panmun ahi, tia ahetsa laitah don a chun Uri ‘ah hi apansah tai."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin khopi sunga sepaite ahung kondoh-uvin Jo’ab chutoh akisat tauve; mipi lah a David sepaite phabep jong min asat lhu tauvin, Hit mi Uri’ah jong chu athat tauve."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun Jo’ab’in jong mi asolin, gal kisat umchan jouse chu David jah a agaseisah tai;"
+      },
+      {
+        "verse": 19,
+        "text": "Jo’ab chun sottolle mipa chu phate’n ahilehah masan, “Lengpa jah a chu gal kisat thusim aboncha nasei-soh teng leh,"
+      },
+      {
+        "verse": 20,
+        "text": "ijemtia lengpa alung han jeng tah a nang jah a, ‘Ibola chutobanga chu khopi nanailut jenguva kisatpi dinga nacheuba ham? Kulpi bang dunga kona nahin kap jeng diu nahet louvu ham?"
+      },
+      {
+        "verse": 21,
+        "text": "Jerub’besheth chapa Abim’elech chu koi tha ham? Bangvuma kona numei khat’in sumhei-song alulam ahinlhah sah leh alhah khah a hijeh a chu Thebez kiti laiya chu thiden hilou ham? Ibola hi tobang tah a chu bang nanailut jengu ham?’ tia aseileh; nangman, ‘Nasohpa Hit mi Uri’ah jong athitai,’ tia naseipeh ding ahi,” atin ahil’e."
+      },
+      {
+        "verse": 22,
+        "text": "Sottollepa chu ahungin David henga Jo’ab’in asollo najouse abonchan ahilsoh keiyin aseipeh tai."
+      },
+      {
+        "verse": 23,
+        "text": "Sottollepa chun David jah a hitia asei ahi, “Gal miten keiho eihinjoujo tauvin, keiho dou nan tollhanga ahung kitoldoh jenguve; ahivangin keihon jong kelkot phung geiyin kadellut kit’uvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin galmi thalpi kap them hon banga konin nasohte hi eihin kaptauve; hijeh chuh nasohte lengpa sepai phabep jong athin, nasohpa Uri’ah jeng jong athitai,” ati ahi. "
+      },
+      {
+        "verse": 25,
+        "text": "Hichun David jong chun sottollepa henga aseiyin, “Nangman Jo’ab henga hitia nasei ding ahi; ‘Hiche thilsoh hin nangma lung gim chomdeh hih-in, ajeh chu chemjamin khat khat’a abantan tan ahitai; natha hatsah jon lang khopi chu delkhumin, akhopi chu sugam jengin,’ tin seipeh-in, hiti chun Jo’ab chu tilkhou tan,” ati."
+      },
+      {
+        "verse": 26,
+        "text": "Uri’ah jinun ajipa Uri’ah chu athitai, ti ajah doh phat’in ajipa dingin akap’in apul adoutai."
+      },
+      {
+        "verse": 27,
+        "text": "Amanu pul douna akichai phat’in David in mi asolin amanu chu aina agapui lutsah tai, chule Bathshe’ba jong chu David jinu ahitai, Bathshe’ba hin David chu chapa khat ahinpeh-e. Ahinla David thilbol achonna chung changa hin Pakai alung lhai tapoi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Pakaiyin Nathan chu David henga asolleh, Nathan jong David henga ahung tai. Nathanin ajah a aseiyin, “Khopi sung khat’a hin mi pasal ni acheng lhonin, khatpa chu mihao ahin, khatjopa vang chu mivaicha ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Mihaopa hin kelngoihon tamtah le bonghon tampi avulin;"
+      },
+      {
+        "verse": 3,
+        "text": "mivaichapa vang chun imacha aneipoi, aman alel lel a akichoh kelngoipi neocha khat bou aneiye. Hijongle aman kelngoipi chu akivah vah-in, achate toh akivah tha thai; kelngoipi hin ama changlhah aneh ding an jong anejin, adon dingcjong akhonsunga konin adonjie; chutengle a-angsunga alum jin, achanu tobang bangin aumtan ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Hichelai hin kholjin mi khat mihaopa henga chun ahung lhungin ahileh, hiche kholjinpa thapeh dingin mihaopan jong akelngoihon lah a khattou thapeh ding jong ait tan, abonghon lah a kona khattou thapeh ding jong ait tai; ahin mivaichapa kelngoipi chu amanin ahenga hung jin lhungpa ding chun athapeh tan ahi,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Chutah chun David jong alung hangjah jengin hiche mihaopa douna chun Nathan jah din aseitai, “Pakai hing jing mina kasei ahi, hitobanga kisa a chonvalpa chu thi dinga kilom mong mong ahibouve;"
+      },
+      {
+        "verse": 6,
+        "text": "chujongle aman voujang natna beihela hitobang thilpi hi aboljeh hin aman kelngoipi chu ajat lia asah kit ding ahi,” atin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "Nathanin David jah a aseipai jengin, “Hiche kisei mipa hi nangma nahi. Pakai Israel Pathenin hitin aseiye, ‘Nang hi keiman Israel chunga leng chang dinga thao kanusa nahin, Saul in nathana ding jousea jong kahuhdoh jing nahiye;"
+      },
+      {
+        "verse": 8,
+        "text": "chujongle napupa Saul in jong kapehdoh nahi, napupa jite jouse jong nangma anga kalupsah a, Israel insung pumpi le Judah insung jong kapeh nahi; hicheng jong hi alhom behseh nah laiya ahileh tamtah kapehbe ding nahi nalaiye."
+      },
+      {
+        "verse": 9,
+        "text": "Chuti ahileh thilse naboldohna dinga nangman ipi dinga Pakai thusei nanot thap hi tam? Nangman Hit mi Uri’ah chu nadengin chemjamin nathat tai, chule ajinu chu naji din nakipui jeng theiye; ama chu Ammon mite chemjama natha ahitai."
+      },
+      {
+        "verse": 10,
+        "text": "Hijeh a chu tua hi nangma insunga kona jong chemjam langjing jeng ding ahi, ajeh chu nangin keima nahsah mon neibolin, Hit mi Uri’ahjinu chu naji din nakipuitai,’ tin aseiye."
+      },
+      {
+        "verse": 11,
+        "text": "Pakai chun hitin jong aseiye, ‘Vetan, keiman nangma insunga kona nadou ding thilse kahin sodoh sah ding, namitmu changtah a najite jong kalahpeh a naheng nakom mite kapeh ding ahin, min sun chang laiya najite aluppi ding ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Ijeh-inem itileh nangman nathilbol chu guhthima nabol ahin, keiman vang Israel pumpi mitmu dinga sunlai khovah laitah a kabol ding ahi,’ tin aseiye,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Chutah chun David in Nathan jah a aseiyin, “Keima Pakai dou nan kachonsetai,” a tin ahileh; Nathan jong chun David jah a aseipaiyin, “Pakaiyin jong nachonset angaidam tai, hijeh chun nang jong thi tapon nate."
+      },
+      {
+        "verse": 14,
+        "text": "Hijongle la nangin hiche thil hi nabola Pakai chu nahsah mo tah a nabola nataitom ahitan, hijeh a chu ahung peng ding nacha chu thitei tei ding ahi,” tin aseitai. "
+      },
+      {
+        "verse": 15,
+        "text": "Hichun Nathan ainlam” achetan ahi. Pakaiyin Uri’ah jinu hin David chapa chu adengin ahileh naocha chu anapai tan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Hijeh chun David jong naosen damna din Pakai henga atao taove; David chun an angolin apotdoh-in, jan khovah hel chun tollhanga alum in ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chuphat’in ainsung mi upa chengsen adinpiuvin ajol jol jenguvin tollhanga alupna a kona thodoh tei din agouve; ahinla David chu akithoudoh deh pon, an jong neh pi dingin agodeh poi."
+      },
+      {
+        "verse": 18,
+        "text": "Ahivangin ni sagi lhin nin naosen chu athi tah bah tai. Hichun naosen athitai, tia David jah a seidoh peh ding asohte akichatauve; ajeh chu amaho geldola, “Vetan, naosen ahinlaiya bon eiho thusei angai louva ahileh, tua naosen athitai, tia iti iseidoh ngam diu ham? Amale ama kithalo mai ding ahi,” tia angaitou ahiye."
+      },
+      {
+        "verse": 19,
+        "text": "Ahin David chun asohte chu akhoisa cheh tauve, ti amudoh phat’in, naosen chu athi ahitai, tin David in ahedoh pai paitan ahi; hijeh chun David chun asohte adongin, “Naosen chu athia hi tam?” atileh; amahon jong, “Athitai” atiuve."
+      },
+      {
+        "verse": 20,
+        "text": "Chuphat’in David jong tola alupna konin ahung thouvin akisil ngim pai paiyin, thao akinun, aponsil akhel’in, Pakai houin sunga avah lut’in chibai agaboh-e; chujouvin David chu ama inlama ahungin an athum phat in amahon jong ankong aluipeh-uva ahileh, an anetan ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Hichun asohten ajah a aseiyuvin, “Ipibola hitia hi nachon ham? Naosen ahai haipet’in an nangol’in nakap kap jengin, naosen athi tahbah phat ‘in nathouvin an nane jeng theiye,” atiuleh;"
+      },
+      {
+        "verse": 22,
+        "text": "David’in jong aseiyin, “Naosen ahinpet a chu an kangola kaka ka ahin, “Kon ija ahet thei ham, ajo le Pakaiyin eilungset a naosen hi ahinsah thei ahi?” tia keiman kageljeh ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Tunvang ama athia ahitan, ibola ba an kangol ngol ding ham? Ken ama chu kahinsah theiya nabol’uvam? Keibou ama henga kache ding ahin, ama chu kahenga hung kite kit louhel ding ahitai,” ati."
+      },
+      {
+        "verse": 24,
+        "text": "David in ajinu Bathshe’ba alhem lung mongin ahenga agalut kit’in aluppia ahileh chapa khat ahing kit-e; David in amin Solomon asah-in ahi. Pakaiyin amahi angailui. "
+      },
+      {
+        "verse": 25,
+        "text": "Hijeh chun Nathan themgaopa henga ahin hetsah-in ahileh, Nathanin Pakai thusei dungjuiyin ama chu amin Jedidi’ah tin jong asah kit’e."
+      },
+      {
+        "verse": 26,
+        "text": "Jo’ab chun Ammon mite khopi Rabbah chu adel khumin akisatpia ahileh ajouvin leng khopi chu alatai."
+      },
+      {
+        "verse": 27,
+        "text": "Chuin Jo’ab chun David henga sottolle miho asol’in agaseisah tai, “Keiman Rabbah kaga kisat pin, twiphai khopi chu kalatan ahi."
+      },
+      {
+        "verse": 28,
+        "text": "Hijeh chun tun mipi amoh cheng khomtup’in lang khopi dou nan ngahmun hung sem tan, akhopi jong hung toupha jengin; achutilouva ahileh keiman akhopi hi kalah a keima min kaputsah ding ahi,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Hijeh hin David chun mipi abonchan akhomsoh keiyin Rabbah khopi lama achen, akhopi dou nan gal abol’in akisat pin ahileh ajouvin alatai."
+      },
+      {
+        "verse": 30,
+        "text": "Alengpau lallukhuh jong aluchanga konin aho-lhah peh-in, alalkhuh gih dol chu sana jeng jong talent khat alhingin, asunga chun song mantam tah akikoiyin, hiche hi David lukhuh a abapeh tauve. David chun Rabbah khopia thil thang tamtah ahin chomdoh-in ahi."
+      },
+      {
+        "verse": 31,
+        "text": "Chujongle akhopi sunga cheng mipi chu gal-hingin akaiyin, thing-at ding le tuphul kheng ding, heicha kheng dingin agoiyin, chule cheh dengin apansah tai. David chun hitobanga hi Ammon mite khopi jouse anabol ahi; chujouvin David le mipi chu abonchauvin Jerusalema ahung kite kit tauve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David chapa Ab’salom chun sopi numei hoitah khat aneiyin, amin Tamar akiti; phat chom khat nungin David chapa Ammonin Tamar chu adeichan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "Ammon chun Tamar hi adeichaten ten jengin ahileh atinaje akimah hel’in, akhon khon nan Tamar adeichat behseh jeh-in anatlo tan ahi; ijeh-inem itileh Tamar chu nu-ngah theng ahinalaiyin hijeh chun Ammonin imacha alonaje ahe ta hih hel’e."
+      },
+      {
+        "verse": 3,
+        "text": "Ammon hin golpa khat aneiyin, amin jong Jon’adab akiti; ama hi David golpa Shim’e-ah kitipa chapa ahin, Jon’adab hi lungthim suhtoje themtah mi khat ahi."
+      },
+      {
+        "verse": 4,
+        "text": "Jon’adab hin Ammon jah a aseiyin, “Vo lengpa chapa, ipibola nangma jingkah sim jingkah seh le mi-ngol uma uma nahim? lti nahi hi neiseipeh lou ding ham?” atileh; Ammonin jong ajah a aseiyin, “Keiman kasopipa Ab’salom naonu Tamar khu kadeichat jeh ahi,” tin aseidoh tai."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat’in Jon’adab chun ajah a aseiyin, “Najalkhuna lumin lang alhemin kinatsah-in; napa chu nangma ve dinga ahung tengleh, ajah a anaseiyin lang, ‘Kanaonu Tamar chu hinsol’in an neh eihung bolpeh hen, keima mitmu mong mongin neh ding hung sem hen lang ken jong kamit tah hin veng ting ama khutsoh chu nenge,’ tin seiyin,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hijeh chun Ammon jong alum in alhemin akinatsah tai; chuin lengpa David chu ave din ahungin ahileh Ammon chun lengpa jah a aseitai, “Lungset tah-in kanaonu Tamar chu neihinsol peh in lang keima mitmun changlhah pheng ni beh eihung sempeh hen, ken ama khutsoh mong mong nenge,” atitai."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun David in jong inlama mi asolin Tamar agakousah-in hitin aseisah e,“Na upa Ammon ina chen lang aneh ding anneh gasempeh tan,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuphat’in Tamar jong achen a-upa Ammon ina chun alupna chun ache lut tai. Hichun changbong goina alan changbong agoiyin, Ammon mitmun changlhah asemin akanpeh tai."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin Tamar chun akhangbel sunga changlhah kansa chu Ammon angsunga agathuh lhah peh-in ahileh aman la aneh tapoi. Hichun Ammonin aseitai, “Kakoma konin miho abonchan soldoh tan,” ati. Hijeh chun miho abonchan ama koma konin apotdoh soh keiyuve."
+      },
+      {
+        "verse": 10,
+        "text": "Chutah chun Ammonin Tamar jah a aseiyin, “An neh ding chu indan sunga hinchoi lut tan, keiman nangma khut mong monga kona kaneh ding ahi,” atileh; Tamar jong chun asemsa changlhah chengse chu alan, abonchan indan sunga a-upa Ammon henga ahinchoi lut tan ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Hitia hi Tamarin changlhah ho chu aneh dinga Ammon henga ahinchoi lut phat’in Ammonin amanu chu aman’in atuh chah jeng tan, chujongle ajah a aseitai, “Hungin neihung luppin kanaonu,” tin ajoltai."
+      },
+      {
+        "verse": 12,
+        "text": "Ahin Tamar chun adonbut’in, “Ahipoi he-u, kacham louvin neibol hih beh-in, ajeh chu hitobanga thil hi Israelte lah a kibol ngailou ahi; hitobang ngol hoi thil hi boldin got dan."
+      },
+      {
+        "verse": 13,
+        "text": "Keiman hoilama jum le ja kathoh ngam ding hiya, chule nang jong Israelte lah a michavai mi-ngol khat mong mong nahi ding hita chume. Hijeh a chu katao tho ahijenge, lengpa jah a neikithumle chun aman jong nang ding bep’a chu ajah da louhel ding ahinai,” ativangin;"
+      },
+      {
+        "verse": 14,
+        "text": "Ammon chun amanu thusei a ngaipeh deh tapon, amanu sanga athahat joh jeh chun pumhat’in ano-lhun, hiti hin aluppi tai."
+      },
+      {
+        "verse": 15,
+        "text": "Akichai phat’in Ammonin Tamar chu aho behseh jeng kittan, ahotdan dan chu masanga adeichatna sangin akhoh cheh jo tai. Hijeh chun Ammon chun ajah a aseipaiyin, “Kithoudoh loiyin lang vah mang loiyin,” tin adel paitan ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Ahivangin Tamarin ajah a asei yin, “Ahipoi he-u, hitobang thildih louva neisol mangpai kit ding hi neibolna khat joh sanga jong khoh chehjo kitma ahitai,” atileh; Ammonin ngaipeh-in aneideh tapoi."
+      },
+      {
+        "verse": 17,
+        "text": "Chujongle Ammon hin ama lhacha a pang gollhang khat chu akou loiyin, “Hiche nu hi kamasanga konin sondoh loiyin lang anunga kotpi kamloiyin,” tin asoltai. "
+      },
+      {
+        "verse": 18,
+        "text": "Tamar hin sangkhol chol abansao khat aki-ah ahi; ijeh-inem itileh masang laiya leng chanu nu-ngah theng ho chu hitobang hi akivonji mongu ahiye. Hiti hin Ammon lhacha gollhangpan Tamar chu asondoh pai paiyin anunga kotpi akamden tan ahi."
+      },
+      {
+        "verse": 19,
+        "text": "Chutah chun Tamarin jong alujanga vutvam akiloiyin, asangkhol chol chu abottel’in, akikolnamthangsin, achepum pumin othongje jun akap’in achemangtai."
+      },
+      {
+        "verse": 20,
+        "text": "A-upa Absalomin anadongin, “Nasopipa Ammon chun naumkhompi hiteiyinte, ong? Hijongle tun lung mongin um maitan kanao, ama jong chu na-upa ahibouve; athilbol hi nalungthima chinda tan,” ati. Hijeh chun Tamar jong a-upa Ab’salom in’a chun acheng denin, don louvin aumtai."
+      },
+      {
+        "verse": 21,
+        "text": "David lengpan hitobang thilsoh ho hi ajah doh phat’in alung hang lheh jengin ahi."
+      },
+      {
+        "verse": 22,
+        "text": "Ahin Ab’salom hin Ammon jah a thilpha jong thilse jong aseideh pon ahi; ipijeh-inem itileh Ammonin hitobanga anaonu pumhat a jotho mana abol chu lung phamoa Ammon kitipa hi ahot ahitan ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Kum ni lhingset ahiphat’in Absalom chun Ba’al-ha’zor khoa kelngoimul vou din mi agoiyin, akho mun hi Ephraim gam to kinai ahitai, Ab’salom chun lengpa chapate abonchan golvah a chun akousoh keiye."
+      },
+      {
+        "verse": 24,
+        "text": "Hichun Ab’salom jong lengpa henga ahungin aseitai, “Vetan, nalhachapa keiman kelngoimul vou din mi kagoiyin golvah kabole, hijeh chun lengpa jong asohte jouse jong nalhachapa keitoh kilhonin gachu hite,” tin aseitai."
+      },
+      {
+        "verse": 25,
+        "text": "Ahivangin lengpan Ab’salom jah a aseiyin, “Ahipoi kacha, nang dinga khanlel kahisanguvin keiho hungda tauvinge,” ati. Ahinla Ab’salomin aha-ngeh cheh jengin ahi, hiche jong hin David chu achedeh pon, phatthei aboh-in asoltai."
+      },
+      {
+        "verse": 26,
+        "text": "Chuphat’in Ab’salomin aseipaiyin, “Ahile lungset tah-in kanao Ammon beh hi keiho to kilhonin neisolpeh tan,” ati kit’e. Hichun lengpan jong adongin, “Ipibol pen’a ama hi nangto kilhon khoh khoh ding ham?” atileh;"
+      },
+      {
+        "verse": 27,
+        "text": "Ab’salomin aseitei teijengin Ammon le lengpa chapate aboncha asolpeh masangin angeh ngeh jenge."
+      },
+      {
+        "verse": 28,
+        "text": "Chujouvin Ab’salom chun asohte thu ape masan aseiye, “Ammon khu lung nom tah a ahung uma, lengpitwi ahung kham ve-lhi jing jenguvin lang, keiman najah-uva, ‘Ammon chu denguvin,’ tia kahinsei teng leh that jenguvin, kicha hih hel’uvin. Keiman thu kapeh louva nabolu ham? Hanguvin lang thanei tah-in panguvin,” tin aseipeh tai."
+      },
+      {
+        "verse": 29,
+        "text": "Hijeh chun Ab’salom sohten jong Ab’salomin athupeh bang bangin aboltauve. Chuin lengpa chapate abonchan akipat’uvin asakolpol cheh chunga akikhangdoh soh keiyuvin ajam gamtauve."
+      },
+      {
+        "verse": 30,
+        "text": "Amaho lampi ahung gei naiaiyuvin David henga thu ahung kithang lut masan, “Ab’salomin lengpa chapa jouse athatgamin, khat’a khat chajong akhentapoi,” tin akiseiye."
+      },
+      {
+        "verse": 31,
+        "text": "Chutah chun lengpa jong akipatdoh jengin aponsil jouse abottel’in tollhanga akijam tai; chuin akoma ding alhacha jousen jong aponsil akibotel soh keiyuvin ahi. "
+      },
+      {
+        "verse": 32,
+        "text": "Hichun David goipa Shim’e-ah kitipa chapa Jon’adab chun aseiyin, “Kapun hitin lunggel hih beh in, lengpa chapa ho gollhang jouse aboncha atha ahisampoi, Ammon chengseh kithat ahibouve; ijeh-inem itileh Ab’salom thupeh a kona hiche abol ding hi Ammonin anaonu Tamar pumhatsan a abolset nikhoa pat’a chu gonsa akoi ahitai. "
+      },
+      {
+        "verse": 33,
+        "text": "Hijeh chun tun jong kapu lengpan nageldan chun lengpa chapate abonchauva thigam ahitauve, tin ngaito hih hel in; ajeh chu Ammon mai maibou thi ahi,” ati."
+      },
+      {
+        "verse": 34,
+        "text": "Hichun Ab’salom ajam mang tai; mive-lhia pang gollhangpa chu akhodah in agahvet’a ahileh, vetan, Horona’im lama konin molsang pang langa chun mihem tamtah ahung kijot’uvin ahi."
+      },
+      {
+        "verse": 35,
+        "text": "Hichun Jon’adab chun lengpa jah a aseiyin, “Vetan, lengpa chapate khu ahung tauve; nalhachapa keiman kaseipeh bangin ahung tahsoh mong mong tan ahi,” atipeh-e. "
+      },
+      {
+        "verse": 36,
+        "text": "Jon’adab chun thu aseijou jouvin, vetan, lengpa chapate chu ahung lhung pai paiyuvin, chuin apengjah-uvin akap cheh-uvin ahileh, lengpa le alhachaho jong abonchauvin lhase tah-in akapsoh keiyuve."
+      },
+      {
+        "verse": 37,
+        "text": "Ab’salom vang chu ajamin, Geshur lengpa Ammihud kitipa chapa Talmai henga achetai. David chun aniseh leh achapa Ammon pul adou dou jenge."
+      },
+      {
+        "verse": 38,
+        "text": "Hitobanga hi Ab’salom anajama Geshur gama lhailut ahin, hikoma chun kumthum sungin agathamin ahi."
+      },
+      {
+        "verse": 39,
+        "text": "David lengpan alungthimin Ab’salom henga che ding angaicha lheh jeng jin ahi; ijeh-inem itileh Ammon chu athi ahitai, ti kichenin amudoh tan, ama jong lhep lung mongin aumjotan ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Lengpan Ab’salom hi angaicha lheh jeng tai, ti Zeru ‘iah chapa Jo’ab hin ahetdoh phat’in"
+      },
+      {
+        "verse": 2,
+        "text": "Jo’ab hin mi asolin Tekoa khosunga mi numei chingtah khat agaholdoh sah-in, amanu jah a chun aseitai, “Nangma tun lunghema pul dou dou jeng tobangin kisemin, pul douna ponsil kisil’in lang, thao jeng jong kinu dan, phat sot tah sunga thi op’a um numei pul dou dou jeng bangin umin,"
+      },
+      {
+        "verse": 3,
+        "text": "chutengle lengpa David henga gachelut’ in, ajah a hitin gaseiyin,” atin, Jo’ab chun asei ding thu jouse abonchan amanu chu athumop tai."
+      },
+      {
+        "verse": 4,
+        "text": "Tekoa khosunga numeinu chu lengpa henga ahung phat’in tola aboh khup’in alhun jana aboltai, chule aman aseiyin, “Vo lengpa, neipanpin,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun lengpan jong adongin, “Nagentheina ipipen ham?” atileh; amanun adonbut’in, “O kaden, keima meithainu kahi, kajipa athia ahitai."
+      },
+      {
+        "verse": 6,
+        "text": "Ahin nasohnu kei hin chapa ni kaneiyin, amani chu loujaova ahung kibao lhonin akina lhone; amani phel khen ding mihem khat cha ana um loujehin khatpan khatjo pa chu adengin athat pai tai."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun vetan, insung pumpi ahung konuvin nasohnu hi eidel khumuvin aseitauve, ‘Asopipa that pa chu hinlhadoh loiyin, aman asopipa athat’in ahinkho khela keihon ama katha diu ahi,’ tin aseiyuve; hitobang hin amahon ama chilhah jong asuhbei tei diu dol ahitai. Hitia hi amahon keima mei-am jeng jong achenmit uva hiche leiset chunga kajipa min asuh mang diu, achikhai ding jong aumsah lou diu ahitai,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuphat’in lengpan jong numeinu jah a chun aseiyin, “Na-in lama chen, keiman nangma chung chang thudola nadei bangin thu tanpeh nange,” tin asoltai."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun Tekoa khoa hung kon numeinu chun lengpajah a aseiyin, “Kapu lengpa, themmona chu keima le ka inkote chunga chujo hen, lengpa le alaltouna vang themmona beiyin umjo hen,” tin aseiye."
+      },
+      {
+        "verse": 10,
+        "text": "Chuin lengpan aseiyin, “Mihem khattouvin nahenga thu asei kit’a ahileh ama chu kei koma hinpui jengin, ama chun nangma natham khah kit louhel ding ahi,” atipeh-e."
+      },
+      {
+        "verse": 11,
+        "text": "Hichun amanun jong aseipaiyin, “Lungset tah-in Pakai na-Pathen henga neitaopeh tei teiyin, chutia chu thisan phu lanom pan mi atha kit louva, kachapa atha louna din,” atileh; lengpan jong aseipeh-in, “Pakai hing jing mina kasei ahi, nachapa chu asamjang khat jeng cha jong tola lhamang louhel ding ahi,” atitai."
+      },
+      {
+        "verse": 12,
+        "text": "Numeinun aseipai kit’in, “Lungset tah-in nasohnu kei hi kapu lengpa henga thu cheng khat beh neisei sah temin,” atia ahileh; lengpan jong, “Seiyin seiyin,” ati. "
+      },
+      {
+        "verse": 13,
+        "text": "Hichun numeinun aseiyin, “Chuti ahileh ipi dinga nangman Pathen mite douna hitobang thilgon hi nanei ham? ljeh-inem itileh lengpan hitobanga thutanna naneiya kon hin lengpan nadelmangpa inlama napuilut loujeh-in nathutan hi nangma chungma ma a nakitan ahitai."
+      },
+      {
+        "verse": 14,
+        "text": "Eiho ibonchauva athi cheh ding ihiuve, ibonchauva tola twi kisung lha kinung thaldoh kit thei lou to bang ihiuvin ahi, Pathenin jong mithi longdamsa chu phongdoh kit deh taponte; hijeh chun lengpan thilgon neiyin lang nakoma kona kidelmangpa chu gamla tah a phat sotpi aumlouna dingin sohchang bangin umsah sah datan."
+      },
+      {
+        "verse": 15,
+        "text": "Tua hi keima hiche thuseiya hung kahin, kapu lengpa heng kahung phah ahiye, ipijeh-inem itileh mipi hin keima eitijat sah tauvin chuphat’a nasohnu ken jong hitia hi kagela, ‘Keiman lengpa henga gasei tange, ijem itileh lengpan asohnu kei thusei hi ngai jeng khat nante."
+      },
+      {
+        "verse": 16,
+        "text": "Ajeh chu lengpan kathu ngaiyin tin asoh hi kachapa pum puma asumang ding miho khut’a eihuhdoh tei ding ahi, Pathen mite lah a eisuhmang sah lou ding ahi,’ tia kagel ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Chujongle nasohnu lunggel a chu, ‘Lengpa kapu thuseiya chu keima kalung ol thei ding ahi,’ kati ahiye; ijeh-inem itileh lengpa kapu hi thilpha thilse hetkhendola Pathen Vantil tobang nahi. Pakai na-Pathenin napanpi jing hen,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun lengpan jong numemu chu adonbut’in, “Keiman kadoh doh chu ipi hijongle im nanei louhel ding ahi,” ati. Numeinun jong aseiyin, “Kapu lengpan naseinom nom sei jengin,” atitai."
+      },
+      {
+        "verse": 19,
+        "text": "Lengpan adongin, “Thil hijatpi nasei na a hi nangma Jo’ab chutoh kihoutoh a kikhut jop nahim?” atileh; numeinu jong chun adonbut’in, “Kapu lengpa nadamlai pet’a hi keiman thengtah a kasei ahi, kapu lengpan nasei sei chu ipi hileh koimachan jet le veiya apel thei louhel ding ahin; hiche sei dinga eisola chu nalhachapa Jo’ab ahinai; thu hijatpi hi aman nasohnu keima hi eithumop’a kakamsunga eikhumpeh ahinai."
+      },
+      {
+        "verse": 20,
+        "text": "Nalhachapa Jo’ab chun nalung nakhela thil kigondol jouse nakheldoh ding gelkhohna hiche hi abol anahi. Ahoi hitaleh kapu nangma hi leiset chunga um thil ijakai hetna dol a nachih dan mong mong Pathen Vantil chihna to bang bang nahibouv’e,” atin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chutah chun lengpan jong Jo’ab jah a aseiyin, “Lungset tah-in vetan, keiman hiche nathil ngeh khoh hi kanop peh nahitai; hijeh chun chen lang gollhangpa Ab’salom chu ganung pui lut tan,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Chuin Jo’ab jong chu tola aboh khup’injana abolin, lengpa phatthei aboh-in, hiti hin Jo’ab chun aseitai, “Tuni hin kapu lengpa mitmun lungsetna kachang mong monge, ti nasohpa keiman kahetai; ajeh chu lengpan nasohpa thil ngeh khoh pen hi nanop peh jenge,” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Hijeh chun Jo’ab jong akipatdoh pai paiyin Geshur gama achen Ab’salom chu Jerusalema ahinpui tai."
+      },
+      {
+        "verse": 24,
+        "text": "Chuin lengpan aseiyin, “Ab’salom hi achangseh-in ama insunga chensah tauvin; ama hi keima angsunga vang hung vah lut thei louhel ding ahi,” ati. Hijeh chun Ab’salom chu achombeh-in ama ina akichentan, lengpa umna a ahung vah lut kha tapoi."
+      },
+      {
+        "verse": 25,
+        "text": "’Israelte lah a Ab’salom tobanga amel-hoijeh a seiphat thei dang koimacha ana umpoi; Ab’salom hi akeng khotaljuma pat alujang geiya achunga nolna ding imacha beihel ahi."
+      },
+      {
+        "verse": 26,
+        "text": "Alujang sam chu agih behseh teng kumseh a kum kichai tih tih leh khatvei akivoji ahin, hitia hi asam akivoa ahitengleh lengpa thil te-na a atea ahileh, asam jeng jeng chu shekel ja ni cheng agih jin ahi."
+      },
+      {
+        "verse": 27,
+        "text": "Ab’salom hin chapa thum ahingin, chanu khat ahingin, achanu min chu Tamar akiti; Tamar jong hi numei hoitah khatma ahi."
+      },
+      {
+        "verse": 28,
+        "text": "Hiti hin Ab’salom hi kum ni lhingset lengpa angsunga vah lut kha louhel’in Jerusalema achenge."
+      },
+      {
+        "verse": 29,
+        "text": "Chuin Ab’salom chun Jo’ab kou dingin mi asolin, ahunga ahileh lengpa henga sol din agoi; ahinla Jo’ab chu ahenga ahung tapon ahi. Mi asol kit leuvin ahivangin Jo’ab ahung deh kit poi."
+      },
+      {
+        "verse": 30,
+        "text": "Chuphat’in aman jong asohte jah a aseiyin, “Veuvin, Jo’ab lou khu keima louban tah ahi, alou laiya khun sakol chang akitui, cheuvin lang meiyi’n gahalvam tauvin,”  ati. Hijeh chun Ab’salom sohten Jo’ab lou chu meiyin ahalvam tauve."
+      },
+      {
+        "verse": 31,
+        "text": "Chuphat’in Jo’ab jong akipatdoh pai paiyin aina aumpet’in Ab’salom henga achen ajah a agaseitai, “Ipi dinga nasohten kalou meiya ahalvam jengu hi tam?” agatileh; "
+      },
+      {
+        "verse": 32,
+        "text": "Ab’salom jong chun Jo’ab chu adonbut’in, “Vetan, keiman nahenga thu kahin thotjin, ‘Hikoma hungin keiman lengpa henga nasol ing ting, “Ipi ding pen tah-a keima hi Geshur gama kona hung khoh khoh a kahiya, kei dinga Geshur gama umden chu nomjo dinga?” tin aseiye, tia gadoh sah ding kati nahi. Tujengin jong lengpa angsunga neilutsah mong mongin lang keiman themmona kaneiya ahijongleh aman eithat jeng hen,’ ati tia gasei sah ding kati ahi,” ati."
+      },
+      {
+        "verse": 33,
+        "text": "Chuphat’in Jo’ab jong lengpa henga achen agaseipeh a ahileh, hichun lengpan jong Ab’salom chu akoutai. Chuin Ab’salom jong lengpa henga ahungin, lengpa angsunga chun aboh khup’in tola amai asulut tan ahi; chuin lengpan jong Ab’salom chu achop tai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Hiche kichai nung hin Ab’salom chun kangtalai khat akisemin, sakol akai ding ho jong akigot tohsoh keiyin, chule amasanga alamsatpeh dingin mihem pasal cheh som nga akilhendoh tai."
+      },
+      {
+        "verse": 2,
+        "text": "Ab’salom hi jingkah jingpi tah-in athou jin, kelkot lampi geiya chun ading jin ahi; mihem khat touvin lengpa henga mi hehna ding thu aneiya, athu tansah dinga ahung tengleh, hitobang miho chu Ab’salom in akou jin adong jie, “Hoiche khopi pen a hung kon nahiya?” atia, amipa chun, “Nasohpa hi Israel phung hijat lah a hiche khuche phunga kon chu kahi,” tia aseipeh tengleh,"
+      },
+      {
+        "verse": 3,
+        "text": "Ab’salom chun ajah a aseijin, “Ven, nachung chang thu vang hi aphan, dih jong adih nai; ahinla nangma thu ngaipeh dinga lengpan anganse koimacha aumpoi,” atijie. "
+      },
+      {
+        "verse": 4,
+        "text": "Chujongle Ab’salom chun aseiyin, “O kadeh, keima hi gamsunga thutan vaihoma pang hita ve leng, achunga thusoh jouse leh adihna nei jouse kahenga hungin tin, keiman ama chu kadihsah sah jeng ding ahi,” ati,"
+      },
+      {
+        "verse": 5,
+        "text": "Chutia chu ama jabol dinga ahenga mi ahung seh leh aman hitobang miho chu akhut’in atuh chah jeng jin, achop jeng jie."
+      },
+      {
+        "verse": 6,
+        "text": "Hitobang hin lengpa henga athu kikhola kitansah dinga hungji Israel mi tapou chu Ab’salomin anabol jing jin ahi; hichea kon hin Ab’salom in Israel mite lungthim abonchan athu nunsoh heltai."
+      },
+      {
+        "verse": 7,
+        "text": "Kum li alhina akichai phat’in Ab’salomin lengpa jah a aseiyin, “Lungset tah-in neisol’in lang keima Hebron khopia cheng ting Pakaiya kakitepna bol ding kin kanei chu gabol tange."
+      },
+      {
+        "verse": 8,
+        "text": "Ijeh-inem itileh nalhachapa keima Aram gamsung Geshur a kachen lai chun kitepna khat kanabolin hi tin kanaseiye, ‘Pakaiyin Jerusalem a einung puilut kit pou pouva ahileh keiman Pakai henga kilhaina kabola chibai kaboh ding ahi,’ tin kaseiye,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun lengpan jong aseipeh-in, “Thanom tah-in chetan,” ati. Hijeh chun Ab’salom jong akipatdoh pai paiyin Hebron a achetai."
+      },
+      {
+        "verse": 10,
+        "text": "Ahinla Ab’salom chun guhthim cha Israel phung jouse henga sottol le miho anasola hitia hi anaseisa ahi, “Nang hon saki pengkul kimut ging najah pou pou uva ahileh, ‘Hebron khopia Ab’salom aleng chang tai,’ tia nasei diu ahi,” tin anahil masademin ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Ab’salom in akou cheh mihem ja ni jen Jerusalem khopia konin Ab’salom chutoh akilhon’uvin, imacha gel louhel’in acheuvin, asung thu imacha ahepouve. "
+      },
+      {
+        "verse": 12,
+        "text": "Ab’salom in kilhaina gantha ima abol laiyin, Gilon mi Ahith’ophel kitipa, David dinga lungthim a kithopi phatah mipa chun mi asol’in achenna Giloh khopia konin agakousah tai. Ab’salom thilse bol lengpa adouna chu akhangtul tul jengin, mipin jong Ab’salom ajopbe be jeng tauve."
+      },
+      {
+        "verse": 13,
+        "text": "Hijeh chun sottolle mi khat David henga ahungin hitin ahung seiye, “Israel miten alungthim’uvin Ab’salom nung ajui gamtauve,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Chuphat’in David jong chun Jerusalem khopia ama koma um asohte jah a aseiyin, “Kipat loiyun jamtau hite; achutilouva ahileh eiho din Ab’salom masanga jamdohna um thei louhel ding ahitai; kinloiyin cheu hite, achutilouleh Ab’salomin eihin kheltan loiyun tin, ichunguva thilse asosah a, khopi jeng jong hi chemjama abansat chap jeng ding ahi,” ati."
+      },
+      {
+        "verse": 15,
+        "text": "Hichun David lengpa sohten jong lengpa jah a chun aseiyuvin, “Lengpan chena dinga naphatsahna lam lama che dia keiho kigosadem kahitauve,” atiuvin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Hijeh chun lengpa jong apotdoh pai paiyin ainsung mite jouse jong anunga akitol tauve. Lengpan ain ngah din thaikem numei som khat adalhai."
+      },
+      {
+        "verse": 17,
+        "text": "Hitia hi lengpa apotdoh jeng phat’in mipin abonchan anung ajui cheh-uvin ahi; acheu chun khopi monga veng pam nung pen tah a in khat a akingauvin ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Lengpa lhachaho asohte jousen ama akhelsoh keiyuvin, Chereth mite ahiuvin, Peleth mite ahiuvin abonchan akijot’uvin, Gath khoa kipat’a David nung hinjuipeh Git mite jagup ho jong chu abonchan ahunguvin, mi hijatpi hi abonchauvin lengpa masanga akitol masauvin ahi."
+      },
+      {
+        "verse": 19,
+        "text": "David lengpan Git mi It’tai chu adongin, “Ipi dinga nangma keiho to nakilhon khoh ding ham? Nung chen lang Ab’salom lengpa toh cheng khomtan, ajeh chu nangma gamchom mi nahin, amonga jong na-in a kona hikoma sohchanga hung khopem nahibouve."
+      },
+      {
+        "verse": 20,
+        "text": "Nangma jan hia hung lhung bep’a, hoilam kajot ding kache-na ding bon kihe louva iti tunia ken nangma kholgama vah le dinga kapui kit jeng thei ding ham? Kile kit tan, nasopipa jong hi kipuiyin lang kile kit mong mong tan; Pakaiyin long louhel’in nalungset hen lang, kitah tah-in napanpi jing hen,” ati."
+      },
+      {
+        "verse": 21,
+        "text": "Ahinla lt’tai chun lengpa adonbut’in, “Pakai hing jing min le kapu lengpa hinlai pet’ a kasei ahi, kapu lengpa chuh chuhna a, thina hihen hinna hijongleh, nahi hina a chu nasohpa kei jong kachuh jeng ding ahibouve,” atitai,"
+      },
+      {
+        "verse": 22,
+        "text": "Chuphat’in David jong chun, “Chuti ahileh masan masan,” atileh; Git mi lt’tai jong amasan, amite chengse le akilhonpi nunao chapang jouse chutoh akitol tauve. "
+      },
+      {
+        "verse": 23,
+        "text": "Mipi chutia akitol jeng phat’uvin gampumpi chu othengje jun akap tauve; lengpajong achen Kidron lui agalkai tai, hiti hin mipi abonchauvin gammang lam jonin akitoldoh tauvin ahi."
+      },
+      {
+        "verse": 24,
+        "text": "Vetan, Zadok jong Levite se se jong ahiuvin, Pathen kitepna thingkong chu ahinpu uvin ahi; chuin Abi’athar jong ahung toupai paiyin, mipi aboncha khopi akhokhel kahseuvin Pathen thingkong chu tola angauve."
+      },
+      {
+        "verse": 25,
+        "text": "Hichun lengpan jong Zadok jah a aseiyin, “Pathen thingkong hi khopi sunga polut kit tan. Pakaiyin avet’a eilungset’a ahileh eihin pui kit intin, hiche thingkong le achenna mun hi eimusah kit tei tei ding ahi;"
+      },
+      {
+        "verse": 26,
+        "text": "amavang Pakaiyin, ‘Nachunga kalung alhaipoi,’ tia aseiya ahileh, vetan, keima hikoma kaum jinge, aman aphatsah lam lamin eibol jeng hen,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Lengpan Zadok thempupa jah hin hi tin jong aseiye, “Ven, ven, nangma lung mong tah-in khopi sunga chelut kit’in, Abi’athar chu kipuiyin, nachapa teni lhon, nangma chapa Ahim’a-az le Abi’athar chapa Jonathan chutoh kilhon tauvin."
+      },
+      {
+        "verse": 28,
+        "text": "Veuvin, keiman gammang lam palmun lam palmun dunga khu nang hon thu neihung hetsah kahseuva ka nga nga jeng ding ahi,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Hijeh chun Zadok le Abi’athar chun Pathen thingkong chu Jerusalem khopi sunga anung poh lut kit lhonin, khopi sunga aumden lhoutan ahi."
+      },
+      {
+        "verse": 30,
+        "text": "David vang chu Olive lhangvum lama akaltouvin, achepum pumin akap peh jengin, akengkeovin lam ajonin, ponlu akikhuh-in ahi; chujongle akilhonpi mipi jong chun abonchauvin ponlu akikhuh soh keiyun, akitol toupai paiyun, achepum pumin akap peh-uve."
+      },
+      {
+        "verse": 31,
+        "text": "Min David jah a thu ahung seipeh-in hitin ati, “Ahith’o-phel jong leng doumah bol miho lah a apangin, Ab’salom toh akithokhom e,” ahung tipeh-e. Chuphat’in David jong chun aseiyin, “Vo Pakai, Ahith’o-phel lungthim ngaito jouse chu ngolnan heidoh peh tan, tia katao ahi,” ati."
+      },
+      {
+        "verse": 32,
+        "text": "Pathen kihouna mun molvum sang laiya David ahung kaldoh phat’in, vetan, David golpa Arch mi Hushai kitipa chu asangkhol chol akibottelsa’n alujanga leivui akinun David lamto din ahunge."
+      },
+      {
+        "verse": 33,
+        "text": "Hichun David jong chun Hushai jah a aseiyin, “Nangman neikilhonpi le chun kei dinga noh phah sah nahi bep ding ahi."
+      },
+      {
+        "verse": 34,
+        "text": "Chusangin nangma Jerusalem khopi sunga lutjon lang Ab’salom jah a chun, ‘Vo lengpa, masang laiya napa lhacha kapan bang chun, tun jong keima nang lhachan pang kit inge, hijeh chun nalhachan neipansah tan,’ gatin; chuti chun pang thei le chun nangman Ahith’ophel kitipa lunggel ngaito chu nasuh lhah thei ding ahi. "
+      },
+      {
+        "verse": 35,
+        "text": "Khosunga khu Zadok le Abi’athar thempu teni chun nangma napanpi lou dinga nagel ham? Hiti hin gabolin lang, ipi pi hijongle nangman lengpa insunga kiseidoh najah chan chu Zadok le Abi’athar thempu teni jah a hinsei sonji jin,"
+      },
+      {
+        "verse": 36,
+        "text": "Vetan, achapa teni lhon jong amani khutoh umkhom ahiuve; Zadok chapa Ahim’a-az kitipa le Abi’athar chapa Jonathan kitipa chu; nangman najah doh chan chu amahoa kona hi kei henga thu nahin thot jing jeng thei ahitai,” ati."
+      },
+      {
+        "verse": 37,
+        "text": "Hijeh chun David golpa Hushai chu Ab’salom Jerusalem khopi sunga ahung lut pet tah chun ama jong khopi sunga ahung lut’in ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David chun molvum akhokal jep phat’in Mephib’osheth sohpa Ziba kitipan analamton, sangan ni apohto kikanlhopsa cheh ahinpuiyin, changlhah lhon ja ni toh, lengpitheiga boh ja khat toh, nipilai theiga ja khat jen toh chule lengpitwi savun peng dimset khat ahinpoh sah-e."
+      },
+      {
+        "verse": 2,
+        "text": "Hichun David lengpan jong adongin Ziba jah a chun, “Ipi dinga thil hijatpi hi nahinpoh hi tam?” atileh; Ziban jong adonbut’in, “Sangan teni hi lengpa insung mite touna ding ahin, changlhah le nipilai theiga hi sepaite neh ding ahi; chutengle lengpitwi hi gamthip laiya dangchah a lhasam ho don ding ahi,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Chuphat’in David lengpan adong pai kit’in, “Napu chapa chu hoiya ba um hitam?” atia ahileh; Ziban lengpa jah a aseiyin, “Vetan, ama chu tuni geiyin Jerusalem a aum jing nalaiye, ijeh-inem itileh aman akinep pin aseiye, ‘Tunia hi Israel insung miten kapa lenggam chu einungpeh diu ahi,’ tin agel-e,” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Chuin Ziba jah a lengpan aseiyin, “Ven, Mephib’osheth thil le nei jouse chu aboncha tua hi nang chan ding ahitai,” atipeh-e. Chutah chun Ziban jong aseipai jengin, “Keiman nang kajabol nahi, neimu chanin kachunga lung lhai jing jengin, kapu ka lengpa,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "David chun Bahu’rim kho ahinphah phat’in Saul inkote sunga mi pasal khat ahung potdoh-in, ama hi amin Shim’e-i ahin, Gera chapa ahi; ahung potdoh pum pumin ahung hang hang jengin agaosap sap jeng tai."
+      },
+      {
+        "verse": 6,
+        "text": "Chujongle ama hin song alan David jong asep’in, David lengpa sohte jong chu asep sep jenge; chule a jet aveiya chun mipi abonchan akigol’uvin, mihat jouse akigolsoh keiyuvin ahi. "
+      },
+      {
+        "verse": 7,
+        "text": "Agaosap pum pumin Shim’e-i chun aseiyin, “Chemang loiyin, chemnang loiyin nang thisan sohat mi, panna beipa!"
+      },
+      {
+        "verse": 8,
+        "text": "Tua ama khela leng nachanlo Saul insung mite thisan phu chu abonchan Pakaiyin nachunga la hen; hitia hi Pakaiyin lenggam jong chu nachapa Ab’salom khut’a apehdoh ahitai. Kivetan, nachunga naman thah nading ahung lhung tai; ajeh chu nang hi thisan sohat mi nahi,” ati."
+      },
+      {
+        "verse": 9,
+        "text": "Chuphat’in Zeru’iah chapa Abi’shai chun lengpa jah a aseiyin, “Ipi dinga hiche ui thisa hin kapu lengpa hitia agaosap sap ham? Neisol’in lang alu galange,” atileh; "
+      },
+      {
+        "verse": 10,
+        "text": "Lengpan aphoh-in, “Nang ho ikalo ding nahiuvam? Nang ho Zeru’iah chapate? Pakaiyin ahila ajah a aseipeh khu gaosap’in,” ati ahijongleh, koiham, “Ibola nangin hiche hi nasei ham?” tia phoh ngam ding chu,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Chujongle David chun Abi’shai le asohte jouse henga aseiyin, “Vetan, keima chapa mong mongin bon tha dinga eihola ahileh, hiche Benjamin phunga mipa hin iti abolda thei ding ham! Don dauvin, gaosap sah sah jeng tauvin; ajeh chu Pakaiyin aseipeh hithei tah ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Ijem itileh Pakaiyin kagenthei hesohna hi eivet peh-in tin, tunia eikigaosapna jeh a Pakaiyin keima dinga thilpha eibolpeh theijoh ding ahi,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Hijeh chun David le amite chu lam pia ache thim thimtauve; Shim’e-i jong chu David chutoh kigalmupeh-in thinglhang jui juiya achepeh-in agaosap sap jenge; amaho chun David chu songin jong asep’uvin chule leivui jong athekhum khum jenguvin ahi."
+      },
+      {
+        "verse": 14,
+        "text": "Chuin David lengpa le alhonpi mipi chu abonchauvin thachol tah-in Jordan vadung ahung lhunguvin ahi; Jordan vadunga chun David jong athachol akido kit tai."
+      },
+      {
+        "verse": 15,
+        "text": "Ab’salom le amite Israel mite chu Jerusalema ahunguvin, Ahith’ophel kitipa chun Ab’salom ahinlhonpi."
+      },
+      {
+        "verse": 16,
+        "text": "Chuin David golpa Arch mi Hushai chu Absalom henga ahungin, Hushai hin, “Hingsot’in lengpa, Lengpa hingsot’in” tin ahin sam tai."
+      },
+      {
+        "verse": 17,
+        "text": "Chutah chun Ab’salom jong chun Hushai jah a aseiyin, “Hiche hi nagolpa nakhohsahna hiya ong? Ipi dinga nangma nagolpa to kilhona nache lou ham?” tin adong tai. "
+      },
+      {
+        "verse": 18,
+        "text": "Ahin Hushai chun Ab’salom jah a aseiyin, “Ahipoi, koi koi hijeng jong leh Pakai le hiche mite, Israel miten abonchauva alhendoh pen pen chu kei jong ama a chu kahi jengin, ama chutoh keima kalhat khom jing ding ahibouve."
+      },
+      {
+        "verse": 19,
+        "text": "Chujongle keiman koi dang kin kabol ding ham? Lengpa chapa kinbola kapan tei tei ding hi lou ham? Keiman napa kin kanabol bang banga tua nangma kin jong kabol ding ahi,” atitai."
+      },
+      {
+        "verse": 20,
+        "text": "Ab’salom chun Ahith“ophel adongin, “Nalung gel temin, ipi ibol diu hitam?” atileh;"
+      },
+      {
+        "verse": 21,
+        "text": "Ahith’ophel jong chun Ab’salom jah a aseipeh-in, “Napan in ngah dinga adalhah athaikem ho henga khun galut’in lang galup pin; chutileh Israel pumpin nangma hi napa doumah lamtah a kisa nahitai, ti jadoh-uvin tin, chutah le nang to kikhut jop chengse atha hatdoh cheh ding ahi,” atipeh-e."
+      },
+      {
+        "verse": 22,
+        "text": "Hijeh chun mihon Ab’salom dingin inchunga ponbuh asonpeh-uvin, chuin Ab’salom chu Israel mi pumpi mitmu lai tah-in apa thaikemho henga alut jengin aluppi tan ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Hichelaiya Ahith’ophel kitipan mi athumop tapou chu Pathen henga phun kisan tobang bang anahi; hitobang cheh a hi David le Ab’salom jong chun Ahith ‘ophel lunggel athumop hi anagel cheh lhon ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Ahith’ophel kitipa chun aseibe nalaiyin, Ab’salom jah a chun, “Sepai sang som le sang ni neilhendoh sah-in lang, kipat’ing ting tujan ma man David nung del pai yinge. "
+      },
+      {
+        "verse": 2,
+        "text": "Keiman David chu athachol pet tah khat’a kadel khum jeng ding, alung kasuh doipeh a, kicha tah a kaumsah ding, chutengle apanpi miho jouse jong jam mang soh diu ahi. Chutah le lengpa changseh bou katha ding ahitai,"
+      },
+      {
+        "verse": 3,
+        "text": "mipi vang chu aboncha kahin puilut ding, mouthah akichenpi dingpa henga hung kipuilut banga inlama kahin puilut ding ahiuve; nangman mi khatseh bou tha dinga nahol ahin, chutengleh mipi vang chu lung mong tah a um diu ahitai,” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Athusei hin Ab’salom jong alung lhaisah lheh jengin, Israel upate jong abon chauvin alung lhaisah soh hel tan ahi."
+      },
+      {
+        "verse": 5,
+        "text": "Chuphat’in Ab’salom chun aseiyin. “Arch mi Hushai jong gakou tem’uvin, aman ipi asei mong am, ngaiyu hite,” ati."
+      },
+      {
+        "verse": 6,
+        "text": "Hushai chu Ab’salom henga akoulut phat’uvin Ab’salom chun Hushai jah a aseiyin, “Ahith’ophel kitipa hin hitobang bang thu anaseitan, aman eihilnau bang banga hi ibol jeng diu hita, ahiloule nangman nasei ding hinte,” ati."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun Hushai jong chun Ab’salom jah a aseipaiyin, “Tuchunga Ahith ‘ophel lunggel amihilna hi thilpha ahipoi,” atitai."
+      },
+      {
+        "verse": 8,
+        "text": "Hushai chun aseibe kit nalaiyin, “Napa ahin amite ahiuvin mihat ahi, ti nangin nahetsa ahi; chujongle amaho hi akiphin lung hangsa ahiuvin, gamlah a anou kilahpeh savompi tobang ahiuve. Hiche tilou jong hin napa chu galbol themtah mi ahi kit’e; hijeh chun ama hi mipi to geh khom louhel ding ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Vetan, tujengin jong ama hi achangseh a kokhuh dung khat a kisel ham, ahiloule munchom dang khat’a kisel ahibouve. Kisatna a chu mi athia hung um mong .jongleh amasa a chu ajapha jousen asei ding hetsa chu, ‘Ab’salom nungjui asepaite hijat jat athitai,’ tia bou kisei ding ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Chutengle gal-hang miho alungput sakeibah kai lungput tobang jeng ho jong chu kicha a hung lung lhalhop diu ahi; ajeh chu napa chu mihat tah ahin, apanpi miho jong gal-hang jeng ahiuve, ti hi Israel pumpi het ahi."
+      },
+      {
+        "verse": 11,
+        "text": "Hijongle keima lunggel vang hileh, Israel pumpi hi Dan gama pat Beer-sheba geiyin nakoma kikhomsoh keihen lang, twikhanglen panga neldi jat aphah tengu leh nangma tah natahsan galmuna gapangle chun kati ahi."
+      },
+      {
+        "verse": 12,
+        "text": "Chuti henlang hileh mun khat beh a eihon David chu akimudoh na theipen pen a achunga ichuh cheh-uva, tola daitwi alhah bang banga achunga ikibuh lhah cheh diu, ama ahin apanpi miho jouse puma khat’a khat jeng cha jong khen neilouva idelpha jeng diu ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Ijem tin David chu khosung dung khat’a jamlut jongleh, Israel pumpin khao kipatsoh keiyin tin, akhopi chu kikai mang hel’intin, song halsi khat geiya jong kidalha lou ding, vahom langa kikai mang soh ding ahi,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Chuphat’in Ah’salom le Israel miten abonchauvin aseiyun, “Arch mi Hushai alung gel hi Ahith ‘ophel lunggel san gin aphajoi,” atitauve. Ijeh-inem itileh Pakaiyin Ab’salom chunga thilse asosah nom jeh a Ahith’ophel lunggel phatah chu suh lhah ding agot ahibouve."
+      },
+      {
+        "verse": 15,
+        "text": "Chuphat’in Hushai chun thempu teni Zadok le Ahi’athar henga aseipehin, “Hitobang hin chule hiti hin Ahith’ophel chun Ab’salom le Israel upate ahilchah tai, hichun keiman jong hitobang hin kahilguh kit’in ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Hijeh chun tun mi sl loi lhonin lang David jah a gaseisah lhonm, tujan hin gamthip nm palmun dunga anageh hih beh-in, itin iti jongleh anagalkai pai tei teiyin: achutilouva ahileh lengpa David le akilhonpi mite abonchauva min athagam hel diu ahitai,’ tin gasei sah lhontan,” ati."
+      },
+      {
+        "verse": 17,
+        "text": "Jonathan le Ahim’a-az chun Enrogel mun a chu anga jingji lhona, soh numei khat chea amani chu thu agapeh ji, chutengle amani chepai kit ji lhona David lengpa agaseipeh ji ji lhon ahi: ijeh-inem itileh amani hi khopi sung ahung lut ji lhon hi koimachan amu louhel ding dol ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Ahin golhang khat chun amani hi amudoh tan, achen Ab’salom jah a agaseitai; hijeh chun amani jong kinloi tah-in ache mang loi lhonin, Bahu’rim khoa pasal khat insunga ahung lut lhonin ahileh, amapa hin ainvela chun twikul khat aneiye; hijeh chun amani jong twikul sunga chun alut lhonin akisel lhon tai."
+      },
+      {
+        "verse": 19,
+        "text": "Numei khat hin twikul kam sinna ding khat alan, akama chun aphan, achunga chun chang aphou khuma ahileh imacha aumlam akihedoh tapon ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Ab’salom sepaite chu hiche in muna numeinu henga ahung phat’uvin amahon jong, “Ahim’a-az le Jonathan chu hoilama um lhon tam?” tia adoh-uva ahileh, numeinun jong ajah-uva aseipeh-in, “Amani chu twidung khu agalkai lhon ta men,” atipeh-e. Amaho chun agahol’uvin amudoh jou lou phat’uvin Jerusalem lama ahung kile kit tauve."
+      },
+      {
+        "verse": 21,
+        "text": "Amaho ache phat’uvin Ahim’a-az leh Jonathan chu twikul sunga konin ahungdoh lhonin, achepai lhonin David lengpa agaseipeh lhon tan ahi. Amani hin David jah a asei lhonin, “Kipatdoh loiyin lang, twidung galkai loi jengin; ajeh chu hitobang bang hin Ahith’ophel chun nang dounan lunggel phalou lou mi ahiltai,” agati lhone. "
+      },
+      {
+        "verse": 22,
+        "text": "Chuphat’in David jong akipatdoh pai paiyin, ama lhonpi mipi chutoh akilhonin Jordan vadung agalkai tauve; khovah lhah phat’in Jordan vadung galkai loulai khat cha jong aum tapouve."
+      },
+      {
+        "verse": 23,
+        "text": "Ahith’ophel hi athumop koiman alahpeh lou amudoh phat chun sangan chunga touna akiphan, akhopi lama ainlama achetai. Chuin aman ain alou agoltoh soh keiyin, chujouvin amale ama akikhaiyin athitai; chuin mihon amahi apa lhankhuh ma ma a avuitauve."
+      },
+      {
+        "verse": 24,
+        "text": "David chu Mahana’im kiti laiya chun ahungin ahi. Ab’salom jong chun Jordan vadung ahinpal galkaiyin ama ahin Israel mite aboncha ahiuvin ahung tauve. "
+      },
+      {
+        "verse": 25,
+        "text": "Ab’salom hin Jo’ab khel’in sepai lamkai chun Amasa anapansah tan ahi. Amasa hi Ish’mael mi pasal khat amin Ithra kitipa chapa ahin, Ithra hin Jo’ab nu, Zeru’iah sopinu Nahash kitinu chanu Ab’igal chu akichenpin ahi."
+      },
+      {
+        "verse": 26,
+        "text": "Israelte leh Ab’salom hin Gilead gamsunga ngahmun asemtauve."
+      },
+      {
+        "verse": 27,
+        "text": "David chu Mahana’im ahung lhun phat’in, Ammon mite kho Rabbah a konin Nahash chapa Shobi le Lodebar khoa kona Am’miel chapa Machir toh, chule Ro’gelim khoa kona Gilead mi Barzil’lai chutoh ahungun,"
+      },
+      {
+        "verse": 28,
+        "text": "lupna jalkhun phabep le kisilna kong ho, leibel phabep toh, suhlou chang le sakol chang, neh ding an, chule changpoh kansa, louthul le bekan ahinpouvin,"
+      },
+      {
+        "verse": 29,
+        "text": "khoiju le bongnoiha ahin, kelngoi jong, bongnoithao jong David le alhonpi miho neh ding chun ahinpouve; ijeh-inem itileh amaho hin aseiyuvin, “David le aloite mipi hi gamthip laiya gilkel’uva lhasam gam ahitauve,” atiuvin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David chun apanpi sepaite chu asimtoh soh keiyin, achunguva mi asang sang chunga lamkai ding, aja ja chunga lamkai ding agoltoh soh tan ahi."
+      },
+      {
+        "verse": 2,
+        "text": "David chun sepai hop thuma hop khat chu Jo’ab alamkaisah-in, hop thuma hop khatma chu Jo’ab sopipa, Zeru’iah chapa Abi’shai alamkaisah kit’in, chutengle hop thuma hop khat kitma chu Git mi It’tai alamkai sah-e; miho jah a hin Lengpan aseiyin, “Keima tah jong nang ho toh gal ikon khom diu ahi,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Ahivangin mipin aseiyuvin, “Nangma gal nakondoh louhel ding ahibouve. Ijeh-inem itileh keiho hi hung galjam jongu leng, amahon iman igel khoh pouvinte, keiho akeh khat hel thi jeng tau jong leng amahon ima agel deh lou diu ahi. Nangma vang keiho mi sang som to kibang nahi; chujongle nangman khopi sunga kona keiho panpi mi nahinsol thojoh ding hi thilphajo ahi,” atiuve."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun lengpan jong aseiyin, “Ipi hitajongle nang ho dinga aphapen tah hiding chu keiman kabol jeng ding ahi,” atitai. Hijeh chun lengpa chu kelkot phunga adingdenin, sepaite vang chu aja jan asang sangin akitoldoh tauve."
+      },
+      {
+        "verse": 5,
+        "text": "Chuin lengpan Jo’ab le Abi’shai chule It’tai chu ahil dim demin, “Keima ja nan gollhangpa Ab’salom chu lung neng tah in hinbol’uvin,” ati. Ab’salom chung changa lengpan sepai lamkai mithum athu lhah na chu mipin abonchan ajasoh keiyuve."
+      },
+      {
+        "verse": 6,
+        "text": "Hiti hin sepaite chu gamlah a Israelte toh kisat din akondoh tauve; hichea chun Ephraim mite gamsung gammang lah a gal akisat tauvin ahi."
+      },
+      {
+        "verse": 7,
+        "text": "David sepaiten Israel mite ajouvun, hiche nikhoa mi athau chu atam lheh jengin, mihem sang som ni alhinge,"
+      },
+      {
+        "verse": 8,
+        "text": "Gamsung pumpia gal akithechansoh keitan, chemjama kisat lih sangin gammang lah a ohlih mihem atamjon ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ab’salom jong chun David sepaite atoh kha khel khel’in ahi. Ab’salom chu asakolpol chunga hung tou ahin, hichun sakolpol chu gangpi thing lentah khat abah kainel nul lah khat ahin a lhailut’in abah lah ahopan ahileh, Ab’salom chu aluchang gangpi bah lah a a-oh den tai; hichun Ab’salom chu van le lei kah a akikhai den in, sakolpol chun adalhan anoiya achepaitan ahi."
+      },
+      {
+        "verse": 10,
+        "text": "Mi khat chun Ab’salom chu amudoh phat’in Jo’ab jah a aseipeh tai; “Ven, keiman Ab’salom chu gangpi phung bah lah a akikhaiden kamui,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Jo’ab jong chun ajah a thuseipa chu adong loi jengin, “I-nasei ham, Ab’salom kamui natim! Ibola hikoma chu tola nasat lup da ham? Chutin hinbol le chun keiman dangka shekel som khat beh le konggah khat nape dinga chu,” ati."
+      },
+      {
+        "verse": 12,
+        "text": "Ahivangin mipa chun Jo’ab jah a aseiyin, “Keiman kakhut’a hi dangka shekel sang khat gih a gih katham khah hita jongleh lengpa chapa thana dingin kakhut lam hih hel inge; ijeh-inem itileh keiho jah tah-in jong lengpan nangma le Abi’shai chule It’tai thu nape cheh-uvin, ‘Keima ja nan gollhangpa Ab’salom chu ahingin hinhoi tei teiyun,’ tin aseibouve."
+      },
+      {
+        "verse": 13,
+        "text": "Lang khatma hiti hin keiman kathi le thi, tin joule nal’in hinbol jeng jong leng, lengpa mudin imacha akisel theiya aumdeh pon, chutengle nangman nang ding bou nagela neidon louhel ding ahi,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Hichun Jo’ab’in aseipaiyin, “Keiman hitobang hin nangto phat sumang mang ponge,” atin; gangpi phung bah lah a Ab“salom ahing nalaiya aum pet chun, Jo’ab chun tengcha chom thum alan agah peiya ahileh Ab’salom lung chang dontah a akiphut tai."
+      },
+      {
+        "verse": 15,
+        "text": "Chujouvin Jo’ab galvonpoa pang gollhang sepai som khat’in Ab’salom aumkim’uvin, adengun athat tauve."
+      },
+      {
+        "verse": 16,
+        "text": "Jo’ab chun saki pengkul amut’in ahileh sepaiho chu Israelte nung adelnauva konin ahung kilesoh keitauve; ajeh chu Jo’ab chun ajah da ahitai."
+      },
+      {
+        "verse": 17,
+        "text": "Chuin amahon Ab’salom long chu adom’uvin gammang lah a kokhuh lentah khat sunga aleh lut’uvin, achunga songtum jengjeng alhuh lentah-in aset khum’uvin ahi; Israelte vang chu ama ama inlam cheh a akijam lut soh tauvin ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Ab’salom hin ahinlaiyin lengpa phaijanga chun khom khat anaphutdoh-in ahi; ijeh-inem itileh aman anaseiyin, “Keiman kamin man louna dingin chapa la kaneipon,” atin, akhom phudoh chu ama min aputsah-in, hijeh chun hiche hi tuni geiyin Ab’salom kihet jingna tin akiseiye."
+      },
+      {
+        "verse": 19,
+        "text": "Chujouvin Zadok chapa Ahi’ma uz kitipa hin “Keima lhaijing ting, Pakaiyin amelmate khut’a konin ama ahuhdoh tai, tin lengpa David jah a gaseipeh tange,” ati. "
+      },
+      {
+        "verse": 20,
+        "text": "Ahinla Jo’ab chun ajah a aseiyin, “Tunia nangma thupole napan thei lou ding ahi; nidang dang leh thupon pang nan nate, tunia vang thupoa napan thei louhel ding ahi; ijeh-inem itileh lengpa chapa athitai,” ati."
+      },
+      {
+        "verse": 21,
+        "text": "Jo’ab chun Cush mipa jah a “Nangma chen lang nathilmu pen pen chu ipi hitam, lengpa gaseipeh tan,” ati. Chuin Cush mipa jong chu salam bolnan akunin, chujouvin alhai jel tai."
+      },
+      {
+        "verse": 22,
+        "text": "Chujouvin jong Ahi’mauz kitipa Zadok chapa chun Jo’ab jah a asei kit nalaiyin, “Asoh soh soh jeng hen, kei jong Cush mipa nunga khun lhai tange,” atikit leuve. Jo’ab chun aphoh-in, “Nathupoh jeh a kipaman bon mulou dinga, ipipen deichatna a nangma nalhai jeng ding ham chapa?” ati."
+      },
+      {
+        "verse": 23,
+        "text": "Ahivangin aman, “Asoh soh soh jeng hen, kei jong lhai jeng inge,” atia aseikit phat chun, Jo’ab jong chun ajah a aseipeh-in, “Lhaijo lhaiyin,” atitai. Chutah chun Ahi’ma-az chu phaicham lang lampia alhaiyin ahileh Cush mipa chu akhel tai."
+      },
+      {
+        "verse": 24,
+        "text": "David chu kelkot teni kikah a tou jing jeng ahin, kelkot ngahpa chu kelkot chung, inchunga chun akaldoh-in, palvuma chun aumin, akhoda u agahvet’a ahileh pasal khat achangseh a halhaiya hung lhai amun ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Chuphat’in kelkot ngahpan lengpa ahinkouvin aseipeh tai. Lengpan jong aleseipeh kit’in, “Ahung lhaipa chu achangseh ahileh, thupha sei ding ahinpoh ahi,” ati. Am a chu ahung lhailut pai paiyin, ahin nailut tai."
+      },
+      {
+        "verse": 26,
+        "text": "Chuin kelkot ngahpan michom khatma amukit’in, ama jong chu ahung lhai lhai jenge; chuphat’in kelkot ngahpan kelkot phung lam chu ahinkouvin, “Ven, ven, mi khat jong achangseh-in ahung lhai kit’e,” ati. Lengpan jong aseikit’in “Ama jong khun thupha ahinpoh hiya khu,” ati."
+      },
+      {
+        "verse": 27,
+        "text": "Kelkot ngahpa chun, “Ahung lhai masajo pa khu Zadok chapa Ahi’ma-az lhaitoh kakilomsah lheh jenge,” atileh; lengpan jong, “Ama chu mipha ahin thupha ahinpoh hiteiyin te,” ati."
+      },
+      {
+        "verse": 28,
+        "text": "Chutah chun Ahi’ma-az hin lengpa ahinkouvin, “Ijakai aphasoh keiye,” ati. Chujongle ama chu lengpa angsunga aboh khup’in tola amai asulut’in aseitai, “Pakai na-Pathen, kapu lengpa douna akhut lam jouse eipedoh soh keiyuvah ma chu nun nom hen,” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Hichun lengpan jong adong loiyin, “Gollhangpa Ab’salom ima tilou hinam?” atileh, Ahi’ma-az chun adonbut’in, “Nasohpa hi Jo’ab’in eihinsol pet chun mihonpi kinong lui lui kamun, ipi iti ham ti kahepoi,” atitai."
+      },
+      {
+        "verse": 30,
+        "text": "Chuphat’in lengpan jong, “Kikhindoh loiyin hikoma khun gading tan,” atileh; ama jong akikhindoh pai jengin, ading thip beh jeng tai."
+      },
+      {
+        "verse": 31,
+        "text": "Vetan, hichun Cush mipa chu ahung lhung paitan ahi; chuin Cush mipan aseiyin, “Kapu lengpa dingin thupha tah kahinpoi! Ijeh-inem itileh Pakaiyin tunin nangma dou dia kipan mite khut’a konin nahuhdoh tan ahi,” ati."
+      },
+      {
+        "verse": 32,
+        "text": "Lengpan jong Cush mipa chu adong paiyin, “Gollhangpa Ab’salom ima tilou hinam?” atileh; Cush mipan adonbut’in, “Kapu lengpa melmate jouse leh nangma douna thilse bol dinga kipan jouse hiche gollhangpa chutoh bang soh keiyu hen,” atitai."
+      },
+      {
+        "verse": 33,
+        "text": "Chuphat’in lengpa chu adip dam behseh jengin, kelkot hunga indan chung nunga chun akaldoh-in, akap tai; achepum pumin, “O kachapa Ab’salom, kachapa; kachapa Ab’salom! Nang khela kei kathileh iti ham, vo Ab’salom, kachapa, kachapa!” atin ahi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Jo’ab jah a chun “Vetan, lengpa David chun Ab’salom pul adou lel’in akap kap jeng tai,” tin agaseipeh tai."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun hiche nikhoa gal kijo chu mipi abonchauva din pul douna asohdoh jo tan ahi; ijeh-inem itileh hiche nikho hin mipin a bon chan ajauvin, “Lengpan achapa thi adou lel lheh jenge,” akititai,"
+      },
+      {
+        "verse": 3,
+        "text": "Sepaite jong chu hiche nikho hin guhthim chan khopi sunga ahung kijot lut’uvin, gal alel niuva jachat thoh a hung vahlut bangin ahung lut tauve."
+      },
+      {
+        "verse": 4,
+        "text": "Lengpan amai akikhun, othongje jun lengpa akap jah jah jengin, “Vo Ab’salom kachapa, kachapa Ab’salom, kachapa!” atin asam sam jenge."
+      },
+      {
+        "verse": 5,
+        "text": "Hichun Jo’ab jong lengpa insunga ahung lut’in aseitai, “Tuni hin nangman nasepaite jouse nangma nahinkho ahin, nachate numei pasal jouse hinkho jong chule najite leh nathaikemho hinkho huhhinga pangjouse mai najumsah tai;"
+      },
+      {
+        "verse": 6,
+        "text": "ipijeh-inem itileh nangman nahotbolte nalungset jon, nalungset te joh nahotboljo tai. Ajeh chu tunin nangman kichentah-in naseidoh tan, gal lamkaiho leh sepaite hi nang dinga imacha louva pang danin nabol tan ahi. Ijeh-inem itileh tuni hin Ab’salom chu kihinghoi hen lang keiho dang hi kabonchan thigam jengu leng nangma nalung lhaijo ding ahiye."
+      },
+      {
+        "verse": 7,
+        "text": "Hijeh chun tun kipatdoh-in lang potdoh pai paiyin nasohte henga thu ngeitah-in hung sei loiyin; ijeh-inem itileh Pakai mina kihahsel kahi, nangma nahung potdoh louva ahileh tujan jenga jong mihem khat’ a khat chan jong nagepi louhel ding ahitai; chuti hen lang hileh, nachapa gollhangpa a kona nachunga hung lhung thilse hijat sanga jong hiche thilsoh ding hi khohjo ding ahi,” ati."
+      },
+      {
+        "verse": 8,
+        "text": "Chuphat’in lengpa jong akipatdoh jengin kelkot phunga atouna chun atoutai. Hichun mipi abonchajah a aseipeh-uvin, hi tin aseiyuve, “Vetan, lengpan khu kelkot phunga atoutai,” atiuva ahileh; chuphat’in mipi a bonchauvin lengpa angsunga ahung kitol lutsoh tauve, Israelte vang chu ama ama inlam cheh a ajam lut soh tauve."
+      },
+      {
+        "verse": 9,
+        "text": "Israel phung chujat lah a chun mipi abonchan aboilah-lah jenguvin, hitin aseiyuve, “Lengpa David chun imelmateu khut’a kona einahuhdoh-uva, Philistine mite khut’a konajong inahuhhingu ahi; tua hi ama Ab’salom agin jeh a gamsunga kona jamdoh ahitai;"
+      },
+      {
+        "verse": 10,
+        "text": "ahinla eihon ichunguva leng chang dinga thao inupau Ab’salom chu galmuna athitai. Chuti ahileh ibola tua hi lengpa puilut kitna dinga imacha seilouva naumu hitam?” akitiuve."
+      },
+      {
+        "verse": 11,
+        "text": "David lengpan jong thempu teni Zadok le Abi’athar henga thu athot’in hi tin aseiye, “Judah mi upate jah a seipeh lhonin lang, ‘Lengpa henga Israel dang jouse thu hung lhungsoh ta, ipi dinga nang ho hi lengpa aina puilut kit ding thuseiya anukhah pen a pang nahiuvam?"
+      },
+      {
+        "verse": 12,
+        "text": "Nang ho hi keima inkote mong mong nahiuvin, kaphe le kavou nahiuve; ahileh ipi dinga nang ho lengpa pui ding thusei nukhah a napan diu ham?’ ati tilhonin. "
+      },
+      {
+        "verse": 13,
+        "text": "Chujongle Amasa jah a jong naseipeh lhon ding, ‘Nang hi keima phe le vou nahi lou ham? Tua lhah nang hi Jo’ab panmun khela sepaite lamkaiya napan lou pou pouva ahileh Pathenin abolnom nomin eibol hen, akhoh cheh jon jong eibol hen, kapansah ding nahi,’ tin aseiye, nati lhon ding ahi,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "David chun Judah mite chu mihem khatseh abahsah jengin alungu akitoh del’in, athu nunin, hijeh chun amahon thu ahin thot paiyun, lengpa henga chun, “Nang le nasepaite nabonchauvin hung kile kit jenguvin,” atiuvin ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Hichejeh hin lengpa jong ahung kile kit’in ahileh Jordan vadung ahung lhung tan ahi; Judah jong chu lengpa ∑lamtoa Jordan vadunga apui galkai din ahungin Gilgal ahung lhung tai."
+      },
+      {
+        "verse": 16,
+        "text": "Gera chapa Shim’e-i kitipa Benjamin phunga mipa jong chu Bahu’rim khoa pat’in David lengpa lamto din kinle bongin Judah mite chutoh ahung kilhonsuh tai;"
+      },
+      {
+        "verse": 17,
+        "text": "Shim’e-i hin Benjamin phunga mijeng jeng sang khat ahinpuiyin ahi. Chule Saul insunga soh a pangpa Ziba jong chu achapa som le nga ho le asohte mi som ni chutoh kilhonin Jordan Vadung lam lengpa masanga ahung lhaisuh jengin ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Amaho hin lengpa lung dei bolna dingin Jordan vadung palmun noh gal kaiya lengpa insung mite gapui galkai din agouve. Lengpan Jordan apal galkai got chun Gera chapa Shim’e-i hi lengpa angsunga aboh khup jengin,"
+      },
+      {
+        "verse": 19,
+        "text": "lengpa jah a chun aseitai, “Kapun themmo nei chansah dan lang, kapu lengpan jerusalem nadalhah nikhoa thilse kabol adih lou jong chu neigeldoh peh datan; hiche thil dih lou kibol chu nalungsunga ching hih beh-in."
+      },
+      {
+        "verse": 20,
+        "text": "Ijeh-inem itileh keima kachonsetai, ti nasoh pan kahetdoh ahitai; hichejeh a chu vetan, tunia hi hung kahi; Joseph insung mite lah a kapu lengpa lamto dinga ahung masapen kahi,” ati."
+      },
+      {
+        "verse": 21,
+        "text": "Hichun Zeru’iah chapa Abi’shai chun ahouvin, “Aman Pakai thao nusa lengpa agaosap jeh a hiche Shim’e-i kitipa hi tha jeng ding hilou ham?” atileh;"
+      },
+      {
+        "verse": 22,
+        "text": "David chun aphoh-in, “Nang ho hi ikalo ding nahiuvam, Zeru’iah chapate nang ho hi? Tunia nang ho keima kidoupia napan jeng theiyu hi? Tunia hi Israel mite lah a mi kithat ngai mong ding hiya ong? Ajeh chu tunia hi keima Israel leng kahi, ti kahet louva nabolu ham?” atitai."
+      },
+      {
+        "verse": 23,
+        "text": "Chuin lengpan Shim’e-i jah a aseiyin, “Nangma thipon nate,” ati. Hiti hin lengpan achunga kihahselna aneitai."
+      },
+      {
+        "verse": 24,
+        "text": "Saul chapa Mephib’osheth jong chu lengpa lamto din ahung suh tai; ama hin akengphang jong akisuh thengpon, akhamul jong akisuhjol pon, aponsil jouse jong akisop poi, lengpa apotdoh nikhoa pat damsela ahung kile kit kahsea hitia hi anaum um jeng ahi."
+      },
+      {
+        "verse": 25,
+        "text": "Jerusalem a kona lengpa lamto dia ahung phat chun lengpan jong ajah a aseiyin, “Mephib’osheth, ibola nangma keito kilhona nahung lou ham?” atileh;"
+      },
+      {
+        "verse": 26,
+        "text": "aman jong adonbut’in, “Vo kapu, lengpa, kasohpan eilhep lhah ahi; ajeh chu nasohpa kei hi akengbai kahin, hijeh a chu nasohpa hin kasohpa jah a chu, ‘Katouna ding sangan khat achunga atoumun gakantan’ katileh;"
+      },
+      {
+        "verse": 27,
+        "text": "ama chun nasohpa kei hi kapu lengpa henga eina tamsen ahi. Hijongleh kapu lengpa nangma hi Pathen Vantil tobang nahi; chuti ahileh chun nangman pha nasah sah chu bol jengin."
+      },
+      {
+        "verse": 28,
+        "text": "Ijeh-inem itileh kapa insung mite jeng jong chu kapu lengpa angsunga athi ding bep’a ana um cheh ahibouvui; hijongle nasohpa kei hi nangman na ankonga an ne dinga neina gon kit nalai ahi. Hiche kalvala hi keiman ipi thu neina kanei nah laiya lengpa henga ngeh le thum kanei nah lai ding ham?” ati."
+      },
+      {
+        "verse": 29,
+        "text": "Hichun lengpan ajah a aseiyin, “Ipi dinga nangman nachung chang thudol ave vela nasei nah lai ham? Gamsung hi nang le Ziba nakihom lhon dinga keiman kaseitohsa ahita men,” atipeh-e."
+      },
+      {
+        "verse": 30,
+        "text": "Chuin Mephib’osheth chun lengpa jah a aseiyin, “Vo lengpa kapu, lengpa bon inlama damsela hung lhung theiya hitan, Ziban agam chu abonchan kilah jeng hen,” ati. "
+      },
+      {
+        "verse": 31,
+        "text": "Gilead mi Barzil’lai kitipa jong chu Ro’gelim khoa konin ahung suh tai; amahi lengpa chutoh Jordan vadung geiyin akilhonin, Jordan vadunga thah galkai din agoi. "
+      },
+      {
+        "verse": 32,
+        "text": "Barzil’lai kitipa hi tehsepu mong mong ahitan, akum jong som get alhing tan ahi; lengpa David Mahana’im khoa apansat laiya jong chu ama hin neh le chah anakhan jing jeng ahi; ijeh-inem itileh ama hi mihao tah khat ahiye."
+      },
+      {
+        "verse": 33,
+        "text": "Lengpan Barzil’lai jah a aseiyin, “Keito kilhonin hung pai paitan, Jerusalema kei neh neh naneh sah nange,” tin ajoltai."
+      },
+      {
+        "verse": 34,
+        "text": "Ahivangin Barzil’lai chun lengpa jah a aseiyin, “Keima kum ijatpi hing nalai ding kahiya, tua keima lengpa to kilhona Jerusalem lenga kache ding ham?"
+      },
+      {
+        "verse": 35,
+        "text": "Tunia keima kakum somget lhingta, keiman itijong thilpha thilse deile deilou jong kadat khen nah lai ding ham? Nasohpa hin kaneh jong kadon jong atui a-al kahet nah beh ding ham? Kei hin pasal ho lasah gin ngei le numeiho lasah gin ngei jong kahet thei mong ding hinam? Chuti ahileh ipipen tah a nasohpa hi kapu lengpa dinga lung gimbe sah bep khat a kahung um ding ham?"
+      },
+      {
+        "verse": 36,
+        "text": "Nasohpa keiman Jordan vadung gal phabep khat’-a khun lengpa nahung kilhonpi nange. Hijeh a chu lengpan ipipen tah a tohman neipeh khoh khoh ding ham’? "
+      },
+      {
+        "verse": 37,
+        "text": "Lungset tah-in neinung sol kit’in lang keima khopi sungma ma a kathiden theina ding, kapa le kanu lhankhuh a kalup theina dingin, amavang nasohpa Chimham hikoma umpa hi kapu lengpan kipuiyin lang kilhonpi tan, nangin ama ding hin pha nasah lam lam chu bolpeh tan,” ati."
+      },
+      {
+        "verse": 38,
+        "text": "Chuphat’in lengpan jong adonbut’in, “Chuti ahileh Chimham hi keitoh kilhon nange, nangin naphasah sah chu ken ama hi kabolpeh ding ahitai; chujongle nangin jong keiya kona nadeichan chu kabolpeh ding nahi,” ati.“"
+      },
+      {
+        "verse": 39,
+        "text": "Chuphat’in mipi abonchauvin Jordan vadung agalkaiyuvin, lengpa jong agalkaitai; lengpan Barzil’lai chu achop’in, phatthei aboh paiyin, hichun Barzil’lai jong ama in langa ahung kile kit tai."
+      },
+      {
+        "verse": 40,
+        "text": "Lengpa chu Gilgal geiyin achen, chule Chimham chun lengpa akilhonpi peh tai; Judah mite chengse leh Israel mite keh khat jen chun lengpa hi alampia ahinpuipeh jenguve."
+      },
+      {
+        "verse": 41,
+        "text": "Israel mite abonchauvin lengpa henga ahunguvin chule lengpa jah a chun aseitauve, “Ipi dinga kasopiteu Judah miten nangma naguh manguva, lengpa le ainsung mite hi Jordan vadung agalkaisah jenguva, hitia hi David le amite ahitibol jengu hi tam?” atiuve."
+      },
+      {
+        "verse": 42,
+        "text": "Hichun Judah miten Israel mite abonchauvin adonbut’uvin, “Lengpa hi keiho inko kakinaipiu ahi. Ipi dinga nang ho hiche thudola hi lung hang nahiuvam? Keiho hin lengpa sonna a an kaneh uva nagel’u ong? Ahilou jongle ama hin keiho thilpeh khat tou eipeh-uva nabolu ham?” atiuve."
+      },
+      {
+        "verse": 43,
+        "text": "Hichun Israel miten Judah miho chu adonbut’uvin, “Keihon lengpa a kon hin chan ding jatsom kaneiyun, David chunga jong keihon nangho sangin chan ding tamjo kaneiyuve. Ipi dinga nang hon keiho hi donlou dailouva neikoiyu ham? I-lengpau ganung puilut kit ding thuseiya keiho apang masajo ding kahiu hilou ham?” atiuvin ahi. Hichea akinel nauva hin Israel mite thusei ho sang chun Judah mite thusei ho chu ahatjon akhoh joi."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "@@Hikoma hin hiche lai hin pannabei mi khat anaumin amapa chu amin Sheba akiti, ama hi apa min Bichri ahin, Benjamin phunga mi ahiye; Sheba kitipa hin saki pengkul amut gingin lhang asamin aseitai, @1“David koma eihon chan ding inei @3pouvin, @1Jesse chapa henga goulo ding inei @3pouve; @1Vo Israel mite, @2Nangma nangma ponbuh kijot cheh @3tauvin,” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun Israel mite abonchauvin David adalhahsoh hel’uvin, Bichri chapa Sheba nung ajui cheh tauve; ahivangin Judah miten alengpau chu lunglut tah-in Jordan vadunga pat Jerusalem geiyin ajui lut peh tauvin ahi."
+      },
+      {
+        "verse": 3,
+        "text": "David chu Jerusalem a ahungin ain ahung lhungtai; chuin lengpan in ngah dinga adalhah thaikem numei som khat chu abonchan aman khomsoh keiyin in khat’a akhol’in, mi angah ding sepai akoiyin, neh le chah vang apenan, amaho hi avil tapon, aluppi tapoi. Hijeh chun amaho hi athi ni geiyuvin cha hing louvin aumsoh keiyun, meithaisa bangin a umsoh keitauve."
+      },
+      {
+        "verse": 4,
+        "text": "Lengpan Amasa jah a aseipeh-in, “Nithum sungin Judah phunga mite a bonchan koukhomsoh soh keiyin lang, nangma tah jeng jong hikoma hin hung kikhomuvin,” ati."
+      },
+      {
+        "verse": 5,
+        "text": "Hijeh chun Amasa jong Judah mite kou din akondoh tai; ahinla ama dinga aphat kiteppeh chu ahinsu khel del tan ahi."
+      },
+      {
+        "verse": 6,
+        "text": "Chuphat’in David chun Abi’shai jah a aseipaiyin, “Tua hi Sheba kitipa Bichri chapa khun Ab’salomin eibol nau sanga khohjoa eibol diu ahi; nangman napu lhacha sepaite’ khu kipuiyin lang anung delpeh-in lang, gamantan, achutilouva ahileh ama hin kulpi kikaikhum khopi phabep akisah doh a eiho eisuh genthei diu ahi,” ati. "
+      },
+      {
+        "verse": 7,
+        "text": "Abi’shai nungjuiyin Jo’ab jong, Chereth mite jong, Peleth miho jong, chule mihat mipao jouse abonchan akitolsoh keiyuvin ahi. Amaho hi Jerusalem khopia Konin Bichri chapa Sheba nung del dingin akondoh tauve."
+      },
+      {
+        "verse": 8,
+        "text": "Amaho hi Gibeon khopia songpi lentah phung ahung geiyuvin Amasa jong amaho lamto dingin ahung tai. Hichun Jo’ab hi sepai vonin akivonin, akongjanga chun konggah khat hin chemjam apaiyin anakoi; amasang lama achepheiya ahiphat chun achemjam ahung kitholdoh paitan ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Hichun Jo’ab hin Amasa jah a aseiyin, “Sopi nadam dam hinai mo?” tin adongin, hiti chun Jo’ab hin Amasa chu akhut jetlamin amanin abengmul chun atuh chah jengin abeng achop tai."
+      },
+      {
+        "verse": 10,
+        "text": "Hichea hi Amasa hin Jo’ab’in akhut’a chemjam akidop lam anahet lou ahiye; hiti hin Jo’ab chun Amasa chu achemjam choiyin asat’in apumpi chu tola asat lha jenge; a vela sat kit louhel’in khatvei seh chun ama jong athidel jengin ahi. Chujouvin Jo’ab le asopipa Abi’shai chun Bichri chapa Sheba nung adelpai pai tauve."
+      },
+      {
+        "verse": 11,
+        "text": "Chule Jo’ab sepaite lah a mi khat chu Amasa long phunga aga dingin aseiye, “Koi koi hijongle Jo’ab panpia David dinga pang jouse chun Jo’ab nung jui cheh hen,” ati. "
+      },
+      {
+        "verse": 12,
+        "text": "Amasa vang chu lamlen laitah a athisan lah a akisai saiyin alumden tai. Lampia hung mitin chun amudoh tenguleh ading cheh jiuve; along phunga dingpa chun mi ahung jouse adinji ji jeh chun Amasa long chu akaimangin gamlah a apolut’in, pon akhu khumtan ahi."
+      },
+      {
+        "verse": 13,
+        "text": "Chuin Amasa chu lamlen lailunga kona akaimang phat chun mipi sepai jouse jong chu Jo’ab nung juiya Bichri chapa Sheba nung del dingin achepai pai jeng tauve."
+      },
+      {
+        "verse": 14,
+        "text": "Sheba hin Israel mite phung tin anakholsoh hel’in, Bethema’acah gama Abel changei ana jot manin ahi; hijeh chun Bichri mite jouse akikhom ‘uvin ama nung ajui soh hel’uve."
+      },
+      {
+        "verse": 15,
+        "text": "Hichun Jo’ab to pangkhom mite chu abonchan ahunguvin Bethma’acah gama Abel khoa chun Sheba aumtauve. Khopi umnan pal akaiyuvin, khopi kulpi pal chutoh kingat ton lei pal chu akikhangdoh jenge; chuin amahon khopipal chu phetjal dingin agouvin avojal pantauve."
+      },
+      {
+        "verse": 16,
+        "text": "Hichun khopi sung lama konin numei miching tah khat hin mi ahin kouvin, “Ngaiyuvin, ngaiyuvin, keiman Jo’ab chu kakihoupi theina din gin hinsei peh-uvin lang hikoma hung hen, ati hintiuvin” ahinti e."
+      },
+      {
+        "verse": 17,
+        "text": "Hijeh chun Jo’ab jong a manu henga chun ahungin ahileh, numeinu chun aseitai, “Nangma Jo’ab nahim?” atia ahileh; amanjong adonbut’in, “Kahinai,” ati. Hichun numeinun jong Jo’ab jah a aseiyin, “Nasohnu keima thusei ding ho hi ngai temin,” atia ahileh; Jo’ab jong chun adonbut’in, “Ka ngaipeh nai,” ati."
+      },
+      {
+        "verse": 18,
+        "text": "Hichun numeinun aseiyin, “Masang gol lui laiyin min hitin anasei jiuve, ‘Abel khoa mi bou kidong ding ahi,’ tin aseiyun; hiti hin ipi thu hijongle anachai jiuve."
+      },
+      {
+        "verse": 19,
+        "text": "Kei jong hi Israel mite lah a chambol mi le kitahna neitah mi kahi; nangin tun Israel te din penna khopi khat hi thagam dingin nahol’e; ibola nangman Pakai goulo athilkeo hi hitia suh mang jeng ding nati ham?” ati."
+      },
+      {
+        "verse": 20,
+        "text": "Hichun Jo’ab jong chun adonbut’in, “Keiman iti hijongleh khopi kasuh mang louhel ding ahi!"
+      },
+      {
+        "verse": 21,
+        "text": "Nasei chu adih poi. Ahin Ephraim gama thinglhang mi Bichri kitipa chapa khat amin Sheba kitipa chun David lengpa dou nan akhut alamtai; ama chu hinpedoh jenguvin, chutile keima khopia kona hi kakinungle jeng ding ahi,” ati. Chuphat’in numeinu jong chun adonbut’in, Jo’ab jah a aseitai, “Vetan, naseipa chu palvuma aluchang tansa hung kileh lha ding nakoma hung chu ding ahi,” atipeh-e."
+      },
+      {
+        "verse": 22,
+        "text": "Numeinu chu alungthima achihna bang dungjuiyin khopi sunga anung chen mipi jouse jah a agaseitai. Chuin mihon Bichri chapa Sheba chu alu atanuvin, Jo’ab henga chun agahsep lut tauve. Jo’ab chun saki pengkul amut paiyin, khopia kon chun akikhen cheh soh keiyun, mi jouse chu ama ama in cheh a achetauve. Jo’ab vang chu Jerusalema lengpa henga ahung kile kit tai."
+      },
+      {
+        "verse": 23,
+        "text": "Jo’ab kitipa hi Israel pumpi dinga gallamkai len pen sepai jouse vaipo ahin, Jehoi’ada chapa Bena’iah chu Chereth mite le Peleth mite sepai ho lamkai vaipon apangin, "
+      },
+      {
+        "verse": 24,
+        "text": " chule Ador’am kitipa chu engbolna soh natonga pang ho chunga vaipon apangin, Ahilud chapa Jehosh’aphat kitipa chu thuching lekha koiyin apangin,"
+      },
+      {
+        "verse": 25,
+        "text": "Sheva chu lekha sunin apangin, Zedok le Abi’athar thempun apang lhonin,"
+      },
+      {
+        "verse": 26,
+        "text": "chule Ja’ir mi Ira jong vang chu David din thempum anapang nai."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "David khang lai hin kum thum sungin kum kijom thel’in kel analhan, hijeh chun David jong chun iti ding ham, tin Pakai angsunga taona aneiyin adoh a ahileh, Pakaiyin ahinseiyin, “Saul chun Gibeon mite anatha jeh a Saul le ainsung mite chunga thisan so jal a themmona umjeh ahi,” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun lengpanjong Gibeon mite chu akoukhomsoh tai; Gibeon mite hi Israel chate sung peng mi ahipouvin Amor mite chia apeng athimoh ho ahibouvui; amaho hi Israel chaten tha lou dinga anasei vanguvin, Saul chun amite Israel chate leh Judah te dinga atom ngai behseh jeh-in amaho hi thagam din anahol’in ahi."
+      },
+      {
+        "verse": 3,
+        "text": "David’in hiche Gibeon mite jah a hin aseiyin, “Ipi kabolpeh diu ham? Itobang mongin longman nasempeh theiyu leng nang hon hiche Pakai goulo amite hi phatthei naboh thei dingu ham?” tin adong tai."
+      },
+      {
+        "verse": 4,
+        "text": "Hichun Gibeon miten David jah a aseiyuvin, “Keiho le Saul chule ain sung mite kah a thu hi dangka le sana a kihou chamna thei dol jong ahipon, keihon Israel mite lah a mihem khat tou kathalo diu thu jong ahideh poi,” atiuve. Chuin David chun asei kit’in, “Ahile ken nangho dinga ipipen ba kabolpeh diuva naseiyu ham?” atileh; "
+      },
+      {
+        "verse": 5,
+        "text": "Amahon jong lengpa jah a chun, “Israel gamsunga chen mun ge-mun kanei louhelna diuva keiho bahgama pang keiho suh mang dinga gopa chu,"
+      },
+      {
+        "verse": 6,
+        "text": "achapa pasal sagi neipeuvin lang, keihon jong amaho chu Gibeon khoa Pakai molsang chunga khun Pakai angsunga gakhai lih jengu vinge,” atitauve. Chuphat’in David jong chun, “Chuti ahileh amaho mi sagi chu nape nau vinge,” atipeh tai."
+      },
+      {
+        "verse": 7,
+        "text": "Lengpan Saul chapa Jonathan chapa Mephib’osheth vang chu ahing hoiye; ijeh-inem itileh amanin Pakaiya kihahselna ananei lhon ahi, David le Saul chapa Jonathanin kihahselna aneisa lhon ahi."
+      },
+      {
+        "verse": 8,
+        "text": "Chuin lengpan Ai’ah chanu Saul jinu Rizpah chapa teni Armo’ni le Mephib’osheth amanin, Saul chanu Merab chapate mi nga jong amanin, amaho hi Merab hin Meho’lath mipa Barzil’lai chapa A’dri-el kitipa chutoh ahinlhon ahi;"
+      },
+      {
+        "verse": 9,
+        "text": "David’in mi hijat sagi hi Gibeon mite khut’a apedoh tai; chuin amahon jong hiche pasal sagi chu molsang chunga Pakai angsunga akhaiyuvin, mi sagi jen chu athigam tauve. Amaho atha niu chu sakol chang-at kipat til, chang-at kipat til ni anahi."
+      },
+      {
+        "verse": 10,
+        "text": "Rizpah kitinu Ai’ah chanu hin khaodip pon akilah-in, songpi chung khat’a hin akhaodip pon chu aphan, chang-at kipat tila pat chun van lama kona chuhgo ahung lon kahsen apha pha jenge; sun jong le chunga leng vachate apon chunga chun atousah pon, jan teng jongle gamsa achunga chun alutsah deh poi."
+      },
+      {
+        "verse": 11,
+        "text": "Saul thaikemnu Ai’ah chanu Rizpah thilbol umchan hi David henga min aseipeh phat’in,"
+      },
+      {
+        "verse": 12,
+        "text": "David jong achen Saul le achapa Jonathan gu-lheng lhon chengse beh chu Ja’besh-gil’ead kho haosate henga agalai. Hiche haosa ho hin hiche gu-lheng lhon ho hi Philistine miten Gilbo’a molsanga Saul ajo chunguva, Philistine mihon Saul le Jonathan Bethshan kholai dunga akhai nauva aga guh doh-u anahi."
+      },
+      {
+        "verse": 13,
+        "text": "David chun hikoma kon hin Saul le achapa Jonathan gulheng lhon ho chu agapon, chuin mihon amani banga kikhailih jouse gubuh chengse chutoh akoithauvin, asegom tauve. "
+      },
+      {
+        "verse": 14,
+        "text": "Chujouvin mihon Saul le achapa Jonathan toh chule akikhailih jouse gubuh chengse chu achomkhom un, Benjamin gamsunga Zela khoa, Saul pa Kish lhankhuh a chun avuitauve. Miho hin lengpa thupeh bang bangin abolsoh keiyuvin ahi. Hiche nung hin Pathenin gamsung dinga mi taona angaiyin abolpeh tai."
+      },
+      {
+        "verse": 15,
+        "text": "Philistine miten Israelte dou nan gal ahinbol kit’uvin ahileh, David jong chu asepaite toh kilhonin gal akonsuh kit’in Philistine te dou nan gal agasat tauve. Hichun David jong atha achol lheh tai."
+      },
+      {
+        "verse": 16,
+        "text": "Galmuna chun Rapha galhatpa chilhah ami khat amin Ish’bi-benob kiti khat apangin, ama chu atengcha jeng jong agih dan sum-eng jeng shekel ja khat alhingin, amahin chemjam thah leh khat akonga akikon, David chu tha jeng dingin ahin go tan ahi."
+      },
+      {
+        "verse": 17,
+        "text": "Hichun Zeru’iah chapa Abi’shai chun David ahung panpin, Philistine gal-hatpa chu adel khumin athat tai. Chuphat’in David chu asepaiten ajadauvin, “Nangma tukal keiho toh gal ikonkhom louhel diu ahitai, achuti loule namoh thilo ding ahin, Israel meivah banga navah hi mit jeng thei ahi,” atitauve."
+      },
+      {
+        "verse": 18,
+        "text": "Hiche nung hin Gob muna Philistine te toh kisatna aum kittai; hichea hin Hu’shath mi Sib’becai kitipa chun Philistine gal-hat miho chilhahte lah a mi khat Saph kitipa chu athat kit’e."
+      },
+      {
+        "verse": 19,
+        "text": "Gob mun ma ma a chun Philistine te ma ma chutoh kisatna aum kit’in ahi; hichea jong hin Bethlehem khoa mi Ja’areoregim kitipa chapa Elha’nan chun Git mi Goliath athat kit’in ahi, Goliath tenglung chu tumbi tejen aphai."
+      },
+      {
+        "verse": 20,
+        "text": "Chujouvin Gath khoa gal ahungsoh kit tai; galmuna chun mi adung sang tah khat anaumin, akhut phang lang khat cheh a chun akhutjung gup gup akeh-e; chule akengphang lang khat gel a jong akhojung gup cheh akeh-in, abonchan akhojung le akhutjung som nile li alhinge; amajong hi galhat mihangte chilhah khatma ahiye. "
+      },
+      {
+        "verse": 21,
+        "text": "Amahin Israelte adaithang phat’in David golpa Shim’e-i chapa Jonathan chun athat tai."
+      },
+      {
+        "verse": 22,
+        "text": "Mi hicheng li hi Gath khoa gal-hang mihatte son le chilhah cheh ahiuve; ahin abon chauvin David le asepaite khutluma alousoh hel’uve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Pakaiyin amelmate jousea kon leh Saul khut’a kona ana huhhing jal a David in anoiya kisei la hi Pakai henga anasah ahin,"
+      },
+      {
+        "verse": 2,
+        "text": "@@hitin aseiye, @1“Pakai chu keima dingin @2Kasongpi le kakulpi chule @2eihuhhingpa ahin,"
+      },
+      {
+        "verse": 3,
+        "text": "@@@1Kakiselna @2Ka-Pathen le kasongpi ahi; @1Kapho le eihuhhinga kasakia pang, @2Kakulpi pal le kakiselna nahin, @1Eihuhhingpa nahin, @2Pumhat’a kinona lah a jong nei @3huhdoh jie."
+      },
+      {
+        "verse": 4,
+        "text": "@@@1Vahchoi lomtah Pakai henga katao @3jin, @2Kamelma tea konin huhhing @3kachangtai."
+      },
+      {
+        "verse": 5,
+        "text": "@@@1“Ajeh chu thina luipin eilon khomtan, @2Manthahna hoh lam jousen eilon @3khum tai;"
+      },
+      {
+        "verse": 6,
+        "text": "@@@1Noimigam khaoguiyin eihen tan, @2Kamasanga thina ding thang @3aki-kam e."
+      },
+      {
+        "verse": 7,
+        "text": "@@@1“Kagenthei pet’in Pakai henga kataove. @2Ka-Pathen henga chun kataovin ahi. @1Pathen houina Aman kataona asangjin, @2Hichea chun anabenga kataona alut @3jie."
+      },
+      {
+        "verse": 8,
+        "text": "@@@1“Hichun leiset akinuh nuh jin @2Ling akihot tan ahi; @1Van todop khompi jouse jong @2Akiling soh hel jenge; @1Pathen alung han jeh chun @2Ling akihot jengin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "@@@1Anah homsung te nia konin meikhu @3ahung kitungdoh-in, @2Akamsunga konin mi bahgam thei @3mei akonge; @1Mei-al deuje jun @2Pathena konin ahung kitungdoh jenge. "
+      },
+      {
+        "verse": 10,
+        "text": "@1Aman van mun jouse asonkun jengin @3ahung kum lhai, @1Akengto noiya muthim lhangkhal @2akiheh jenge."
+      },
+      {
+        "verse": 11,
+        "text": "@@@1Pathen Cherub chunga atouvin alenge, @2Huipia akijap’a alen akimui."
+      },
+      {
+        "verse": 12,
+        "text": "@@@1Aman akimvela muthim lhangkhal @3akihehsah jin, @2Aloupina meilhang thuh tah twipin @3akikhange. "
+      },
+      {
+        "verse": 13,
+        "text": "@@@1A-angsung vahchan thethu lah a konin @2Meikong amleng lung ahung @3lengdoh dohjie."
+      },
+      {
+        "verse": 14,
+        "text": "@@@1Pakaiyin van a konin van akithinsah @3jin, @2Hat chungnungpen chun o-thongin @3thu aseiye."
+      },
+      {
+        "verse": 15,
+        "text": "@@@1Aman thalpi ahinkap doh doh jin @3athecheh jie. @2Kol aphen akithejal lah lah jenge."
+      },
+      {
+        "verse": 16,
+        "text": "@@@1Chutengle twikhanglen togei geiyin @2akimudoh jin, @2Vannoi bulpi khom jouse jong @3akimudoh soh jie; @1Pakaiyin ahinpho jia, @2Anah homsunga ahu alha teng chutin @3aume. "
+      },
+      {
+        "verse": 17,
+        "text": "@@@1Chung sanga konin aman eihin tuh @3jin, @2Twipi kinong lah a konin eiladoh @3jie;"
+      },
+      {
+        "verse": 18,
+        "text": "@@@1Kamelma hattah pa a konin eihuhdoh @3jin, @2Eihotboltea konin eihuhdoh jie; @1Ijeh-inem itia ahileh @2Hitobang miho hi kei din ahatval @3jiuve."
+      },
+      {
+        "verse": 19,
+        "text": "@@@1Kanamsetni leh amaho hin eihin delvuh @3jeng jiuvin, @1Hijongleh Pakai hi keima panmun @3ahijing nai."
+      },
+      {
+        "verse": 20,
+        "text": "@@@1Pakaiyin keima munlen tah a eipuidoh @3jin, @2Eikipapi jeh-in eihuhdoh jin ahi."
+      },
+      {
+        "verse": 21,
+        "text": "@@@1“Adih a kachon jeh-in Pakaiyin @3kipaman eipen, @2Kakhut tenin thildih jeng aboljeh-in @3kipaman eipei."
+      },
+      {
+        "verse": 22,
+        "text": "@@@1Ajeh chu keiman Pakai lamlhah jouse @3kajui jingin, @1Agilou bolin ka-Pathen chu @3kajamsan khapoi."
+      },
+      {
+        "verse": 23,
+        "text": "@@@1Ijeh-inem itileh ama chonna dan jouse @3chu @2Kamaiya akilang jing jengin, @1Hijeh chun ama chondan jousea jong @2Keima kavah mang hih hel’e."
+      },
+      {
+        "verse": 24,
+        "text": "@@@1Ama angsunga keima nolnabei kahin, @2Themmona dinga kakihongdoh jing @3jenge."
+      },
+      {
+        "verse": 25,
+        "text": "@@@1Hijeh chun keima dihna jeh hin @2Pakaiyin kipaman eipen, @1Amitmua kathensel jeh hin, @2Pakaiyin kipaman eipei."
+      },
+      {
+        "verse": 26,
+        "text": "@@@1“Mi kitah chutoh nang jong nakitah @3ding, @1Nolnabei mi chutoh nolnabei nahi @2ding ahi."
+      },
+      {
+        "verse": 27,
+        "text": "@@@1Milung theng chutoh nalung theng @3ding, @2Milungkon chutoh nalung kon jeng @3ding ahi."
+      },
+      {
+        "verse": 28,
+        "text": "@@@1Nangman mi kineosahte chu nahuhdoh @3jin, @2Mi kiletsah te vang chu loilhah din @3navejinge."
+      },
+      {
+        "verse": 29,
+        "text": "@@@1Ahi, nangma hi vo Pakai kei din @3kathaomei nahin, @2Ka-Pathen nangin kei dia muthim @3jouse nasalvah-e."
+      },
+      {
+        "verse": 30,
+        "text": "@@@1Nang jal a keiman sepai hon khat jong @3kasuh gam ding, @2Ka-Pathen vanga palvum jong @3kachop khup ding ahi."
+      },
+      {
+        "verse": 31,
+        "text": "@@@1Hiche Pathen hi alamlhah achamkim @3kimsoh keiyin, @2Pakaiyin mi athutep jong agui lhung @3jie; @1Ama koma kiselte dingin @2Ama hi ompho ahijenge."
+      },
+      {
+        "verse": 32,
+        "text": "@@@1Ijeh-inem itileh Pathen kiti chu koi @3dang ham? @2Pakai kiti chu ahin; @1Songpi kiti chu koipen ham? @2I-Pathenu amabou chu ahiye."
+      },
+      {
+        "verse": 33,
+        "text": "@@@1Hiche Pathen hi keima kiselna det @3tah ahin, @2Kalamlhah jouse jong phatah-in @3eisempeh tai."
+      },
+      {
+        "verse": 34,
+        "text": "@@@1Pathenin kakengphang teni jong @3sajuhpi keng abahsah-in, @2Gamken lah a jong det tah-in @3eidinsah-e."
+      },
+      {
+        "verse": 35,
+        "text": "@@@1Kakhut teni jong galsatje ahil themin, @2Hijeh chun kabanjang te nin @3sumeng thalpi aheh konjin ahi."
+      },
+      {
+        "verse": 36,
+        "text": "@@@1Nangman namihuhhingna ompho @3neipen, @2Nagalvon chun keima eikhu khum @3jinge."
+      },
+      {
+        "verse": 37,
+        "text": "@@@1Kanoiya kapansatna ding mun lentah @3neihoipeh-in, @2Hijeh chun kakengto teni kalhonal @3tapoi."
+      },
+      {
+        "verse": 38,
+        "text": "@@@1Kamelmate nung kadel jin kasugam @3jie; @2Aboncha kasuh gamhel masangin @3kahung kileji poi."
+      },
+      {
+        "verse": 39,
+        "text": "@@@1Abonchauvin kasat chap hel jin athou @3tapouve, @2Alhuuvin kakengto noiya akijamsoh @3tauvin ahi."
+      },
+      {
+        "verse": 40,
+        "text": "@@@1Ajeh chu nangin galsat din tha neipen, @2Eidel khumpa chu kanoiya @3nalupsah tai."
+      },
+      {
+        "verse": 41,
+        "text": "@@@1Kamasanga kamelmate najamsah sah @3jin, @2Eihotbolte chu keiman kasugam ji @3tai."
+      },
+      {
+        "verse": 42,
+        "text": "@@@1Apen pen vanguvin ahuhhing diu @3aumpon, @2Pakai henga atao vangun aman @3adonbut deh poi."
+      },
+      {
+        "verse": 43,
+        "text": "@@@1Keiman kholai dunga leivui bangin @3kachilngem ngemin, @2Kholai dunga bonlhoh bangin @3kachotphan kachilgoiye."
+      },
+      {
+        "verse": 44,
+        "text": "@@@1“Gal eibol khum mitea konin @3neihuhdoh chun, @2Namtin vaipi chunga alenpenin @3neisemin, @1Kahet khah louhel miten jong @3Keima kin aboltauve."
+      },
+      {
+        "verse": 45,
+        "text": "@@@1Gamdang mite jong kineosah tah-in @3kahenga ahungun, @2Kathusei ajah jah uleh kathun anung @3jiuve."
+      },
+      {
+        "verse": 46,
+        "text": "@@@1Gamdang mite chu alung lhasop jiuvin, @2Agal kul’uva konin kithing thingin @3ahung potdoh ji tauve."
+      },
+      {
+        "verse": 47,
+        "text": "@@@1“Pakai hing jing pa, @2Nun nom hen kasongpi chu; @1Choi-at’in um hen ka-Pathen, @2Eihuhhingna songpi chu."
+      },
+      {
+        "verse": 48,
+        "text": "@@@1Phu eilahsah Pathen chu, @2Mitin kanoiya chesah a sonkun jenga; "
+      },
+      {
+        "verse": 49,
+        "text": "@@@1Kamelmate lah a jenga jong eihuhdoh @3jia, @2Nangin kakidoupite chunga neichoi @3sangjie; @1Pumhat jenga mi note lah a konin jong @2Nangman neihuhdoh jing jin ahi. "
+      },
+      {
+        "verse": 50,
+        "text": "@@@1“Hichejeh hin vo Pakai, namtin lah @3a navahchoi yinge, @2Chule namin vahchoila sange."
+      },
+      {
+        "verse": 51,
+        "text": "@@@1Lenga atun keima hi avel velin @3eihuhhingin, @2Thao anusa kei hi long louvin @3eingailui; @1David le kachilhah te din @2Atonsot atonsot geiya dingin,” ati."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "@@Anoiya ho hi David in achaina lama anasei thu kiseiho chu ahitai: @1Jesse chapa David in thusoh ding asei, @2Choisanga umpan thusoh ding asei @3chu; @1Jacob Pathen thao nusa, @2Israel lah a lathempenpa chu."
+      },
+      {
+        "verse": 2,
+        "text": "@@@1“Pakai Lhagaovin keiya konin thu @3aseiyin, @1Kakamsunga um hi ama thu @2ahibouve."
+      },
+      {
+        "verse": 3,
+        "text": "@@@1Israel Pathenin thu aseiyin, @2Israel songpi chun kajah a thu aseitai; @1Thudih a vaihompa chun @2Pathen ginna avai ahom ahi."
+      },
+      {
+        "verse": 4,
+        "text": "@@@1Ama chu achunguva jingkah khovah @3bangin ahung vah jin, @2Mei kailou nia jingkah a ninou hung @3soh abange; @1Leiset chunga hamhing loudong @3phatthei sah @2Gotwi hung ju-lha tobang ahi."
+      },
+      {
+        "verse": 5,
+        "text": "@@@1Hitobanga hi keima in jong Pathena @3kisa dettah hi lou ham? @2Ijeh-inem itileh Pathenin @1Atonsot geiya dingin kitepna eisempin, @2Thil ijakai hi adanchan aumsah soh @3keiye. @1Ajeh chu Pathen chun @2Kei deichat jouse le eipanpi thei @3jouse akhansah lou ding ham?"
+      },
+      {
+        "verse": 6,
+        "text": "@@@1Pathen hephaloute vang chu @2Lingle khao kipai mangsa tobang hi @3ding, @1Ijeh-inem itileh amaho hi khut’a @2Kichomkhom kit thei louhel ding @3ahiuve."
+      },
+      {
+        "verse": 7,
+        "text": "@@@1Hitobang miho thamkha dingjong chun @2Thih le tenglung akipat ding ahin, @1Abonchauva hi beihela @2Meiya kigouvam hel ding ahiuve,’ @3ati."
+      },
+      {
+        "verse": 8,
+        "text": "David sepaite lah a gal-hat mite chu aminu hicheng hi ahiuve: Josheb-basshe’beth kitipa chu Tah-che’mon mi ahin, amahi mi thum lah a alamkai ahi; ama hin mi jaget jen tengchan akisat pin, abonchan khatveiyin athatgam hel in ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Ama ban a mihat mi thum ho lah a khat kitpa chu Aho’hi chapa, Dodo chapa Elea’zar ahi; ama hi Philistine te galbol dia ahung kikhop’u chun David toh anapang khomin, chuin Israelte chu Philistine te masanga akinungtol tauve."
+      },
+      {
+        "verse": 10,
+        "text": "EJea’zar hi akipanin abantha acholdeh kahsen Philistine te asat chap chap jengin, akhut jeng jong chu achemjam chutoh thisanin akanchah jengin ahi; hiche nikho jong chun Pakaiyin Israelte minthang tah-in gal ajosah tai; Elea’zar nunga chun sepaite thilong chom khom mai maiyin ahung kitol’uve."
+      },
+      {
+        "verse": 11,
+        "text": "Elea’zar ban a chu Shammah ahin, ama hi Harar mi Agee chapa ahiye. Lehi khoa chun Philistine te galbol din ahung kikhomuvin ahileh, akikhop nau tollhang dunga chun louthul adimset’in akeh-e; Israelte chu Philistine te gin nan ajamtauve."
+      },
+      {
+        "verse": 12,
+        "text": "Ahivangin Shammah hi det tah-in apangin, louthul lei laiya chun apange, hiti hin hahuh-in ahuh jengin, Philistine te chu a that that jengin ahileh; Pakaiyin jong minthang tah-in gal ajosah tai."
+      },
+      {
+        "verse": 13,
+        "text": "Haosa mi som thum lah ami thum chu achesuh uvin, chang-at phat don hin Adullam songko phunga chun David henga ahunguva ahileh, Rephaim phaiya chun Philistine sepai hon khat’in ngahmun anasemuve. "
+      },
+      {
+        "verse": 14,
+        "text": "Hichepet hin David chu kulpi sunga anapange; chujongle Philistine mite sepaiho chu Bethlehem khopia ana pansauvin ahi."
+      },
+      {
+        "verse": 15,
+        "text": "Dangchah geovin David chun aseiyin, “Ohe, mihem khat beh-in Bethlehem khopi kulpi kelkot phunga twikula konin twi eihin dop peh hen lang don din eihung petave leh !” ati."
+      },
+      {
+        "verse": 16,
+        "text": "Hichun hiche mihat mi thum ho hin Philistine te ngahmun lailung atumkeh jenguvin Bethlehem khopi kulpi kelkot phunga twikula twi chu agathal’uvin, David henga ahindop peh tauve. Ahin David chun donjo talouvin atwi chu Pakai lhai nan tola asung lhan,"
+      },
+      {
+        "verse": 17,
+        "text": "chule aseitai, “Vo Pakai, keiman hiche twi hi don hih hel inge. Iti ahinkho phal ngam hel a hiche twi thala che ho thisan tobang hiche hi keiman kadon ding ham?” ati. Hichejeh chun David in twi chu adontapoi. Thil hijatpi hi hiche mihat mithum ho chun anabolu ahi."
+      },
+      {
+        "verse": 18,
+        "text": "Jo’ab sopipa, Zeru’iah chapa Abi’shai chu mihat som thum lah a lamkaiya anapang ahi. Ama hin mihem jathum jen chu atengcha akipat’in akisat pin athat gam hel’in, mi thum ho tilouvin aminthang penin apang tai."
+      },
+      {
+        "verse": 19,
+        "text": "Mihat som thum lah ajong ama hi aminthang pen tah a pang ahi. Hijeh chun ama hi amaho gal lamkaiyin jong apange; ahivangin mihat thum ho vang chu aphajou deh poi."
+      },
+      {
+        "verse": 20,
+        "text": "Kabzeel khoa mi Jehoi’ada chapa Bena’iah kitipa jong chu gal-bang tah mi ahin, thil nasa tah tah boldoh jeng thei ahi; ama hin Moab mi sakei tobang ni athat’in, chujouvin nikhat hi buhbang lhah nin achesuh-in kokhuh sung khat’a sakei bahkai khat agathat kit’e."
+      },
+      {
+        "verse": 21,
+        "text": "Bena’iah hin Egypt mi pasal tha phatah khat mel-hoi tah khat jong athat’e. Egypt mipa chun akhut’a tengcha khat akichoi ahin, Bena’iah chun tenggol khat akichoiyin ajonsuh jengin, Egypt mipa khut’a konin atengcha chu asalhah peh-in, ama tengcha ma man ama chu athat tai."
+      },
+      {
+        "verse": 22,
+        "text": "Jehoi’ada chapa Bena’iah chun thil hijat hi anabolin, mihat mithum lah a chun aman jong minthanna akimui."
+      },
+      {
+        "verse": 23,
+        "text": "Ama jong hi mihat somthum lah a aminthang lheh nan, ahivangin mihat mithum vang chu apha jou deh pon ahi. David in amapa hi ama tahsa vengtup din apansah tai."
+      },
+      {
+        "verse": 24,
+        "text": "Mihat somthum lah a chun Jo’ab sopipa As’ahel jong khat ana hi. Elha’nan ahin, ama hi Bethlehem khoa mi Dodo chapa ahi;"
+      },
+      {
+        "verse": 25,
+        "text": "Harod khoa mi Shammah ahin, Harod khoa mi ma ma Eli’ka ahin,"
+      },
+      {
+        "verse": 26,
+        "text": "Paltite khoa mi Helez ahin, Tekoa khoa mi Ikkesh chapa Ira ahin,"
+      },
+      {
+        "verse": 27,
+        "text": "An’athoth khoa mi Abi-e’zer ahin, Hush khoa mi Mebun’nai ahin,"
+      },
+      {
+        "verse": 28,
+        "text": "Ahoh khoa mi Zalmon ahin, Netophah khoa mi Ma’harai ahin,"
+      },
+      {
+        "verse": 29,
+        "text": "Netophah khoa mi Heleb chapa Ba’unah ahin, Benjamin mite lah Gib’e-ah khoa mi Ribai chapa lt’tai ahin,"
+      },
+      {
+        "verse": 30,
+        "text": "Pirathon khoa mi Bena’iah ahin, Ga’ush luidung lama kona hung Hiddai ahin,"
+      },
+      {
+        "verse": 31,
+        "text": "Arbath khoa kona mi Abiabon ahin, Bahu’rim khoa mi Az’maveth ahin,"
+      },
+      {
+        "verse": 32,
+        "text": "Sha’ulbon khoa mi Eli’ahba ahin, Jashen le Jonathan chapa te ahiuvin,"
+      },
+      {
+        "verse": 33,
+        "text": "Harar khoa mi Shammah ahin, Harar khoa mi Sharar chapa Ahi’am ahin,"
+      },
+      {
+        "verse": 34,
+        "text": "Ma’acah khoa mi Ahas’bai chapa Eliph’elet ahin, Gilo khoa mi Ahith’ophel chapa Eli’am ahin,"
+      },
+      {
+        "verse": 35,
+        "text": "Carmel khoa mi Hezro ahin, Arb khoa mi Pa’arai ahin"
+      },
+      {
+        "verse": 36,
+        "text": "Zobah khoa mi Nathan chapa Igal ahin Gad mi Bani ahin,"
+      },
+      {
+        "verse": 37,
+        "text": "Ammon mi Zelek ahin, Be-eroth khoa mi Na’aharai ahin, Zeru’iah chapa Jo’ab galvonpoa pang pa ahin,"
+      },
+      {
+        "verse": 38,
+        "text": "Ithir khoa mi Ira ahin, Ithir kho ma ma u mi Garb ahin,"
+      },
+      {
+        "verse": 39,
+        "text": "Hit mi Uri’ah ahin, abonchauvin somthum le sagi alhinguve."
+      }
+    ],
+    [
+      {
+        "verse": 1,
+        "text": "Israel chunga Pakai ahung lung hang jah kit tan, hijeh chun aman David chu atildoh pai paiyin amaho dou nan, hitin aseiye, ‘“Nangma chen lang Israel le Judah mite gasim tan,” ati."
+      },
+      {
+        "verse": 2,
+        "text": "Hijeh chun lengpan Jo’ab le apanpi sepai lamkaiho jah a aseiyin, “Dan a pat Beersheba chan geiya cheng Israel phung jouse gakholsoh keiyun lang mijat ijat mong hitam, ti kahetdoh theina dingin mihem jat gasim tauvin,” ati."
+      },
+      {
+        "verse": 3,
+        "text": "Ahivangin Jo’ab chun lengpa jah a aseiyin, “Pakai na-Pathenin mipi chu ajat jan aja jan punsah jeng tah ta, kapu lengpan namit’a namu jing nah chu men; ipi dinga kapu lengpan hitobanga thilse bol jeng ding hi tha nopna tah a nagel ham?” ati."
+      },
+      {
+        "verse": 4,
+        "text": "Ahinla lengpa thusei chun Jo’ab le sepai lamkaiho chu ajoujo tan, hijeh chun Jo’ab le sepai lamkaite chu Israel mipi simtoh din gin lengpa angsunga konin apotdoh tauve."
+      },
+      {
+        "verse": 5,
+        "text": "Amaho hin Jordan vadung apal galkaiyun, phaicham lailunga khopi, Aro’er khopia konin asimpan’uvin, Gad lam ajonun Jazer langa acheuve."
+      },
+      {
+        "verse": 6,
+        "text": "Chujouvin Hit mite gamsunga Gilead kho le Kadesh khopi ahung gei tauve; chuin Dan khopia ahunguvin, Dan khopia konin Sidon kol alhah kit’uvin,"
+      },
+      {
+        "verse": 7,
+        "text": "Tyre gammang lah ahinjot’uvin Hivi mite khopi jouse le Canaan mite khopi jousea ahunguvin ahi. Chuin Beersheba khopi Judah gamsunga Negeb a chun angauve. "
+      },
+      {
+        "verse": 8,
+        "text": "Hitia hi gamsung pumpi akholsoh kei phat’uvin, lha ko le ni som ni alhin donin Jerusalem khopi ahung lhung tauvin ahi."
+      },
+      {
+        "verse": 9,
+        "text": "Chuin Jo’ab chun mihem jat asim nau mijat chu lengpa henga apelut tai; hichea kisimdoh Israel mijat chu pasal galsat thei chemjam lamthei cheh sang jaget alhingin, Judah mi chu sang ja nga alhinguve."
+      },
+      {
+        "verse": 10,
+        "text": "Mipi asimsoh phat’in David chu alungthim akisih behseh jengin, hijeh chun David in jong Pakai henga taona aneiyin aseitai, ‘“Kathilbol chung changa hin keima melse tah-in kachonsetai; hijongle tuhin vo Pakai, nahenga kahung taove, nasohpa keima themmona jouse hi la mangtan; ajeh chu keiman ngol hoitah hin thil kanaboltai,” ati."
+      },
+      {
+        "verse": 11,
+        "text": "Ajing jingkah a David chu ajingthoa ahileh, David dia mitvaneiya pangpa Gad themgao henga chun Pakaiyin hitin thu ahinseiye,"
+      },
+      {
+        "verse": 12,
+        "text": "“Chen lang David jah a gaseitan, ‘Pakaiyin hi tin aseiye, “Keiman nachunga katoh ding thil thum kapeh kah nahin, hicheng lah a hin na-ngachat pen khat kilhenin, nachunga kahin lhunsah ding ahi,” tin aseiye,’ gatin,” ati."
+      },
+      {
+        "verse": 13,
+        "text": "Hijeh chun Gad jong ahungin David jah a ahung seipeh-in ajah a hiti hin aseitai, “Nagamsunga kumthum sunga kel lhah ding nanop am? Lha thum sunga nagalte masanga najamle lea amahon nadel le le diu nadei yam? Ahiloule nagamsunga nithum sunga gamna hise lansah ding nanop am? Tun geldoh soh keiyin lang eihinsolpa henga kaseipeh ding chu hoiche pen ham, dindetna neiyin,” ati."
+      },
+      {
+        "verse": 14,
+        "text": "Chuphat’in David chun Gad jah a aseiyin, “Kalung agenthei behseh jeng tai; amikhotona lentah ahinai, hijeh chun Pakai khut’a kileh lut jeng taute; mihem khut’a vang neilhah lut sah hih hel’in,” atipeh-e."
+      },
+      {
+        "verse": 15,
+        "text": "Hijeh chun Pakaiyin Israelte chunga jingkah a pat aphat kitep sungsen gamna hise ahin lansah tai; hichea hin Dan khoa pat Beer-sheba chan geiyin Israel mipi lah a mihem sang som sagi athiuvin ahi."
+      },
+      {
+        "verse": 16,
+        "text": "Vantil chun Jerusalem jong suhgam dinga agot’a akhut alap phat chun Pakaiyin thilse abol ding chu alung akhel’in, Vantil mi sugama pangpa jah a chun aseitai, “Aphaset tai, tun nakhut tuh tang tan,” ati. Hichepet’a hi Pakai Vantil chu Jebus mipa Arau’nah changphol koma anading ahitai."
+      },
+      {
+        "verse": 17,
+        "text": "David jong chun mi sugama pang Vantil chu amudoh phat’in Pakai jah a aseiyin hitin ati, “Vetan, keima kachonsen, gilou tah-in keiman thil kaboltai; ahinla hiche kelngoi tobang miho hin ipi abolset mongu ham? Nahenga katao ahiye, keima chungle ka inkote chunga nakhut hin lhah jon,” tin aseitai."
+      },
+      {
+        "verse": 18,
+        "text": "Hiche nikho hin Gad chu David henga ahungin ajah a aseitai, “Chetouvin lang Jebus mipa Arau’nah changphol koma khun Pakai dingin maicham khat gasemtan,” ati. "
+      },
+      {
+        "verse": 19,
+        "text": "Pakaiyin Gad thu apeh bangin David jong achetou tan ahi."
+      },
+      {
+        "verse": 20,
+        "text": "Arau’nah chu akiheisuh a agahvet a ahileh lengpa le asohte ama heng lam jon a ahungu amui; chuphat’in Arau’nah jong chu apotdoh pai paiyin lengpa chu agajabol’in tola amai asulut’in ahi."
+      },
+      {
+        "verse": 21,
+        "text": "Chujongle Arau’nah chun aseiyin, “Ipi ding pen tah a kapu lengpa nangma nasoh kei koma nahung jeng hi tam?” atileh; David chun adonbut’in, “Mipi chunga gamna hise hi akitol mang theina dinga nangma changphol hi chohdoh a hikoma hi Pakai henga maicham khat semdoh ding kati ahi,” ati."
+      },
+      {
+        "verse": 22,
+        "text": "Hichun Arau’nah jongchun aseiyin, “Kilahjengin kapu lengpa, chule nangin pha nasah lam lam chu bol jeng tan; bongchal teni jong hikoma aumin, pumgo thiltoa naman ding ahi, chule changhuina kangkui ho leh bongchal teni namkol jong aum nai, hiche ho hi meithinga nati ding ahi."
+      },
+      {
+        "verse": 23,
+        "text": "Vo lengpa, keima Arau’nah kitipa hin lengpa dinga hijat hi katodoh jeng ahitai,” ati. Chujongle Arau’nah chun lengpa jah a aseitai, “Pakai na-Pathenin nasanpeh tei tei hen,” ati."
+      },
+      {
+        "verse": 24,
+        "text": "Ahivangin lengpan Arau’nah jah a aseiyin, “Ahipoi, keiman aman napeng ting kachoh ding ahibouve; aman kapeh louhel thil chu keiman Pakai ka-Pathen henga pumgo thiltoa kato lou ding ahi,” ati. Hiti hin David chun changphol le bongchal teni chu dangka shekel som ngan akichoh tai."
+      },
+      {
+        "verse": 25,
+        "text": "Chuin David chun Pakai henga maicham khat asemin, pumgo thilto le chamna kilhaina thilto atoh tai; hichun Pakaiyin jong gamsung dinga mi taona asanpeh-in, Israelte chunga konin gamna hise lang chu akitol mang tan ahi."
+      }
+    ]
+  ]
+}
